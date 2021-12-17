@@ -1,0 +1,964 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Artificial Intelligence | Computer Science | UIUC</title>
+		<link rel="shortcut icon" type="image/x-icon" href="//ws.engr.illinois.edu/images/favicon.ico">
+
+		<meta name="description" content="Artificial Intelligence">
+		<meta name="author" content="Grainger Engineering Office of Marketing and Communications">
+
+		<!-- meta tags for mobile devices -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">  
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+				<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="26be7d61-2017-4ea7-8a8b-8f1704889763"></script>
+		<script type="text/javascript"> function OptanonWrapper() { } </script>
+
+		<meta property="og:type" content="article" />
+<meta property="og:title" content="Artificial Intelligence" />
+<meta property="og:description" content="Artificial Intelligence" />
+<meta property="og:url" content="https://cs.illinois.edu/research/areas/artificial-intelligence" />
+<meta property="og:image" content="https://ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=12050" />
+
+
+		<!-- fonts -->
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i,900,900i%7cBarlow+Condensed%7cPlayfair+Display%7cMontserrat:400,500,600,700,800%7cFjalla+One%7cLexend+Exa%7cMontserrat+Alternates:400,700">
+		<script src="https://kit.fontawesome.com/64a62210ef.js"></script>
+
+		<!-- stylesheets -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.5/css/responsive.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://ws.engr.illinois.edu/sitemanager/gensite.css?v=2.671.281">
+		<link rel="stylesheet" type="text/css" href="/css/styles.css?v=0.19">
+
+				<!-- Global site tag (gtag.js) - Google Ads: 1011414001 -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1011414001"></script>
+		<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-1011414001'); </script> 
+		<!-- Event snippet for Outbound Google Ads click conversions -->
+		<script> function gtag_report_conversion(url) {var callback = function () {if (typeof(url) != 'undefined') {window.location = url;}};gtag('event', 'conversion', {'send_to': 'AW-1011414001/YNxnCM-1kfMBEPHno-ID','event_callback': callback});return false;} </script>
+		<style> #hero::before { background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=12156&s=1600) !important; } </style>
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	</head>
+
+	<body class="site prod research areas artificial-intelligence  isattop theme_dagobah" data-sidebar="" data-sidebarskip="[sidebarskip]" data-sidebarinclude="[sidebarinclude]">
+		<div id="page">
+			
+			<header>
+				<div id="skiptocontent"><a href="#content">skip to main content</a></div>
+
+				<div class="container-fluid campus">
+					<div class="row mx-auto maxwidth1140">
+						<div class="col p-0">
+							<a href="http://illinois.edu/"><span>University of Illinois Urbana-Champaign</span></a>
+						</div>
+						<div id="featurelinks" class="col p-0 text-right">
+							<ul>
+	<li><a href="/alumni">Alumni</a></li>
+	<li><a href="/corporate">Corporate</a></li>
+       <li><a href="/about/people">People</a></li>
+	<li><a href="https://my.cs.illinois.edu">My.CS</a></li>
+</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="container-fluid site">
+					<div class="row wordmark d-flex flex-nowrap align-items-center">
+						<div class="d-flex flex-fill pr-3">
+							<div class="blocki"><a href="https://illinois.edu">University of Illinois at Urbana-Champaign</a></div>
+							<div class="site_identification">
+								<div class="parent_name"><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a></div>
+								<div class="site_name"><a href="/"><span>Computer Science</span></a></div>
+							</div>
+						</div>
+
+						<div class="d-flex align-items-center">
+							<div id="header-search-container" class="d-none d-lg-block site-search">
+								<form class="form-inline" method="get" action="/search" id="search-form">
+									<div class="input-group">
+										<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="header-search-go-button">
+										<div class="input-group-append">
+											<a href="/search" onclick="$('#header-search-container form').submit(); return false;" class="input-group-text" id="header-search-go-button"><i class="far fa-search"></i><span class="sr-only">Search</span></a>
+										</div>
+									</div>
+								</form>	
+							</div>
+
+							<div id="mainnav-toggler-container">
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainnav" aria-controls="mainnav" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="icon"></span> <span class="label sr-only">Menu</span>
+								</button>
+							</div>
+						</div>
+					</div>
+					<nav class="navbar navbar-expand-lg p-0">
+<div class="collapse navbar-collapse" id="mainnav">
+<form class="d-block d-lg-none" method="get" action="/search" id="mobile-search-form">
+<div class="form-row p-3">
+<div class="col">
+<div class="input-group">
+<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="mobile-search-go-button">
+<div class="input-group-append">
+<a href="/search" onclick="$('#mobile-search-form').submit(); return false;" class="input-group-text" id="mobile-search-go-button"><i class="far fa-search" aria-hidden="true"></i><span class="sr-only">Search</span></a>
+</div>
+</div>
+</div>
+</div>
+</form>
+<ul class="navbar-nav w-100">
+<li class="dropdown mega twocol nav-item">
+<a href="/about" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>About</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-about">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/about">About</a></h2>
+<ul class="about ">
+<li><a href="/about/cs-cares">CS CARES Committee</a></li>
+<li><a href="/about/values">Values & Code of Conduct</a></li>
+<li><a href="/about/statistics">Rankings & Statistics</a></li>
+<li><a href="/about/contact-us">Contact Us & Directions</a></li>
+<li class="dropdown"><a href="/about/people">People</a><ul class="people ">
+<li><a href="/about/people/all-faculty">All Faculty</a></li>
+<li><a href="/about/people/department-faculty">Department Faculty</a></li>
+<li><a href="/about/people/affiliate-faculty">Affiliate Faculty</a></li>
+<li><a href="/about/people/adjunct-faculty">Adjunct Faculty</a></li>
+<li><a href="/about/people/postdocs">Postdocs</a></li>
+<li><a href="/about/people/emeritus-faculty">Emeritus Faculty</a></li>
+<li class="dropdown"><a href="/about/people/staff">Staff</a><ul class="staff ">
+<li><a href="/about/people/staff/office-department-head">Office of the Department Head</a></li>
+<li><a href="/about/people/staff/communications-engagement-team">Communications &amp; Engagement Team</a></li>
+<li><a href="/about/people/staff/undergraduate-advising-office">Undergraduate Advising Office</a></li>
+<li><a href="/about/people/staff/graduate-advising-office">Graduate Advising Office</a></li>
+<li><a href="/about/people/staff/instructional-development-team">Instructional Development Team</a></li>
+<li><a href="/about/people/staff/business-office">Business Office</a></li>
+<li><a href="/about/people/staff/faculty-support-contacts">Faculty Support Contacts</a></li>
+<li><a href="/about/people/staff/facilities-shipping-and-receiving">Facilities, Shipping and Receiving</a></li>
+</ul>
+</li>
+<li><a href="/about/people/graduating-phd-students">Graduating PhD Students</a></li>
+<li><a href="/about/people/recent-phd-alumni">Recent PhD Alumni</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/positions">Open Positions</a><ul class="positions ">
+<li><a href="/about/positions/faculty-positions">Faculty Positions</a></li>
+<li><a href="/about/positions/postdoctoral">Postdoctoral Positions</a></li>
+<li><a href="/about/positions/staff-positions">Staff Positions</a></li>
+<li><a href="/about/positions/choose-illinois-computer-science">Choose Illinois Computer Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/calendar">Calendar</a><ul class="calendar ">
+<li><a href="/about/calendar/all">All Events</a></li>
+<li><a href="/about/calendar/corporate">Corporate Events</a></li>
+<li><a href="/about/calendar/department">Department Events</a></li>
+<li><a href="/about/calendar/graduate">Graduate Events</a></li>
+<li><a href="/about/calendar/outreach">Outreach Events</a></li>
+<li><a href="/about/calendar/speakers">Speakers</a></li>
+<li><a href="/about/calendar/student-groups">Student Group Events</a></li>
+<li><a href="/about/calendar/undergraduate">Undergraduate Events</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards">Awards</a><ul class="awards ">
+<li><a href="/about/awards/celebration">Celebration of Excellence</a></li>
+<li class="dropdown"><a href="/about/awards/faculty-awards">Faculty Awards</a><ul class="faculty-awards ">
+<li><a href="/about/awards/faculty-awards/chairs-and-professorships">Chairs and Professorships</a></li>
+<li><a href="/about/awards/faculty-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/faculty-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards/undergraduate-scholarships-awards">Undergraduate Scholarships &amp; Awards</a><ul class="undergraduate-scholarships-awards ">
+<li><a href="/about/awards/undergraduate-scholarships-awards/shieh-li-scholarship">Ruey-Feng Shieh Li Family Scholarship</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/graduate-fellowships-awards">Graduate Fellowships &amp; Awards</a></li>
+<li class="dropdown"><a href="/about/awards/alumni-awards">Alumni Awards</a><ul class="alumni-awards ">
+<li><a href="/about/awards/alumni-awards/alumni-awards-past-recipients">Alumni Awards Past Recipients</a></li>
+<li><a href="/about/awards/alumni-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/alumni-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/staff-awards">Staff Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/history-timeline">History Timeline</a></li>
+<li><a href="/about/accreditation">Accreditation</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/admissions" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Admissions</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-admissions">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/admissions">Admissions</a></h2>
+<ul class="admissions ">
+<li class="dropdown"><a href="/admissions/undergraduate">Undergraduate Admissions</a><ul class="undergraduate ">
+<li><a href="https://admissions.illinois.edu/apply">Apply Now</a></li>
+<li><a href="/academics/undergraduate/degree-program-options">Degree & Program Options</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/dates">Application Deadlines</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/process">Applications Process & Requirements</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+<li><a href="https://www.housing.illinois.edu">Housing</a></li>
+<li><a href="/about-us/accreditation">Accreditation</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/admissions/graduate">Graduate Admissions</a><ul class="graduate ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+<li class="dropdown"><a href="/admissions/graduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/admissions/graduate/degree-program-options/professional-master-computer-science-mcs-program">Professional Master of Computer Science (MCS) Program</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-deadlines">Application Deadlines</a></li>
+<li class="dropdown"><a href="/admissions/graduate/applications-process-requirements">Applications Process &amp; Requirements</a><ul class="applications-process-requirements ">
+<li><a href="/admissions/graduate/applications-process-requirements/additional-required-application-materials">Additional Required Application Materials for International Students</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/application-fee-waivers">Application Fee Waivers</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/data-structures-proficiency-exam">Data Structures Proficiency Exam</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-checklist">Application Checklist</a></li>
+<li class="dropdown"><a href="/admissions/graduate/faqs">FAQs</a><ul class="faqs ">
+<li><a href="/admissions/graduate/faqs/ican-faqs">iCAN FAQs</a></li>
+<li><a href="/admissions/graduate/faqs/online-mcs-faqs">Online MCS FAQs</a></li>
+</ul>
+</li>
+<li><a href="https://choose.illinois.edu/apply/">Check Application Status</a></li>
+</ul>
+</li>
+<li><a href="/admissions/impact-illinois-cs-degree">Impact of an Illinois CS Degree</a></li>
+<li><a href="/admissions/financial-aid">Financial Aid</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/academics" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Academics</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-academics">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/academics">Academics</a></h2>
+<ul class="academics ">
+<li class="dropdown"><a href="/academics/undergraduate">Undergraduate Academics</a><ul class="undergraduate ">
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/academics/undergraduate/degree-program-options/bs-computer-science">B.S. in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-mathematics-computer-science">B.S. in Mathematics &amp; Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-statistics-computer-science">B.S. in Statistics &amp; Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs">CS + X Degree Programs</a><ul class="cs-x-degree-programs ">
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-advertising">Computer Science + Advertising</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-animal-sciences">Computer Science + Animal Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-anthropology">Computer Science + Anthropology</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-astronomy">Computer Science + Astronomy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-chemistry">Computer Science + Chemistry</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-crop-sciences">Computer Science + Crop Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-economics">Computer Science + Economics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-geography">Computer Science + Geography &amp; Geographic Information Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-linguistics">Computer Science + Linguistics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-music">Computer Science + Music</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-philosophy">Computer Science + Philosophy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/cs-x-degree-requirements">CS + X Degree Requirements &amp; Planning Forms</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-undergraduate-degree-options-faq">CS Undergraduate Degree Options FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/registration">Registration</a><ul class="registration ">
+<li><a href="/academics/undergraduate/registration/cs-course-restrictions-enrollment-caps">CS Course Restrictions &amp; Enrollment Caps</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/policies-and-procedures">Policies and Procedures</a></li>
+<li><a href="/academics/undergraduate/undergraduate-advising">Undergraduate Advising</a></li>
+<li><a href="/academics/undergraduate/cs-student-opportunity-series-cs-sos">CS Student Opportunity Series (CS SOS)</a></li>
+<li><a href="/academics/undergraduate/undergraduate-forms">Undergraduate Forms</a></li>
+<li><a href="/academics/undergraduate/honors">Honors</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate">Graduate Academics</a><ul class="graduate ">
+<li class="dropdown"><a href="/academics/graduate/phd-program">PhD Program</a><ul class="phd-program ">
+<li><a href="/academics/graduate/phd-program/final-exam-thesis-defense">Final Exam (Thesis Defense)</a></li>
+<li><a href="/academics/graduate/phd-program/guidelines-forming-phd-committee">Guidelines for Forming Ph.D. Committee</a></li>
+<li><a href="/academics/graduate/phd-program/phd-ms-thesis-format-review-guidelines">Ph.D. / M.S. Thesis Format Review Guidelines</a></li>
+<li><a href="/academics/graduate/phd-program/phd-program-study-process">PhD Program of Study Process</a></li>
+<li><a href="/academics/graduate/phd-program/phd-requirements">PhD Requirements</a></li>
+<li><a href="/academics/graduate/phd-program/phd-time-limits-milestones">PhD Time Limits &amp; Milestones</a></li>
+<li><a href="/academics/graduate/phd-program/preliminary-exam">Preliminary Exam</a></li>
+<li><a href="/academics/graduate/phd-program/qualifying-exam">Qualifying Exam</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/ms-program">MS Program</a></li>
+<li><a href="/academics/graduate/ms-bioinformatics-program">MS in Bioinformatics Program</a></li>
+<li class="dropdown"><a href="/academics/graduate/professional-mcs">Professional Master of Computer Science</a><ul class="professional-mcs ">
+<li><a href="/academics/graduate/professional-mcs/campus-master-computer-science">On-Campus Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science">Online Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science-data-science">Online Master of Computer Science in Data Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/fifth-year-masters-programs">Fifth Year Master's Programs</a><ul class="fifth-year-masters-programs ">
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-mcs-program">5-year BS-MCS Program</a></li>
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-ms-program">5-year BS-MS Program</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">Illinois Computing Accelerator for Non-Specialists (iCAN)</a><ul class="ican ">
+<li><a href="/academics/graduate/ican/application-process">iCAN Application Process</a></li>
+<li><a href="/academics/graduate/ican/curriculum">iCAN Curriculum</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources">Graduate Forms &amp; Advising Resources</a><ul class="graduate-forms-advising-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/epi-exam-requirements">EPI Exam Requirements</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-advising-contacts">Graduate Advising Contacts</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-student-annual-evaluation-process">Graduate Student Annual Evaluation Process</a></li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources">New Graduate Student Resources</a><ul class="new-graduate-student-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/mcs-campus">MCS On-Campus General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/ms-general">MS General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/phd-general">PhD General Advising for Registration</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/official-forms">Official Forms</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/academics/courses">Courses</a></li>
+<li><a href="/academics/honor-code">Honor Code</a></li>
+<li><a href="https://cs.illinois.edu/student-life/student-resources">Student Resources</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/student-life" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Student Life</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-student-life">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41390_8405" data-pageid="41390" data-tileid="8405" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=55621);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Salesforce's CodeT5 System Can Understand and Generate Code</h2>
+			<div class="description"></div>
+			<p><a href="/news/salesforces-codet5-system-can-understand-and-generate-code" class="button" title="Salesforce's CodeT5 System Can Understand and Generate Code">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 7, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/student-life">Student Life</a></h2>
+<ul class="student-life ">
+<li><a href="/student-life/overview-cs-student-life">Overview of CS Student Life</a></li>
+<li><a href="/student-life/student-organizations">Student Organizations</a></li>
+<li><a href="/student-life/department-college-and-campus-events">Department, College, and Campus Events</a></li>
+<li><a href="/student-life/student-resources">Student Resources</a></li>
+<li><a href="/student-life/career-services">Career Services</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/research" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Research</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-research">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Explore visionary research conducted by world-renowned faculty.</h2>
+<p><a class="orange button" href="/research/areas">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/research">Research</a></h2>
+<ul class="research ">
+<li class="dropdown"><a href="/research/areas">Research Areas</a><ul class="areas ">
+<li><a href="/research/areas/architecture-compilers-and-parallel-computing">Architecture, Compilers, and Parallel Computing</a></li>
+<li><a href="/research/areas/artificial-intelligence">Artificial Intelligence</a></li>
+<li><a href="/research/areas/bioinformatics-and-computational-biology">Bioinformatics and Computational Biology</a></li>
+<li><a href="/research/areas/computers-and-education">Computers and Education</a></li>
+<li><a href="/research/areas/data-and-information-systems">Data and Information Systems</a></li>
+<li><a href="/research/areas/interactive-computing">Interactive Computing</a></li>
+<li><a href="/research/areas/programming-languages-formal-methods-and-software-engineering">Programming Languages, Formal Methods, and Software Engineering</a></li>
+<li><a href="/research/areas/scientific-computing">Scientific Computing</a></li>
+<li><a href="/research/areas/security-and-privacy">Security and Privacy</a></li>
+<li><a href="/research/areas/systems-and-networking">Systems and Networking</a></li>
+<li><a href="/research/areas/theory-and-algorithms">Theory and Algorithms</a></li>
+</ul>
+</li>
+<li><a href="/research/technical-conferences-workshops">Technical Conferences &amp; Workshops</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+<li><a href="/corporate#research">Corporate Partners</a></li>
+<li><a href="https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=3146">Illinois CS Research Overview</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/broadening-participation-computing" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Broadening Participation</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-broadening-participation-computing">
+<section class="tile w50 white-box py-5 marketing">
+<p class="mb-0"><img src="//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=16163&s=375" class="image" alt="" width="375" /></p>
+<p style="padding: 10px 15px 0px 15px;">New certificate program for college graduates who want a deeper understanding of computers, algorithms, and programming.</p>
+<p><a class="orange button" href="/ican">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/broadening-participation-computing">Broadening Participation</a></h2>
+<ul class="broadening-participation-computing ">
+<li><a href="https://drive.google.com/file/d/12vDswb1i-mEXaXgVt7FOhtqYs7b8F_1p/view">BPC Departmental Plan</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs">BPC Programs & Activities for Students</a><ul class="programs ">
+<li><a href="/broadening-participation-computing/programs/csambassadors">CS Student Ambassador/Research Scholars (CS STARS)</a></li>
+<li><a href="/broadening-participation-computing/programs/cskickstart">Illinois CS Kickstart</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs/ai4all">AI4ALL</a><ul class="ai4all ">
+<li><a href="http://go.cs.illinois.edu/DiscoverAI">Apply Now</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">iCAN</a><ul class="ican ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+</ul>
+</li>
+<li><a href="http://cs.illinois.edu/research/summer-research-experience-undergraduates">Summer Research Experience for Undergraduates</a></li>
+</ul>
+</li>
+<li><a href="/broadening-participation-computing/resources">BPC Resources</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/cross-cutting">Cross-Cutting Educational Activities</a><ul class="cross-cutting ">
+<li><a href="/broadening-participation-computing/cross-cutting/conferences-workshops">BPC Conferences & Workshops</a></li>
+<li><a href="/broadening-participation-computing/cross-cutting/ca-training">Course Assistant Training</a></li>
+<li><a href="https://cs.illinois.edu/news/featured-lectures#equity-justice">Equity & Justice in Computing Seminar Series</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/broadening-participation-computing/k-12">K-12 Outreach & Resources</a><ul class="k-12 ">
+<li><a href="/broadening-participation-computing/k-12/k-12-outreach">K-12 Outreach Programs</a></li>
+<li><a href="/broadening-participation-computing/k-12/k-12-resources">K-12 Resources</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/student-life/student-organizations">Student Organizations</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/news" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>News</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-news">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41391_5367" data-pageid="41391" data-tileid="5367" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=51204);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging</h2>
+			<div class="description"><p>The Defense Advanced Research Projects Agency (DARPA) has awarded $5.8 million to a team, led by Illinois CS's <a href="/about/people/faculty/zaher">Tarek Abdelzaher</a>, that will work to characterize how different foreign populations respond to influence campaigns as a first step towards development of effective countermeasures.</p></div>
+			<p><a href="/news/abdelzaher-leading-DARPA-effort-understand-how-people-respond-influence-messaging" class="button" title="Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 8, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/news">News</a></h2>
+<ul class="news ">
+<li><a href="/news">Department News</a></li>
+<li><a href="/news/features">Feature Stories</a></li>
+<li><a href="/news/covid-19-projects">COVID-19 Projects</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/news/media-coverage">Media Coverage</a></li>
+<li><a href="/news/e-news">E-News</a></li>
+<li><a href="/news/impact-report-publications">Impact Report &amp; Publications</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/give" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Give</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-give">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Help ensure that Illinois continues to set a global standard for CS research and education.</h2>
+<p><a class="orange button" href="/give/give-now">Make a Gift</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/give">Give</a></h2>
+<ul class="give ">
+<li><a href="/give/give-now">Give Now</a></li>
+<li><a href="/give/ways-give">Ways to Give</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/give/computer-science-visionary-scholarship-donors">Computer Science Visionary Scholarship Donors</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+</ul>
+</div>
+</nav>
+
+				</div>
+			</header>
+
+			<div id="content">
+				<main>
+					<div  id="hero" class="container-fluid">
+						<div class="row maxwidth1140">
+							<div class="col">
+								<div>
+									<nav id="breadcrumbs"><ul><li><a href="/">Home</a></li><li><a href="/research">Research</a></li><li><a href="/research/areas">Research Areas</a></li></ul></nav>
+									<h1>Artificial Intelligence</h1>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					
+
+					<div id="content_inner" class="container-fluid">
+						<div class="tile-list">
+							<section class="tile w100 white-box   py-5 text-center" id="tile6961" data-tileid="6961" >
+	<div class="lower text-center maxwidth1140   " id="lower6961">
+		<div class="row">
+			<div class="col-12"></div>
+			<div class="col-md column1   px-md-2 py-5 mx-md-3 navy-box" >
+				<p class="fs250x" style="text-align: center;"><a href="#about"><em class="fad fa-book" aria-hidden="true"><!--icon--></em></a></p>
+<p style="text-align: center;"><a href="#about"><strong>About</strong></a></p>
+			</div>
+			<div class="col-md column2   px-md-2 py-5 mx-md-3 navy-box" >
+				<p class="fs250x" style="text-align: center;"><a href="#faculty"><em class="fad fa-users" aria-hidden="true"><!--icon--></em></a></p>
+<p style="text-align: center;"><a href="#faculty"><strong>Faculty</strong></a></p>
+			</div>
+			<div class="col-md column3   px-md-2 py-5 mx-md-3 navy-box" >
+				<p class="fs250x" style="text-align: center;"><a href="#research"><em class="fad fa-chalkboard-teacher" aria-hidden="true"><!--icon--></em></a></p>
+<p style="text-align: center;"><a href="#research"><strong>Research Groups/Events</strong></a></p>
+			</div>
+			<div class="col-md column4   px-md-2 py-5 mx-md-3 navy-box" >
+				<p class="fs250x" style="text-align: center;"><a href="#news"><em class="fad fa-newspaper" aria-hidden="true"><!--icon--></em></a></p>
+<p style="text-align: center;"><a href="#news"><strong>Related News</strong></a></p>
+			</div>
+			<div class="col-12"></div>
+		</div>
+	</div>
+</section>
+<section class="tile w110 white-box   py-5 " id="tile5534" data-tileid="5534" >
+	<div class="lower  maxwidth1140   " id="lower5534">
+		<div class="row">
+			<div class="col-md column1      " >
+				<p class="intro"><a id="about" name="about"></a>The study of systems that behave intelligently, artificial intelligence includes several key areas where our faculty&nbsp;are recognized leaders: computer vision, machine listening, natural language processing, machine learning and robotics.</p>
+<figure class="image align-right"><img src="//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=9445&s=267" alt="A snow dragon realistically inserted into a photograph." width="267" /><figcaption>A snow dragon realistically inserted into a photograph.</figcaption></figure>
+<p>Computer vision systems can understand images and video, for example, building extensive geometric and physical models of cities from video, or warning construction workers about nearby dangers. Natural language processing systems understand written and spoken language; possibilities include automatic translation of text from one language to another, or understanding text on Wikipedia to produce knowledge about the world. Machine listening systems understand audio signals, with applications like speech recognition, acoustic monitoring, or trascribing polyphonic music automatically. Crucial to modern artificial intelligence, machine learning methods exploit examples in order to adjust systems to work as effectively as possible. Robotics puts artificial intelligence into practice using machines that perceive and interact with the physical world.</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile w110 white-box   py-5 " id="tile6985" data-tileid="6985" >
+	<div class="lower  maxwidth1140   " id="lower6985">
+		<div class="row">
+			<div class="col-md column1      " >
+				<h2 id="faculty">Faculty &amp; Affiliate Faculty</h2>
+<div class="directory-list directory-list-6"><div class="item person" id="id11982" data-netid="namato">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/namato?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/namato">Nancy M. Amato</a></div>
+	<div class="title"><p>Robot Motion and Task Planning, Multi-Agent Systems, Crowd Simulation</p></div>
+</div><div class="item person" id="id12006" data-netid="maa">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/maa?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/maa">Mark A. Anastasio, Department of Bioengineering</a></div>
+	<div class="title"><p>Machine Learning Methods for Imaging Science, Image Reconstruction, Deep Learning for Inverse Problems</p></div>
+</div><div class="item person" id="id12309" data-netid="arindamb">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/arindamb?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/arindamb">Arindam Banerjee</a></div>
+	<div class="title"><p>Machine Learning, Learning Theory, Optimization, Generative Models, Sequential Decision Making, Physics-Guided Machine Learning, Differential Privacy</p></div>
+</div><div class="item person" id="id12007" data-netid="tbretl">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/tbretl?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/tbretl">Timothy Bretl, Aerospace Engineering</a></div>
+	<div class="title"><p>Motion Planning and Control</p></div>
+</div><div class="item person" id="id12008" data-netid="kcchang">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/kcchang?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/kcchang">Kevin C. Chang</a></div>
+	<div class="title"><p>Machine Learning, Natural Language Processing, AI Applications, Data Management Support for AI</p></div>
+</div><div class="item person" id="id12009" data-netid="girishc">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/girishc?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/girishc">Girish Chowdhary</a></div>
+	<div class="title"><p>Control, Autonomy and Decision Making, Vision and LIDAR Based Perception, GPS Denied Navigation</p></div>
+</div><div class="item person" id="id13141" data-netid="delgosha">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/delgosha?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/delgosha">Payam Delgosha</a></div>
+	<div class="title"><p>Graphs, Information Theory, Algorithms, Machine Learning</p></div>
+</div><div class="item person" id="id13142" data-netid="jdiesner">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/jdiesner?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/jdiesner">Jana Diesner, School of Information Sciences</a></div>
+	<div class="title"><p>Social Network Analysis, Natural Language Processing, Machine Learning</p></div>
+</div><div class="item person" id="id12010" data-netid="minhdo">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/minhdo?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/minhdo">Minh N. Do, Electrical & Computer Engineering</a></div>
+	<div class="title"><p>Signal Processing, Computational Imaging, Machine Perception, Data Science</p></div>
+</div><div class="item person" id="id13143" data-netid="krdc">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/krdc?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/krdc">Katherine Driggs-Campbell, Electrical & Computer Engineering</a></div>
+	<div class="title"><p>Autonomous Vehicles, Validating Autonomous Systems, Interactive Control Policies for Intelligent Systems in Multi-Agent Settings</p></div>
+</div><div class="item person" id="id12011" data-netid="mfleck">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/mfleck?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/mfleck">Margaret Fleck</a></div>
+	<div class="title"><p>Computational Linguistics</p></div>
+</div><div class="item person" id="id12012" data-netid="daf">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/daf?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/daf">David A. Forsyth</a></div>
+	<div class="title"><p>Computer Vision, Object Recognition, Scene Understanding</p></div>
+</div><div class="item person" id="id12013" data-netid="girju">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/girju?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/girju">Roxana Girju, Linguistics </a></div>
+	<div class="title"><p>Computational Linguistics</p></div>
+</div><div class="item person" id="id12014" data-netid="mgolpar">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/mgolpar?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/mgolpar">Mani Golparvar-Fard, Civil Engineering</a></div>
+	<div class="title"><p>Computer Vision Analytics for Building and Construction Performance Monitoring</p></div>
+</div><div class="item person" id="id20679" data-netid="lgui">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/lgui?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/lgui">Liangyan Gui</a></div>
+	<div class="title"><p>Computer Vision, Machine Learning, Motion Analysis, Robotics</p></div>
+</div><div class="item person" id="id12015" data-netid="saurabhg">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/saurabhg?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/saurabhg">Saurabh Gupta, Electrical & Computer Engineering</a></div>
+	<div class="title"><p>Computer Vision, Robotics, Machine Learning</p></div>
+</div><div class="item person" id="id12016" data-netid="hanj">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/hanj?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/hanj">Jiawei Han</a></div>
+	<div class="title"><p>Machine Learning, Natural Language-Based Text Analysis, Text Summarization</p></div>
+</div><div class="item person" id="id12017" data-netid="jhasegaw">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/jhasegaw?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/jhasegaw">Mark Hasegawa-Johnson, Electrical & Computer Engineering</a></div>
+	<div class="title"><p>Statistical Speech Technology</p></div>
+</div><div class="item person" id="id12018" data-netid="kkhauser">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/kkhauser?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/kkhauser">Kris Hauser</a></div>
+	<div class="title"><p>Motion Planning, Optimal Control, Integrated Planning and Learning, Robot Systems</p></div>
+</div><div class="item person" id="id12019" data-netid="juliahmr">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/juliahmr?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/juliahmr">Julia Hockenmaier</a></div>
+	<div class="title"><p>Natural Language Processing, Computational Linguistics&nbsp;</p></div>
+</div><div class="item person" id="id12020" data-netid="dhoiem">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/dhoiem?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/dhoiem">Derek Hoiem</a></div>
+	<div class="title"><p>Computer Vision, Object Recognition, Spatial Understanding, Scene Interpretation&nbsp;</p></div>
+</div><div class="item person" id="id12302" data-netid="rkiyer">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/rkiyer?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/rkiyer">Ravi Iyer, Electrical & Computer Engineering</a></div>
+	<div class="title"><p>Probabilistic Graphical Models, Deep Learning, Data Science, Health Analytics</p></div>
+</div><div class="item person" id="id12021" data-netid="hengji">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/hengji?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/hengji">Heng Ji</a></div>
+	<div class="title"><p>Natural Language Processing, especially on Information Extraction and Knowledge-driven Natural Language Generation, Text Mining, Knowledge Graph Construction for Scientific Discovery</p></div>
+</div><div class="item person" id="id12022" data-netid="nanjiang">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/nanjiang?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/nanjiang">Nan Jiang</a></div>
+	<div class="title"><p>Reinforcement Learning, Machine Learning, Sample Complexity Analyses</p></div>
+</div><div class="item person" id="id12023" data-netid="kkarahal">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/kkarahal?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/kkarahal">Karrie Karahalios</a></div>
+	<div class="title"><p>HCI for ML, AI Explainability</p></div>
+</div><div class="item person" id="id11990" data-netid="kindrtnk">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/kindrtnk?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/kindrtnk">Volodymyr Kindratenko, NCSA</a></div>
+	<div class="title"><p>Cyberinfrastructure for Machine Learning, Machine Learning Systems Research, Deep Learning Applications</p></div>
+</div><div class="item person" id="id12024" data-netid="sanmi">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/sanmi?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/sanmi">Sanmi Koyejo</a></div>
+	<div class="title"><p>Machine Learning, Neuroimaging, Biomedical Imaging</p></div>
+</div><div class="item person" id="id12025" data-netid="lavalle">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/lavalle?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/lavalle">Steven M. LaValle</a></div>
+	<div class="title"><p>Robotics, Motion Planning, and Virtual Reality&nbsp;</p></div>
+</div><div class="item person" id="id12026" data-netid="slazebni">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/slazebni?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/slazebni">Svetlana Lazebnik</a></div>
+	<div class="title"><p>Computer Vision, Scene Understanding, Visual Learning, Vision and Language</p></div>
+</div><div class="item person" id="id12027" data-netid="lbo">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/lbo?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/lbo">Bo Li</a></div>
+	<div class="title"><p>Adversarial Machine Learning, Robust Learning</p></div>
+</div><div class="item person" id="id12028" data-netid="mchenry">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/mchenry?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/mchenry">Kenton McHenry, NCSA</a></div>
+	<div class="title"><p>Cyberinfrastructure for Digital Preservation, Auto-Curation, and Managing Unstructured Digital Collections&nbsp;</p></div>
+</div><div class="item person" id="id17375" data-netid="moralesa">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/moralesa?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/moralesa">Marco Morales</a></div>
+	<div class="title"><p>Motion Planning and Control, Autonomous Robots</p></div>
+</div><div class="item person" id="id12031" data-netid="jianpeng">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/jianpeng?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/jianpeng">Jian Peng</a></div>
+	<div class="title"><p>Machine Learning and Optimization</p></div>
+</div><div class="item person" id="id13168" data-netid="lanes">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/lanes?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/lanes">Lane Oscar Schwartz, Linguistics </a></div>
+	<div class="title"><p>Machine Translation, Computational Morphology &amp; Syntax</p></div>
+</div><div class="item person" id="id12034" data-netid="aschwing">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/aschwing?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/aschwing">Alexander Schwing, Electrical & Computer Engineering</a></div>
+	<div class="title"><p>Machine Learning, Computer Vision</p></div>
+</div><div class="item person" id="id22419" data-netid="ggnds">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/ggnds?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/ggnds">Gagandeep Singh</a></div>
+	<div class="title"><p>Certified Artificial Intelligence, Adversarial Robustness, Neural Network Verification, Safe Deep Learning</p></div>
+</div><div class="item person" id="id12032" data-netid="paris">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/paris?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/paris">Paris Smaragdis</a></div>
+	<div class="title"><p>Machine Learning for Audio, Speech and Music; Signal Processing; Source Separation; Sound Recognition and Classification</p></div>
+</div><div class="item person" id="id12033" data-netid="jimeng">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/jimeng?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/jimeng">Jimeng Sun</a></div>
+	<div class="title"><p>Deep Learning for Drug Discovery, Clinical Trial Optimization, Computational Phenotyping, Clinical Predictive Modeling, Mobile Health and Health Monitoring, Tensor Factorization, and Graph Mining</p></div>
+</div><div class="item person" id="id12035" data-netid="mjt">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/mjt?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/mjt">Matus Telgarsky</a></div>
+	<div class="title"><p>Machine Learning Theory</p></div>
+</div><div class="item person" id="id12037" data-netid="htong">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/htong?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/htong">Hanghang Tong</a></div>
+	<div class="title"><p>Explainable AI, Fairness in AI, Adversarial Maching Learning</p></div>
+</div><div class="item person" id="id33495" data-netid="shenlong">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/shenlong?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/shenlong">Shenlong Wang</a></div>
+	<div class="title"><p>Computer Vision, Robotics</p></div>
+</div><div class="item person" id="id20680" data-netid="yxw">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/yxw?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/yxw">Yuxiong Wang</a></div>
+	<div class="title"><p>Computer Vision, Machine Learning, Meta-Learning, Robotics</p></div>
+</div><div class="item person" id="id12038" data-netid="warnow">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/warnow?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/warnow">Tandy Warnow</a></div>
+	<div class="title"><p>Machine Learning in Computational Genomics, Ensemble Methods, Statistical Estimation</p></div>
+</div><div class="item person" id="id23112" data-netid="hanzhao">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/hanzhao?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/hanzhao">Han Zhao</a></div>
+	<div class="title"><p>Machine Learning, Representation Learning, Algorithmic Fairness, Probabilistic Models</p></div>
+</div></div>
+<h2 id="ajunct">Adjunct Faculty</h2>
+<div class="directory-list directory-list-6"><div class="item person" id="id12039" data-netid="eyal">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/eyal?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/eyal">Eyal Amir, Parknav</a></div>
+	<div class="title"><p>Machine Learning, Automatic Reasoning</p></div>
+</div><div class="item person" id="id12040" data-netid="danr">
+	<div class="photo" style="background-image: url(//ws.engr.illinois.edu/directory/viewphoto/danr?s=200)"></div>
+	<div class="name mb-2"><a href="/about/people/faculty/danr">Dan Roth, University of Pennsylvania</a></div>
+	<div class="title"><p>Machine Learning, Natural Language Processing, Knowledge Representation, Reasoning&nbsp;</p></div>
+</div></div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile w110 navy-box blueify  py-6 " id="tile5536" data-tileid="5536" >
+	<div class="lower  maxwidth1140   " id="lower5536">
+		<div class="row">
+			<div class="col-12"></div>
+			<div class="col-md column1 pr-md-4      " >
+				<h2><a id="research" name="research"></a>Research Efforts and Groups</h2>
+<ul>
+<li><a href="http://beckman.illinois.edu/research/themes/hcii/artificial-intelligence">Beckman Institute</a></li>
+<li><a href="http://www.ncsa.illinois.edu/about/centers/ai/">Center for Artificial Intelligence Innovation</a>&nbsp;(NCSA)</li>
+<li><a href="http://www.ncsa.illinois.edu/enabling/data/deep_learning">Deep Learning Major Research Instrument Project</a>&nbsp;(NCSA)</li>
+<li><a href="http://nlp.cs.illinois.edu/">Natural Language Processing Group</a></li>
+<li><a href="http://www.ifp.illinois.edu/speech/">Speech and Language Engineering Group</a></li>
+<li><a href="https://autonomy.illinois.edu/">Center for Autonomy</a></li>
+<li><a href="http://robotics.illinois.edu/">Robotics Group</a></li>
+</ul>
+			</div>
+			<div class="col-md column2 pl-md-4      " >
+				<h2>Seminars</h2>
+<ul>
+<li><a href="/news/featured-lectures">Illinois Computer Science Speaker Series</a></li>
+<li><a href="https://robotics.illinois.edu/robotics-seminar-series/">Robotics Seminar Series</a></li>
+</ul>
+			</div>
+			<div class="col-12"></div>
+		</div>
+	</div>
+</section>
+<section class="tile w110 charcoal-box   py-6 jarallax minheight600" id="tile5535" data-tileid="5535" style="background-image: url(https://ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=12156&s=0);">
+	<div class="lower  maxwidth1140   py-6" id="lower5535">
+		<div class="row">
+			<div class="col-md column1 col-md-7     " >
+				
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile w100 white-box   py-3 " id="tile6981" data-tileid="6981" >
+	<div class="lower  maxwidth1140   " id="lower6981">
+		<div class="row">
+			<div class="col-md column1      " >
+				<h2 class="mb-0" style="text-align: center;"><a id="news"></a><strong>Related News</strong></h2>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile news w25 platinum-box  " id="page41391_5543" data-pageid="41391" data-tileid="5543" data-type="article" data-bookid="81">
+	<div class="upper " style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=51204);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/abdelzaher-leading-DARPA-effort-understand-how-people-respond-influence-messaging">Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging</a></h2>
+				<p class="first"><a href="/news">News</a> | September 8, 2021</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="tile news w25 platinum-box  " id="page41390_5543" data-pageid="41390" data-tileid="5543" data-type="article" data-bookid="81">
+	<div class="upper " style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=55621);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/salesforces-codet5-system-can-understand-and-generate-code">Salesforce's CodeT5 System Can Understand and Generate Code</a></h2>
+				<p class="first"><a href="/news">News</a> | September 7, 2021</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="tile news w25 platinum-box  " id="page41215_5543" data-pageid="41215" data-tileid="5543" data-type="article" data-bookid="81">
+	<div class="upper " style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=33058);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/Chowdhary-2021-Illinois-Innovtion-Network-Award">Girish Chowdhary Wins Illinois Innovation Network Award</a></h2>
+				<p class="first"><a href="/news">News</a> | August 30, 2021</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="tile news w25 platinum-box  " id="page41081_5543" data-pageid="41081" data-tileid="5543" data-type="article" data-bookid="81">
+	<div class="upper " style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=54983);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/virtual-dressing-room-startup-revery-ai-applying-computer-vision-to-the-fashion-industry">Virtual Dressing Room Startup Revery.ai Applying Computer Vision to the Fashion Industry</a></h2>
+				<p class="first"><a href="/news">News</a> | August 23, 2021</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="tile w100 white-box py-5" id="loader5543"><div class="lower maxwidth1140"><div class="row"><div class="col-md column1"><p style="text-align: center;"><a class="button orange loader" href="#" data-tileid="5543" data-return="4" data-loader="done">Load more news</a></p></div></div></div></section>
+						</div>
+					</div>
+				</main>
+			</div>
+
+			<footer>
+							<div class="container-fluid maxwidth1140">
+				<div class="row pt-5 pb-3">
+					<div class="col-lg-5 mb-5">
+						<div class="campus_wordmark"><a href="http://illinois.edu/"><img src="https://ws.engr.illinois.edu/images/uiuc-footer-wordmark.png" alt="University of Illinois Urbana Champaign"></a></div>
+					</div>
+
+					<div class="col-lg-7 mb-4 socials">
+						<a href="https://www.facebook.com/CSatIllinois/"><i class="fab fa-facebook-f"></i><span class="sr-only">Facebook</span></a>
+						<a href="https://twitter.com/IllinoisCS"><i class="fab fa-twitter"></i><span class="sr-only">Twitter</span></a>
+						<a href="https://www.youtube.com/user/IllinoisCS"><i class="fab fa-youtube"></i><span class="sr-only">YouTube</span></a>
+						<a href="https://www.linkedin.com/school/illinoiscs"><i class="fab fa-linkedin-in"></i><span class="sr-only">LinkedIn</span></a>
+						<a href="https://www.instagram.com/illinoiscs/"><i class="fab fa-instagram"></i><span class="sr-only">Instagram</span></a>
+						<div class="w-100 d-block d-lg-none"></div>
+						<a href="/about/contact-us" class="button">Contact Us</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="container-fluid maxwidth1140">
+				<div class="row pb-5 justify-content-between">
+					<div class="col-md pr-xl-5 mb-5 college_container">
+
+						<div class="contact">
+							<p><span class="fs150x"><a href="https://cs.illinois.edu">Thomas M. Siebel Center for Computer Science</a></span><br />
+                                                       201 North Goodwin Avenue MC 258<br />
+                                                        Urbana, IL 61801-2302<br />
+                                                         ph: 217-333-3426 (general) | 217-333-4428 (advising) <br />
+                                                         fax: 217-333-3501</p>
+                                                        <p> General email: <a href="mailto:admin@cs.illinois.edu">admin@cs.illinois.edu</a><br />
+                                                         Graduate Advising: <a href="mailto:academic@cs.illinois.edu">academic@cs.illinois.edu</a><br />
+                                                         Undergraduate Advising: <a href="mailto:undergrad@cs.illinois.edu">undergrad@cs.illinois.edu</a><br />
+                                                          Webmaster: <a href="mailto:grainger-marcom@illinois.edu?subject=CS Request">grainger-marcom@illinois.edu</a></p>
+							<p><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a><br />
+							<a href="https://illinois.edu">University of Illinois</a></p>
+
+						</div>
+					</div>
+
+
+					<div class="col-md pr-xl-5 my-5 concentrations">
+                                 	
+					</div>
+				</div>
+			</div>
+
+				<div class="container-fluid" id="legal">
+					<div class="row justify-content-md-center align-items-center py-4">
+
+						<div class="col-md-auto">
+							<div><button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Preferences</button></div>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Copyright &copy; 2021 University of Illinois Board of Trustees</p>
+						</div>
+
+						<div class="col-md-auto">
+							<p><a href="https://grainger.illinois.edu/cookie-policy">Cookie Policy</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy</a></p>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Powered by <a href="https://my.engr.illinois.edu/sitemanager/editpage.asp?id=5691">SiteManager</a> | <a href="mailto:grainger-marcom@illinois.edu">Contact Webmaster</a></p>
+						</div>
+					</div>
+				</div>
+
+				<div id="gototop" class="hidden">
+					<a href="#"><i class="fa fa-chevron-up"></i><span class="sr-only">Go to top</span></a>
+				</div>
+			</footer>
+		</div>
+
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+		<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax-video.min.js"></script>
+		<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+		<script src="https://cdn.datatables.net/responsive/2.2.5/js/dataTables.responsive.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.0/circle-progress.min.js'></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/twbs-pagination/1.4.2/jquery.twbsPagination.min.js'></script>
+		<script src="https://ws.engr.illinois.edu/sitemanager/genscripts.js?v=2.660.676"></script>
+		<script src="/js/scripts.js?v=0.27"></script>
+
+		<script async="async" src="https://enroll.illinois.edu/ping"></script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-9571262-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-9571262-1');
+</script>
+
+		
+	</body>
+</html>
+
+

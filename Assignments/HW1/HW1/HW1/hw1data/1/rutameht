@@ -1,0 +1,975 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Ruta Mehta
+ | Computer Science | UIUC</title>
+		<link rel="shortcut icon" type="image/x-icon" href="//ws.engr.illinois.edu/images/favicon.ico">
+
+		<meta name="description" content="Ruta Mehta
+">
+		<meta name="author" content="Grainger Engineering Office of Marketing and Communications">
+
+		<!-- meta tags for mobile devices -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">  
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+				<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="26be7d61-2017-4ea7-8a8b-8f1704889763"></script>
+		<script type="text/javascript"> function OptanonWrapper() { } </script>
+
+		<meta property="og:type" content="article" />
+<meta property="og:title" content="Ruta Mehta
+" />
+<meta property="og:description" content="Ruta Mehta
+" />
+<meta property="og:url" content="https://cs.illinois.edu/about/people/all-faculty/*" />
+<meta property="og:image" content="https://ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=12050" />
+
+
+		<!-- fonts -->
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i,900,900i%7cBarlow+Condensed%7cPlayfair+Display%7cMontserrat:400,500,600,700,800%7cFjalla+One%7cLexend+Exa%7cMontserrat+Alternates:400,700">
+		<script src="https://kit.fontawesome.com/64a62210ef.js"></script>
+
+		<!-- stylesheets -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.5/css/responsive.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://ws.engr.illinois.edu/sitemanager/gensite.css?v=2.671.281">
+		<link rel="stylesheet" type="text/css" href="/css/styles.css?v=0.19">
+
+				<!-- Global site tag (gtag.js) - Google Ads: 1011414001 -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1011414001"></script>
+		<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-1011414001'); </script> 
+		<!-- Event snippet for Outbound Google Ads click conversions -->
+		<script> function gtag_report_conversion(url) {var callback = function () {if (typeof(url) != 'undefined') {window.location = url;}};gtag('event', 'conversion', {'send_to': 'AW-1011414001/YNxnCM-1kfMBEPHno-ID','event_callback': callback});return false;} </script>
+		
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	</head>
+
+	<body class="site prod about people all-faculty rutameht  isattop theme_dagobah" data-sidebar="" data-sidebarskip="[sidebarskip]" data-sidebarinclude="[sidebarinclude]">
+		<div id="page">
+			
+			<header>
+				<div id="skiptocontent"><a href="#content">skip to main content</a></div>
+
+				<div class="container-fluid campus">
+					<div class="row mx-auto maxwidth1140">
+						<div class="col p-0">
+							<a href="http://illinois.edu/"><span>University of Illinois Urbana-Champaign</span></a>
+						</div>
+						<div id="featurelinks" class="col p-0 text-right">
+							<ul>
+	<li><a href="/alumni">Alumni</a></li>
+	<li><a href="/corporate">Corporate</a></li>
+       <li><a href="/about/people">People</a></li>
+	<li><a href="https://my.cs.illinois.edu">My.CS</a></li>
+</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="container-fluid site">
+					<div class="row wordmark d-flex flex-nowrap align-items-center">
+						<div class="d-flex flex-fill pr-3">
+							<div class="blocki"><a href="https://illinois.edu">University of Illinois at Urbana-Champaign</a></div>
+							<div class="site_identification">
+								<div class="parent_name"><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a></div>
+								<div class="site_name"><a href="/"><span>Computer Science</span></a></div>
+							</div>
+						</div>
+
+						<div class="d-flex align-items-center">
+							<div id="header-search-container" class="d-none d-lg-block site-search">
+								<form class="form-inline" method="get" action="/search" id="search-form">
+									<div class="input-group">
+										<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="header-search-go-button">
+										<div class="input-group-append">
+											<a href="/search" onclick="$('#header-search-container form').submit(); return false;" class="input-group-text" id="header-search-go-button"><i class="far fa-search"></i><span class="sr-only">Search</span></a>
+										</div>
+									</div>
+								</form>	
+							</div>
+
+							<div id="mainnav-toggler-container">
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainnav" aria-controls="mainnav" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="icon"></span> <span class="label sr-only">Menu</span>
+								</button>
+							</div>
+						</div>
+					</div>
+					<nav class="navbar navbar-expand-lg p-0">
+<div class="collapse navbar-collapse" id="mainnav">
+<form class="d-block d-lg-none" method="get" action="/search" id="mobile-search-form">
+<div class="form-row p-3">
+<div class="col">
+<div class="input-group">
+<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="mobile-search-go-button">
+<div class="input-group-append">
+<a href="/search" onclick="$('#mobile-search-form').submit(); return false;" class="input-group-text" id="mobile-search-go-button"><i class="far fa-search" aria-hidden="true"></i><span class="sr-only">Search</span></a>
+</div>
+</div>
+</div>
+</div>
+</form>
+<ul class="navbar-nav w-100">
+<li class="dropdown mega twocol nav-item">
+<a href="/about" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>About</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-about">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/about">About</a></h2>
+<ul class="about ">
+<li><a href="/about/cs-cares">CS CARES Committee</a></li>
+<li><a href="/about/values">Values & Code of Conduct</a></li>
+<li><a href="/about/statistics">Rankings & Statistics</a></li>
+<li><a href="/about/contact-us">Contact Us & Directions</a></li>
+<li class="dropdown"><a href="/about/people">People</a><ul class="people ">
+<li><a href="/about/people/all-faculty">All Faculty</a></li>
+<li><a href="/about/people/department-faculty">Department Faculty</a></li>
+<li><a href="/about/people/affiliate-faculty">Affiliate Faculty</a></li>
+<li><a href="/about/people/adjunct-faculty">Adjunct Faculty</a></li>
+<li><a href="/about/people/postdocs">Postdocs</a></li>
+<li><a href="/about/people/emeritus-faculty">Emeritus Faculty</a></li>
+<li class="dropdown"><a href="/about/people/staff">Staff</a><ul class="staff ">
+<li><a href="/about/people/staff/office-department-head">Office of the Department Head</a></li>
+<li><a href="/about/people/staff/communications-engagement-team">Communications &amp; Engagement Team</a></li>
+<li><a href="/about/people/staff/undergraduate-advising-office">Undergraduate Advising Office</a></li>
+<li><a href="/about/people/staff/graduate-advising-office">Graduate Advising Office</a></li>
+<li><a href="/about/people/staff/instructional-development-team">Instructional Development Team</a></li>
+<li><a href="/about/people/staff/business-office">Business Office</a></li>
+<li><a href="/about/people/staff/faculty-support-contacts">Faculty Support Contacts</a></li>
+<li><a href="/about/people/staff/facilities-shipping-and-receiving">Facilities, Shipping and Receiving</a></li>
+</ul>
+</li>
+<li><a href="/about/people/graduating-phd-students">Graduating PhD Students</a></li>
+<li><a href="/about/people/recent-phd-alumni">Recent PhD Alumni</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/positions">Open Positions</a><ul class="positions ">
+<li><a href="/about/positions/faculty-positions">Faculty Positions</a></li>
+<li><a href="/about/positions/postdoctoral">Postdoctoral Positions</a></li>
+<li><a href="/about/positions/staff-positions">Staff Positions</a></li>
+<li><a href="/about/positions/choose-illinois-computer-science">Choose Illinois Computer Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/calendar">Calendar</a><ul class="calendar ">
+<li><a href="/about/calendar/all">All Events</a></li>
+<li><a href="/about/calendar/corporate">Corporate Events</a></li>
+<li><a href="/about/calendar/department">Department Events</a></li>
+<li><a href="/about/calendar/graduate">Graduate Events</a></li>
+<li><a href="/about/calendar/outreach">Outreach Events</a></li>
+<li><a href="/about/calendar/speakers">Speakers</a></li>
+<li><a href="/about/calendar/student-groups">Student Group Events</a></li>
+<li><a href="/about/calendar/undergraduate">Undergraduate Events</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards">Awards</a><ul class="awards ">
+<li><a href="/about/awards/celebration">Celebration of Excellence</a></li>
+<li class="dropdown"><a href="/about/awards/faculty-awards">Faculty Awards</a><ul class="faculty-awards ">
+<li><a href="/about/awards/faculty-awards/chairs-and-professorships">Chairs and Professorships</a></li>
+<li><a href="/about/awards/faculty-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/faculty-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards/undergraduate-scholarships-awards">Undergraduate Scholarships &amp; Awards</a><ul class="undergraduate-scholarships-awards ">
+<li><a href="/about/awards/undergraduate-scholarships-awards/shieh-li-scholarship">Ruey-Feng Shieh Li Family Scholarship</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/graduate-fellowships-awards">Graduate Fellowships &amp; Awards</a></li>
+<li class="dropdown"><a href="/about/awards/alumni-awards">Alumni Awards</a><ul class="alumni-awards ">
+<li><a href="/about/awards/alumni-awards/alumni-awards-past-recipients">Alumni Awards Past Recipients</a></li>
+<li><a href="/about/awards/alumni-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/alumni-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/staff-awards">Staff Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/history-timeline">History Timeline</a></li>
+<li><a href="/about/accreditation">Accreditation</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/admissions" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Admissions</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-admissions">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/admissions">Admissions</a></h2>
+<ul class="admissions ">
+<li class="dropdown"><a href="/admissions/undergraduate">Undergraduate Admissions</a><ul class="undergraduate ">
+<li><a href="https://admissions.illinois.edu/apply">Apply Now</a></li>
+<li><a href="/academics/undergraduate/degree-program-options">Degree & Program Options</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/dates">Application Deadlines</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/process">Applications Process & Requirements</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+<li><a href="https://www.housing.illinois.edu">Housing</a></li>
+<li><a href="/about-us/accreditation">Accreditation</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/admissions/graduate">Graduate Admissions</a><ul class="graduate ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+<li class="dropdown"><a href="/admissions/graduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/admissions/graduate/degree-program-options/professional-master-computer-science-mcs-program">Professional Master of Computer Science (MCS) Program</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-deadlines">Application Deadlines</a></li>
+<li class="dropdown"><a href="/admissions/graduate/applications-process-requirements">Applications Process &amp; Requirements</a><ul class="applications-process-requirements ">
+<li><a href="/admissions/graduate/applications-process-requirements/additional-required-application-materials">Additional Required Application Materials for International Students</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/application-fee-waivers">Application Fee Waivers</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/data-structures-proficiency-exam">Data Structures Proficiency Exam</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-checklist">Application Checklist</a></li>
+<li class="dropdown"><a href="/admissions/graduate/faqs">FAQs</a><ul class="faqs ">
+<li><a href="/admissions/graduate/faqs/ican-faqs">iCAN FAQs</a></li>
+<li><a href="/admissions/graduate/faqs/online-mcs-faqs">Online MCS FAQs</a></li>
+</ul>
+</li>
+<li><a href="https://choose.illinois.edu/apply/">Check Application Status</a></li>
+</ul>
+</li>
+<li><a href="/admissions/impact-illinois-cs-degree">Impact of an Illinois CS Degree</a></li>
+<li><a href="/admissions/financial-aid">Financial Aid</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/academics" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Academics</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-academics">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/academics">Academics</a></h2>
+<ul class="academics ">
+<li class="dropdown"><a href="/academics/undergraduate">Undergraduate Academics</a><ul class="undergraduate ">
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/academics/undergraduate/degree-program-options/bs-computer-science">B.S. in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-mathematics-computer-science">B.S. in Mathematics &amp; Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-statistics-computer-science">B.S. in Statistics &amp; Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs">CS + X Degree Programs</a><ul class="cs-x-degree-programs ">
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-advertising">Computer Science + Advertising</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-animal-sciences">Computer Science + Animal Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-anthropology">Computer Science + Anthropology</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-astronomy">Computer Science + Astronomy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-chemistry">Computer Science + Chemistry</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-crop-sciences">Computer Science + Crop Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-economics">Computer Science + Economics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-geography">Computer Science + Geography &amp; Geographic Information Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-linguistics">Computer Science + Linguistics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-music">Computer Science + Music</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-philosophy">Computer Science + Philosophy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/cs-x-degree-requirements">CS + X Degree Requirements &amp; Planning Forms</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-undergraduate-degree-options-faq">CS Undergraduate Degree Options FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/registration">Registration</a><ul class="registration ">
+<li><a href="/academics/undergraduate/registration/cs-course-restrictions-enrollment-caps">CS Course Restrictions &amp; Enrollment Caps</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/policies-and-procedures">Policies and Procedures</a></li>
+<li><a href="/academics/undergraduate/undergraduate-advising">Undergraduate Advising</a></li>
+<li><a href="/academics/undergraduate/cs-student-opportunity-series-cs-sos">CS Student Opportunity Series (CS SOS)</a></li>
+<li><a href="/academics/undergraduate/undergraduate-forms">Undergraduate Forms</a></li>
+<li><a href="/academics/undergraduate/honors">Honors</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate">Graduate Academics</a><ul class="graduate ">
+<li class="dropdown"><a href="/academics/graduate/phd-program">PhD Program</a><ul class="phd-program ">
+<li><a href="/academics/graduate/phd-program/final-exam-thesis-defense">Final Exam (Thesis Defense)</a></li>
+<li><a href="/academics/graduate/phd-program/guidelines-forming-phd-committee">Guidelines for Forming Ph.D. Committee</a></li>
+<li><a href="/academics/graduate/phd-program/phd-ms-thesis-format-review-guidelines">Ph.D. / M.S. Thesis Format Review Guidelines</a></li>
+<li><a href="/academics/graduate/phd-program/phd-program-study-process">PhD Program of Study Process</a></li>
+<li><a href="/academics/graduate/phd-program/phd-requirements">PhD Requirements</a></li>
+<li><a href="/academics/graduate/phd-program/phd-time-limits-milestones">PhD Time Limits &amp; Milestones</a></li>
+<li><a href="/academics/graduate/phd-program/preliminary-exam">Preliminary Exam</a></li>
+<li><a href="/academics/graduate/phd-program/qualifying-exam">Qualifying Exam</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/ms-program">MS Program</a></li>
+<li><a href="/academics/graduate/ms-bioinformatics-program">MS in Bioinformatics Program</a></li>
+<li class="dropdown"><a href="/academics/graduate/professional-mcs">Professional Master of Computer Science</a><ul class="professional-mcs ">
+<li><a href="/academics/graduate/professional-mcs/campus-master-computer-science">On-Campus Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science">Online Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science-data-science">Online Master of Computer Science in Data Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/fifth-year-masters-programs">Fifth Year Master's Programs</a><ul class="fifth-year-masters-programs ">
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-mcs-program">5-year BS-MCS Program</a></li>
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-ms-program">5-year BS-MS Program</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">Illinois Computing Accelerator for Non-Specialists (iCAN)</a><ul class="ican ">
+<li><a href="/academics/graduate/ican/application-process">iCAN Application Process</a></li>
+<li><a href="/academics/graduate/ican/curriculum">iCAN Curriculum</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources">Graduate Forms &amp; Advising Resources</a><ul class="graduate-forms-advising-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/epi-exam-requirements">EPI Exam Requirements</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-advising-contacts">Graduate Advising Contacts</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-student-annual-evaluation-process">Graduate Student Annual Evaluation Process</a></li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources">New Graduate Student Resources</a><ul class="new-graduate-student-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/mcs-campus">MCS On-Campus General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/ms-general">MS General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/phd-general">PhD General Advising for Registration</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/official-forms">Official Forms</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/academics/courses">Courses</a></li>
+<li><a href="/academics/honor-code">Honor Code</a></li>
+<li><a href="https://cs.illinois.edu/student-life/student-resources">Student Resources</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/student-life" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Student Life</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-student-life">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41390_8405" data-pageid="41390" data-tileid="8405" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=55621);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Salesforce's CodeT5 System Can Understand and Generate Code</h2>
+			<div class="description"></div>
+			<p><a href="/news/salesforces-codet5-system-can-understand-and-generate-code" class="button" title="Salesforce's CodeT5 System Can Understand and Generate Code">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 7, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/student-life">Student Life</a></h2>
+<ul class="student-life ">
+<li><a href="/student-life/overview-cs-student-life">Overview of CS Student Life</a></li>
+<li><a href="/student-life/student-organizations">Student Organizations</a></li>
+<li><a href="/student-life/department-college-and-campus-events">Department, College, and Campus Events</a></li>
+<li><a href="/student-life/student-resources">Student Resources</a></li>
+<li><a href="/student-life/career-services">Career Services</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/research" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Research</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-research">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Explore visionary research conducted by world-renowned faculty.</h2>
+<p><a class="orange button" href="/research/areas">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/research">Research</a></h2>
+<ul class="research ">
+<li class="dropdown"><a href="/research/areas">Research Areas</a><ul class="areas ">
+<li><a href="/research/areas/architecture-compilers-and-parallel-computing">Architecture, Compilers, and Parallel Computing</a></li>
+<li><a href="/research/areas/artificial-intelligence">Artificial Intelligence</a></li>
+<li><a href="/research/areas/bioinformatics-and-computational-biology">Bioinformatics and Computational Biology</a></li>
+<li><a href="/research/areas/computers-and-education">Computers and Education</a></li>
+<li><a href="/research/areas/data-and-information-systems">Data and Information Systems</a></li>
+<li><a href="/research/areas/interactive-computing">Interactive Computing</a></li>
+<li><a href="/research/areas/programming-languages-formal-methods-and-software-engineering">Programming Languages, Formal Methods, and Software Engineering</a></li>
+<li><a href="/research/areas/scientific-computing">Scientific Computing</a></li>
+<li><a href="/research/areas/security-and-privacy">Security and Privacy</a></li>
+<li><a href="/research/areas/systems-and-networking">Systems and Networking</a></li>
+<li><a href="/research/areas/theory-and-algorithms">Theory and Algorithms</a></li>
+</ul>
+</li>
+<li><a href="/research/technical-conferences-workshops">Technical Conferences &amp; Workshops</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+<li><a href="/corporate#research">Corporate Partners</a></li>
+<li><a href="https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=3146">Illinois CS Research Overview</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/broadening-participation-computing" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Broadening Participation</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-broadening-participation-computing">
+<section class="tile w50 white-box py-5 marketing">
+<p class="mb-0"><img src="//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=16163&s=375" class="image" alt="" width="375" /></p>
+<p style="padding: 10px 15px 0px 15px;">New certificate program for college graduates who want a deeper understanding of computers, algorithms, and programming.</p>
+<p><a class="orange button" href="/ican">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/broadening-participation-computing">Broadening Participation</a></h2>
+<ul class="broadening-participation-computing ">
+<li><a href="https://drive.google.com/file/d/12vDswb1i-mEXaXgVt7FOhtqYs7b8F_1p/view">BPC Departmental Plan</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs">BPC Programs & Activities for Students</a><ul class="programs ">
+<li><a href="/broadening-participation-computing/programs/csambassadors">CS Student Ambassador/Research Scholars (CS STARS)</a></li>
+<li><a href="/broadening-participation-computing/programs/cskickstart">Illinois CS Kickstart</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs/ai4all">AI4ALL</a><ul class="ai4all ">
+<li><a href="http://go.cs.illinois.edu/DiscoverAI">Apply Now</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">iCAN</a><ul class="ican ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+</ul>
+</li>
+<li><a href="http://cs.illinois.edu/research/summer-research-experience-undergraduates">Summer Research Experience for Undergraduates</a></li>
+</ul>
+</li>
+<li><a href="/broadening-participation-computing/resources">BPC Resources</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/cross-cutting">Cross-Cutting Educational Activities</a><ul class="cross-cutting ">
+<li><a href="/broadening-participation-computing/cross-cutting/conferences-workshops">BPC Conferences & Workshops</a></li>
+<li><a href="/broadening-participation-computing/cross-cutting/ca-training">Course Assistant Training</a></li>
+<li><a href="https://cs.illinois.edu/news/featured-lectures#equity-justice">Equity & Justice in Computing Seminar Series</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/broadening-participation-computing/k-12">K-12 Outreach & Resources</a><ul class="k-12 ">
+<li><a href="/broadening-participation-computing/k-12/k-12-outreach">K-12 Outreach Programs</a></li>
+<li><a href="/broadening-participation-computing/k-12/k-12-resources">K-12 Resources</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/student-life/student-organizations">Student Organizations</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/news" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>News</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-news">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41391_5367" data-pageid="41391" data-tileid="5367" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=51204);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging</h2>
+			<div class="description"><p>The Defense Advanced Research Projects Agency (DARPA) has awarded $5.8 million to a team, led by Illinois CS's <a href="/about/people/faculty/zaher">Tarek Abdelzaher</a>, that will work to characterize how different foreign populations respond to influence campaigns as a first step towards development of effective countermeasures.</p></div>
+			<p><a href="/news/abdelzaher-leading-DARPA-effort-understand-how-people-respond-influence-messaging" class="button" title="Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 8, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/news">News</a></h2>
+<ul class="news ">
+<li><a href="/news">Department News</a></li>
+<li><a href="/news/features">Feature Stories</a></li>
+<li><a href="/news/covid-19-projects">COVID-19 Projects</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/news/media-coverage">Media Coverage</a></li>
+<li><a href="/news/e-news">E-News</a></li>
+<li><a href="/news/impact-report-publications">Impact Report &amp; Publications</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/give" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Give</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-give">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Help ensure that Illinois continues to set a global standard for CS research and education.</h2>
+<p><a class="orange button" href="/give/give-now">Make a Gift</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/give">Give</a></h2>
+<ul class="give ">
+<li><a href="/give/give-now">Give Now</a></li>
+<li><a href="/give/ways-give">Ways to Give</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/give/computer-science-visionary-scholarship-donors">Computer Science Visionary Scholarship Donors</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+</ul>
+</div>
+</nav>
+
+				</div>
+			</header>
+
+			<div id="content">
+				<main>
+					<div  id="hero" class="container-fluid">
+						<div class="row maxwidth1140">
+							<div class="col">
+								<div>
+									<nav id="breadcrumbs"><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/about/people">People</a></li><li><a href="/about/people/all-faculty">All Faculty</a></li></ul></nav>
+									<h1>Ruta Mehta
+</h1>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					
+
+					<div id="content_inner" class="container-fluid">
+						<div class="tile-list">
+							<section class="tile w100 white-box   py-5 " id="tile6806" data-tileid="6806" >
+	<div class="lower  maxwidth1140   " id="lower6806">
+		<div class="row">
+			<div class="col-md column1      " >
+				<div>	<div class="directory-profile maxwidth800" id="article_[postid]">
+		<figure class="image align-right ">
+			<img alt="Ruta Mehta" title="Ruta Mehta" src="//ws.engr.illinois.edu/directory/viewphoto.aspx?id=58210&s=300&type=portrait" />
+			<figcaption>Ruta Mehta</figcaption>
+		</figure>
+
+		<!--<h2>Ruta Mehta</h2>-->
+		<div class="roles">
+			
+			<div><div class="role cat15 primary">
+<div class="title"><strong>Assistant Professor</strong></div>
+<!--<div class="groups"></div>-->
+<div class="phone">(217) 300-4650</div>
+<div class="email"><a href="mailto:rutameht@illinois.edu">rutameht@illinois.edu</a></div>
+<div class="office">3218 Siebel Center for Comp Sci</div>
+</div>
+</div>
+		</div>
+
+		<h2>For more information</h2>
+<ul>
+<li><a href="http://rutamehta.cs.illinois.edu/">Ruta Mehta's Homepage</a></li>
+</ul>
+
+		
+		<h2>Education</h2>
+<ul>
+<li>Doctor of Philosophy, Computer Science and Engineering, Indian Institute of Technology, Bombay. 2012. Advisor: Prof. Milind Sohoni
+</li>
+<li>Masters of Technology,Computer Science and Engineering, Indian Institute of Technology, Bombay, 2005</li>
+<li>Bachelor of Engineering, Computer Engineering, Maharaja Saiyajirao University (MSU) Baroda, 2003</li>
+</ul>
+
+		<h2>Biography</h2>
+<p>I am currently an Assistant Professor in the Department of Computer Science. Prior to joining UIUC, I did postdoc at Simons Institute for Theory of Computing at UC Berkeley (Aug'15 to Dec'15), and in College of Computing at Georgia Tech (Aug'12 to July'15, advisor: Prof. Vijay V. Vazirani). I received my Ph.D. in computer science from IIT-Bombay under the supervision of Prof. Milind Sohoni and Prof. Bharat Adsul, in August 2012. My Ph.D. thesis titled "Nash Equilibrium Computation in Various Games" won the ACM India Doctoral Dissertation Award, 2012.</p>
+
+		<h2>Academic Positions</h2>
+<ul>
+<li>Assistant Professor, Dept of Computer Science, University of Illinois at Urbana-Champaign. 2016 - Present</li>
+<li>Postdoctoral Fellow, Simons Institute for Theory of Computing, University of California at Berkeley. July'15 - Dec'15. Host: Prof. Allistair Sinclair.</li>
+<li>Postdoctoral Fellow, College of Computing, Georgia Institute of Technology. Sept'12 - July'15.  Host: Prof. Vijay V. Vazirani</li>
+<li>Software Engineer and Developer, Sybase India, Aug'05 - July'07</li>
+</ul>
+
+		
+		
+		
+		
+		<h2>Professional Registrations</h2>
+<ul>
+<li>ACM membership since 2017</li>
+</ul>
+
+		
+		
+		
+		<h2>Resident Instruction</h2>
+<ul>
+<li>CS598 RM: Topics on Algorithmic Game Theory, Fall'18</li>
+<li>CS 473: Theory II (Algorithms), Spring'18 (40+ students completed the course)</li>
+<li>CS598 RM: Topics on Algorithmic Game Theory, Spring'17 (Listed in the  "Instructors rated as excellent by students")</li>
+<li>CS473: Theory II (Algorithms), Fall'16 (60+ students completed the course)</li>
+<li>CS598 RM: Topics on Algorithmic Game Theory, Spring'16 </li>
+</ul>
+
+		
+		<h2>Course Development</h2>
+<ul>
+<li>CS598 RM: Topics on Algorithmic Game Theory</li>
+</ul>
+
+		
+		
+		
+		
+		<h2>Research Statement</h2>
+<p>My main research interests lie in the areas of algorithmic game theory, mathematical economics, and in design of efficient algorithms. I am interested in exploring the computability of equilibria, both market and Nash, under various settings, and also understanding the impact of strategic behavior in multi-agent situations. Currently, I am exploring problems from dynamic matching, fair division of scarce resources, and market design for cloud computing. In addition I am exploring avenues for interdisciplinary applications of these tools to genetic evolution, machine learning and dynamical systems.</p>
+
+		
+		
+		
+		<h2>Research Interests</h2>
+<ul>
+<li>Algorithmic Game Theory: Equilibrium Computation and Complexity, Smoothed Analysis, Learning in Games</li>
+<li>Strategic Analysis of Games and Markets</li>
+<li>Game Theoretic Analysis of Genetic Diversity</li>
+</ul>
+
+		
+		
+		<div class="extProfileAREA">
+			<h2>Research Areas</h2>
+<ul>
+<li><a href="http://cs.illinois.edu/research/areas/theory-and-algorithms">Theory and Algorithms</a></li>
+</ul>
+
+		</div>
+		
+		
+		
+		
+		
+		
+		
+		
+		<h2>Selected Articles in Journals</h2>
+<ul>
+<li>A simplex-like algorithm for linear Fisher markets. Adsul, Bharat, Ch Sobhan Babu, Jugal Garg, Ruta Mehta, and Milind Sohoni. JSTOR Current Science (2012), 103(9), 1033-1042.</li>
+<li>A complementary pivot algorithm for market equilibrium under separable, piecewise-linear concave utilities. Jugal Garg, Ruta Mehta, Milind Sohoni, and Vijay V. Vazirani. SIAM Journal on Computing (2015), 44(6), 1820-1847.</li>
+<li>Dichotomies in Equilibrium Computation and Membership of PLC Markets in FIXP.  Jugal Garg, Ruta Mehta, and Vijay V. Vazirani. ELSEVIER Theory of Computing (2016), 12(1), 1-25.</li>
+<li>An incentive compatible, efficient market for air traffic flow management. Ruta Mehta and Vijay V. Vazirani. ELSEVIER Theoretical Computer Science (2018).</li>
+<li>Substitution with Satiation: A New Class of Utility Functions and a Complementary Pivot Algorithm. Jugal Garg, Ruta Mehta, and Vijay Vazirani. INFORMS Mathematics of Operations Research (2018), 43(3).</li>
+<li>Constant Rank Bimatrix Games are PPAD-hard. Ruta Mehta. SIAM Journal on Computing. 47(5): 1858&#173;1887 (2018). (Invited to the special issue on the STOC'14)</li>
+<li>EXISTS-R-Completeness for Decision Versions of Multi-Player (Symmetric) Nash Equilibria. Jugal Garg, Ruta Mehta, Vijay V. Vazirani, and Sadra Yazdanbod, ACM Transactions on Economics and Computation (2018), 6(1).</li>
+</ul>
+
+		<h2>Articles in Conference Proceedings</h2>
+<ul>
+<li>Bilinear Games: Polynomial Time Algorithms for Rank Based Subclasses. Jugal Garg, Albert X. Jiang, and Ruta Mehta. In Proceedings of the International Workshop on Internet and Network Economics (WINE), 399--407, 2011. Springer. (31% acceptance rate)</li>
+<li>The Weighted Majority Algorithm does not Converge in Nearly Zero-sum Games. Maria Florina Balcan, Florin Constantin, and Ruta Mehta. In ICML 2012 workshop on Markets Mechanisms and Multi-Agent Models, 2012. (27% acceptance rate)</li>
+<li>Towards Polynomial Simplex-Like Algorithms for Market Equilibria. Jugal Garg, Ruta Mehta, Milind Sohoni and Nisheeth Vishnoi. In Proceedings of the 24th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA), 1226--1242, 2013. ACM-SIAM. (29% acceptance rate)</li>
+<li>To Save Or Not To Save: The Fisher Game. Ruta Mehta, Nithum Thain, Laszlo A. Vegh, and Adrian Vetta. In Proceedings of the 10th International Conference on Web and Internet Economics (WINE), 294--307, 2014. Springer. (29% acceptance rate)</li>
+<li>Learning Economic Parameters from Revealed Preferences. Maria-Florina Balcan, Amit Daniely, Ruta Mehta, Ruth Urner, and Vijay V. Vazirani. In Proceedings of the 10th International Conference on Web and Internet Economics (WINE), 338--353, 2014. Springer. (29% acceptance rate)</li>
+<li>ETR-Completeness of Decision Versions of 3-Nash. Jugal Garg, Ruta Mehta, Vijay V. Vazirani, and Sadra Yazdanbod. In Proceedings of the 42nd International Colloquium on Automata, Languages, and Programming (ICALP), 554--566, 2015. Springer. (28% acceptance rate)</li>
+<li>Natural Selection as an Inhibitor of Genetic Diversity: Multiplicative Weights Update Algorithm and a Conjecture of Haploid Genetics. Ruta Mehta, Ioannis Panageas and Georgios Piliouras. In Proceedings of the 2015 Conference on Innovations in Theoretical Computer Science (ITCS), 73--73, 2015. (28% acceptance rate)</li>
+<li>Settling Some Open Problems on Symmetric Nash Equilibria. Ruta Mehta, Vijay V. Vazirani, and Sadra Yazdanbod. In Proceedings of the 8th International Symposium on Algorithmic Game Theory (SAGT), 272--284, 2015. Springer. (34% acceptance rate)</li>
+<li>Multilinear Games. Hau Chu, Albert Jiang, Kevin Leyton-Brown, and Ruta Mehta.  In Proceedings of the12th International Conference on Web and Internet Economics (WINE), 44-58, 2016. Springer. (39% acceptance rate)</li>
+<li>The Complexity of Genetic Diversity: Sex with Two Chromosomes is Advantageous but Unpredictable. Ruta Mehta, Ioannis Panageas, Georgios Piliouras and Sadra Yazdanbod. In Proceedings of the 24th Annual European Symposium on Algorithms (ESA), 65:1--65:17, 2016. LIPIcs-Leibniz International Proceedings in Informatics. (27% acceptance rate)</li>
+<li>Get Me to My GATE On Time: Efficiently Solving General-Sum Bayesian Threat Screening Games. Aaron Schlenker, Matthew Brown, Arunesh Sinha, Milind Tambe, and Ruta Mehta. In Proceedings of the 22nd European Conference on Artificial Intelligence (ECAI), 1476--1484, 2016. (27% acceptance rate)</li>
+<li>To Give or not to Give: Fair Division with Strict Preferences. Simina Branzei, Yuezhou Lv, and Ruta Mehta. In Proceedings of the 25th International Joint Conference on Artificial Intelligence (IJCAI), 123--129, 2016. AAAI Press. (24% acceptance rate)</li>
+<li>An Incentive Compatible, Efficient Market for Air Traffic Flow Management. Ruta Mehta, and Vijay V. Vazirani. In Proceedings of the 23rd International Computing and Combinatorics Conference (COCOON), 407-- 419, 2017. Springer. (43% acceptance rate)</li>
+<li>Nash Social Welfare Approximation for Strategic Agents. Simina Branzei, Ruta Mehta, and Vasilis Gkatzelis. In Proceedings of the 2017 ACM Conference on Economics and Computation (EC), 611--628, 2017. ACM. (29% acceptance rate)</li>
+<li>Mutation, Sexual Reproduction and Survival in Dynamic Environments. Ruta Mehta, Ioannis Panageas, Georgios Piliouras, Prasad Tetali, and Vijay V. Vazirani. In Proceedings of the 8th Innovations in Theoretical Computer Science Conference (ITCS), 2017. (35% acceptance rate)</li>
+<li>Settling the Complexity of Leontief and PLC Exchange Markets under Exact and Approximate Equilibria. Jugal Garg, Ruta Mehta, Vijay V. Vazirani and Sadra Yazdanbod. In Proceedings of the 49th Annual ACM SIGACT Symposium on Theory of Computing (STOC), 890--901, 2017. ACM. (24% acceptance rate)</li>
+<li>A New Class of Combinatorial Markets with Covering Constraints: Algorithms and Applications. Nikhil Devanur, Jugal Garg, Ruta Mehta, Vijay V. Vazirani, and Sadra Yazdanbod. In Proceedings of the 29th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA), 2311--2325, 2018. ACM-SIAM. (33% acceptance rate)</li>
+<li>Sum-of-Squares Meets Nash: Lower Bounds for Finding Any Equilibrium. Pravesh Kothari and Ruta Mehta. In Proceedings of the 50th Annual Symposium on the Theory of Computation (STOC), 1241--1248, 2018. ACM.  (26.6% acceptance rate)</li>
+<li>Nash Equilibrium Computation in Resource Allocation Game. Shivam Gupta and Ruta Mehta. In Proceedings of the 17th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 1953-1955, 2018. ACM. (18% acceptance rate)</li>
+<li>Universal Growth in Production Economies. Simina Branzei, Ruta Mehta, and Noam Nisan. In Proceedings of the 32nd Annual Conference on Neural Information Processing Systems (NIPS), forthcoming, 2018. ACM. (21% acceptance rate)</li>
+<li>Social Welfare and Profit Maximization from Revealed Preferences. Ziwei Ji, Ruta Mehta, and Matus Telgarsky. In Proceedings of the 14th Conference on Web and Internet Economicsn (WINE), forthcoming, 2018. ACM. (30% acceptance rate)</li>
+<li>Unique End of Potential Line. John Fearnley, Spencer Gordon, Ruta Mehta, and Rahul Savani. In 46th International Colloquium on Automata, Languages and Programming (ICALP), 56:1 - 56:15, 2019.</li>
+<li>Smoothed Efficient Algorithms and Reductions for Network Coordination Games. Shant Boodaghians, Rucha Kulkarni, and Ruta Mehta. To appear in Innovations in Theoretical Computer Science (ITCS), 2020.</li>
+<li>Online Revenue Maximization for Server Pricing. Shant Boodaghians, Federico Fusco, Stefano Leonardi, Ruta Mehta, and Yishay Mansour. In IJCAI-PRICAI, 2020.</li>
+</ul>
+
+		<h2>Pending Articles</h2>
+<ul>
+<li>Games that (Busy) Neighbors Play.  Wei-Chun Lee, Vasileios Livanos, Ruta Mehta, and Hari Sundaram. Preprint, 2018.</li>
+</ul>
+
+		<h2>Invited Lectures</h2>
+<ul>
+<li><a href="https://arc.gatech.edu/node/164">Sum-of-Squares Meets Nash: Lower Bounds for Finding Any Equilibrium</a></li>
+<li><a href="https://sites.google.com/site/costwagt/home">Combinatorial Markets with Covering Constraints: Algorithms and Applications</a></li>
+<li><a href="https://www.icts.res.in/discussion-meeting/wao2018">Combinatorial Markets with Covering Constraints: Algorithms and Applications</a></li>
+<li><a href="https://www.cs.mcgill.ca/~cai/workshop2016.html">A Market for Scheduling, and a Polynomial time Algorithm for Computing Equilibria</a></li>
+<li><a href="https://www.him.uni-bonn.de/programs/past-programs/past-trimester-programs/combinatorial-optimization-2015/game-theory-workshop/">A Market for Scheduling, and a Polynomial time Algorithm for Computing Equilibria (plenary talk)</a></li>
+<li><a href="http://www.ismp2015.org/">(Essentially) Resolving the Complexity of Constant Rank Bimatrix</a></li>
+<li><a href="https://www.cs.mcgill.ca/~cai/workshop2014.html">(Essentially) Resolving the Complexity of Constant Rank Bimatrix (plenary talk)</a></li>
+<li><a href="http://www.maths.lse.ac.uk/personal/stengel/agt-workshop/index.html">(Essentially) Resolving the Complexity of Constant Rank Bimatrix</a></li>
+<li><a href="http://www.maths.lse.ac.uk/Personal/stengel/sb-all.html"> Rank-1 Bimatrix Games: A Homeomorphism and a Polynomial Time Algorithm</a></li>
+<li><a href="http://www.tcs.tifr.res.in/~prahladh/mysore2012/"> Rank-1 Bimatrix Games: A Homeomorphism and a Polynomial Time Algorithm</a></li>
+<li><a href="http://ismp2012.zib.de/"> On Computability of Equilibria in Markets with Production.</a></li>
+</ul>
+
+		
+		<h2>Patents</h2>
+<ul>
+<li><a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=ruta.INNM.&s2=mehta.INNM.&OS=IN/ruta+AND+IN/mehta&RS=IN/ruta+AND+IN/mehta">Systems and methods for federating open social networks for analyses. Kuntal Dey, Ruta Mehta, Natwar Modani, Seema Nagar, Amit Anil Nanavati. US 20120124134 A1, 2012.
+</a></li>
+<li><a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=ruta.INNM.&s2=mehta.INNM.&OS=IN/ruta+AND+IN/mehta&RS=IN/ruta+AND+IN/mehta">Federating open social networks for analyses.  Kuntal Dey, Ruta Mehta, Natwar Modani, Seema Nagar, Amit Anil Nanavati. US 20120324014 A1, 2012.</a></li>
+</ul>
+
+		
+		
+		
+		
+		
+		<h2>Conferences Organized or Chaired</h2>
+<ul>
+<li><strong>Co-organized</strong> Game Theory Workshop (14 - 17 Dec, 2015), as a part of Combinatorial Optimization trimester at Hausdorff Center for Mathematics, Universitat at Bonn, Germany.</li>
+<li><strong>Chaired</strong> WINE, 2017 Tutorial Session.</li>
+<li><strong>Co-organized</strong> AGT Mentoring Workshop co-located with the 19th ACM Conference on Economics and Computation, June 18, 2018, Cornell University, Ithaca, USA.</li>
+<li><strong>Co-organized</strong> Rising Stars in EECS, 2019, held at U. of I. at Urbana-Champaign. Mentoring workshop for women PhD students interested in academia.</li>
+<li><strong>Co-Chair</strong> WINE 2020, to be held Dec. 2020 in Beijing.</li>
+<li><strong>Area Chair</strong> EC'21</li>
+</ul>
+
+		
+		<h2>Other Scholarly Activities</h2>
+<ul>
+<li><strong>Conference Program Committee:</strong> Annual IEEE Symposium on Foundations of Computer Science (FOCS) (2015)</li>
+<li><strong>Conference Program Committee:</strong>  SIAM: ACM-SIAM Symposium on Discrete Algorithms (SODA) (2017)</li>
+<li><strong>Conference Program Committee:</strong> IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS) (2017, 2015)</li>
+<li><strong>Panels:</strong> Women in computing for the admitted female students visit (2017, 2016).</li>
+<li><strong>Conference Program Committee:</strong> The Web Conference (2018) (2015 poster session)</li>
+<li><strong>Conference Program Committee:</strong> International Symposium on Algorithmic Game Theory (SAGT) (2018,2016)</li>
+<li><strong>Conference Program Committee:</strong> Innovations in Theoretical Computer Science (ITCS) (2018, 2016)</li>
+<li><strong>Conference Program Committee:</strong> ACM Conference on Economics and Computations (EC) (2019) (2016-18 secondary PC)</li>
+<li><strong>Conference Program Committee:</strong> International Colloquium on Automata, Languages and Programming (ICALP) (2019)</li>
+<li><strong>Conference Program Committee:</strong> STOC'20</li>
+<li><strong>Conference Program Committee:</strong> AAAI (2020)</li>
+</ul>
+
+		
+		
+		<h2>Service on Department Committees</h2>
+<ul>
+<li>PhD thesis proposal committee of Vivek Madan, 2017 (Advisor: Chandra Chekuri)
+</li>
+<li>PhD thesis committee of Haiming Jin, 2017 ( Advisor: Klara Nahrstedt)
+</li>
+<li>Panel: Women in computing for the admitted female students visit 2016, 2017.</li>
+<li>The undergraduate study committee, 2016- 2019</li>
+<li>Outreach Committee, 2017 - 2018.</li>
+<li>Diversity Committee, 2019 - now.</li>
+</ul>
+
+		
+		
+		<h2>Service to Federal and State Government</h2>
+<ul>
+<li>NSF proposal review panel for CISE, 2017</li>
+</ul>
+
+		<h2>Other Outside Service</h2>
+<ul>
+<li><strong>Journal Reviewing:</strong> INFORMS<strong>&#160;</strong>Mathematics of Operations Research</li>
+<li><strong>Journal Reviewing:</strong> INFORMS Operations Research</li>
+<li><strong>Journal Reviewing:</strong> Journal of ACM</li>
+<li><strong>Journal Reviewing:</strong> SAIM Journal on Computing</li>
+<li><strong>Journal Reviewing:</strong> Games and Economic Behavior</li>
+<li><strong>Journal Reviewing:</strong> International Journal Game Theory</li>
+<li><strong>Journal Reviewing:</strong> Algorithmica</li>
+<li><strong>Journal Reviewing:</strong> Trans. on Econ & Comp.</li>
+<li><strong>Journal Reviewing:</strong> Theory of Computing</li>
+<li><strong>Committees Served on:</strong> Research scholar representative at IIT-Bombay for the year 2008-2009.
+&#160;</li>
+<li>PhD thesis of Ioannis Panageas, 2016 (Georgia Tech, Advisor: Prasad Tetali)</li>
+<li>PhD thesis of Eric Chastain, 2016 (Rutgers U., Advisor: Eric Allender)</li>
+<li>PhD thesis of Sadra Yazdanbod, 2018 (Georgia Tech, Advisor: Vijay Vazirani)</li>
+</ul>
+
+		<h2>Honors</h2>
+<ul>
+<li>Outstanding Post-Doctoral Researcher Award, College of Computing, Georgia Tech. (2014)</li>
+<li>Rising Stars in EECS, 2013. (2013)</li>
+<li>Excellence in Ph.D. Thesis Award, 2012, IIT-Bombay. (2012)</li>
+<li>First ACM India Doctoral Dissertation Award 2012 . (2012)</li>
+<li>Google India Anita Borg Memorial Scholarship 2012. (2012)</li>
+<li>Part of the China Theory Week 2012, hosted by Aarhus University, Denmark. (2012)</li>
+<li>IBM PhD Award in 2010 . (2010)</li>
+<li>IBM PhD Fellowship for the year 2009-2010. (2009)</li>
+</ul>
+
+		<h2>Teaching Honors</h2>
+<ul>
+<li>Teachers Rated as Excellent (Spring'17)</li>
+</ul>
+
+		<h2>Research Honors</h2>
+<ul>
+<li>NSF CAREER Award (Jan'18)</li>
+</ul>
+
+		
+		
+		
+		<h2>Courses Taught - Last Four Years</h2>
+<ul><li>CS 473 - Algorithms</li>
+<li>CS 580 - Topics in Algrthmc Game Theory</li>
+<li>CS 598 - Algorithmic Game Theory</li>
+<li>CSE 414 - Algorithms</li>
+<li>MATH 473 - Algorithms</li>
+</ul>
+	</div>
+
+
+</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile w110 white-box   py-5 " id="tile7058" data-tileid="7058" >
+	<div class="lower     " id="lower7058">
+		<div class="row">
+			<div class="col-md column1      " >
+				<h2 class="text-center">Related News</h2>
+<div id="faculty-news" class="tile-list"><section class="tile news w25 platinum-box" id="page5799" data-pageid="5799" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(https://cs2020.dev.engr.illinois.edu/images/siebel-sculpture.jpg?id=);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/illinois-welcomes-rising-stars-2019">Illinois Welcomes Rising Stars 2019</a></h2>
+				<p class="first"><a href="/news">News</a> | October 29, 2019</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile news w25 platinum-box" id="page6202" data-pageid="6202" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=10305);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/mehta-earns-nsf-career-award-will-target-research-equilibrium-computation">Mehta Earns NSF CAREER Award, Will Target Research on Equilibrium Computation</a></h2>
+				<p class="first"><a href="/news">News</a> | March 14, 2018</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile news w25 platinum-box" id="page6408" data-pageid="6408" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=10400);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/cs-illinois-siebel-scholars-class-2017">CS @ ILLINOIS Siebel Scholars Class of 2017</a></h2>
+				<p class="first"><a href="/news">News</a> | September 13, 2016</p>
+			</div>
+		</div>
+	</div>
+</section>
+</div>
+<p>&nbsp;</p>
+<p class="text-center"><a class="button orange loader" href="#" data-target="faculty-news" data-template="81" data-bookid="81" data-return="4" data-filter-field="netid" data-filter-value="rutameht">Load more news</a></p>
+			</div>
+		</div>
+	</div>
+</section>
+
+						</div>
+					</div>
+				</main>
+			</div>
+
+			<footer>
+							<div class="container-fluid maxwidth1140">
+				<div class="row pt-5 pb-3">
+					<div class="col-lg-5 mb-5">
+						<div class="campus_wordmark"><a href="http://illinois.edu/"><img src="https://ws.engr.illinois.edu/images/uiuc-footer-wordmark.png" alt="University of Illinois Urbana Champaign"></a></div>
+					</div>
+
+					<div class="col-lg-7 mb-4 socials">
+						<a href="https://www.facebook.com/CSatIllinois/"><i class="fab fa-facebook-f"></i><span class="sr-only">Facebook</span></a>
+						<a href="https://twitter.com/IllinoisCS"><i class="fab fa-twitter"></i><span class="sr-only">Twitter</span></a>
+						<a href="https://www.youtube.com/user/IllinoisCS"><i class="fab fa-youtube"></i><span class="sr-only">YouTube</span></a>
+						<a href="https://www.linkedin.com/school/illinoiscs"><i class="fab fa-linkedin-in"></i><span class="sr-only">LinkedIn</span></a>
+						<a href="https://www.instagram.com/illinoiscs/"><i class="fab fa-instagram"></i><span class="sr-only">Instagram</span></a>
+						<div class="w-100 d-block d-lg-none"></div>
+						<a href="/about/contact-us" class="button">Contact Us</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="container-fluid maxwidth1140">
+				<div class="row pb-5 justify-content-between">
+					<div class="col-md pr-xl-5 mb-5 college_container">
+
+						<div class="contact">
+							<p><span class="fs150x"><a href="https://cs.illinois.edu">Thomas M. Siebel Center for Computer Science</a></span><br />
+                                                       201 North Goodwin Avenue MC 258<br />
+                                                        Urbana, IL 61801-2302<br />
+                                                         ph: 217-333-3426 (general) | 217-333-4428 (advising) <br />
+                                                         fax: 217-333-3501</p>
+                                                        <p> General email: <a href="mailto:admin@cs.illinois.edu">admin@cs.illinois.edu</a><br />
+                                                         Graduate Advising: <a href="mailto:academic@cs.illinois.edu">academic@cs.illinois.edu</a><br />
+                                                         Undergraduate Advising: <a href="mailto:undergrad@cs.illinois.edu">undergrad@cs.illinois.edu</a><br />
+                                                          Webmaster: <a href="mailto:grainger-marcom@illinois.edu?subject=CS Request">grainger-marcom@illinois.edu</a></p>
+							<p><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a><br />
+							<a href="https://illinois.edu">University of Illinois</a></p>
+
+						</div>
+					</div>
+
+
+					<div class="col-md pr-xl-5 my-5 concentrations">
+                                 	
+					</div>
+				</div>
+			</div>
+
+				<div class="container-fluid" id="legal">
+					<div class="row justify-content-md-center align-items-center py-4">
+
+						<div class="col-md-auto">
+							<div><button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Preferences</button></div>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Copyright &copy; 2021 University of Illinois Board of Trustees</p>
+						</div>
+
+						<div class="col-md-auto">
+							<p><a href="https://grainger.illinois.edu/cookie-policy">Cookie Policy</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy</a></p>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Powered by <a href="https://my.engr.illinois.edu/sitemanager/editpage.asp?id=11846">SiteManager</a> | <a href="mailto:grainger-marcom@illinois.edu">Contact Webmaster</a></p>
+						</div>
+					</div>
+				</div>
+
+				<div id="gototop" class="hidden">
+					<a href="#"><i class="fa fa-chevron-up"></i><span class="sr-only">Go to top</span></a>
+				</div>
+			</footer>
+		</div>
+
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+		<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax-video.min.js"></script>
+		<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+		<script src="https://cdn.datatables.net/responsive/2.2.5/js/dataTables.responsive.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.0/circle-progress.min.js'></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/twbs-pagination/1.4.2/jquery.twbsPagination.min.js'></script>
+		<script src="https://ws.engr.illinois.edu/sitemanager/genscripts.js?v=2.660.676"></script>
+		<script src="/js/scripts.js?v=0.27"></script>
+
+		<script async="async" src="https://enroll.illinois.edu/ping"></script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-9571262-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-9571262-1');
+</script>
+
+		
+	</body>
+</html>
+
+

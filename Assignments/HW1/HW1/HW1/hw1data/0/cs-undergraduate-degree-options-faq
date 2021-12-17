@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>CS Undergraduate Degree Options FAQ | Computer Science | UIUC</title>
+		<link rel="shortcut icon" type="image/x-icon" href="//ws.engr.illinois.edu/images/favicon.ico">
+
+		<meta name="description" content="CS Undergraduate Degree Options FAQ">
+		<meta name="author" content="Grainger Engineering Office of Marketing and Communications">
+
+		<!-- meta tags for mobile devices -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">  
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+				<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="26be7d61-2017-4ea7-8a8b-8f1704889763"></script>
+		<script type="text/javascript"> function OptanonWrapper() { } </script>
+
+		<meta property="og:type" content="article" />
+<meta property="og:title" content="CS Undergraduate Degree Options FAQ" />
+<meta property="og:description" content="CS Undergraduate Degree Options FAQ" />
+<meta property="og:url" content="https://cs.illinois.edu/academics/undergraduate/degree-program-options/cs-undergraduate-degree-options-faq" />
+<meta property="og:image" content="https://ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=12050" />
+
+
+		<!-- fonts -->
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i,900,900i%7cBarlow+Condensed%7cPlayfair+Display%7cMontserrat:400,500,600,700,800%7cFjalla+One%7cLexend+Exa%7cMontserrat+Alternates:400,700">
+		<script src="https://kit.fontawesome.com/64a62210ef.js"></script>
+
+		<!-- stylesheets -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.5/css/responsive.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://ws.engr.illinois.edu/sitemanager/gensite.css?v=2.671.281">
+		<link rel="stylesheet" type="text/css" href="/css/styles.css?v=0.19">
+
+				<!-- Global site tag (gtag.js) - Google Ads: 1011414001 -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1011414001"></script>
+		<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-1011414001'); </script> 
+		<!-- Event snippet for Outbound Google Ads click conversions -->
+		<script> function gtag_report_conversion(url) {var callback = function () {if (typeof(url) != 'undefined') {window.location = url;}};gtag('event', 'conversion', {'send_to': 'AW-1011414001/YNxnCM-1kfMBEPHno-ID','event_callback': callback});return false;} </script>
+		
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	</head>
+
+	<body class="site prod academics undergraduate degree-program-options cs-undergraduate-degree-options-faq  isattop theme_dagobah" data-sidebar="" data-sidebarskip="[sidebarskip]" data-sidebarinclude="[sidebarinclude]">
+		<div id="page">
+			
+			<header>
+				<div id="skiptocontent"><a href="#content">skip to main content</a></div>
+
+				<div class="container-fluid campus">
+					<div class="row mx-auto maxwidth1140">
+						<div class="col p-0">
+							<a href="http://illinois.edu/"><span>University of Illinois Urbana-Champaign</span></a>
+						</div>
+						<div id="featurelinks" class="col p-0 text-right">
+							<ul>
+	<li><a href="/alumni">Alumni</a></li>
+	<li><a href="/corporate">Corporate</a></li>
+       <li><a href="/about/people">People</a></li>
+	<li><a href="https://my.cs.illinois.edu">My.CS</a></li>
+</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="container-fluid site">
+					<div class="row wordmark d-flex flex-nowrap align-items-center">
+						<div class="d-flex flex-fill pr-3">
+							<div class="blocki"><a href="https://illinois.edu">University of Illinois at Urbana-Champaign</a></div>
+							<div class="site_identification">
+								<div class="parent_name"><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a></div>
+								<div class="site_name"><a href="/"><span>Computer Science</span></a></div>
+							</div>
+						</div>
+
+						<div class="d-flex align-items-center">
+							<div id="header-search-container" class="d-none d-lg-block site-search">
+								<form class="form-inline" method="get" action="/search" id="search-form">
+									<div class="input-group">
+										<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="header-search-go-button">
+										<div class="input-group-append">
+											<a href="/search" onclick="$('#header-search-container form').submit(); return false;" class="input-group-text" id="header-search-go-button"><i class="far fa-search"></i><span class="sr-only">Search</span></a>
+										</div>
+									</div>
+								</form>	
+							</div>
+
+							<div id="mainnav-toggler-container">
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainnav" aria-controls="mainnav" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="icon"></span> <span class="label sr-only">Menu</span>
+								</button>
+							</div>
+						</div>
+					</div>
+					<nav class="navbar navbar-expand-lg p-0">
+<div class="collapse navbar-collapse" id="mainnav">
+<form class="d-block d-lg-none" method="get" action="/search" id="mobile-search-form">
+<div class="form-row p-3">
+<div class="col">
+<div class="input-group">
+<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="mobile-search-go-button">
+<div class="input-group-append">
+<a href="/search" onclick="$('#mobile-search-form').submit(); return false;" class="input-group-text" id="mobile-search-go-button"><i class="far fa-search" aria-hidden="true"></i><span class="sr-only">Search</span></a>
+</div>
+</div>
+</div>
+</div>
+</form>
+<ul class="navbar-nav w-100">
+<li class="dropdown mega twocol nav-item">
+<a href="/about" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>About</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-about">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/about">About</a></h2>
+<ul class="about ">
+<li><a href="/about/cs-cares">CS CARES Committee</a></li>
+<li><a href="/about/values">Values & Code of Conduct</a></li>
+<li><a href="/about/statistics">Rankings & Statistics</a></li>
+<li><a href="/about/contact-us">Contact Us & Directions</a></li>
+<li class="dropdown"><a href="/about/people">People</a><ul class="people ">
+<li><a href="/about/people/all-faculty">All Faculty</a></li>
+<li><a href="/about/people/department-faculty">Department Faculty</a></li>
+<li><a href="/about/people/affiliate-faculty">Affiliate Faculty</a></li>
+<li><a href="/about/people/adjunct-faculty">Adjunct Faculty</a></li>
+<li><a href="/about/people/postdocs">Postdocs</a></li>
+<li><a href="/about/people/emeritus-faculty">Emeritus Faculty</a></li>
+<li class="dropdown"><a href="/about/people/staff">Staff</a><ul class="staff ">
+<li><a href="/about/people/staff/office-department-head">Office of the Department Head</a></li>
+<li><a href="/about/people/staff/communications-engagement-team">Communications &amp; Engagement Team</a></li>
+<li><a href="/about/people/staff/undergraduate-advising-office">Undergraduate Advising Office</a></li>
+<li><a href="/about/people/staff/graduate-advising-office">Graduate Advising Office</a></li>
+<li><a href="/about/people/staff/instructional-development-team">Instructional Development Team</a></li>
+<li><a href="/about/people/staff/business-office">Business Office</a></li>
+<li><a href="/about/people/staff/faculty-support-contacts">Faculty Support Contacts</a></li>
+<li><a href="/about/people/staff/facilities-shipping-and-receiving">Facilities, Shipping and Receiving</a></li>
+</ul>
+</li>
+<li><a href="/about/people/graduating-phd-students">Graduating PhD Students</a></li>
+<li><a href="/about/people/recent-phd-alumni">Recent PhD Alumni</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/positions">Open Positions</a><ul class="positions ">
+<li><a href="/about/positions/faculty-positions">Faculty Positions</a></li>
+<li><a href="/about/positions/postdoctoral">Postdoctoral Positions</a></li>
+<li><a href="/about/positions/staff-positions">Staff Positions</a></li>
+<li><a href="/about/positions/choose-illinois-computer-science">Choose Illinois Computer Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/calendar">Calendar</a><ul class="calendar ">
+<li><a href="/about/calendar/all">All Events</a></li>
+<li><a href="/about/calendar/corporate">Corporate Events</a></li>
+<li><a href="/about/calendar/department">Department Events</a></li>
+<li><a href="/about/calendar/graduate">Graduate Events</a></li>
+<li><a href="/about/calendar/outreach">Outreach Events</a></li>
+<li><a href="/about/calendar/speakers">Speakers</a></li>
+<li><a href="/about/calendar/student-groups">Student Group Events</a></li>
+<li><a href="/about/calendar/undergraduate">Undergraduate Events</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards">Awards</a><ul class="awards ">
+<li><a href="/about/awards/celebration">Celebration of Excellence</a></li>
+<li class="dropdown"><a href="/about/awards/faculty-awards">Faculty Awards</a><ul class="faculty-awards ">
+<li><a href="/about/awards/faculty-awards/chairs-and-professorships">Chairs and Professorships</a></li>
+<li><a href="/about/awards/faculty-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/faculty-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards/undergraduate-scholarships-awards">Undergraduate Scholarships &amp; Awards</a><ul class="undergraduate-scholarships-awards ">
+<li><a href="/about/awards/undergraduate-scholarships-awards/shieh-li-scholarship">Ruey-Feng Shieh Li Family Scholarship</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/graduate-fellowships-awards">Graduate Fellowships &amp; Awards</a></li>
+<li class="dropdown"><a href="/about/awards/alumni-awards">Alumni Awards</a><ul class="alumni-awards ">
+<li><a href="/about/awards/alumni-awards/alumni-awards-past-recipients">Alumni Awards Past Recipients</a></li>
+<li><a href="/about/awards/alumni-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/alumni-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/staff-awards">Staff Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/history-timeline">History Timeline</a></li>
+<li><a href="/about/accreditation">Accreditation</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/admissions" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Admissions</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-admissions">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/admissions">Admissions</a></h2>
+<ul class="admissions ">
+<li class="dropdown"><a href="/admissions/undergraduate">Undergraduate Admissions</a><ul class="undergraduate ">
+<li><a href="https://admissions.illinois.edu/apply">Apply Now</a></li>
+<li><a href="/academics/undergraduate/degree-program-options">Degree & Program Options</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/dates">Application Deadlines</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/process">Applications Process & Requirements</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+<li><a href="https://www.housing.illinois.edu">Housing</a></li>
+<li><a href="/about-us/accreditation">Accreditation</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/admissions/graduate">Graduate Admissions</a><ul class="graduate ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+<li class="dropdown"><a href="/admissions/graduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/admissions/graduate/degree-program-options/professional-master-computer-science-mcs-program">Professional Master of Computer Science (MCS) Program</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-deadlines">Application Deadlines</a></li>
+<li class="dropdown"><a href="/admissions/graduate/applications-process-requirements">Applications Process &amp; Requirements</a><ul class="applications-process-requirements ">
+<li><a href="/admissions/graduate/applications-process-requirements/additional-required-application-materials">Additional Required Application Materials for International Students</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/application-fee-waivers">Application Fee Waivers</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/data-structures-proficiency-exam">Data Structures Proficiency Exam</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-checklist">Application Checklist</a></li>
+<li class="dropdown"><a href="/admissions/graduate/faqs">FAQs</a><ul class="faqs ">
+<li><a href="/admissions/graduate/faqs/ican-faqs">iCAN FAQs</a></li>
+<li><a href="/admissions/graduate/faqs/online-mcs-faqs">Online MCS FAQs</a></li>
+</ul>
+</li>
+<li><a href="https://choose.illinois.edu/apply/">Check Application Status</a></li>
+</ul>
+</li>
+<li><a href="/admissions/impact-illinois-cs-degree">Impact of an Illinois CS Degree</a></li>
+<li><a href="/admissions/financial-aid">Financial Aid</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/academics" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Academics</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-academics">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/academics">Academics</a></h2>
+<ul class="academics ">
+<li class="dropdown"><a href="/academics/undergraduate">Undergraduate Academics</a><ul class="undergraduate ">
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/academics/undergraduate/degree-program-options/bs-computer-science">B.S. in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-mathematics-computer-science">B.S. in Mathematics &amp; Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-statistics-computer-science">B.S. in Statistics &amp; Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs">CS + X Degree Programs</a><ul class="cs-x-degree-programs ">
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-advertising">Computer Science + Advertising</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-animal-sciences">Computer Science + Animal Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-anthropology">Computer Science + Anthropology</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-astronomy">Computer Science + Astronomy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-chemistry">Computer Science + Chemistry</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-crop-sciences">Computer Science + Crop Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-economics">Computer Science + Economics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-geography">Computer Science + Geography &amp; Geographic Information Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-linguistics">Computer Science + Linguistics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-music">Computer Science + Music</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-philosophy">Computer Science + Philosophy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/cs-x-degree-requirements">CS + X Degree Requirements &amp; Planning Forms</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-undergraduate-degree-options-faq">CS Undergraduate Degree Options FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/registration">Registration</a><ul class="registration ">
+<li><a href="/academics/undergraduate/registration/cs-course-restrictions-enrollment-caps">CS Course Restrictions &amp; Enrollment Caps</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/policies-and-procedures">Policies and Procedures</a></li>
+<li><a href="/academics/undergraduate/undergraduate-advising">Undergraduate Advising</a></li>
+<li><a href="/academics/undergraduate/cs-student-opportunity-series-cs-sos">CS Student Opportunity Series (CS SOS)</a></li>
+<li><a href="/academics/undergraduate/undergraduate-forms">Undergraduate Forms</a></li>
+<li><a href="/academics/undergraduate/honors">Honors</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate">Graduate Academics</a><ul class="graduate ">
+<li class="dropdown"><a href="/academics/graduate/phd-program">PhD Program</a><ul class="phd-program ">
+<li><a href="/academics/graduate/phd-program/final-exam-thesis-defense">Final Exam (Thesis Defense)</a></li>
+<li><a href="/academics/graduate/phd-program/guidelines-forming-phd-committee">Guidelines for Forming Ph.D. Committee</a></li>
+<li><a href="/academics/graduate/phd-program/phd-ms-thesis-format-review-guidelines">Ph.D. / M.S. Thesis Format Review Guidelines</a></li>
+<li><a href="/academics/graduate/phd-program/phd-program-study-process">PhD Program of Study Process</a></li>
+<li><a href="/academics/graduate/phd-program/phd-requirements">PhD Requirements</a></li>
+<li><a href="/academics/graduate/phd-program/phd-time-limits-milestones">PhD Time Limits &amp; Milestones</a></li>
+<li><a href="/academics/graduate/phd-program/preliminary-exam">Preliminary Exam</a></li>
+<li><a href="/academics/graduate/phd-program/qualifying-exam">Qualifying Exam</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/ms-program">MS Program</a></li>
+<li><a href="/academics/graduate/ms-bioinformatics-program">MS in Bioinformatics Program</a></li>
+<li class="dropdown"><a href="/academics/graduate/professional-mcs">Professional Master of Computer Science</a><ul class="professional-mcs ">
+<li><a href="/academics/graduate/professional-mcs/campus-master-computer-science">On-Campus Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science">Online Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science-data-science">Online Master of Computer Science in Data Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/fifth-year-masters-programs">Fifth Year Master's Programs</a><ul class="fifth-year-masters-programs ">
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-mcs-program">5-year BS-MCS Program</a></li>
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-ms-program">5-year BS-MS Program</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">Illinois Computing Accelerator for Non-Specialists (iCAN)</a><ul class="ican ">
+<li><a href="/academics/graduate/ican/application-process">iCAN Application Process</a></li>
+<li><a href="/academics/graduate/ican/curriculum">iCAN Curriculum</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources">Graduate Forms &amp; Advising Resources</a><ul class="graduate-forms-advising-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/epi-exam-requirements">EPI Exam Requirements</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-advising-contacts">Graduate Advising Contacts</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-student-annual-evaluation-process">Graduate Student Annual Evaluation Process</a></li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources">New Graduate Student Resources</a><ul class="new-graduate-student-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/mcs-campus">MCS On-Campus General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/ms-general">MS General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/phd-general">PhD General Advising for Registration</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/official-forms">Official Forms</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/academics/courses">Courses</a></li>
+<li><a href="/academics/honor-code">Honor Code</a></li>
+<li><a href="https://cs.illinois.edu/student-life/student-resources">Student Resources</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/student-life" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Student Life</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-student-life">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41390_8405" data-pageid="41390" data-tileid="8405" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=55621);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Salesforce's CodeT5 System Can Understand and Generate Code</h2>
+			<div class="description"></div>
+			<p><a href="/news/salesforces-codet5-system-can-understand-and-generate-code" class="button" title="Salesforce's CodeT5 System Can Understand and Generate Code">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 7, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/student-life">Student Life</a></h2>
+<ul class="student-life ">
+<li><a href="/student-life/overview-cs-student-life">Overview of CS Student Life</a></li>
+<li><a href="/student-life/student-organizations">Student Organizations</a></li>
+<li><a href="/student-life/department-college-and-campus-events">Department, College, and Campus Events</a></li>
+<li><a href="/student-life/student-resources">Student Resources</a></li>
+<li><a href="/student-life/career-services">Career Services</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/research" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Research</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-research">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Explore visionary research conducted by world-renowned faculty.</h2>
+<p><a class="orange button" href="/research/areas">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/research">Research</a></h2>
+<ul class="research ">
+<li class="dropdown"><a href="/research/areas">Research Areas</a><ul class="areas ">
+<li><a href="/research/areas/architecture-compilers-and-parallel-computing">Architecture, Compilers, and Parallel Computing</a></li>
+<li><a href="/research/areas/artificial-intelligence">Artificial Intelligence</a></li>
+<li><a href="/research/areas/bioinformatics-and-computational-biology">Bioinformatics and Computational Biology</a></li>
+<li><a href="/research/areas/computers-and-education">Computers and Education</a></li>
+<li><a href="/research/areas/data-and-information-systems">Data and Information Systems</a></li>
+<li><a href="/research/areas/interactive-computing">Interactive Computing</a></li>
+<li><a href="/research/areas/programming-languages-formal-methods-and-software-engineering">Programming Languages, Formal Methods, and Software Engineering</a></li>
+<li><a href="/research/areas/scientific-computing">Scientific Computing</a></li>
+<li><a href="/research/areas/security-and-privacy">Security and Privacy</a></li>
+<li><a href="/research/areas/systems-and-networking">Systems and Networking</a></li>
+<li><a href="/research/areas/theory-and-algorithms">Theory and Algorithms</a></li>
+</ul>
+</li>
+<li><a href="/research/technical-conferences-workshops">Technical Conferences &amp; Workshops</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+<li><a href="/corporate#research">Corporate Partners</a></li>
+<li><a href="https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=3146">Illinois CS Research Overview</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/broadening-participation-computing" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Broadening Participation</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-broadening-participation-computing">
+<section class="tile w50 white-box py-5 marketing">
+<p class="mb-0"><img src="//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=16163&s=375" class="image" alt="" width="375" /></p>
+<p style="padding: 10px 15px 0px 15px;">New certificate program for college graduates who want a deeper understanding of computers, algorithms, and programming.</p>
+<p><a class="orange button" href="/ican">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/broadening-participation-computing">Broadening Participation</a></h2>
+<ul class="broadening-participation-computing ">
+<li><a href="https://drive.google.com/file/d/12vDswb1i-mEXaXgVt7FOhtqYs7b8F_1p/view">BPC Departmental Plan</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs">BPC Programs & Activities for Students</a><ul class="programs ">
+<li><a href="/broadening-participation-computing/programs/csambassadors">CS Student Ambassador/Research Scholars (CS STARS)</a></li>
+<li><a href="/broadening-participation-computing/programs/cskickstart">Illinois CS Kickstart</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs/ai4all">AI4ALL</a><ul class="ai4all ">
+<li><a href="http://go.cs.illinois.edu/DiscoverAI">Apply Now</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">iCAN</a><ul class="ican ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+</ul>
+</li>
+<li><a href="http://cs.illinois.edu/research/summer-research-experience-undergraduates">Summer Research Experience for Undergraduates</a></li>
+</ul>
+</li>
+<li><a href="/broadening-participation-computing/resources">BPC Resources</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/cross-cutting">Cross-Cutting Educational Activities</a><ul class="cross-cutting ">
+<li><a href="/broadening-participation-computing/cross-cutting/conferences-workshops">BPC Conferences & Workshops</a></li>
+<li><a href="/broadening-participation-computing/cross-cutting/ca-training">Course Assistant Training</a></li>
+<li><a href="https://cs.illinois.edu/news/featured-lectures#equity-justice">Equity & Justice in Computing Seminar Series</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/broadening-participation-computing/k-12">K-12 Outreach & Resources</a><ul class="k-12 ">
+<li><a href="/broadening-participation-computing/k-12/k-12-outreach">K-12 Outreach Programs</a></li>
+<li><a href="/broadening-participation-computing/k-12/k-12-resources">K-12 Resources</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/student-life/student-organizations">Student Organizations</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/news" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>News</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-news">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41391_5367" data-pageid="41391" data-tileid="5367" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=51204);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging</h2>
+			<div class="description"><p>The Defense Advanced Research Projects Agency (DARPA) has awarded $5.8 million to a team, led by Illinois CS's <a href="/about/people/faculty/zaher">Tarek Abdelzaher</a>, that will work to characterize how different foreign populations respond to influence campaigns as a first step towards development of effective countermeasures.</p></div>
+			<p><a href="/news/abdelzaher-leading-DARPA-effort-understand-how-people-respond-influence-messaging" class="button" title="Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 8, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/news">News</a></h2>
+<ul class="news ">
+<li><a href="/news">Department News</a></li>
+<li><a href="/news/features">Feature Stories</a></li>
+<li><a href="/news/covid-19-projects">COVID-19 Projects</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/news/media-coverage">Media Coverage</a></li>
+<li><a href="/news/e-news">E-News</a></li>
+<li><a href="/news/impact-report-publications">Impact Report &amp; Publications</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/give" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Give</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-give">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Help ensure that Illinois continues to set a global standard for CS research and education.</h2>
+<p><a class="orange button" href="/give/give-now">Make a Gift</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/give">Give</a></h2>
+<ul class="give ">
+<li><a href="/give/give-now">Give Now</a></li>
+<li><a href="/give/ways-give">Ways to Give</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/give/computer-science-visionary-scholarship-donors">Computer Science Visionary Scholarship Donors</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+</ul>
+</div>
+</nav>
+
+				</div>
+			</header>
+
+			<div id="content">
+				<main>
+					<div  id="hero" class="container-fluid">
+						<div class="row maxwidth1140">
+							<div class="col">
+								<div>
+									<nav id="breadcrumbs"><ul><li><a href="/">Home</a></li><li><a href="/academics">Academics</a></li><li><a href="/academics/undergraduate">Undergraduate Academics</a></li><li><a href="/academics/undergraduate/degree-program-options">Degree &amp; Program Options</a></li></ul></nav>
+									<h1>CS Undergraduate Degree Options FAQ</h1>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					
+
+					<div id="content_inner" class="container-fluid">
+						<div class="tile-list">
+							<section class="tile w110 white-box   py-5 " id="tile4549" data-tileid="4549" >
+	<div class="lower  maxwidth1140   " id="lower4549">
+		<div class="row">
+			<div class="col-md column1      " >
+				<p class="intro">Illinois Computer Science offers a variety of undergraduate degree programs, including several innovative <a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs">CS + X</a> degrees that blend a strong grounding in computer science with training in another field.</p>
+<p class="intro">Here are a few of the frequently asked questions about CS Undergraduate Degree Options at Illinois:</p>
+<h3><strong>General Information</strong></h3>
+<h4><strong>1) What&rsquo;s the difference between the Computer Science major from&nbsp;The Grainger College of Engineering and the other CS programs at the University of Illinois at Urbana-Champaign?</strong></h4>
+<p>In terms of course requirements, all of our programs share the same core of CS coursework, but <a href="/academics/undergraduate/degree-program-options/bs-computer-science">Computer Science majors in The Grainger College of Engineering</a> are also required to take 6-8 <a href="/academics/undergraduate/degree-program-options/bs-computer-science">technical electives</a> from among the 400-level courses in specialized areas of Computer Science. &nbsp;Students majoring in the other CS programs are required to take a substantial concentration of coursework in another department, thus blending CS with another discipline.&nbsp;</p>
+<p>Because CS degrees outside of The Grainger College of Engineering are awarded by those colleges, some things will be different. For example, general education requirements may vary slightly by college, especially language other than English and science. We recommend prospective students to <a href="/academics/undergraduate/degree-program-options">consult the specific degree requirements of each program</a> of interest.</p>
+<p>Only students enrolled in Computer Science in The Grainger College of Engineering are eligible to pursue the <a href="/academics/graduate/fifth-year-masters-programs">Fifth Year Master&rsquo;s programs</a> offered by The Grainger College of Engineering.</p>
+<h4><strong>2)<strong> W</strong>hat&rsquo;s the difference between Computer Science from The Grainger College of Engineering and Computer Engineering?</strong></h4>
+<p>Computer Engineering resides in a different department, the Department of Electrical and Computer Engineering.&nbsp; Roughly speaking, Computer Engineering focuses more on design and development of the physical components used in computing (hardware), whereas, Computer Science is focused more on using computation to solve problems (software).</p>
+<h4><strong>3)<strong> W</strong>hat computer languages are taught in required CS courses at the University of Illinois at Urbana-Champaign?</strong></h4>
+<p>Core courses for CS majors are taught in Java, C++, C programming, Python, and assembly languages. Some elective courses and registered student organizations (RSOs) may teach additional programming languages.</p>
+<h4><strong>4) Are the &ldquo;CS + X&rdquo; programs dual-degree programs? What kind of degree would I end up with?</strong></h4>
+<p>No.&nbsp; Each is a single major with two parts incorporating core elements of CS and the X degree. All of our programs lead to a Bachelor of Science degree.</p>
+<h4><strong>5) Who should enroll in Math &amp; CS, Statistics &amp; CS, or CS + X?</strong></h4>
+<p>CS + X majors are for students who are interested in both CS and the &lsquo;X&rsquo; field; the same is true for Math &amp; CS and Statistics &amp; CS. Students in these majors understand that computing technologies are influencing nearly every field, including the other field blended with CS, and they want to build computational tools with the potential to innovate, change, and shape the future of that field.&nbsp; Students in Math &amp; CS, Statistics &amp; CS, and CS + X will graduate with a strong grounding in both sides of their degree.</p>
+<h4><strong>6) Who should NOT enroll in Math &amp; CS, Statistics &amp; CS, and CS + X?</strong></h4>
+<p>These majors are not for students who are <strong>primarily focused</strong> on CS. Those without an interest in both subjects in a blended program should apply only for the&nbsp;<a href="/academics/undergraduate/degree-program-options/bs-computer-science">Computer Science major from The Grainger College of Engineering</a>.</p>
+<h4><strong>7) What kinds of employment opportunities do the various CS programs prepare students for?&nbsp; </strong></h4>
+<p>Past experience tells us students in all of the Computer Science programs at the University of Illinois at Urbana-Champaign&nbsp;are well-prepared for software design/software development positions in almost any field. The 400-level CS electives required for students in CS-Engineering add breadth and depth to that knowledge. As our CS + X programs develop, on the other hand, students in these majors will be well-qualified for more specialized jobs that require applying computational solutions to problems in those fields, whether in Advertising, Crop Sciences, Music, or others.</p>
+<h4><strong>8) Do employers prefer graduates from one program over another?</strong></h4>
+<p>For general software design/software development and many IT positions, it seems most employers show little or no preference between CS programs.&nbsp; While it&rsquo;s too early to detect employment trends for graduates from our newer CS + X programs, we have not found that CS majors from the Grainger College of Engineering, for example, receive significantly more or better internship or long-term employment offers than students in our Math &amp; CS or Statistics &amp; CS majors. We do predict that some employers will look favorably on specific CS + X programs. Even before we had students in our CS + Crop Sciences program, for example, we had inquiries from companies hoping to meet with students in this program and sponsor activities for them.&nbsp; The key point is that students should apply to the program that strongly appeals to them.</p>
+<h4><strong>9) What career fields are common for the different blended CS majors: </strong></h4>
+<p><strong>Math &amp; CS:</strong> specialized fields of scientific computation, financial engineering, software engineering, and theoretical computer science.</p>
+<p><strong>Statistics &amp; CS:</strong> fields of data analysis, data visualization, and datamining. Some employment areas include business firms, computer firms, and medical fields.</p>
+<p><strong>CS + Advertising: </strong>specialized fields of computational advertising, data analytics, mobile advertising, and application design and development. This degree program prepares student for graduate study in CS and Advertising fields.</p>
+<p><strong>CS +Animal Sciences: </strong>areas of animal sciences with a technology, data handling and management focus and/or a genomics focus, such as precision animal science, bioinformatics, computational biology, and web programming for animal-related companies. This degree will prepare students for advanced study at the graduate level.</p>
+<p><strong>CS + Anthropology:</strong> specializations in biological anthropology, linguistic anthropology, sociocultural anthropology, computational anthropology, and archeology. Also prepares graduates for CS-related work in social media and online communities.</p>
+<p><strong>CS + Astronomy:</strong> focus in astronomically-motivated computational challenges working with large data sets through data analysis, data visualization, and data mining, data design &amp; modeling, astrophysical &amp; numerical simulations, and image processing. Requirements of this degree alone are not adequate preparation for graduate study in Astronomy. Student will need to work with advisors for additional coursework recommendations.</p>
+<p><strong>CS + Chemistry:</strong> fields of Chemistry related to imaging technologies, drug design, quantum chemical calculations, molecular dynamics simulations, computations &amp; molecular modeling, and molecular therapeutics, and visualization. These specializations may include analysis of experimental imaging data to visualization of in vivo chemical reactions.</p>
+<p><strong>CS + Crop Sciences:</strong> career fields related to crop genetics, agricultural IT, bioinformatics, and web programming for agricultural companies, computational biology, data analysis, and precision agriculture. Within the field of precision agriculture, graduates can specialize their skills to focus on remote sensors, embedded systems, and satellite imagery. This degree can be incorporated into the 5 year Crop Science BS/MS (non-thesis) degree.</p>
+<p><strong>CS + Economics:</strong> specialized fields include econometrics, business, financial economics &amp; consulting, industrial organization, and mathematical economics. Students completing this undergraduate degree will be prepared for graduate work in Computer Science, Economics, Statistics, Financial Engineering, and Policy.</p>
+<p><strong>CS + Geography &amp; Geographic Information Systems (GGIS)</strong>: specializations include programmers, analysts, and researchers in roles varying from developing geographic information software and analytic techniques to solve spatial problems related to healthcare, transportation, national security, environmental degradation, and natural hazards. Graduates from this degree may also specialize in cartography, computational geography, and geospatial technology.</p>
+<p><strong>CS + Linguistics:</strong> technical fields related to the computer-natural language relationship including speech analysis and synthesis, translation, the storage and retrieval of large amounts of data, computational linguistics, artificial intelligence, software design, and user interface design</p>
+<p><strong>CS + Music:</strong> technical specializations within the music, audio, and digital media industries including audio processing and computer music. In addition to art-related jobs, graduates with a deep understanding of audio and computation are well prepared for the specialized fields of speech recognition, audio/speech communication, and audio compression.</p>
+<p><strong>CS + Philosophy: </strong>computer science specializations related to ethics, logic, and privacy, especially in fields of artificial intelligence, and security in a digital age.</p>
+<h3><strong>Admissions</strong></h3>
+<h4><strong>1) How competitive are admissions to Illinois Computer Science?&nbsp; </strong></h4>
+<p>Quite competitive.&nbsp; For the last four years in a row, our CS major in The Grainger College of Engineering has broken the record for the most freshman applications received by any program in the history of the university.&nbsp; The high school GPA and standardized test profile of our most recent freshman class is on the high end of <a href="https://admissions.illinois.edu/Apply/Freshman/profile">those listed for The Grainger College of Engineering, as a whole</a>. Of course, good grades and high test scores, alone, do not guarantee admission to one of our programs.&nbsp; Potential applicants should carefully read <a href="https://admissions.illinois.edu/Apply/Freshman/review">the university&rsquo;s Admissions website</a> for more information on what the admissions officers look for from applicants.</p>
+<h4><strong>2) Is it easier to be admitted to Mathematics &amp; Computer Science or Statistics &amp; Computer Science or one of the CS + X majors than the Computer Science major in The Grainger College of Engineering?</strong></h4>
+<p>All of the undergraduate programs with &ldquo;Computer Science&rdquo; in the title are very competitive.&nbsp; The difference in the high school GPA and standardized test profiles of students admitted to these programs versus those in The Grainger College of Engineering is insignificant.&nbsp; Students should not apply to Math &amp; CS, Stats &amp; CS, or a CS + X major unless they have a strong and genuine interest in both halves of the major.</p>
+<h4><strong>3) If I&rsquo;m admitted to another department at the University of Illinois at Urbana-Champaign, how can I transfer to a CS major?</strong></h4>
+<p>Due to the overwhelming popularity of CS at Illinois, all&nbsp;undergraduate degree programs with &ldquo;Computer Science&rdquo; in the title (except for the CS minor) require students who hope to transfer in from other departments to meet very high transfer criteria.&nbsp; These criteria include at least two core CS requirements beyond CS 125 completed at the University of Illinois at Urbana-Champaign&nbsp;for a letter grade.&nbsp; The two courses must be CS 173 and CS 225 or, if a student obtains proficiency or transfer credit for one or both of these then the next steps would be CS 233 and CS 241.</p>
+<p>Additionally, each of our programs has slightly different transfer requirements and each college has different policies and procedures for applying, as detailed below.&nbsp;</p>
+<p>For the Computer Science major from&nbsp;The Grainger College of Engineering, please read the following carefully:<br /><a href="https://grainger.illinois.edu/academics/undergraduate/changing-majors">https://grainger.illinois.edu/academics/undergraduate/changing-majors</a></p>
+<p>For the Mathematics &amp; Computer Science major, Statistics &amp; Computer Science major and all other LAS Computer Science programs, please read the following carefully (NOTE: for students applying to transfer after Spring 2019, students will need to submit a portfolio, similar to students applying to the Grainger College of Engineering):<br /><a href="https://www.las.illinois.edu/students/programs/declaring/">https://www.las.illinois.edu/students/programs/declaring/</a></p>
+<p>For CS + Animal Sciences and CS + Crop Sciences in the College of ACES, consult the following:<br /><a href="https://provost.illinois.edu/education/advising-resources/intercollegiate-transfer-process/computer-science-crop-sciences-cscpsc/#sthash.LGLvovPE.dpbs">https://provost.illinois.edu/education/advising-resources/intercollegiate-transfer-process/computer-science-crop-sciences-cscpsc/#sthash.LGLvovPE.dpbs</a></p>
+<p>For CS + Music in the College of Fine &amp; Applied Arts, School of Music:<br /><a href="https://music.illinois.edu/degree/computer-science-music-inter-college-transfer">https://music.illinois.edu/degree/computer-science-music-inter-college-transfer</a></p>
+<p>For CS + Advertising in the College of Media:<br /><a href="https://media.illinois.edu/student-resources/admissions/ict">https://media.illinois.edu/student-resources/admissions/ict</a></p>
+<h4><strong>4) If I&rsquo;m admitted to one CS program can I transfer to another? </strong></h4>
+<p>Students in one CS program can apply to transfer to another, though there is certainly no guarantee that the transfer will be approved.&nbsp; Transfer criteria and procedures differ from program to program.&nbsp; Transferring from one CS + X program in the College of Liberal Arts and Sciences to another requires that students perform well in CS coursework and meet the transfer criteria of the &ldquo;X&rdquo; discipline.&nbsp; Transferring into Math &amp; CS or Statistics &amp; CS is more restrictive, due to the size and popularity of these programs.&nbsp; Students in any CS program hoping to transfer into the Computer Science major from The Grainger College of Engineering&nbsp;must go through the same procedures and meet the same minimum criteria as any other student hoping to transfer into the program (though students already in other CS programs do not need to first transfer into Pre-Engineering) and hold no advantage over other students.</p>
+<h4><strong>5) If I&rsquo;m in another&nbsp;department on campus can I apply to get a second bachelor&rsquo;s degree in a CS program?</strong></h4>
+<p>For any seats we can provide in our programs, we give priority to students seeking their first and only bachelor&rsquo;s degree. That means we take very, very few second-degree candidates - students who are truly exceptional and who provide a well-considered, compelling justification for needing an entire second major in a CS program (over and above what a CS minor provides, for example).</p>
+<h4><strong>6) What are the requirements to apply for a CS minor?</strong></h4>
+<p>At this time, any undergraduate on campus (except Computer Engineering (CE) majors) can apply for a <a href="/academics/undergraduate/degree-program-options/minor-computer-science">CS minor</a>. There are no minimum course-grade or GPA requirements.&nbsp; That said, declaring a CS minor does not provide registration advantages in CS courses and we cannot guarantee that a student can obtain all of the courses needed to complete the minor (completion of a minor is not a graduation requirement).&nbsp; Students should begin the minor no later than first-semester Junior year (minimum 4 semesters).</p>
+<p>If you have questions about CS programs that have not been addressed by this FAQ page, please email&nbsp;<a href="mailto:undergrad@cs.illinois.edu">undergrad@cs.illinois.edu</a> and an advisor will respond to your concern.&nbsp;</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+						</div>
+					</div>
+				</main>
+			</div>
+
+			<footer>
+							<div class="container-fluid maxwidth1140">
+				<div class="row pt-5 pb-3">
+					<div class="col-lg-5 mb-5">
+						<div class="campus_wordmark"><a href="http://illinois.edu/"><img src="https://ws.engr.illinois.edu/images/uiuc-footer-wordmark.png" alt="University of Illinois Urbana Champaign"></a></div>
+					</div>
+
+					<div class="col-lg-7 mb-4 socials">
+						<a href="https://www.facebook.com/CSatIllinois/"><i class="fab fa-facebook-f"></i><span class="sr-only">Facebook</span></a>
+						<a href="https://twitter.com/IllinoisCS"><i class="fab fa-twitter"></i><span class="sr-only">Twitter</span></a>
+						<a href="https://www.youtube.com/user/IllinoisCS"><i class="fab fa-youtube"></i><span class="sr-only">YouTube</span></a>
+						<a href="https://www.linkedin.com/school/illinoiscs"><i class="fab fa-linkedin-in"></i><span class="sr-only">LinkedIn</span></a>
+						<a href="https://www.instagram.com/illinoiscs/"><i class="fab fa-instagram"></i><span class="sr-only">Instagram</span></a>
+						<div class="w-100 d-block d-lg-none"></div>
+						<a href="/about/contact-us" class="button">Contact Us</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="container-fluid maxwidth1140">
+				<div class="row pb-5 justify-content-between">
+					<div class="col-md pr-xl-5 mb-5 college_container">
+
+						<div class="contact">
+							<p><span class="fs150x"><a href="https://cs.illinois.edu">Thomas M. Siebel Center for Computer Science</a></span><br />
+                                                       201 North Goodwin Avenue MC 258<br />
+                                                        Urbana, IL 61801-2302<br />
+                                                         ph: 217-333-3426 (general) | 217-333-4428 (advising) <br />
+                                                         fax: 217-333-3501</p>
+                                                        <p> General email: <a href="mailto:admin@cs.illinois.edu">admin@cs.illinois.edu</a><br />
+                                                         Graduate Advising: <a href="mailto:academic@cs.illinois.edu">academic@cs.illinois.edu</a><br />
+                                                         Undergraduate Advising: <a href="mailto:undergrad@cs.illinois.edu">undergrad@cs.illinois.edu</a><br />
+                                                          Webmaster: <a href="mailto:grainger-marcom@illinois.edu?subject=CS Request">grainger-marcom@illinois.edu</a></p>
+							<p><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a><br />
+							<a href="https://illinois.edu">University of Illinois</a></p>
+
+						</div>
+					</div>
+
+
+					<div class="col-md pr-xl-5 my-5 concentrations">
+                                 	
+					</div>
+				</div>
+			</div>
+
+				<div class="container-fluid" id="legal">
+					<div class="row justify-content-md-center align-items-center py-4">
+
+						<div class="col-md-auto">
+							<div><button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Preferences</button></div>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Copyright &copy; 2021 University of Illinois Board of Trustees</p>
+						</div>
+
+						<div class="col-md-auto">
+							<p><a href="https://grainger.illinois.edu/cookie-policy">Cookie Policy</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy</a></p>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Powered by <a href="https://my.engr.illinois.edu/sitemanager/editpage.asp?id=5493">SiteManager</a> | <a href="mailto:grainger-marcom@illinois.edu">Contact Webmaster</a></p>
+						</div>
+					</div>
+				</div>
+
+				<div id="gototop" class="hidden">
+					<a href="#"><i class="fa fa-chevron-up"></i><span class="sr-only">Go to top</span></a>
+				</div>
+			</footer>
+		</div>
+
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+		<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax-video.min.js"></script>
+		<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+		<script src="https://cdn.datatables.net/responsive/2.2.5/js/dataTables.responsive.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.0/circle-progress.min.js'></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/twbs-pagination/1.4.2/jquery.twbsPagination.min.js'></script>
+		<script src="https://ws.engr.illinois.edu/sitemanager/genscripts.js?v=2.660.676"></script>
+		<script src="/js/scripts.js?v=0.27"></script>
+
+		<script async="async" src="https://enroll.illinois.edu/ping"></script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-9571262-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-9571262-1');
+</script>
+
+		
+	</body>
+</html>
+
+

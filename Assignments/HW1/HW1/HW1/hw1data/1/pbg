@@ -1,0 +1,946 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title> Brighten Godfrey
+ | Computer Science | UIUC</title>
+		<link rel="shortcut icon" type="image/x-icon" href="//ws.engr.illinois.edu/images/favicon.ico">
+
+		<meta name="description" content=" Brighten Godfrey
+">
+		<meta name="author" content="Grainger Engineering Office of Marketing and Communications">
+
+		<!-- meta tags for mobile devices -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">  
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+				<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="26be7d61-2017-4ea7-8a8b-8f1704889763"></script>
+		<script type="text/javascript"> function OptanonWrapper() { } </script>
+
+		<meta property="og:type" content="article" />
+<meta property="og:title" content=" Brighten Godfrey
+" />
+<meta property="og:description" content=" Brighten Godfrey
+" />
+<meta property="og:url" content="https://cs.illinois.edu/about/people/all-faculty/*" />
+<meta property="og:image" content="https://ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=12050" />
+
+
+		<!-- fonts -->
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i,900,900i%7cBarlow+Condensed%7cPlayfair+Display%7cMontserrat:400,500,600,700,800%7cFjalla+One%7cLexend+Exa%7cMontserrat+Alternates:400,700">
+		<script src="https://kit.fontawesome.com/64a62210ef.js"></script>
+
+		<!-- stylesheets -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.5/css/responsive.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://ws.engr.illinois.edu/sitemanager/gensite.css?v=2.671.281">
+		<link rel="stylesheet" type="text/css" href="/css/styles.css?v=0.19">
+
+				<!-- Global site tag (gtag.js) - Google Ads: 1011414001 -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1011414001"></script>
+		<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-1011414001'); </script> 
+		<!-- Event snippet for Outbound Google Ads click conversions -->
+		<script> function gtag_report_conversion(url) {var callback = function () {if (typeof(url) != 'undefined') {window.location = url;}};gtag('event', 'conversion', {'send_to': 'AW-1011414001/YNxnCM-1kfMBEPHno-ID','event_callback': callback});return false;} </script>
+		
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	</head>
+
+	<body class="site prod about people all-faculty pbg  isattop theme_dagobah" data-sidebar="" data-sidebarskip="[sidebarskip]" data-sidebarinclude="[sidebarinclude]">
+		<div id="page">
+			
+			<header>
+				<div id="skiptocontent"><a href="#content">skip to main content</a></div>
+
+				<div class="container-fluid campus">
+					<div class="row mx-auto maxwidth1140">
+						<div class="col p-0">
+							<a href="http://illinois.edu/"><span>University of Illinois Urbana-Champaign</span></a>
+						</div>
+						<div id="featurelinks" class="col p-0 text-right">
+							<ul>
+	<li><a href="/alumni">Alumni</a></li>
+	<li><a href="/corporate">Corporate</a></li>
+       <li><a href="/about/people">People</a></li>
+	<li><a href="https://my.cs.illinois.edu">My.CS</a></li>
+</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="container-fluid site">
+					<div class="row wordmark d-flex flex-nowrap align-items-center">
+						<div class="d-flex flex-fill pr-3">
+							<div class="blocki"><a href="https://illinois.edu">University of Illinois at Urbana-Champaign</a></div>
+							<div class="site_identification">
+								<div class="parent_name"><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a></div>
+								<div class="site_name"><a href="/"><span>Computer Science</span></a></div>
+							</div>
+						</div>
+
+						<div class="d-flex align-items-center">
+							<div id="header-search-container" class="d-none d-lg-block site-search">
+								<form class="form-inline" method="get" action="/search" id="search-form">
+									<div class="input-group">
+										<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="header-search-go-button">
+										<div class="input-group-append">
+											<a href="/search" onclick="$('#header-search-container form').submit(); return false;" class="input-group-text" id="header-search-go-button"><i class="far fa-search"></i><span class="sr-only">Search</span></a>
+										</div>
+									</div>
+								</form>	
+							</div>
+
+							<div id="mainnav-toggler-container">
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainnav" aria-controls="mainnav" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="icon"></span> <span class="label sr-only">Menu</span>
+								</button>
+							</div>
+						</div>
+					</div>
+					<nav class="navbar navbar-expand-lg p-0">
+<div class="collapse navbar-collapse" id="mainnav">
+<form class="d-block d-lg-none" method="get" action="/search" id="mobile-search-form">
+<div class="form-row p-3">
+<div class="col">
+<div class="input-group">
+<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="mobile-search-go-button">
+<div class="input-group-append">
+<a href="/search" onclick="$('#mobile-search-form').submit(); return false;" class="input-group-text" id="mobile-search-go-button"><i class="far fa-search" aria-hidden="true"></i><span class="sr-only">Search</span></a>
+</div>
+</div>
+</div>
+</div>
+</form>
+<ul class="navbar-nav w-100">
+<li class="dropdown mega twocol nav-item">
+<a href="/about" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>About</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-about">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/about">About</a></h2>
+<ul class="about ">
+<li><a href="/about/cs-cares">CS CARES Committee</a></li>
+<li><a href="/about/values">Values & Code of Conduct</a></li>
+<li><a href="/about/statistics">Rankings & Statistics</a></li>
+<li><a href="/about/contact-us">Contact Us & Directions</a></li>
+<li class="dropdown"><a href="/about/people">People</a><ul class="people ">
+<li><a href="/about/people/all-faculty">All Faculty</a></li>
+<li><a href="/about/people/department-faculty">Department Faculty</a></li>
+<li><a href="/about/people/affiliate-faculty">Affiliate Faculty</a></li>
+<li><a href="/about/people/adjunct-faculty">Adjunct Faculty</a></li>
+<li><a href="/about/people/postdocs">Postdocs</a></li>
+<li><a href="/about/people/emeritus-faculty">Emeritus Faculty</a></li>
+<li class="dropdown"><a href="/about/people/staff">Staff</a><ul class="staff ">
+<li><a href="/about/people/staff/office-department-head">Office of the Department Head</a></li>
+<li><a href="/about/people/staff/communications-engagement-team">Communications &amp; Engagement Team</a></li>
+<li><a href="/about/people/staff/undergraduate-advising-office">Undergraduate Advising Office</a></li>
+<li><a href="/about/people/staff/graduate-advising-office">Graduate Advising Office</a></li>
+<li><a href="/about/people/staff/instructional-development-team">Instructional Development Team</a></li>
+<li><a href="/about/people/staff/business-office">Business Office</a></li>
+<li><a href="/about/people/staff/faculty-support-contacts">Faculty Support Contacts</a></li>
+<li><a href="/about/people/staff/facilities-shipping-and-receiving">Facilities, Shipping and Receiving</a></li>
+</ul>
+</li>
+<li><a href="/about/people/graduating-phd-students">Graduating PhD Students</a></li>
+<li><a href="/about/people/recent-phd-alumni">Recent PhD Alumni</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/positions">Open Positions</a><ul class="positions ">
+<li><a href="/about/positions/faculty-positions">Faculty Positions</a></li>
+<li><a href="/about/positions/postdoctoral">Postdoctoral Positions</a></li>
+<li><a href="/about/positions/staff-positions">Staff Positions</a></li>
+<li><a href="/about/positions/choose-illinois-computer-science">Choose Illinois Computer Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/calendar">Calendar</a><ul class="calendar ">
+<li><a href="/about/calendar/all">All Events</a></li>
+<li><a href="/about/calendar/corporate">Corporate Events</a></li>
+<li><a href="/about/calendar/department">Department Events</a></li>
+<li><a href="/about/calendar/graduate">Graduate Events</a></li>
+<li><a href="/about/calendar/outreach">Outreach Events</a></li>
+<li><a href="/about/calendar/speakers">Speakers</a></li>
+<li><a href="/about/calendar/student-groups">Student Group Events</a></li>
+<li><a href="/about/calendar/undergraduate">Undergraduate Events</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards">Awards</a><ul class="awards ">
+<li><a href="/about/awards/celebration">Celebration of Excellence</a></li>
+<li class="dropdown"><a href="/about/awards/faculty-awards">Faculty Awards</a><ul class="faculty-awards ">
+<li><a href="/about/awards/faculty-awards/chairs-and-professorships">Chairs and Professorships</a></li>
+<li><a href="/about/awards/faculty-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/faculty-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards/undergraduate-scholarships-awards">Undergraduate Scholarships &amp; Awards</a><ul class="undergraduate-scholarships-awards ">
+<li><a href="/about/awards/undergraduate-scholarships-awards/shieh-li-scholarship">Ruey-Feng Shieh Li Family Scholarship</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/graduate-fellowships-awards">Graduate Fellowships &amp; Awards</a></li>
+<li class="dropdown"><a href="/about/awards/alumni-awards">Alumni Awards</a><ul class="alumni-awards ">
+<li><a href="/about/awards/alumni-awards/alumni-awards-past-recipients">Alumni Awards Past Recipients</a></li>
+<li><a href="/about/awards/alumni-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/alumni-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/staff-awards">Staff Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/history-timeline">History Timeline</a></li>
+<li><a href="/about/accreditation">Accreditation</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/admissions" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Admissions</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-admissions">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/admissions">Admissions</a></h2>
+<ul class="admissions ">
+<li class="dropdown"><a href="/admissions/undergraduate">Undergraduate Admissions</a><ul class="undergraduate ">
+<li><a href="https://admissions.illinois.edu/apply">Apply Now</a></li>
+<li><a href="/academics/undergraduate/degree-program-options">Degree & Program Options</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/dates">Application Deadlines</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/process">Applications Process & Requirements</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+<li><a href="https://www.housing.illinois.edu">Housing</a></li>
+<li><a href="/about-us/accreditation">Accreditation</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/admissions/graduate">Graduate Admissions</a><ul class="graduate ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+<li class="dropdown"><a href="/admissions/graduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/admissions/graduate/degree-program-options/professional-master-computer-science-mcs-program">Professional Master of Computer Science (MCS) Program</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-deadlines">Application Deadlines</a></li>
+<li class="dropdown"><a href="/admissions/graduate/applications-process-requirements">Applications Process &amp; Requirements</a><ul class="applications-process-requirements ">
+<li><a href="/admissions/graduate/applications-process-requirements/additional-required-application-materials">Additional Required Application Materials for International Students</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/application-fee-waivers">Application Fee Waivers</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/data-structures-proficiency-exam">Data Structures Proficiency Exam</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-checklist">Application Checklist</a></li>
+<li class="dropdown"><a href="/admissions/graduate/faqs">FAQs</a><ul class="faqs ">
+<li><a href="/admissions/graduate/faqs/ican-faqs">iCAN FAQs</a></li>
+<li><a href="/admissions/graduate/faqs/online-mcs-faqs">Online MCS FAQs</a></li>
+</ul>
+</li>
+<li><a href="https://choose.illinois.edu/apply/">Check Application Status</a></li>
+</ul>
+</li>
+<li><a href="/admissions/impact-illinois-cs-degree">Impact of an Illinois CS Degree</a></li>
+<li><a href="/admissions/financial-aid">Financial Aid</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/academics" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Academics</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-academics">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/academics">Academics</a></h2>
+<ul class="academics ">
+<li class="dropdown"><a href="/academics/undergraduate">Undergraduate Academics</a><ul class="undergraduate ">
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/academics/undergraduate/degree-program-options/bs-computer-science">B.S. in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-mathematics-computer-science">B.S. in Mathematics &amp; Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-statistics-computer-science">B.S. in Statistics &amp; Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs">CS + X Degree Programs</a><ul class="cs-x-degree-programs ">
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-advertising">Computer Science + Advertising</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-animal-sciences">Computer Science + Animal Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-anthropology">Computer Science + Anthropology</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-astronomy">Computer Science + Astronomy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-chemistry">Computer Science + Chemistry</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-crop-sciences">Computer Science + Crop Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-economics">Computer Science + Economics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-geography">Computer Science + Geography &amp; Geographic Information Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-linguistics">Computer Science + Linguistics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-music">Computer Science + Music</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-philosophy">Computer Science + Philosophy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/cs-x-degree-requirements">CS + X Degree Requirements &amp; Planning Forms</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-undergraduate-degree-options-faq">CS Undergraduate Degree Options FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/registration">Registration</a><ul class="registration ">
+<li><a href="/academics/undergraduate/registration/cs-course-restrictions-enrollment-caps">CS Course Restrictions &amp; Enrollment Caps</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/policies-and-procedures">Policies and Procedures</a></li>
+<li><a href="/academics/undergraduate/undergraduate-advising">Undergraduate Advising</a></li>
+<li><a href="/academics/undergraduate/cs-student-opportunity-series-cs-sos">CS Student Opportunity Series (CS SOS)</a></li>
+<li><a href="/academics/undergraduate/undergraduate-forms">Undergraduate Forms</a></li>
+<li><a href="/academics/undergraduate/honors">Honors</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate">Graduate Academics</a><ul class="graduate ">
+<li class="dropdown"><a href="/academics/graduate/phd-program">PhD Program</a><ul class="phd-program ">
+<li><a href="/academics/graduate/phd-program/final-exam-thesis-defense">Final Exam (Thesis Defense)</a></li>
+<li><a href="/academics/graduate/phd-program/guidelines-forming-phd-committee">Guidelines for Forming Ph.D. Committee</a></li>
+<li><a href="/academics/graduate/phd-program/phd-ms-thesis-format-review-guidelines">Ph.D. / M.S. Thesis Format Review Guidelines</a></li>
+<li><a href="/academics/graduate/phd-program/phd-program-study-process">PhD Program of Study Process</a></li>
+<li><a href="/academics/graduate/phd-program/phd-requirements">PhD Requirements</a></li>
+<li><a href="/academics/graduate/phd-program/phd-time-limits-milestones">PhD Time Limits &amp; Milestones</a></li>
+<li><a href="/academics/graduate/phd-program/preliminary-exam">Preliminary Exam</a></li>
+<li><a href="/academics/graduate/phd-program/qualifying-exam">Qualifying Exam</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/ms-program">MS Program</a></li>
+<li><a href="/academics/graduate/ms-bioinformatics-program">MS in Bioinformatics Program</a></li>
+<li class="dropdown"><a href="/academics/graduate/professional-mcs">Professional Master of Computer Science</a><ul class="professional-mcs ">
+<li><a href="/academics/graduate/professional-mcs/campus-master-computer-science">On-Campus Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science">Online Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science-data-science">Online Master of Computer Science in Data Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/fifth-year-masters-programs">Fifth Year Master's Programs</a><ul class="fifth-year-masters-programs ">
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-mcs-program">5-year BS-MCS Program</a></li>
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-ms-program">5-year BS-MS Program</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">Illinois Computing Accelerator for Non-Specialists (iCAN)</a><ul class="ican ">
+<li><a href="/academics/graduate/ican/application-process">iCAN Application Process</a></li>
+<li><a href="/academics/graduate/ican/curriculum">iCAN Curriculum</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources">Graduate Forms &amp; Advising Resources</a><ul class="graduate-forms-advising-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/epi-exam-requirements">EPI Exam Requirements</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-advising-contacts">Graduate Advising Contacts</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-student-annual-evaluation-process">Graduate Student Annual Evaluation Process</a></li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources">New Graduate Student Resources</a><ul class="new-graduate-student-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/mcs-campus">MCS On-Campus General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/ms-general">MS General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/phd-general">PhD General Advising for Registration</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/official-forms">Official Forms</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/academics/courses">Courses</a></li>
+<li><a href="/academics/honor-code">Honor Code</a></li>
+<li><a href="https://cs.illinois.edu/student-life/student-resources">Student Resources</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/student-life" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Student Life</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-student-life">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41390_8405" data-pageid="41390" data-tileid="8405" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=55621);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Salesforce's CodeT5 System Can Understand and Generate Code</h2>
+			<div class="description"></div>
+			<p><a href="/news/salesforces-codet5-system-can-understand-and-generate-code" class="button" title="Salesforce's CodeT5 System Can Understand and Generate Code">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 7, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/student-life">Student Life</a></h2>
+<ul class="student-life ">
+<li><a href="/student-life/overview-cs-student-life">Overview of CS Student Life</a></li>
+<li><a href="/student-life/student-organizations">Student Organizations</a></li>
+<li><a href="/student-life/department-college-and-campus-events">Department, College, and Campus Events</a></li>
+<li><a href="/student-life/student-resources">Student Resources</a></li>
+<li><a href="/student-life/career-services">Career Services</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/research" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Research</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-research">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Explore visionary research conducted by world-renowned faculty.</h2>
+<p><a class="orange button" href="/research/areas">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/research">Research</a></h2>
+<ul class="research ">
+<li class="dropdown"><a href="/research/areas">Research Areas</a><ul class="areas ">
+<li><a href="/research/areas/architecture-compilers-and-parallel-computing">Architecture, Compilers, and Parallel Computing</a></li>
+<li><a href="/research/areas/artificial-intelligence">Artificial Intelligence</a></li>
+<li><a href="/research/areas/bioinformatics-and-computational-biology">Bioinformatics and Computational Biology</a></li>
+<li><a href="/research/areas/computers-and-education">Computers and Education</a></li>
+<li><a href="/research/areas/data-and-information-systems">Data and Information Systems</a></li>
+<li><a href="/research/areas/interactive-computing">Interactive Computing</a></li>
+<li><a href="/research/areas/programming-languages-formal-methods-and-software-engineering">Programming Languages, Formal Methods, and Software Engineering</a></li>
+<li><a href="/research/areas/scientific-computing">Scientific Computing</a></li>
+<li><a href="/research/areas/security-and-privacy">Security and Privacy</a></li>
+<li><a href="/research/areas/systems-and-networking">Systems and Networking</a></li>
+<li><a href="/research/areas/theory-and-algorithms">Theory and Algorithms</a></li>
+</ul>
+</li>
+<li><a href="/research/technical-conferences-workshops">Technical Conferences &amp; Workshops</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+<li><a href="/corporate#research">Corporate Partners</a></li>
+<li><a href="https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=3146">Illinois CS Research Overview</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/broadening-participation-computing" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Broadening Participation</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-broadening-participation-computing">
+<section class="tile w50 white-box py-5 marketing">
+<p class="mb-0"><img src="//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=16163&s=375" class="image" alt="" width="375" /></p>
+<p style="padding: 10px 15px 0px 15px;">New certificate program for college graduates who want a deeper understanding of computers, algorithms, and programming.</p>
+<p><a class="orange button" href="/ican">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/broadening-participation-computing">Broadening Participation</a></h2>
+<ul class="broadening-participation-computing ">
+<li><a href="https://drive.google.com/file/d/12vDswb1i-mEXaXgVt7FOhtqYs7b8F_1p/view">BPC Departmental Plan</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs">BPC Programs & Activities for Students</a><ul class="programs ">
+<li><a href="/broadening-participation-computing/programs/csambassadors">CS Student Ambassador/Research Scholars (CS STARS)</a></li>
+<li><a href="/broadening-participation-computing/programs/cskickstart">Illinois CS Kickstart</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs/ai4all">AI4ALL</a><ul class="ai4all ">
+<li><a href="http://go.cs.illinois.edu/DiscoverAI">Apply Now</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">iCAN</a><ul class="ican ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+</ul>
+</li>
+<li><a href="http://cs.illinois.edu/research/summer-research-experience-undergraduates">Summer Research Experience for Undergraduates</a></li>
+</ul>
+</li>
+<li><a href="/broadening-participation-computing/resources">BPC Resources</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/cross-cutting">Cross-Cutting Educational Activities</a><ul class="cross-cutting ">
+<li><a href="/broadening-participation-computing/cross-cutting/conferences-workshops">BPC Conferences & Workshops</a></li>
+<li><a href="/broadening-participation-computing/cross-cutting/ca-training">Course Assistant Training</a></li>
+<li><a href="https://cs.illinois.edu/news/featured-lectures#equity-justice">Equity & Justice in Computing Seminar Series</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/broadening-participation-computing/k-12">K-12 Outreach & Resources</a><ul class="k-12 ">
+<li><a href="/broadening-participation-computing/k-12/k-12-outreach">K-12 Outreach Programs</a></li>
+<li><a href="/broadening-participation-computing/k-12/k-12-resources">K-12 Resources</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/student-life/student-organizations">Student Organizations</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/news" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>News</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-news">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41391_5367" data-pageid="41391" data-tileid="5367" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=51204);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging</h2>
+			<div class="description"><p>The Defense Advanced Research Projects Agency (DARPA) has awarded $5.8 million to a team, led by Illinois CS's <a href="/about/people/faculty/zaher">Tarek Abdelzaher</a>, that will work to characterize how different foreign populations respond to influence campaigns as a first step towards development of effective countermeasures.</p></div>
+			<p><a href="/news/abdelzaher-leading-DARPA-effort-understand-how-people-respond-influence-messaging" class="button" title="Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 8, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/news">News</a></h2>
+<ul class="news ">
+<li><a href="/news">Department News</a></li>
+<li><a href="/news/features">Feature Stories</a></li>
+<li><a href="/news/covid-19-projects">COVID-19 Projects</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/news/media-coverage">Media Coverage</a></li>
+<li><a href="/news/e-news">E-News</a></li>
+<li><a href="/news/impact-report-publications">Impact Report &amp; Publications</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/give" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Give</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-give">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Help ensure that Illinois continues to set a global standard for CS research and education.</h2>
+<p><a class="orange button" href="/give/give-now">Make a Gift</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/give">Give</a></h2>
+<ul class="give ">
+<li><a href="/give/give-now">Give Now</a></li>
+<li><a href="/give/ways-give">Ways to Give</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/give/computer-science-visionary-scholarship-donors">Computer Science Visionary Scholarship Donors</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+</ul>
+</div>
+</nav>
+
+				</div>
+			</header>
+
+			<div id="content">
+				<main>
+					<div  id="hero" class="container-fluid">
+						<div class="row maxwidth1140">
+							<div class="col">
+								<div>
+									<nav id="breadcrumbs"><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/about/people">People</a></li><li><a href="/about/people/all-faculty">All Faculty</a></li></ul></nav>
+									<h1> Brighten Godfrey
+</h1>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					
+
+					<div id="content_inner" class="container-fluid">
+						<div class="tile-list">
+							<section class="tile w100 white-box   py-5 " id="tile6806" data-tileid="6806" >
+	<div class="lower  maxwidth1140   " id="lower6806">
+		<div class="row">
+			<div class="col-md column1      " >
+				<div>	<div class="directory-profile maxwidth800" id="article_[postid]">
+		<figure class="image align-right ">
+			<img alt=" Brighten Godfrey" title=" Brighten Godfrey" src="//ws.engr.illinois.edu/directory/viewphoto.aspx?id=7958&s=300&type=portrait" />
+			<figcaption> Brighten Godfrey</figcaption>
+		</figure>
+
+		<!--<h2> Brighten Godfrey</h2>-->
+		<div class="roles">
+			
+			<div><div class="role cat15 primary">
+<div class="title"><strong>Professor</strong></div>
+<!--<div class="groups"></div>-->
+<div class="phone"></div>
+<div class="email"><a href="mailto:pbg@illinois.edu">pbg@illinois.edu</a></div>
+<div class="office">3211 Siebel Center for Comp Sci</div>
+</div>
+</div>
+		</div>
+
+		<h2>For more information</h2>
+<ul>
+<li><a href="https://pbg.cs.illinois.edu">Brighten Godfrey's home page</a></li>
+</ul>
+
+		
+		<h2>Education</h2>
+<ul>
+<li>University of California at Berkeley, Ph.D. in Computer Science, 2009</li>
+</ul>
+
+		<h2>Biography</h2>
+<p>Brighten Godfrey is an Associate Professor in the Department of Computer Science at the University of Illinois at Urbana-Champaign. He co-founded and served as CTO of network verification pioneer Veriflow through its 2019 acquisition by VMware, where he now serves as a Technical Director. He received his Ph.D. at UC Berkeley in 2009, and his B.S. at Carnegie Mellon University in 2002. His research interests lie in the design of networked systems and algorithms. He is a winner of the ACM SIGCOMM Rising Star Award, the UIUC Dean's Award for Excellence in Research, the Sloan Research Fellowship, an Internet2 Innovative Application Award, the National Science Foundation CAREER Award, and multiple best paper awards.  He was a Beckman Fellow at the UIUC Center for Advanced Study in 2014-2015, and served as program committee co-chair of ACM HotNets 2014 and the Symposium on SDN Research 2016.</p>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<h2>Undergraduate Research Opportunities</h2>
+<p>Contact Brighten via email or in person if you are interested in pursuing undergraduate research opportunities.</p>
+
+		<h2>Research Interests</h2>
+<ul>
+<li>Design and analysis of networked systems, algorithms for networks, low latency networked systems, data center network architectures, software-defined networks, network verification, AI and ML for networked systems.</li>
+</ul>
+
+		
+		
+		<div class="extProfileAREA">
+			<h2>Research Areas</h2>
+<ul>
+<li><a href="https://cs.illinois.edu/research/areas/security-and-privacy">Security and Privacy</a></li>
+<li><a href="http://cs.illinois.edu/research/areas/systems-and-networking">Systems and Networking</a></li>
+<li><a href="http://cs.illinois.edu/research/areas/theory-and-algorithms">Theory and Algorithms</a></li>
+</ul>
+
+		</div>
+		
+		
+		
+		
+		
+		
+		
+		
+		<h2>Selected Articles in Journals</h2>
+<ul>
+<li>P. Brighten Godfrey, Matthew Caesar, Ian Hanken, Yaron Singer, Scott Shenker, and Ion Stocia, "Stabilizing Route Selection in BGP", to appear, <em>IEEE/ACM Transactions on Networking</em>, February 2014.</li>
+<li>Ahmed Khurshid, Wenxuan Zhou, Matthew Caesar, and P. Brighten Godfrey, "VeriFlow: Verifying Network-Wide Invariants in Real Time", <em>ACM SIGCOMM Computer Communication Review</em>, volume 42, number 4, October 2012. (Republication of HotSDN paper; Best paper award in HotSDN)</li>
+<li><a href="http://www.cs.illinois.edu/~pbg/papers/architecting_for_innovation-ccr.pdf">Teemu Koponen, Scott Shenker, Hari Balakrishnan, Nick Feamster, Igor Ganichev, Ali Ghodsi, P. Brighten Godfrey, Nick McKeown, Guru Parulkar, Barath Raghavan, Jennifer Rexford, Somaya Arianfar, and Dmitriy Kuptsov, "Architecting for Innovation",<em> ACM SIGCOMM Computer Communication Review</em>, volume 41, number 2, July 2011.</a></li>
+<li><a href="http://www.cs.illinois.edu/~pbg/papers/yamr.pdf">Igor Ganichev, Bin Dai, P. Brighten Godfrey, and Scott Shenker, "YAMR: Yet Another Multipath Routing Protocol", <em>ACM SIGCOMM Computer Communication Review</em>, volume 40, number 5, October 2010. <em>Acceptance rate: 31% (5/16)</em></a></li>
+<li><a href="http://www.cs.illinois.edu/~pbg/papers/coding-journal.pdf">Alexandros G. Dimakis, P. Brighten Godfrey, Yunnan Wu, Martin J. Wainwright, and Kannan Ramchandran, "Network Coding for Distributed Storage Systems",&#160;<em>IEEE Transactions on Information Theory</em>, volume 56, number 9, September 2010. (IEEE Communications Society & Information Theory Society Joint Paper Award, 2012; IEEE ComSoc Data Storage Technical Committee Best Paper Award)</a></li>
+<li>P. Brighten Godfrey and Richard Karp, "On the Price of Heterogeneity in Parallel Systems", <em>Theory of Computing Systems</em>, volume 45, number 2, pages 280-301, August 2009. (One of seven papers invited from SPAA 2006.)</li>
+<li>Sonesh Surana, P. Brighten Godfrey, Karthik Lakshminarayanan, Richard Karp and Ion Stoica, "Load Balancing in Dynamic Structured P2P Systems", <em>Performance Evaluation</em>, volume 63, number 6, pages 217-240, March 2006.</li>
+</ul>
+
+		<h2>Articles in Conference Proceedings</h2>
+<ul>
+<li>Debopam Bhattacherjee, Waqar Aqeel, Sangeetha Abdu Jyothi, Ilker Nadi Bozkurt, William Sentosa, Muhammad Tirmazi, Anthony Aguirre, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Gregory Laughlin, Bruce Maggs, and Ankit Singla. cISP: A Speed-of-Light Internet Service Provider. 19th USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2022.</li>
+<li>Bingzhe Liu, Kuan-Yen Chou, Pramod Jamkhedkar, Bilal Anwer, Rakesh Sinha, Kostas Oikonomou, Matthew Caesar, and Brighten Godfrey. Practical Automation for Management Planes of Service Provider Infrastructure.  ACM SIGCOMM FlexNets Workshop, August 2021.</li>
+<li>Tong Meng, Christopher Cai, P. Brighten Godfrey, and Michael Schapira. Toward Greater Scavenger Congestion Control Deployment: Implementations and Interfaces. ACM/IRTF Applied Networking Research Workshop (ANRW), July 2021. Acceptance rate: 54% (15/28)</li>
+<li>William Sentosa, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Haitham Hassanieh, Bruce Maggs, and Ankit Singla. Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels. 22nd International Workshop on Mobile Computing Systems and Applications (HotMobile), February 2021. Acceptance rate: 36% (22/61)</li>
+<li>Tomer Gilad, Neta Rozen Schiff, P. Brighten Godfrey, Costin Raiciu, and Michael Schapira. Online Learning Multipath Transport. International Conference on emerging Networking EXperiments and Technologies (CoNEXT), December 2020. Acceptance rate: 24% (40/168)</li>
+<li>Vipul Harsh, Sangeetha Abdu Jyothi, and P. Brighten Godfrey. Spineless Data Centers. Nineteenth ACM Workshop on Hot Topics in Networks (HotNets), November 2020. Acceptance rate: 25% (30/121)</li>
+<li>Bingzhe Liu, Ali Kheradmand, Matthew Caesar, and P. Brighten Godfrey. Towards Verified Self-Driving Infrastructure. Nineteenth ACM Workshop on Hot Topics in Networks (HotNets), November 2020. Acceptance rate: 25% (30/121)</li>
+<li>Tong Meng, Neta Rozen Schiff, P. Brighten Godfrey, and Michael Schapira. Proteus: Scavenger Transport And Beyond. ACM SIGCOMM, August 2020. Acceptance rate: 22% (54/250)</li>
+<li>Sangeetha Abdu Jyothi, Sayed Hadi Hashemi, Roy H. Campbell, and P. Brighten Godfrey. Towards An Application Objective-Aware Network Interface. 12th USENIX Workshop on Hot Topics in Cloud Computing, July 2020.</li>
+<li>Waqar Aqeel, Debopam Bhattacherjee, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Gregory Laughlin, Bruce Maggs, and Ankit Singla. Untangling Header Bidding Lore. Passive and Active Measurement Conference (PAM), March 2020. Acceptance rate: 29% (19/65). <strong>Best Dataset Award</strong>
+</li>
+<li>Santhosh Prabhu, Kuan Yen Chou, Ali Kheradmand, P. Brighten Godfrey, and Matthew Caesar. Plankton: Scalable network configuration verification through model checking. 17th USENIX Symposium on Networked Systems Design and Implementation (NSDI), February 2020. Acceptance rate: 22% (17/79)</li>
+<li>Tomer Gilad, Nathan H. Jay, Michael Shnaiderman, P. Brighten Godfrey, and Michael Schapira. Robustifying Network Protocols with Adversarial Examples. Eighteenth ACM Workshop on Hot Topics in Networks (HotNets), November 2019. Acceptance rate: 20% (20/98)</li>
+<li>Nathan Jay, Noga H. Rotman, P. Brighten Godfrey, Michael Schapira, and Aviv Tamar. A Deep Reinforcement Learning Perspective on Internet Congestion Control. Thirty-sixth International Conference on Machine Learning, June 2019.</li>
+<li>Debopam Bhattacherjee, Waqar Aqeel, Ilker Nadi Bozkurt, Anthony Aguirre, Balakrishnan Chandrasekaran, P. Brighten Godfrey, Gregory P. Laughlin, Bruce M.  Maggs, and Ankit Singla. Gearing up for the 21st century space race. Seventeenth ACM Workshop on Hot Topics in Networks (HotNets), November 2018. Acceptance rate 21% (26/125).</li>
+<li>Nathan Jay, Noga H. Rotman, P. Brighten Godfrey, Michael Schapira, and Aviv Tamar. Internet Congestion Control via Deep Reinforcement Learning. NeurIPS Deep Reinforcement Learning Workshop, October 2018.</li>
+<li>Simone Mangiante, Michael Schapira, Amit Navon, Marco Dias Silva, P. Brighten Godfrey, Weiguang Wang, Kevin Smith, and Itzcak Pechtalt. Congestion Control for Future Mobile Networks. Proceedings of the 13th Workshop on Challenged Networks, October 2018.</li>
+<li>Santhosh Prabhu, Gohar Irfan Chaudhry, P. Brighten Godfrey, and Matthew Caesar.  High Coverage Testing of Softwarized Networks. ACM SIGCOMM 2018 Workshop on Security in Softwarized Networks: Prospects and Challenges, August 2018. Acceptance rate 38% (8/21).</li>
+<li>Nathan Jay, Tong Meng, Tomer Gilad, P. Brighten Godfrey, Michael Schapira, Jamal Hadi Salim, Jae Won Chung, and Vikram Siwach. A PCC-Vivace Kernel Module for Congestion Control. Netdev 0x12: the Technical Conference on Linus Networking, July 2018.</li>
+<li>Mo Dong, Tong  Meng, Doron Zarchy, Engin Arslan, Yossi Gilad, P. Brighten Godfrey, and Michael Schapira. PCC Vivace: Online-Learning Congestion Control. 15th USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2018.  Acceptance rate  16% (40/252).</li>
+<li>Soudeh Ghorbani, Zibin Yang, P. Brighten Godfrey, Yashar Ganjali, and Amin Firoozshahian. DRILL: Micro Load Balancing for Low-latency Data Center Networks. ACM SIGCOMM, August 2017. Acceptance rate 14% (36/250)</li>
+<li>Santhosh Prabhu,  Ali Kheradmand, P. Brighten Godfrey, and Matthew Caesar.  Predicting Network Futures with Plankton. 1st Asia-Pacific Workshop on Networking (APNet), August 2017. Acceptance rate 35% (17/48)</li>
+<li>Soudeh Ghorbani and P. Brighten Godfrey. COCONUT: Seamless Scale-out of Network Elements. European Conference on Computer Systems (EuroSys), April 2017. <em>Acceptance rate: 20% (41/200)</em></li>
+<li>Santhosh Prabhu, Mo Dong, Tong Meng, P. Brighten Godfrey, and Matthew Caesar. Let me rephrase that: Transparent optimization in SDNs. ACM SIGCOMM Symposium on SDN Research (SOSR), April 2017. <em>Acceptance rate: 23% (18/77)</em></li>
+<li>Ilker Nadi Bozkurt, Balakrishnan Chandrasekaran, Anthony Aguirre, P. Brighten Godfrey, Gregory Laughlin, Bruce Maggs, and Ankit Singla. Why is the Internet so slow?!. Passive and Active Measurement Conference, March 2017. <em>Acceptance rate: 23% (20/87)</em> <strong>Best Dataset Award</strong></li>
+<li>Sangeetha Abdu Jyothi, Ankit Singla, P. Brighten Godfrey, and Alexandra Kolla. Measuring and Understanding Throughput of Network Topologies. ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis (SC), November 2016. <em>Acceptance rate: 18% (82/446)</em></li>
+<li>Anduo Wang, Xueyuan Mei, Jason Croft, Matthew Caesar, and P. Brighten Godfrey, Ravel: A Database-Defined Network. ACM SIGCOMM Symposium on SDN Research (SOSR), March 2016. <em>Acceptance rate: 25% (17/68)</em></li>
+<li>Qingxi Li, Mo Dong, and P. Brighten Godfrey. Halfback: Running Short Flows Quickly and Safely. International Conference on emerging Networking Experiments and Technologies (CoNEXT), December 2015. <em>Acceptance rate: 21% (41/196)</em></li>
+<li>Soudeh Ghorbani, P. Brighten Godfrey, Yashar Ganjali, and Amin Firoozshahain. Micro Load Balancing in Data Centers with DRILL. Fourteenth ACM Workshop on Hot Topics in Networks (HotNets), November 2015. <em>Acceptance rate: 19% (26/140)</em></li>
+<li>Nikolaj Bjorner, Nate Foster, P. Brighten Godfrey, and Pamela Zave. Report from Dagstuhl Seminar 15071: Formal Foundations for Networking. Dagstuhl Reports, July 2015.</li>
+<li>Sangeetha Abdu Jyothi, Mo Dong, and P. Brighten Godfrey. Towards a Flexible Data Center Fabric with Source Routing. ACM SIGCOMM Symposium on SDN Research (SOSR), June 2015. <em>Acceptance rate: 20% (27/137)</em>
+&#160;</li>
+<li>Ashish Vulimiri, Carlo Curino, P. Brighten Godfrey, Thomas Jungblut, Konstantinos Karanasos, Jitu Padhye, and George Varghese. WANalytics: Geo-Distributed Analytics for a Data Intensive World. Demo at ACM SIGMOD International Conference on Management of Data (SIGMOD), May 2015.</li>
+<li>Ashish Vulimiri, Carlo Curino, P. Brighten Godfrey, Thomas Jungblut, Jitu Padhye, and George Varghese. "Global analytics in the face of bandwidth and regulatory constraints." 12th USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2015. Acceptance rate: 20% (42/213)</li>
+<li>Wenxuan Zhou, Dong Jin, Jason Croft, Matthew Caesar, and P. Brighten Godfrey. "Enforcing Generalized Consistency Properties in Software-Defined Networks." 12th USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2015. Acceptance rate: 20% (42/213)</li>
+<li>Mo Dong, Qingxi Li, Doron Zarchy, P. Brighten Godfrey, and Michael Schapira. "PCC: Rearchitecting Congestion Control for Consistent High Performance." 12th USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2015. Acceptance rate: 20% (42/213)</li>
+<li>Ashish Vulimiri, Carlo Curino, P. Brighten Godfrey, Konstantinos Karanasos, and George Varghese. "WANalytics: Analytics for a Geo-Distributed Data-Intensive World." Conference on Innovative Data Systems Research (CIDR 2015), January 2015.</li>
+<li>Ankit Singla, Balakrishnan Chandrasekaran, P. Brighten Godfrey, and Bruce Maggs. "The Internet at the Speed of Light." Thirteenth ACM Workshop on Hot Topics in Networks (HotNets 2014), October 2014. Acceptance rate: 22% (26/118)</li>
+<li>Soudeh Ghorbani and P. Brighten Godfrey. "Towards Correct Network Virtualization." Workshop on Hot Topics in Software Defined Networking (HotSDN), August 2014. Acceptance rate: 29% (33/114) Best paper award</li>
+<li>Ankit Singla, P. Brighten Godfrey, and Alexandra Kolla, "High Throughput Data Center Topology Design", <em>11th USENIX Symposium on Networked Systems Design and Implementation</em> (NSDI), April 2014. <em>Acceptance rate: 18% (38/213)</em></li>
+<li>Chi-Yao Hong, Matthew Caesar, and P. Brighten Godfrey, "Software Defined Transport: Flexible and Deployable Flow Rate Control", <em>Open Networking Summit </em>(ONS), March 2014. <em>Acceptance rate: 28% (26/92)</em></li>
+<li>Anduo Wang, Wenchao Zhou, P. Brighten Godfrey, and Matthew Caesar, "Software-Defined Networks as Databases", <em>Open Networking Summit</em> (ONS), March 2014. <em>Acceptance rate: 28% 26/92)</em></li>
+<li>Ashish Vulimiri, P. Brighten Godfrey, Radhika Mittal, Justine Sherry, Sylvia Ratnasamy, and Scott Shenker, "Low Latency via Redundancy", <em>9th ACM International Conference on Emerging Networking Experiments and Technologies</em> (CoNEXT), December 2013. <em>Acceptance rate: 20% (29/143)</em></li>
+<li>Rachit Agarwal and P. Brighten Godfrey, "A Simple Stretch 2 Distance Oracle", brief announcement,<em> 32nd Annual ACM SIGACT-SIGOPS Symposium on Principles of Distributed Computing</em> (PODC), July 2013.</li>
+<li>Ahmed Khurshid, Xuan Zou, Wenxuan Zhou, Matthew Caesar, and P. Brighten Godfrey, "VeriFlow: Verifying Network-Wide Invariants in Real Time", <em>10th USENIX Symposium on Networked Systems Design and Implementation </em>(NSDI), April 2013.<em> Acceptance rate: 22% (38/171)</em></li>
+<li>Junda Liu, Aurojit Panda, Ankit Singla, P. Brighten Godfrey, Michael Schapira, and Scott Shenker, "Ensuring Connectivity via Data Plane Mechanisms", <em>10th USENIX Symposium on Networked Systems Design and Implementation</em> (NSDI), April 2013. <em>Acceptance rate: 22% (38/171)</em></li>
+<li>Rachit Agarwal and P. Brighten Godfrey, "Distance Oracles for Stretch Less Than 2",<em> ACM- SIAM Symposium on Discrete Algorithms </em>(SODA), January 2013. <em>Acceptance rate: 30% (135/454)</em></li>
+<li>Ashish Vulimiri, Oliver Michel, P. Brighten Godfrey, and Scott Shenker, "More is Less: Reducing Latency via Redundancy", <em>Eleventh ACM Workshop on Hot Topics in Networks</em> (HotNets-XI), October 2012. <em>Acceptance rate: 19% (23/120)</em></li>
+<li>Ahmed Khurshid, Wenxuan Zhou, Matthew Caesar, and P. Brighten Godfrey, "VeriFlow: Verifying Network-Wide Invariants in Real Time". First Workshop on Hot Topics in Software Defined Networking </em>(HotSDN), August 2012. Acceptance rate: 31% (22/71) <strong>Best paper award; republished as journal article in Computer Communication Review; UIUC Dept. of CS Feng Chen Memorial Award</strong></li>
+<li>Chi-Yao Hong, Matthew Caesar, and P. Brighten Godfrey, "Finishing Flows Quickly with Preemptive Scheduling", <em>ACM Special Interest Group on Data Communication</em> (SIGCOMM), August 2012. <em>Acceptance rate: 14% (32/235)</em></li>
+<li>Rachit Agarwal, Matthew Caesar, P. Brighten Godfrey, and Ben Y. Zhao, "Shortest Paths in Less Than a Millisecond", <em>Workshop on Online Social Networks</em> (WOSN), August 2012. <em>Acceptance rate: 34% (12/35)</em></li>
+<li>Joan Feigenbaum, P. Brighten Godfrey, Aurojit Panda, Michael Schapira, Scott Shenker, and Ankit Singla, "On the Resilience of Routing Tables", brief announcement, <em>31st Annual ACM SIGACT-SIGOPS Symposium on Principles of Distributed Computing</em> (PODC), July 2012.</li>
+<li>Ashish Vulimiri, Gul Agha, P. Brighten Godfrey, and Karthik Lakshminarayanan, "How well can congestion pricing neutralize denial-of-service attacks?", <em>International Conference on Measurement and Modeling of Computer Systems</em> (SIGMETRICS), June 2012. <em>Acceptance rate: 15% (31/203)</em></li>
+<li><a href="http://www.cs.illinois.edu/~pbg/papers/jellyfish-full.pdf">Ankit Singla, Chi-Yao Hong, Lucian Popa, and P. Brighten Godfrey, "Jellyfish: Networking Data Centers Randomly", <em>9th USENIX Symposium on Networked Systems Design and Implementation</em> (NSDI), April 2012. <em>Acceptance rate: 18% (30/169)</em> UIUC CS Graduate Outstanding Research Project Award, 2013</a></li>
+<li><a href="http://www.cs.illinois.edu/~pbg/papers/asap.pdf">Wenxuan Zhou, Qingxi Li, Matthew Caesar, and P. Brighten Godfrey, "ASAP: A Low-Latency Transport Layer",<em> 7th ACM International Conference on emerging Networking Experiments and Technologies </em>(CoNEXT), December 2011. <em>Acceptance rate: 19% (30/159)</em></a></li>
+<li><a href="http://www.cs.illinois.edu/~pbg/papers/anteater-sigcomm2011.pdf">Haohui Mai, Ahmed Khurshid, Rachit Agarwal, Matthew Caesar, P. Brighten Godfrey, and Samuel T. King, "Debugging the Data Plane with Anteater", <em>ACM Special Interest Group on Data Communication</em> (SIGCOMM), August 2011. <em>Acceptance rate: 14% (32/223)</em></a></li>
+<li>Teemu Koponen, Scott Shenker, Hari Balakrishnan, Nick Feamster, Igor Ganichev, Ali Ghodsi, P. Brighten Godfrey, Nick McKeown, Guru Parulkar, Barath Raghavan, Jennifer Rexford, So-maya Arianfar, and Dmitriy Kuptsov. Architecting for Innovation. ACM SIGCOMM Computer Communication Review, Vol. 41, No. 2, July 2011.</li>
+<li><a href="http://www.cs.illinois.edu/~pbg/papers/jellyfish-hotcloud11.pdf">Ankit Singla, Chi-Yao Hong, Lucian Popa, and P. Brighten Godfrey, "Jellyfish: Networking Data Centers Randomly," <em>3rd USENIX Workshop on Hot Topics in Cloud Computing </em>(HotCloud), June 2011. <em>Acceptance rate: 32% (23/72)</em></a></li>
+<li><a href="http://www.cs.illinois.edu/~pbg/papers/SlickPackets.pdf">Giang Nguyen, Rachit Agarwal, Junda Liu, Matthew Caesar, P. Brighten Godfrey, and Scott Shenker, "Slick Packets", <em>International Conference on Measurement and Modeling of Computer Systems</em> (SIGMETRICS), June 2011. <em>Acceptance rate: 15% (26/177)</em></a></li>
+<li><a href="http://www.cs.illinois.edu/~pbg/papers/compact_routing_in_sparse_graphs.pdf">Rachit Agarwal, P. Brighten Godfrey, and Sariel Har-Peled, "Approximate Distance Queries and Compact Routing in Sparse Graphs", <em>30th Annual IEEE Conference on Computer Communications </em>(INFOCOM), Shanghai, China, April 2011. <em>Acceptance rate: 16% (291/1823)</em></a></li>
+<li><a href="http://www.cs.illinois.edu/~pbg/papers/Scalable_Routing_on_Flat_Names.pdf">Ankit Singla, P. Brighten Godfrey, Kevin Fall, Gianluca Iannaccone, and Sylvia Ratnasamy, "Scalable Routing on Flat Names", <em>6th International Conference on emerging Networking EXperiments and Technologies</em> (CoNEXT), December 2010. <em>Acceptance rate: 19% (28/147)</em></a></li>
+<li><a href="http://www.cs.illinois.edu/~pbg/papers/uddin10relics.pdf">Md. Yusuf Sarwar Uddin, P. Brighten Godfrey, and Tarek Abdelzaher, "RELICS: In-network Realization of Incentives to Combat Selfishness in DTNs",<em> IEEE International Conference on Network Protocols</em> (ICNP), October 2010. <em>Acceptance rate: 18% (31/170)</em></a></li>
+<li><a href="http://www.cs.illinois.edu/~pbg/papers/a_few_extra_paths.pdf">Rachit Agarwal, Virajith Jalaparti, Matthew Caesar, and P. Brighten Godfrey, "Guaranteeing BGP Stability With a Few Extra Paths", <em>30th International Conference on Distributed Computing Systems</em> (ICDCS), June 2010.<em> Acceptance rate: 14% (84/585)</em></a></li>
+<li><a href="http://www.cs.illinois.edu/~pbg/papers/congestion.pdf">P. Brighten Godfrey, Michael Schapira, Aviv Zohar, and Scott Shenker, "Incentive Compatibility and Dynamics of Congestion Control", <em>International Conference on Measurement and Modeling of Computer Systems</em> (SIGMETRICS), June 2010. <em>Acceptance rate: 16% (29/184)</em></a></li>
+<li>Kevin Fall, P. Brighten Godfrey, Gianluca Iannaccone and Sylvia Ratnasamy, "Routing Tables: Is Smaller Really Much Better?", <em>ACM SIGCOMM Hot Topics in Networks</em> (HotNets 2009), New York, NY, October 2009. <em>Acceptance rate: 16% (21/131)</em></li>
+<li>P. Brighten Godfrey, Igor Ganichev, Scott Shenker and Ion Stoica, "Pathlet Routing", <em>ACM Special Interest Group on Data Communication</em> (SIGCOMM), Barcelona, Spain, August 2009. <em>Acceptance rate: 10% (27/270)</em></li>
+<li>P. Brighten Godfrey, Scott Shenker, and Ion Stoica, "Pathlet Routing", <em>Seventh ACM Workshop on Hot Topics in Networks</em> (HOTNETS), October 2008. <em>Acceptance rate: 20% (22/110)</em></li>
+<li>P. Brighten Godfrey, "Balls and Bins with Structure: Balanced Allocations on Hypergraphs", <em>ACM-SIAM Symposium on Discrete Algorithms </em>(SODA), January 2008. <em>Acceptance rate: 30% (136/458)</em></li>
+<li>Alexandros G. Dimakis, P. Brighten Godfrey, Martin J. Wainwright and Kannan Ramchandran, "Network Coding for Distributed Storage Systems", <em>26th Annual IEEE Conference on Computer Communications</em> (INFOCOM), Anchorage, Alaska, May 2007. Acceptance rate: 18% (252/1400)</li>
+<li>Alexandros G. Dimakis, P. Brighten Godfrey, Martin J. Wainwright, and Kannan Ramchandran, "The Benefits of Network Coding for Peer-to-Peer Storage Systems", <em>Third Workshop on Network Coding, Theory, and Applications</em> (NETCOD), January 2007.</li>
+<li>P. Brighten Godfrey, Scott Shenker and Ion Stoica, "Minimizing Churn in Distributed Systems", <em>ACM Special Interest Group on Data Communication</em> (SIGCOMM), Pisa, Italy, September 2006. Acceptance rate: 12% (37/298)</li>
+<li>P. Brighten Godfrey and Richard Karp, "On the Price of Heterogeneity in Parallel Systems", <em>18th ACM Symposium on Parallelism in Algorithms and Architectures</em> (SPAA), Cambridge, MA, July 2006. Invited to special journal issue.</li>
+<li>Sean Rhea, P. Brighten Godfrey, Brad Karp, John Kubiatowicz, Sylvia Ratnasamy, Scott Shenker, Ion Stoica and Harlan Yu, "OpenDHT: A Public DHT Service and Its Uses", <em>ACM Special Interest Group on Data Communication</em> (SIGCOMM), Philadelphia, PA, August 2005. Acceptance rate: 11% (27/255)</li>
+<li>P. Brighten Godfrey and Ion Stoica, "Heterogeneity and Load Balance in Distributed Hash Tables", <em>24th Annual IEEE Conference on Computer Communications</em> (INFOCOM), Miami, FL, March 2005. Acceptance rate: 17% (244/1419)</li>
+<li>P. Brighten Godfrey and David Ratajczak, "Naps: Scalable, Robust Topology Management in Wireless Ad Hoc Networks",<em> Information Processing in Sensor Networks</em> (IPSN), April 2004. Acceptance rate: 17% (25/145)</li>
+<li>Sonesh Surana, P. Brighten Godfrey, Karthik Lakshminarayanan, Richard Karp and Ion Stoica, "Load Balancing in Dynamic Structured P2P Systems", <em>23rd Annual IEEE Conference on Computer Communications </em>(INFOCOM), Hong Kong, March 2004. Acceptance rate: 18% (261/1420)</li>
+<li>Kamalika Chaudhuri, P. Brighten Godfrey, Satish Rao and Kunal Talwar, "Paths, Trees and Minimum Latency Tours", <em>44th Annual IEEE Symposium on Foundations of Computer Science </em>(FOCS), October 2003.</li>
+</ul>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<h2>Teaching Honors</h2>
+<ul>
+<li>Ranked as Excellent Teacher, Spring 2021 CS 538 Advance Computer Networks (Spring 2021)</li>
+<li>Ranked as Excellent Teacher, Fall 2019 CS 498 Cloud Networking (Fall 2019)</li>
+<li>Ranked as Outstanding Teacher, Spring 2019 CS 538 Advanced Computer Networks (Spring 2019)</li>
+<li>Ranked as Excellent Teacher, Spring 2018 CS 538 Advanced Computer Networks (2018)</li>
+<li>Ranked as Excellent Teacher, Spring 2017 CS 538 Advanced Computer Networks (2017)</li>
+<li>Engineering Council Outstanding Advising Award (2015)</li>
+<li>Ranked as Excellent Teacher, Spring 2014 CS 241 Systems Programming (Spring 2014)</li>
+<li>Ranked as Outstanding Teacher, Fall 2013 CS 538 Advanced Computer Networks (Fall 2013)</li>
+<li>Ranked as Outstanding Teacher, Fall 2012 CS 538 Advanced Computer Networks (Fall 2012)</li>
+<li>Ranked as Excellent Teacher, Spring 2012 CS 241 Systems Programming (Spring 2012)</li>
+<li>Ranked as Outstanding Teacher, Fall 2011 CS 538 Advanced Computer Networks (Fall 2011)</li>
+<li>Ranked as Excellent Teacher, Fall 2010 CS598 Advanced Computer Networks (Fall 2010)</li>
+</ul>
+
+		<h2>Research Honors</h2>
+<ul>
+<li>Facebook Research Award (2020)</li>
+<li>Best Dataset Award   (2020)</li>
+<li>Best Dataset Award (2017)</li>
+<li>Rising Star Award (2015)</li>
+<li>Dean's Award for Excellence in Research (2015)</li>
+<li>Best paper (2014)</li>
+<li>Beckman Fellow (2014-2015)</li>
+<li>Alfred P. Sloan Research Fellow in Computer Science (2014)</li>
+<li>Innovative Application Award (2013)</li>
+<li>Best paper (2012)</li>
+<li> Joint Paper Award (June 2012)</li>
+<li>CAREER Award (January 2012)</li>
+<li>IEEE Communications Society Data Storage Technical Committee 2010 Best Paper
+Award (December 2011)</li>
+</ul>
+
+		
+		
+		
+		<h2>Courses Taught - Last Four Years</h2>
+<ul><li>CS 435 - Cloud Networking</li>
+<li>CS 498 - Cloud Networking</li>
+<li>CS 538 - Advanced Computer Networks</li>
+</ul>
+	</div>
+
+
+</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile w110 white-box   py-5 " id="tile7058" data-tileid="7058" >
+	<div class="lower     " id="lower7058">
+		<div class="row">
+			<div class="col-md column1      " >
+				<h2 class="text-center">Related News</h2>
+<div id="faculty-news" class="tile-list"><section class="tile news w25 platinum-box" id="page21851" data-pageid="21851" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=32975);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/NSF-grants-2.25M-new-research-october-2020">NSF Grants Provide $2.25 Million to Support New Research Projects Launched in October</a></h2>
+				<p class="first"><a href="/news">News</a> | November 17, 2020</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile news w25 platinum-box" id="page6057" data-pageid="6057" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=10170);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/four-illinois-cs-chosen-2018-rising-stars-eecs-workshop">Four From Illinois CS Chosen For 2018 Rising Stars In EECS Workshop</a></h2>
+				<p class="first"><a href="/news">News</a> | October 12, 2018</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile news w25 platinum-box" id="page6319" data-pageid="6319" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(https://cs2020.dev.engr.illinois.edu/images/siebel-sculpture.jpg?id=);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/why-tech-leaders-should-always-keep-eye-academia">Why tech leaders should always keep an eye on academia</a></h2>
+				<p class="first"><a href="/news">News</a> | March 6, 2017</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile news w25 platinum-box" id="page6335" data-pageid="6335" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=10515);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/thinkchicago-roadshow-rolls-siebel-and-pitches-city-student-tech-talent">ThinkChicago Roadshow rolls into Siebel and pitches city to student tech talent</a></h2>
+				<p class="first"><a href="/news">News</a> | January 31, 2017</p>
+			</div>
+		</div>
+	</div>
+</section>
+</div>
+<p>&nbsp;</p>
+<p class="text-center"><a class="button orange loader" href="#" data-target="faculty-news" data-template="81" data-bookid="81" data-return="4" data-filter-field="netid" data-filter-value="pbg">Load more news</a></p>
+			</div>
+		</div>
+	</div>
+</section>
+
+						</div>
+					</div>
+				</main>
+			</div>
+
+			<footer>
+							<div class="container-fluid maxwidth1140">
+				<div class="row pt-5 pb-3">
+					<div class="col-lg-5 mb-5">
+						<div class="campus_wordmark"><a href="http://illinois.edu/"><img src="https://ws.engr.illinois.edu/images/uiuc-footer-wordmark.png" alt="University of Illinois Urbana Champaign"></a></div>
+					</div>
+
+					<div class="col-lg-7 mb-4 socials">
+						<a href="https://www.facebook.com/CSatIllinois/"><i class="fab fa-facebook-f"></i><span class="sr-only">Facebook</span></a>
+						<a href="https://twitter.com/IllinoisCS"><i class="fab fa-twitter"></i><span class="sr-only">Twitter</span></a>
+						<a href="https://www.youtube.com/user/IllinoisCS"><i class="fab fa-youtube"></i><span class="sr-only">YouTube</span></a>
+						<a href="https://www.linkedin.com/school/illinoiscs"><i class="fab fa-linkedin-in"></i><span class="sr-only">LinkedIn</span></a>
+						<a href="https://www.instagram.com/illinoiscs/"><i class="fab fa-instagram"></i><span class="sr-only">Instagram</span></a>
+						<div class="w-100 d-block d-lg-none"></div>
+						<a href="/about/contact-us" class="button">Contact Us</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="container-fluid maxwidth1140">
+				<div class="row pb-5 justify-content-between">
+					<div class="col-md pr-xl-5 mb-5 college_container">
+
+						<div class="contact">
+							<p><span class="fs150x"><a href="https://cs.illinois.edu">Thomas M. Siebel Center for Computer Science</a></span><br />
+                                                       201 North Goodwin Avenue MC 258<br />
+                                                        Urbana, IL 61801-2302<br />
+                                                         ph: 217-333-3426 (general) | 217-333-4428 (advising) <br />
+                                                         fax: 217-333-3501</p>
+                                                        <p> General email: <a href="mailto:admin@cs.illinois.edu">admin@cs.illinois.edu</a><br />
+                                                         Graduate Advising: <a href="mailto:academic@cs.illinois.edu">academic@cs.illinois.edu</a><br />
+                                                         Undergraduate Advising: <a href="mailto:undergrad@cs.illinois.edu">undergrad@cs.illinois.edu</a><br />
+                                                          Webmaster: <a href="mailto:grainger-marcom@illinois.edu?subject=CS Request">grainger-marcom@illinois.edu</a></p>
+							<p><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a><br />
+							<a href="https://illinois.edu">University of Illinois</a></p>
+
+						</div>
+					</div>
+
+
+					<div class="col-md pr-xl-5 my-5 concentrations">
+                                 	
+					</div>
+				</div>
+			</div>
+
+				<div class="container-fluid" id="legal">
+					<div class="row justify-content-md-center align-items-center py-4">
+
+						<div class="col-md-auto">
+							<div><button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Preferences</button></div>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Copyright &copy; 2021 University of Illinois Board of Trustees</p>
+						</div>
+
+						<div class="col-md-auto">
+							<p><a href="https://grainger.illinois.edu/cookie-policy">Cookie Policy</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy</a></p>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Powered by <a href="https://my.engr.illinois.edu/sitemanager/editpage.asp?id=11846">SiteManager</a> | <a href="mailto:grainger-marcom@illinois.edu">Contact Webmaster</a></p>
+						</div>
+					</div>
+				</div>
+
+				<div id="gototop" class="hidden">
+					<a href="#"><i class="fa fa-chevron-up"></i><span class="sr-only">Go to top</span></a>
+				</div>
+			</footer>
+		</div>
+
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+		<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax-video.min.js"></script>
+		<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+		<script src="https://cdn.datatables.net/responsive/2.2.5/js/dataTables.responsive.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.0/circle-progress.min.js'></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/twbs-pagination/1.4.2/jquery.twbsPagination.min.js'></script>
+		<script src="https://ws.engr.illinois.edu/sitemanager/genscripts.js?v=2.660.676"></script>
+		<script src="/js/scripts.js?v=0.27"></script>
+
+		<script async="async" src="https://enroll.illinois.edu/ping"></script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-9571262-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-9571262-1');
+</script>
+
+		
+	</body>
+</html>
+
+

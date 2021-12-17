@@ -1,0 +1,974 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Wen-mei Hwu
+ | Computer Science | UIUC</title>
+		<link rel="shortcut icon" type="image/x-icon" href="//ws.engr.illinois.edu/images/favicon.ico">
+
+		<meta name="description" content="Wen-mei Hwu
+">
+		<meta name="author" content="Grainger Engineering Office of Marketing and Communications">
+
+		<!-- meta tags for mobile devices -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">  
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+				<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="26be7d61-2017-4ea7-8a8b-8f1704889763"></script>
+		<script type="text/javascript"> function OptanonWrapper() { } </script>
+
+		<meta property="og:type" content="article" />
+<meta property="og:title" content="Wen-mei Hwu
+" />
+<meta property="og:description" content="Wen-mei Hwu
+" />
+<meta property="og:url" content="https://cs.illinois.edu/about/people/all-faculty/*" />
+<meta property="og:image" content="https://ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=12050" />
+
+
+		<!-- fonts -->
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i,900,900i%7cBarlow+Condensed%7cPlayfair+Display%7cMontserrat:400,500,600,700,800%7cFjalla+One%7cLexend+Exa%7cMontserrat+Alternates:400,700">
+		<script src="https://kit.fontawesome.com/64a62210ef.js"></script>
+
+		<!-- stylesheets -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.5/css/responsive.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://ws.engr.illinois.edu/sitemanager/gensite.css?v=2.671.281">
+		<link rel="stylesheet" type="text/css" href="/css/styles.css?v=0.19">
+
+				<!-- Global site tag (gtag.js) - Google Ads: 1011414001 -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1011414001"></script>
+		<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-1011414001'); </script> 
+		<!-- Event snippet for Outbound Google Ads click conversions -->
+		<script> function gtag_report_conversion(url) {var callback = function () {if (typeof(url) != 'undefined') {window.location = url;}};gtag('event', 'conversion', {'send_to': 'AW-1011414001/YNxnCM-1kfMBEPHno-ID','event_callback': callback});return false;} </script>
+		
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	</head>
+
+	<body class="site prod about people all-faculty w-hwu  isattop theme_dagobah" data-sidebar="" data-sidebarskip="[sidebarskip]" data-sidebarinclude="[sidebarinclude]">
+		<div id="page">
+			
+			<header>
+				<div id="skiptocontent"><a href="#content">skip to main content</a></div>
+
+				<div class="container-fluid campus">
+					<div class="row mx-auto maxwidth1140">
+						<div class="col p-0">
+							<a href="http://illinois.edu/"><span>University of Illinois Urbana-Champaign</span></a>
+						</div>
+						<div id="featurelinks" class="col p-0 text-right">
+							<ul>
+	<li><a href="/alumni">Alumni</a></li>
+	<li><a href="/corporate">Corporate</a></li>
+       <li><a href="/about/people">People</a></li>
+	<li><a href="https://my.cs.illinois.edu">My.CS</a></li>
+</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="container-fluid site">
+					<div class="row wordmark d-flex flex-nowrap align-items-center">
+						<div class="d-flex flex-fill pr-3">
+							<div class="blocki"><a href="https://illinois.edu">University of Illinois at Urbana-Champaign</a></div>
+							<div class="site_identification">
+								<div class="parent_name"><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a></div>
+								<div class="site_name"><a href="/"><span>Computer Science</span></a></div>
+							</div>
+						</div>
+
+						<div class="d-flex align-items-center">
+							<div id="header-search-container" class="d-none d-lg-block site-search">
+								<form class="form-inline" method="get" action="/search" id="search-form">
+									<div class="input-group">
+										<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="header-search-go-button">
+										<div class="input-group-append">
+											<a href="/search" onclick="$('#header-search-container form').submit(); return false;" class="input-group-text" id="header-search-go-button"><i class="far fa-search"></i><span class="sr-only">Search</span></a>
+										</div>
+									</div>
+								</form>	
+							</div>
+
+							<div id="mainnav-toggler-container">
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainnav" aria-controls="mainnav" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="icon"></span> <span class="label sr-only">Menu</span>
+								</button>
+							</div>
+						</div>
+					</div>
+					<nav class="navbar navbar-expand-lg p-0">
+<div class="collapse navbar-collapse" id="mainnav">
+<form class="d-block d-lg-none" method="get" action="/search" id="mobile-search-form">
+<div class="form-row p-3">
+<div class="col">
+<div class="input-group">
+<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="mobile-search-go-button">
+<div class="input-group-append">
+<a href="/search" onclick="$('#mobile-search-form').submit(); return false;" class="input-group-text" id="mobile-search-go-button"><i class="far fa-search" aria-hidden="true"></i><span class="sr-only">Search</span></a>
+</div>
+</div>
+</div>
+</div>
+</form>
+<ul class="navbar-nav w-100">
+<li class="dropdown mega twocol nav-item">
+<a href="/about" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>About</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-about">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/about">About</a></h2>
+<ul class="about ">
+<li><a href="/about/cs-cares">CS CARES Committee</a></li>
+<li><a href="/about/values">Values & Code of Conduct</a></li>
+<li><a href="/about/statistics">Rankings & Statistics</a></li>
+<li><a href="/about/contact-us">Contact Us & Directions</a></li>
+<li class="dropdown"><a href="/about/people">People</a><ul class="people ">
+<li><a href="/about/people/all-faculty">All Faculty</a></li>
+<li><a href="/about/people/department-faculty">Department Faculty</a></li>
+<li><a href="/about/people/affiliate-faculty">Affiliate Faculty</a></li>
+<li><a href="/about/people/adjunct-faculty">Adjunct Faculty</a></li>
+<li><a href="/about/people/postdocs">Postdocs</a></li>
+<li><a href="/about/people/emeritus-faculty">Emeritus Faculty</a></li>
+<li class="dropdown"><a href="/about/people/staff">Staff</a><ul class="staff ">
+<li><a href="/about/people/staff/office-department-head">Office of the Department Head</a></li>
+<li><a href="/about/people/staff/communications-engagement-team">Communications &amp; Engagement Team</a></li>
+<li><a href="/about/people/staff/undergraduate-advising-office">Undergraduate Advising Office</a></li>
+<li><a href="/about/people/staff/graduate-advising-office">Graduate Advising Office</a></li>
+<li><a href="/about/people/staff/instructional-development-team">Instructional Development Team</a></li>
+<li><a href="/about/people/staff/business-office">Business Office</a></li>
+<li><a href="/about/people/staff/faculty-support-contacts">Faculty Support Contacts</a></li>
+<li><a href="/about/people/staff/facilities-shipping-and-receiving">Facilities, Shipping and Receiving</a></li>
+</ul>
+</li>
+<li><a href="/about/people/graduating-phd-students">Graduating PhD Students</a></li>
+<li><a href="/about/people/recent-phd-alumni">Recent PhD Alumni</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/positions">Open Positions</a><ul class="positions ">
+<li><a href="/about/positions/faculty-positions">Faculty Positions</a></li>
+<li><a href="/about/positions/postdoctoral">Postdoctoral Positions</a></li>
+<li><a href="/about/positions/staff-positions">Staff Positions</a></li>
+<li><a href="/about/positions/choose-illinois-computer-science">Choose Illinois Computer Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/calendar">Calendar</a><ul class="calendar ">
+<li><a href="/about/calendar/all">All Events</a></li>
+<li><a href="/about/calendar/corporate">Corporate Events</a></li>
+<li><a href="/about/calendar/department">Department Events</a></li>
+<li><a href="/about/calendar/graduate">Graduate Events</a></li>
+<li><a href="/about/calendar/outreach">Outreach Events</a></li>
+<li><a href="/about/calendar/speakers">Speakers</a></li>
+<li><a href="/about/calendar/student-groups">Student Group Events</a></li>
+<li><a href="/about/calendar/undergraduate">Undergraduate Events</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards">Awards</a><ul class="awards ">
+<li><a href="/about/awards/celebration">Celebration of Excellence</a></li>
+<li class="dropdown"><a href="/about/awards/faculty-awards">Faculty Awards</a><ul class="faculty-awards ">
+<li><a href="/about/awards/faculty-awards/chairs-and-professorships">Chairs and Professorships</a></li>
+<li><a href="/about/awards/faculty-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/faculty-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards/undergraduate-scholarships-awards">Undergraduate Scholarships &amp; Awards</a><ul class="undergraduate-scholarships-awards ">
+<li><a href="/about/awards/undergraduate-scholarships-awards/shieh-li-scholarship">Ruey-Feng Shieh Li Family Scholarship</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/graduate-fellowships-awards">Graduate Fellowships &amp; Awards</a></li>
+<li class="dropdown"><a href="/about/awards/alumni-awards">Alumni Awards</a><ul class="alumni-awards ">
+<li><a href="/about/awards/alumni-awards/alumni-awards-past-recipients">Alumni Awards Past Recipients</a></li>
+<li><a href="/about/awards/alumni-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/alumni-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/staff-awards">Staff Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/history-timeline">History Timeline</a></li>
+<li><a href="/about/accreditation">Accreditation</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/admissions" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Admissions</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-admissions">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/admissions">Admissions</a></h2>
+<ul class="admissions ">
+<li class="dropdown"><a href="/admissions/undergraduate">Undergraduate Admissions</a><ul class="undergraduate ">
+<li><a href="https://admissions.illinois.edu/apply">Apply Now</a></li>
+<li><a href="/academics/undergraduate/degree-program-options">Degree & Program Options</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/dates">Application Deadlines</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/process">Applications Process & Requirements</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+<li><a href="https://www.housing.illinois.edu">Housing</a></li>
+<li><a href="/about-us/accreditation">Accreditation</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/admissions/graduate">Graduate Admissions</a><ul class="graduate ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+<li class="dropdown"><a href="/admissions/graduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/admissions/graduate/degree-program-options/professional-master-computer-science-mcs-program">Professional Master of Computer Science (MCS) Program</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-deadlines">Application Deadlines</a></li>
+<li class="dropdown"><a href="/admissions/graduate/applications-process-requirements">Applications Process &amp; Requirements</a><ul class="applications-process-requirements ">
+<li><a href="/admissions/graduate/applications-process-requirements/additional-required-application-materials">Additional Required Application Materials for International Students</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/application-fee-waivers">Application Fee Waivers</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/data-structures-proficiency-exam">Data Structures Proficiency Exam</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-checklist">Application Checklist</a></li>
+<li class="dropdown"><a href="/admissions/graduate/faqs">FAQs</a><ul class="faqs ">
+<li><a href="/admissions/graduate/faqs/ican-faqs">iCAN FAQs</a></li>
+<li><a href="/admissions/graduate/faqs/online-mcs-faqs">Online MCS FAQs</a></li>
+</ul>
+</li>
+<li><a href="https://choose.illinois.edu/apply/">Check Application Status</a></li>
+</ul>
+</li>
+<li><a href="/admissions/impact-illinois-cs-degree">Impact of an Illinois CS Degree</a></li>
+<li><a href="/admissions/financial-aid">Financial Aid</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/academics" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Academics</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-academics">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/academics">Academics</a></h2>
+<ul class="academics ">
+<li class="dropdown"><a href="/academics/undergraduate">Undergraduate Academics</a><ul class="undergraduate ">
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/academics/undergraduate/degree-program-options/bs-computer-science">B.S. in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-mathematics-computer-science">B.S. in Mathematics &amp; Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-statistics-computer-science">B.S. in Statistics &amp; Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs">CS + X Degree Programs</a><ul class="cs-x-degree-programs ">
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-advertising">Computer Science + Advertising</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-animal-sciences">Computer Science + Animal Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-anthropology">Computer Science + Anthropology</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-astronomy">Computer Science + Astronomy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-chemistry">Computer Science + Chemistry</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-crop-sciences">Computer Science + Crop Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-economics">Computer Science + Economics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-geography">Computer Science + Geography &amp; Geographic Information Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-linguistics">Computer Science + Linguistics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-music">Computer Science + Music</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-philosophy">Computer Science + Philosophy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/cs-x-degree-requirements">CS + X Degree Requirements &amp; Planning Forms</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-undergraduate-degree-options-faq">CS Undergraduate Degree Options FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/registration">Registration</a><ul class="registration ">
+<li><a href="/academics/undergraduate/registration/cs-course-restrictions-enrollment-caps">CS Course Restrictions &amp; Enrollment Caps</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/policies-and-procedures">Policies and Procedures</a></li>
+<li><a href="/academics/undergraduate/undergraduate-advising">Undergraduate Advising</a></li>
+<li><a href="/academics/undergraduate/cs-student-opportunity-series-cs-sos">CS Student Opportunity Series (CS SOS)</a></li>
+<li><a href="/academics/undergraduate/undergraduate-forms">Undergraduate Forms</a></li>
+<li><a href="/academics/undergraduate/honors">Honors</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate">Graduate Academics</a><ul class="graduate ">
+<li class="dropdown"><a href="/academics/graduate/phd-program">PhD Program</a><ul class="phd-program ">
+<li><a href="/academics/graduate/phd-program/final-exam-thesis-defense">Final Exam (Thesis Defense)</a></li>
+<li><a href="/academics/graduate/phd-program/guidelines-forming-phd-committee">Guidelines for Forming Ph.D. Committee</a></li>
+<li><a href="/academics/graduate/phd-program/phd-ms-thesis-format-review-guidelines">Ph.D. / M.S. Thesis Format Review Guidelines</a></li>
+<li><a href="/academics/graduate/phd-program/phd-program-study-process">PhD Program of Study Process</a></li>
+<li><a href="/academics/graduate/phd-program/phd-requirements">PhD Requirements</a></li>
+<li><a href="/academics/graduate/phd-program/phd-time-limits-milestones">PhD Time Limits &amp; Milestones</a></li>
+<li><a href="/academics/graduate/phd-program/preliminary-exam">Preliminary Exam</a></li>
+<li><a href="/academics/graduate/phd-program/qualifying-exam">Qualifying Exam</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/ms-program">MS Program</a></li>
+<li><a href="/academics/graduate/ms-bioinformatics-program">MS in Bioinformatics Program</a></li>
+<li class="dropdown"><a href="/academics/graduate/professional-mcs">Professional Master of Computer Science</a><ul class="professional-mcs ">
+<li><a href="/academics/graduate/professional-mcs/campus-master-computer-science">On-Campus Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science">Online Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science-data-science">Online Master of Computer Science in Data Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/fifth-year-masters-programs">Fifth Year Master's Programs</a><ul class="fifth-year-masters-programs ">
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-mcs-program">5-year BS-MCS Program</a></li>
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-ms-program">5-year BS-MS Program</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">Illinois Computing Accelerator for Non-Specialists (iCAN)</a><ul class="ican ">
+<li><a href="/academics/graduate/ican/application-process">iCAN Application Process</a></li>
+<li><a href="/academics/graduate/ican/curriculum">iCAN Curriculum</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources">Graduate Forms &amp; Advising Resources</a><ul class="graduate-forms-advising-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/epi-exam-requirements">EPI Exam Requirements</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-advising-contacts">Graduate Advising Contacts</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-student-annual-evaluation-process">Graduate Student Annual Evaluation Process</a></li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources">New Graduate Student Resources</a><ul class="new-graduate-student-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/mcs-campus">MCS On-Campus General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/ms-general">MS General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/phd-general">PhD General Advising for Registration</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/official-forms">Official Forms</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/academics/courses">Courses</a></li>
+<li><a href="/academics/honor-code">Honor Code</a></li>
+<li><a href="https://cs.illinois.edu/student-life/student-resources">Student Resources</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/student-life" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Student Life</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-student-life">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41390_8405" data-pageid="41390" data-tileid="8405" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=55621);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Salesforce's CodeT5 System Can Understand and Generate Code</h2>
+			<div class="description"></div>
+			<p><a href="/news/salesforces-codet5-system-can-understand-and-generate-code" class="button" title="Salesforce's CodeT5 System Can Understand and Generate Code">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 7, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/student-life">Student Life</a></h2>
+<ul class="student-life ">
+<li><a href="/student-life/overview-cs-student-life">Overview of CS Student Life</a></li>
+<li><a href="/student-life/student-organizations">Student Organizations</a></li>
+<li><a href="/student-life/department-college-and-campus-events">Department, College, and Campus Events</a></li>
+<li><a href="/student-life/student-resources">Student Resources</a></li>
+<li><a href="/student-life/career-services">Career Services</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/research" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Research</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-research">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Explore visionary research conducted by world-renowned faculty.</h2>
+<p><a class="orange button" href="/research/areas">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/research">Research</a></h2>
+<ul class="research ">
+<li class="dropdown"><a href="/research/areas">Research Areas</a><ul class="areas ">
+<li><a href="/research/areas/architecture-compilers-and-parallel-computing">Architecture, Compilers, and Parallel Computing</a></li>
+<li><a href="/research/areas/artificial-intelligence">Artificial Intelligence</a></li>
+<li><a href="/research/areas/bioinformatics-and-computational-biology">Bioinformatics and Computational Biology</a></li>
+<li><a href="/research/areas/computers-and-education">Computers and Education</a></li>
+<li><a href="/research/areas/data-and-information-systems">Data and Information Systems</a></li>
+<li><a href="/research/areas/interactive-computing">Interactive Computing</a></li>
+<li><a href="/research/areas/programming-languages-formal-methods-and-software-engineering">Programming Languages, Formal Methods, and Software Engineering</a></li>
+<li><a href="/research/areas/scientific-computing">Scientific Computing</a></li>
+<li><a href="/research/areas/security-and-privacy">Security and Privacy</a></li>
+<li><a href="/research/areas/systems-and-networking">Systems and Networking</a></li>
+<li><a href="/research/areas/theory-and-algorithms">Theory and Algorithms</a></li>
+</ul>
+</li>
+<li><a href="/research/technical-conferences-workshops">Technical Conferences &amp; Workshops</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+<li><a href="/corporate#research">Corporate Partners</a></li>
+<li><a href="https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=3146">Illinois CS Research Overview</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/broadening-participation-computing" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Broadening Participation</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-broadening-participation-computing">
+<section class="tile w50 white-box py-5 marketing">
+<p class="mb-0"><img src="//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=16163&s=375" class="image" alt="" width="375" /></p>
+<p style="padding: 10px 15px 0px 15px;">New certificate program for college graduates who want a deeper understanding of computers, algorithms, and programming.</p>
+<p><a class="orange button" href="/ican">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/broadening-participation-computing">Broadening Participation</a></h2>
+<ul class="broadening-participation-computing ">
+<li><a href="https://drive.google.com/file/d/12vDswb1i-mEXaXgVt7FOhtqYs7b8F_1p/view">BPC Departmental Plan</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs">BPC Programs & Activities for Students</a><ul class="programs ">
+<li><a href="/broadening-participation-computing/programs/csambassadors">CS Student Ambassador/Research Scholars (CS STARS)</a></li>
+<li><a href="/broadening-participation-computing/programs/cskickstart">Illinois CS Kickstart</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs/ai4all">AI4ALL</a><ul class="ai4all ">
+<li><a href="http://go.cs.illinois.edu/DiscoverAI">Apply Now</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">iCAN</a><ul class="ican ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+</ul>
+</li>
+<li><a href="http://cs.illinois.edu/research/summer-research-experience-undergraduates">Summer Research Experience for Undergraduates</a></li>
+</ul>
+</li>
+<li><a href="/broadening-participation-computing/resources">BPC Resources</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/cross-cutting">Cross-Cutting Educational Activities</a><ul class="cross-cutting ">
+<li><a href="/broadening-participation-computing/cross-cutting/conferences-workshops">BPC Conferences & Workshops</a></li>
+<li><a href="/broadening-participation-computing/cross-cutting/ca-training">Course Assistant Training</a></li>
+<li><a href="https://cs.illinois.edu/news/featured-lectures#equity-justice">Equity & Justice in Computing Seminar Series</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/broadening-participation-computing/k-12">K-12 Outreach & Resources</a><ul class="k-12 ">
+<li><a href="/broadening-participation-computing/k-12/k-12-outreach">K-12 Outreach Programs</a></li>
+<li><a href="/broadening-participation-computing/k-12/k-12-resources">K-12 Resources</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/student-life/student-organizations">Student Organizations</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/news" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>News</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-news">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41391_5367" data-pageid="41391" data-tileid="5367" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=51204);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging</h2>
+			<div class="description"><p>The Defense Advanced Research Projects Agency (DARPA) has awarded $5.8 million to a team, led by Illinois CS's <a href="/about/people/faculty/zaher">Tarek Abdelzaher</a>, that will work to characterize how different foreign populations respond to influence campaigns as a first step towards development of effective countermeasures.</p></div>
+			<p><a href="/news/abdelzaher-leading-DARPA-effort-understand-how-people-respond-influence-messaging" class="button" title="Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 8, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/news">News</a></h2>
+<ul class="news ">
+<li><a href="/news">Department News</a></li>
+<li><a href="/news/features">Feature Stories</a></li>
+<li><a href="/news/covid-19-projects">COVID-19 Projects</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/news/media-coverage">Media Coverage</a></li>
+<li><a href="/news/e-news">E-News</a></li>
+<li><a href="/news/impact-report-publications">Impact Report &amp; Publications</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/give" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Give</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-give">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Help ensure that Illinois continues to set a global standard for CS research and education.</h2>
+<p><a class="orange button" href="/give/give-now">Make a Gift</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/give">Give</a></h2>
+<ul class="give ">
+<li><a href="/give/give-now">Give Now</a></li>
+<li><a href="/give/ways-give">Ways to Give</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/give/computer-science-visionary-scholarship-donors">Computer Science Visionary Scholarship Donors</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+</ul>
+</div>
+</nav>
+
+				</div>
+			</header>
+
+			<div id="content">
+				<main>
+					<div  id="hero" class="container-fluid">
+						<div class="row maxwidth1140">
+							<div class="col">
+								<div>
+									<nav id="breadcrumbs"><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/about/people">People</a></li><li><a href="/about/people/all-faculty">All Faculty</a></li></ul></nav>
+									<h1>Wen-mei Hwu
+</h1>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					
+
+					<div id="content_inner" class="container-fluid">
+						<div class="tile-list">
+							<section class="tile w100 white-box   py-5 " id="tile6806" data-tileid="6806" >
+	<div class="lower  maxwidth1140   " id="lower6806">
+		<div class="row">
+			<div class="col-md column1      " >
+				<div>	<div class="directory-profile maxwidth800" id="article_[postid]">
+		<figure class="image align-right ">
+			<img alt="Wen-mei Hwu" title="Wen-mei Hwu" src="//ws.engr.illinois.edu/directory/viewphoto.aspx?id=5012&s=300&type=portrait" />
+			<figcaption>Wen-mei Hwu</figcaption>
+		</figure>
+
+		<!--<h2>Wen-mei Hwu</h2>-->
+		<div class="roles">
+			
+			<div><div class="role cat5 notprimary">
+<div class="title"><strong>AMD Jerry Sanders Chair Emeritus, Electrical and Computer Engineering</strong></div>
+<!--<div class="groups"><ul><li>Electrical and Computer Engineering</li></ul></div>-->
+<div class="phone">(217) 244-8270</div>
+<div class="email"><a href="mailto:w-hwu@illinois.edu">w-hwu@illinois.edu</a></div>
+<div class="office">215 Coordinated Science Lab</div>
+</div>
+</div>
+		</div>
+
+		<h2>For more information</h2>
+<ul>
+<li><a href="http://c3sr.hwu.crhc.illinois.edu">Center for Cognitive Computing Systems Research (C3SR) IBM/UIUC.</a></li>
+<li><a href="http://impact.crhc.illinois.edu">Wen-mei Hwu's research home page</a></li>
+</ul>
+
+		
+		<h2>Education</h2>
+<ul>
+<li>Ph.D., Computer Science, University of California, Berkeley, 1987</li>
+</ul>
+
+		
+		<h2>Academic Positions</h2>
+<ul>
+<li>Acting Department Head, Electrical & Computer Engineering - August 2018 to August 2019</li>
+<li>Chief Scientist, Parallel Computing Institute, University of Illinois at Urbana-Champaign - May 2009 to present</li>
+<li>Sanders III Advanced Micro Devices, Inc., Endowed Chair in Electrical and Computer Engineering - March 2003 to present</li>
+<li>Franklin W. Woeltge Professor of Electrical and Computer Engineering - August 2000 to 2003</li>
+<li>Research Professor of Coordinated Science Laboratory - August 1996 to Present</li>
+<li>Professor, Electrical & Computer Engineering - August 1996 to Present</li>
+</ul>
+
+		
+		
+		
+		<h2>Major Consulting Activities</h2>
+<ul>
+<li>Director, WaterBit, Santa Clara, California, January 2015 to January 2018</li>
+</ul>
+
+		
+		
+		
+		
+		
+		
+		<h2>Course Development</h2>
+<ul>
+<li>ECE 508, "Parallel Algorithm Techniques." Algorithm techniques for enhancing the scalability of parallel software:  scatter vs. gather, problem decomposition, spatial sorting and binning, privatization for reduced conflicts, tiling for data locality, regularization for improved load balance, compaction to conserve memory bandwidth, double-buffering to overlap latencies, and data layout for improved efficiency of DRAM accesses. These techniques address the most challenging problems in building scalable parallel software. (For Fall 2014).</li>
+<li>Coursera Online course, "Heterogeneous Parallel Programming." Developed and created for an initial offering in 2012.  This course teaches the use of CUDA/OpenCL, OpenACC, and MPI for programming heterogeneous parallel computing systems based on GPUs. It is application oriented and only introduces necessary technological knowledge to solidify understanding. The 2012 offering drew more than 26,000 students registered, 9,900 students participated in the programming lab, 461 students earned certificate of achievement, and 2,142 students earned certificate of distinction. Hwu and his Ph.D. student Abdul Dakkak developed a scalable, web-based GPU programming environment using the Amazon GPU Cloud to enable students from all-over the world to do hands-on GPU programming exercises with their laptops, tablets, and even mobile phones. Subsequent offerings of this course in 2013 and 2014 resulted in similar numbers and further built up a team of 300 volunteer teaching assistants who cover the class forum in all time zones. The total number of students from all three offerings exceeded 70,000.</li>
+<li>ECE 598HK, "Parallel Algorithm Techniques." Algorithm techniques for enhancing the scalability of parallel software:  scatter-to-gather, problem decomposition, binning, privatization, tiling, regularization, compaction, double-buffering, and data layout. These techniques address the most challenging problems in building scalable parallel software: limited parallelism, data contention, insufficient  memory bandwidth, load balance, and communication latency. (For Spring 2013).</li>
+<li>ECE 408, "Applied Parallel Programming." Co-created the course with David Kirk, Chief Scientist and Fellow of NVIDIA. Developed lectures, lab material, final project workshops. The lecture recordings have been downloaded by thousands of students worldwide. A new book has been published: "Programming Massively Parallel Processors, A Hands-on Approach"  Morgan Kaufman Publisher, (ISBN 978-0-12-381472-2) - 2010.</li>
+</ul>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		<h2>Research Interests</h2>
+<ul>
+<li>Architecture, microarchitecture, libraries, and programming tools for parallel cognitive computing systems.</li>
+</ul>
+
+		
+		
+		<div class="extProfileAREA">
+			<h2>Research Areas</h2>
+<ul>
+<li><a href="https://cs.illinois.edu/research/areas/architecture-compilers-and-parallel-computing">Architecture, Compilers, and Parallel Computing</a></li>
+<li><a href="http://cs.illinois.edu/research/areas/systems-and-networking">Systems and Networking</a></li>
+</ul>
+
+		</div>
+		
+		
+		<h2>Books Authored or Co-Authored (Original Editions)</h2>
+<ul>
+<li>"Programming Massively Parallel Processors - A Hands-on Approach," David B. Kirk, Wen-mei W. Hwu, First Edition, Morgan Kaufmann, Elsevier, 2010</li>
+</ul>
+
+		<h2>Books Authored or Co-Authored (Revisions)</h2>
+<ul>
+<li>"Programming Massively Parallel Processors - A Hands-on Approach," David B. Kirk, Wen-mei W. Hwu, Third Edition, Elsevier, 2017. (3000+ citations, Google Scholar)</li>
+<li>"Programming Massively Parallel Processors - A Hands-on Approach," David B. Kirk, Wen-mei W. Hwu, Second Edition, Morgan Kaufmann, Elsevier, 2012.</li>
+</ul>
+
+		
+		
+		
+		
+		<h2>Selected Articles in Journals</h2>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jpdc.2017.12.002">J. M.Cecilia, A. Llanesa, J. L. Abell&#225;n, J. G&#243;mez-Luna, L-W. Chang, W. W. Hwu, &#8220;High-throughput Ant Colony Optimization on graphics processing units,&#8221; Journal of Parallel and Distributed Computing, Vol. 113, March 2018, Pages 261-274. </a></li>
+<li><a href="https://www.computer.org/csdl/mags/mi/2017/04/mmi2017040003.pdf">N. S. Kim, D. Chen, J. Xiong, W. W. Hwu, &#8220;Heterogeneous Computing Meets Near-Memory Acceleration and High-Level Synthesis in the Post-Moore Era,&#8221; IEEE MICRO, July/August 2017, pp. 10-18.</a></li>
+<li>Javier Cabezas, Isaac Gelado, John E. Stone, Nacho Navarro, David Kirk, Wen-mei Hwu. "Runtime and Architecture Support for Efficient Data Exchange in Multi-Accelerator Applications," IEEE Transactions on Parallel and Distributed Systems, 2015.</li>
+<li>Y. Heo, X-L. Wu, D. Chen, J. Ma, and W.W. Hwu, &#8220;BLESS: Bloom-filter-based error correction solution for high-throughput sequencing reads,&#8221; Bioinformatics, Jan 21, 2014.</li>
+<li>Stratton, John A.; Rodrigues, Christopher I.; Sung, Ray; Chang, Li-Wen; Anssari, Nasser; Liu, Daniel; Hwu, Wen-mei; Obeid, Nady, "Algorithm and Data Optimization Techniques for Scaling to Massively Threaded Systems", IEEE Computer, vol. 45, no. 8, pp. 26-32, Aug. 2012 .</li>
+<li>S. Ryoo, C.I. Rodrigues, S.S. Stone, J.A. Stratton, Z. Ueng, S.S. Barghsorkhi, W.W. Hwu, "Program Optimization Carving for GPU Computing," Journal of Parallel and Distributed Computing (2008), doi:10.1016/j.jpdc.2008.05.011.</li>
+<li>S.S. Stone, J.P. Haldar, S. C. Tsao, W.W. Hwu, B.P. Sutton, Z.P. Liang, &#8220;Accelerating Advanced MRI Reconstruction on GPUs,&#8221; Journal of Parallel and Distributed Computing, (2008), doi:10.1016/j.jpdc.2008.05.013.</li>
+<li>Hillery C. Hunter, Erik M. Nystrom, Daniel A. Connors, Wen-mei W. Hwu, Hardware-Compiler Co-Design for Adjustable Data Power Savings, International Journal of Embedded Systems. February 2007.</li>
+<li>R.D. Barnes, S. Ryoo, and W. W. Hwu, "Tolerant Cache-Miss Latency with Multipass Pipelines," Special Issue on Top Picks from Microarchitecture Conferences, IEEE Micro, Volume 26, No. 1, January/February 2006</li>
+</ul>
+
+		<h2>Articles in Conference Proceedings</h2>
+<ul>
+<li>M. Hidayetoglu, C. Pearson, I. El Hajj, L. Gurel, W. C. Chew, W. W. Hwu, "A Fast and Massively-Parallel Solver for Nonlinear Tomographic Image Reconstruction", In Proceedings of the 32nd IEEE International Parallel and Distributed Processing Symposium (IPDPS), May, 2018.</li>
+<li>W. W. Hwu, I. El Hajj, S. Garcia de Gonzalo, C. Pearson, N. S. Kim, D. Chen, J. Xiong, Z. Sura, "Rebooting the Data Access Hierarchy of Computing Systems", In IEEE International Conference on Rebooting Computing (ICRC), November, 2017.</li>
+<li>P. Bruel, S. Rahul Chalamalasetti, C. Dalton, I. El Hajj, A. Goldman, C. Graves, W. W. Hwu, P. Laplante, D. Milojicic, G. Ndu, J. P. Strachan, "Generalize or Die: Operating Systems Support for Memristor-based Accelerators,&#226;&#8364;&#157; In IEEE International Conference on Rebooting Computing (ICRC), 2017.
+</li>
+<li>Juan G&#243;mez-Luna, Izzat El Hajj, Li-Wen Chang, Victor Garcia-Flores, Simon Garcia de Gonzalo, Tom Jablin, Antonio J. Pe&#241;a, Wen-mei Hwu, "Chai: Collaborative Heterogeneous Applications for Integrated-architectures," JEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2017.</li>
+<li>Li-Wen Chang, Juan G&#243;mez-Luna, Izzat El Hajj, Sitao Huang, Deming Chen, Wen-mei Hwu, "Collaborative Computing for Heterogeneous Integrated Systems," ACM/SPEC International Conference on Performance Engineering (ICPE), 2017.</li>
+<li>Sitao Huang, Gowthami Jayashri Manikandan, Anand Ramachandran, Kyle Rupnow, Wen-mei Hwu, Deming Chen, "Hardware Acceleration of the Pair-HMM Algorithm for DNA Variant Calling," International Symposium on Field-Programmable Gate Arrays (ISFPGA), 2017.</li>
+<li>Mert Hidayetoglu, Carl Pearson, Weng Cho Chew, Levent Gurel, Wen-mei Hwu, "Large Inverse-Scattering Solutions with DBIM on GPU-Enabled Supercomputers,"  Applied and Computational Electromagnetics Symposium (ACES 2017), Florence, Italy. </li>
+<li><a href="https://www.ece.cmu.edu/calcm/asplos2016/index.html">Izzat El Hajj, Alexander Merritt, Gerd Zellweger, Dejan Milojicic, Reto Achermann, Paolo Faraboschi, Wen-mei Hwu, Timothy Roscoe, Karsten Schwan, "SpaceJMP: Programming with Multiple Virtual Address Spaces," Proceedings of the 21th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '16), April 2-6, 2016.</a></li>
+<li><a href="https://www.ece.cmu.edu/calcm/asplos2016/index.html">Li-Wen Chang, Hee-Seok Kim, Wen-mei Hwu, "DySel: Lightweight Dynamic Selection for Kernel-based Data-parallel Programming Model," Proceedings of the 21th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '16), April 2-6, 2016</a></li>
+<li><a href="http://conf.researchr.org/track/PPoPP-2016/PPoPP-2016-papers">Li-Wen Chang, Izzat El Hajj, Hee-Seok Kim, Juan G&#243;mez-Luna, Abdul Dakkak, Wen-mei Hwu, "A Programming System for Future Proofing Performance Critical Libraries," Proceedings of the 21th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP 2016), March 12-16, 2016.</a></li>
+<li>Li-Wen Chang, Izzat El Hajj, Christopher I. Rodrigues, Juan G&#243;mez-Luna, Wen-mei Hwu, "Efficient Kernel Synthesis for Performance Portable Programming," Proceedings of the 49th Annual IEEE/ACM International Symposium on Microarchitecture, 2016.  </li>
+<li>Izzat El Hajj, Juan G&#243;mez-Luna, Cheng Li, Li-Wen Chang, Dejan Milojicic, Wen-mei Hwu, "KLAP: Kernel Launch Aggregation and Promotion for Optimizing Dynamic Parallelism," Proceedings of the 49th Annual IEEE/ACM International Symposium on Microarchitecture, 2016.</li>
+<li>Juan G&#243;mez-Luna, Li-Wen Chang, Wen-mei Hwu, I-Jui Sung, Nicol&#225;s Guil, "In-Place Data Sliding Algorithms for Many-Core Architectures," Parallel Processing, 2015 44th International Conference on (ICPP 2015).
+</li>
+<li>Hee-Seok Kim, Izzat El Hajj, John A. Stratton, Steve S Lumetta, Wen-mei Hwu. "Locality-Centric Thread Scheduling for Bulk-synchronous Programming Models on CPU Architectures," International Symposium on Code Generation and Optimization (CGO), 2015. Best Paper Award Nominee.</li>
+<li>X. Chen, L.-W. Chang, C.I. Rodrigues, J. Lv, Z. Wang, W.W. Hwu, "Adaptive Cache Management for Energy-efficient GPU Computing," Proceedings of the 47th Annual IEEE/ACM International Symposium on Microarchitecture, December 2014</li>
+<li>J. Cabezas, L. Vilanova, I. Gelado, T. Jablin, N. Navarro, W. W. Hwu, "Automatic Execution of single-GPU Computations Across Multiple GPUs," Proceedings of the 23rd International Conference on Parallel Architecture and Compilation (PACT), 2014</li>
+<li>C. Rodrigues, A. Dakkak, T. Jablin and W.W. Hwu, "Triolet: A Programming System that Unifies Algorithmic Skeleton Interfaces for High-Performance Cluster Computing," Proceedings of the 19th ACM SIGPLAN symposium on Principles and Practice of Parallel Programming, February, 2014.</li>
+<li>I.-J. Sung, J. Gomez-Luna, J. M. Gonzalez-Linares, N. Guil and W.W. Hwu, "In-Place Transposition of Rectangular Matrices on Accelerators," Proceedings of the 19th ACM SIGPLAN symposium on Principles and Practice of Parallel Programming, February, 2014.</li>
+<li>A. Papakonstantinou, D. Chen, W.W.  Hwu, Wen-mei; Cong, Jason; Liang, Yun, "Throughput-Oriented Kernel Porting onto FPGAs," Proceedings of the 50th Annual Design Automation Conference, May 2013.</li>
+<li>L. Chang, J.A. Stratton, H. Kim, and W.W. Hwu, &#8220;A Scalable, Numerically Stable Tridiagonal Solver Using GPUs,&#8221; The International Conference for High-Performance Computing Networking, Storage, and Analysis (SC&#8217;12), Salt Lake City, 2012.</li>
+</ul>
+
+		
+		<h2>Invited Lectures</h2>
+<ul>
+<li><a href="http://icrc.ieee.org/">Invited Lecture, "Rebooting the Data Access Hierarchy in Computing Systems." IEEE ICRC 2017, McLean, Virginia</a></li>
+<li><a href="https://www.nvidia.com/en-us/gtc-dc/
+">Invited Lecture, "Codesigning Cognitive Computing Systems and Applications."  Nvidia GPU Technology 2017 Conference, Washington, D.C.</a></li>
+<li><a href="http://www.islped.org/2017/index.html">Keynote, "Architecture and Software for Emerging Low-Power Systems." IEEE SLPED 2017, Taipei, Taiwan </a></li>
+<li>Severo Ochoa Seminar Series, &#8220;Game-Changing Applications and Technology Pivots &#8211; A Perfect Storm in Computing.&#8221; UPC Barcelona, 2017</li>
+<li>Distinguished Lecture, "Innovative Applications and Technology Pivots - A Perfect Storm in Computing." University of California, Irvine, 2017</li>
+<li><a href="http://sc16.supercomputing.org/files/SC16FinalProgram.pdf">Education/Career Keynote, "What a great time to be a student in computing!" ACM/IEEE SC 2016, Salt Lake City, Utah</a></li>
+<li><a href="https://www.ece.utexas.edu/events/innovative-applications-and-technology-pivots-%E2%80%93-perfect-storm-computing">Apple Lecture, "Innovative Applications and Technology Pivots - A Perfect Storm in Computing, " 2017, University of Texas, Austin.</a></li>
+<li><a href="http://ics \ 6.bi\kent.edu.tr/ ">Keynote, "Innovative Applications and Technology Pivots - A Perfect Storm in Computing," ACM/IEEE ICS 2016, Istanbul, Turkey.</a></li>
+<li><a href="http://www.mcs.anl.gov/events/workshops/ashes/2016/program.php">Keynote, "Addressing the Accelerator Programming Challenges in Exascale Systems." IEEE AsHES 2016, Chicago, Illinois</a></li>
+<li>Distinguished Lecture, "What have we learned about programming heterogeneous computing systems?" UCSB, Santa Barbara, California, 2017</li>
+<li>Distinguished Lecture, "What have we learned about programming heterogeneous computing systems?" Wayne State University, 2015</li>
+<li><a href="http://cem15.computing.technology">Keynote, "Transitioning HPC Software to Exascale Heterogeneous Computing," CEM 2015</a></li>
+<li>Distinguished Lecture, &#8220;Rethinking Computer Architecture for Energy Limited Computing,&#8221; University of Chicago, 2015</li>
+<li>Keynote, &#8220;Rethinking Computer Architecture for Throughput Computing.&#8221; SAMOS'13, Samos, Greece</li>
+<li><a href="http://www.hipeac.net/conference/berlin/keynotes">Keynote, "Scalability, Portability, and Numerical Stability in Many-core Parallel Libraries." HiPEAC'13, Berlin, Germany</a></li>
+<li><a href="http://www.coolchips.org/ap15.html
+">Keynote, "Application Scalability &#8211; Key to Low Power, Performance Growth, and Exascale." COOL Chips XV, Yokohama, Japan, 2012</a></li>
+<li><a href="www.sinica.edu.tw/main_e.shtml - http://www.iis.sinica.edu.tw/page/events/DistinguishedLectureSeries.html">Distinguished Lecture, "The Parallel Revolution in
+Computational Science and Engineering." Academia Sinica, Taipei, Taiwan, 2011</a></li>
+<li>MasterWorks Lecture, "High-Level Programming Models for Heterogeneous Parallel Computing." SC 2010, New Orleans, Louisiana</li>
+<li><a href="http://www.pactconf.org/index.html">Keynote, "Raising the Level of Many-Core Programming with Compiler Technology &#8211; Meeting a Grand Challenge." ACM/IEEE PACT 2010, Vienna, Austria.</a></li>
+<li>Keynote, "Parallel Computing Revolution in Video Processing." ICME 2009, New York City, New York</li>
+<li>Keynote, "Many-core Parallel Computing - Can compilers and tools do the heavy lifting?" IEEE IPDPS 2009, Rome, Italy</li>
+<li>Keynote,  "Many-core computing "Current Victories and Coming Battles in Application Development." 37th Speedup Workshop on High-Performance Computing, 2008, Zurich, Switzerland</li>
+<li>Distinguished Lecture, "Many-core GPU - Current Victories and Coming Battles." Samsung Research, 2008, Seoul, South Korea</li>
+<li>Distinguished Lecture,  "Programming Massively Parallel Processors." Chinese Academy of Sciences, 2008, Beijing, China</li>
+<li>Keynote, "The Universal Parallelism Vision from Illinois." Intel Programming Systems Conference, 2008, Santa Clara, California</li>
+<li>Keynote, "Many-core GPU Computing - Current Victories and Coming Battles in Application Development." Multicore Expo, 2008,  Santa Clara, California</li>
+<li>Keynote, "GPU Computing Research at UIUC." ManyCore Workshop, 2008, Shanghai, China</li>
+<li>Distinguished Lecture, "The Future of Scalable Computing Environments." Ohio Supercomputer Center, 2008, Columbus, Ohio</li>
+<li>Distinguished Lecture, &#8220;Accelerating Science and Engineering Applications with GPU Computing.&#8221; Ohio State University, Columbus, 2008, Ohio</li>
+<li>Distinguished Lecture, "GPU Computing - why is it exciting so many application developers." University of Toronto, Toronto, 2007, Ontario, Canada</li>
+<li>Keynote, "GP Computing: Hardware, Architecture Tools and Education." GPGPU-1, 2007, Boston, Massachusetts</li>
+<li>Invited Lecture, "Top Five Reasons Why Sequential Programming Models Could be
+the Best Way to Program Many-core Systems." P=ac2, IBM, 2006, 
+Yorktown Heights, New York</li>
+<li>Distinguished Lecture "Towards Ultra-efficient Computing Platforms." University of Texas Austin, 2005, Austin, Texas</li>
+<li>Keynote "Workload Characterization and Run-time Code Adaptation." IEEE IISWC, 2001, Austin, Texas
+</li>
+<li>Keynote, "EPIC Architecture." All-Spain Parallelism Conference, 1999.</li>
+<li>Keynote, "VLIW: Is it for Real This Time?" ACM/IEEE MICRO-27, 1994.</li>
+</ul>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<h2>Teaching Honors</h2>
+<ul>
+<li>College of Engineering Rose Award for Teaching Excellence, University of Illinois at Urbana-Champaign. (2018)</li>
+<li>College of Engineering Collins Award for Innovative Teaching, University of Illinois at Urbana-Champaign.  (2014)</li>
+<li>Engineering Council Award for Excellence in Advising, University of Illinois at Urbana-Champaign. (2013)</li>
+<li>ECE Outstanding Teacher Award.  (2002)</li>
+<li>Inclusion in the 1992, 1993, 1994, 1997, and 2001 Advisor's List, College of Engineering, University of Illinois.</li>
+<li>Inclusion in the Incomplete List of Teachers Ranked as Excellent, University of Illinois, Spring 2018, Spring 2017, Fall 2016, Fall 2015, Spring 2013, Fall 2102, Fall 2012, Fall 2009, Spring 2009, Fall 2007, Spring 2006, Spring 2003, Fall 2003, Spring 2003, Fall 1998, Spring 1998, Fall 1997, Fall 1996, Spring 1996, Fall 1995, Fall 1994, Spring 1994, Fall 1993, Spring 1993, Fall 1992, Spring 1992, Fall 1991, Spring 1991, Fall 1990, Spring 1990, Spring 1989, Spring 1988.</li>
+<li>Tau Beta Pi Daniel C. Drucker Eminent Faculty Award, College of Engineering, University of Illinois, Urbana-Champaign. (2001)</li>
+<li>Pierce Award, College of Engineering, University of Illinois. (1997)</li>
+<li>Eta Kappa Nu Holmes MacDonald Outstanding Teaching Award. (1997)</li>
+<li>Presidential letter from Bill Clinton. (1993)</li>
+<li>Eta Kappa Nu Outstanding Young Electrical Engineer Award for 1993 by the National Jury of Award. (1993)</li>
+</ul>
+
+		<h2>Research Honors</h2>
+<ul>
+<li>MICRO Test-of-Time Award, International Symposium on Microarchitecture (2014)</li>
+<li>IEEE Computer Society B. R. Rau Award. (2014)</li>
+<li>NVIDIA CUDA Center of Excellence (CCoE) Achievement Award - Annual Competition among 22 CCoEs worldwide. (2014)</li>
+<li>IBM Faculty Award. (2013)</li>
+<li>NVIDIA CUDA Center of Excellence (CCoE) Achievement Award - Annual Competition among 22 CCoEs worldwide. (2013)</li>
+<li>Best Paper Award from FCCM 2011. "Multilevel Granularity Parallelism Synthesis on FPGAs", Papakonstantinou, Alexandros; Liang, Yun; Stratton, John A.; Gururaj, Karthik; Chen, Deming; Hwu, Wen-mei; Cong, Jason. Proceedings of the 2011 International Symposium on Field-Programmable Custom Computing Machines (FCCM). (2011)</li>
+<li>Distinguished Alumni Award, Electrical and Computer Science Department, University of California, Berkeley. (2010)</li>
+<li>Best Paper Award, &#8220;XMalloc: A Scalable Lock-free Dynamic Memory Allocator for Many-core Machines,&#8221; Proceedings of the 10th IEEE 1st Workshop on Frontier of GPU Computing, International Conference on Computer and Information Technology (CIT 2010). (2010)</li>
+<li>Best Self-Built Cluster Award, SC 2010. (2010)</li>
+<li>UC Berkeley Distinguished Alumni Award in Computer Sciences. (2010)</li>
+<li>IEEE Computer Society Charles Babbage Award. (2009)</li>
+<li>ISCA Influential Paper Award. (2006)</li>
+<li>IEEE Micro's Top Picks from the Microarchitecture Conferences. (2005)</li>
+<li>ACM Fellow. (2002)</li>
+<li>ComputerWorld Honors Archive Medal, Nominated by Hewlett-Packard. (2002)</li>
+<li>Tau Beta Pi 2001 Daniel Drucker Eminent Faculty Award.  College of Engineering, University of Illinois, Urbana-Champaign. (2001)</li>
+<li>ACM Grace M. Hopper Award. (1999)</li>
+<li>IEEE Fellow. (1998)</li>
+<li>ACM SigArch Maurice Wilkes Award. (1998)</li>
+<li>University Scholars Award, University of Illinois. (1994)</li>
+<li>Senior Xerox Award for Faculty Research, College of Engineering, University of Illinois. (1994)</li>
+<li>Best paper award for, "Comparing Static and Dynamic Code Scheduling for Multiple-Instruction-Issue Processors," in the Proceedings of the 24th Annual ACM/IEEE International Symposium on Microarchitecture, Albuquerque, New Mexico. (1991)</li>
+<li>NSF Research Initiation Award. (1988)</li>
+<li>Best paper award for "HPSm2: a Refined Single-chip Microengine," presented at the 21st Annual Hawaii International Conference on System Sciences. (1988)</li>
+<li>Best paper award for "An HPS Implementation of VAX; Initial Design and Analysis," presented at the 19th Annual Hawaii International Conference on System Sciences. (1986)</li>
+</ul>
+
+		<h2>Public Service Honors</h2>
+<ul>
+<li>IEEE IPDPS Recognition of Service Award. (2009)</li>
+<li>ACM Recognition of Service Award. (2008)</li>
+<li>ACM Recognition of Service Award. (2003)</li>
+<li>IEEE Computer Society Certification of Appreciation. (2001)</li>
+<li>ACM Recognition of Service Award. (1994)</li>
+<li>IEEE Computer Magazine 1993 list of distinguished reviewers. (1993)</li>
+<li>IEEE Computer Society Certificate of Appreciation. (1993)</li>
+</ul>
+
+		
+		
+		<h2>Courses Taught - Last Four Years</h2>
+<ul><li>CS 483 - Applied Parallel Programming</li>
+<li>CS 508 - Manycore Parallel Algorithms</li>
+<li>CSE 408 - Applied Parallel Programming</li>
+<li>ECE 199 - Undergraduate Open Seminar</li>
+<li>ECE 408 - Applied Parallel Programming</li>
+<li>ECE 508 - Manycore Parallel Algorithms</li>
+</ul>
+	</div>
+
+
+</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile w110 white-box   py-5 " id="tile7058" data-tileid="7058" >
+	<div class="lower     " id="lower7058">
+		<div class="row">
+			<div class="col-md column1      " >
+				<h2 class="text-center">Related News</h2>
+<div id="faculty-news" class="tile-list"><section class="tile news w25 platinum-box" id="page5884" data-pageid="5884" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=9903);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/illinois-host-rising-stars-eecs-2019">Illinois to Host Rising Stars in EECS 2019</a></h2>
+				<p class="first"><a href="/news">News</a> | May 14, 2019</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile news w25 platinum-box" id="page6134" data-pageid="6134" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=10251);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/darpa-jump-center-aims-define-future-microelectronics">DARPA JUMP Center Aims to Define the Future of Microelectronics</a></h2>
+				<p class="first"><a href="/news">News</a> | June 12, 2018</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile news w25 platinum-box" id="page6223" data-pageid="6223" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=10251);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/collaborative-research-drives-joint-university-microelectronics-program">Collaborative Research Drives Joint University Microelectronics Program</a></h2>
+				<p class="first"><a href="/news">News</a> | February 15, 2018</p>
+			</div>
+		</div>
+	</div>
+</section>
+</div>
+<p>&nbsp;</p>
+<p class="text-center"><a class="button orange loader" href="#" data-target="faculty-news" data-template="81" data-bookid="81" data-return="4" data-filter-field="netid" data-filter-value="w-hwu">Load more news</a></p>
+			</div>
+		</div>
+	</div>
+</section>
+
+						</div>
+					</div>
+				</main>
+			</div>
+
+			<footer>
+							<div class="container-fluid maxwidth1140">
+				<div class="row pt-5 pb-3">
+					<div class="col-lg-5 mb-5">
+						<div class="campus_wordmark"><a href="http://illinois.edu/"><img src="https://ws.engr.illinois.edu/images/uiuc-footer-wordmark.png" alt="University of Illinois Urbana Champaign"></a></div>
+					</div>
+
+					<div class="col-lg-7 mb-4 socials">
+						<a href="https://www.facebook.com/CSatIllinois/"><i class="fab fa-facebook-f"></i><span class="sr-only">Facebook</span></a>
+						<a href="https://twitter.com/IllinoisCS"><i class="fab fa-twitter"></i><span class="sr-only">Twitter</span></a>
+						<a href="https://www.youtube.com/user/IllinoisCS"><i class="fab fa-youtube"></i><span class="sr-only">YouTube</span></a>
+						<a href="https://www.linkedin.com/school/illinoiscs"><i class="fab fa-linkedin-in"></i><span class="sr-only">LinkedIn</span></a>
+						<a href="https://www.instagram.com/illinoiscs/"><i class="fab fa-instagram"></i><span class="sr-only">Instagram</span></a>
+						<div class="w-100 d-block d-lg-none"></div>
+						<a href="/about/contact-us" class="button">Contact Us</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="container-fluid maxwidth1140">
+				<div class="row pb-5 justify-content-between">
+					<div class="col-md pr-xl-5 mb-5 college_container">
+
+						<div class="contact">
+							<p><span class="fs150x"><a href="https://cs.illinois.edu">Thomas M. Siebel Center for Computer Science</a></span><br />
+                                                       201 North Goodwin Avenue MC 258<br />
+                                                        Urbana, IL 61801-2302<br />
+                                                         ph: 217-333-3426 (general) | 217-333-4428 (advising) <br />
+                                                         fax: 217-333-3501</p>
+                                                        <p> General email: <a href="mailto:admin@cs.illinois.edu">admin@cs.illinois.edu</a><br />
+                                                         Graduate Advising: <a href="mailto:academic@cs.illinois.edu">academic@cs.illinois.edu</a><br />
+                                                         Undergraduate Advising: <a href="mailto:undergrad@cs.illinois.edu">undergrad@cs.illinois.edu</a><br />
+                                                          Webmaster: <a href="mailto:grainger-marcom@illinois.edu?subject=CS Request">grainger-marcom@illinois.edu</a></p>
+							<p><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a><br />
+							<a href="https://illinois.edu">University of Illinois</a></p>
+
+						</div>
+					</div>
+
+
+					<div class="col-md pr-xl-5 my-5 concentrations">
+                                 	
+					</div>
+				</div>
+			</div>
+
+				<div class="container-fluid" id="legal">
+					<div class="row justify-content-md-center align-items-center py-4">
+
+						<div class="col-md-auto">
+							<div><button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Preferences</button></div>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Copyright &copy; 2021 University of Illinois Board of Trustees</p>
+						</div>
+
+						<div class="col-md-auto">
+							<p><a href="https://grainger.illinois.edu/cookie-policy">Cookie Policy</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy</a></p>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Powered by <a href="https://my.engr.illinois.edu/sitemanager/editpage.asp?id=11846">SiteManager</a> | <a href="mailto:grainger-marcom@illinois.edu">Contact Webmaster</a></p>
+						</div>
+					</div>
+				</div>
+
+				<div id="gototop" class="hidden">
+					<a href="#"><i class="fa fa-chevron-up"></i><span class="sr-only">Go to top</span></a>
+				</div>
+			</footer>
+		</div>
+
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+		<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax-video.min.js"></script>
+		<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+		<script src="https://cdn.datatables.net/responsive/2.2.5/js/dataTables.responsive.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.0/circle-progress.min.js'></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/twbs-pagination/1.4.2/jquery.twbsPagination.min.js'></script>
+		<script src="https://ws.engr.illinois.edu/sitemanager/genscripts.js?v=2.660.676"></script>
+		<script src="/js/scripts.js?v=0.27"></script>
+
+		<script async="async" src="https://enroll.illinois.edu/ping"></script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-9571262-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-9571262-1');
+</script>
+
+		
+	</body>
+</html>
+
+

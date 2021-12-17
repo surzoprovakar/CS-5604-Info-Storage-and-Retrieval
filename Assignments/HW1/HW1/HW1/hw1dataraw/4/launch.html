@@ -1,0 +1,326 @@
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new date().gettime(),event:'gtm.js'});var f=d.getelementsbytagname(s)[0],
+j=d.createelement(s),dl=l!='datalayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentnode.insertbefore(j,f);
+})(window,document,'script','datalayer','gtm-3sqhdc'); (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new date().gettime(),event:'gtm.js'});var f=d.getelementsbytagname(s)[0],
+      j=d.createelement(s),dl=l!='datalayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentnode.insertbefore(j,f);
+      })(window,document,'script','datalayer','gtm-p6f85q5'); launch: center for new ventures  | link+license+launch | virginia tech skip to main content skip to search virginia tech® universal access universal access options report a barrier accessibility portal pause all background videos underline all links apply visit give shop hokie gear apparel, clothing, gear and merchandise hokie shop university bookstore, merchandise and gifts hokie license plates part of every virginia tech plate purchase funds scholarships resources for future students current students parents and families faculty and staff alumni industry and partners link+license+launch menu link+license+launch link+license+launch about us meet the team link: center for advancing industry partners license: center for tech commercialization faculty inventor spotlights launch: center for new ventures corporate venture arms creating new venture opportunities proof of concept grant program virginia tech i-corps program virginia tech i-corps virginia tech intellectual properties (vtip) board of directors board of directors ex-officio resources for inventors resources for alumni industry networks alumni corporate chapters industry leader spotlights mentoring job opportunities news & events strengthening the hokie entrepreneur ecosystem, virginia tech has launched a new hokie-owned business directory. inclusive leader series raytheon intelligence & space partners with virginia tech virginia tech slated to host the 2021 blocksburg summit - beyond cryptocurrency on april 13th. the next frontiers of space: alumni web event contact us apply visit give shop hokie gear apparel, clothing, gear and merchandise hokie shop university bookstore, merchandise and gifts hokie license plates part of every virginia tech plate purchase funds scholarships resources for future students current students parents and families faculty and staff alumni industry and partners search search submit link+license+launch / launch: center for new ventures / explore about us link: center for advancing industry partners license: center for tech commercialization launch: center for new ventures corporate venture arms creating new venture opportunities proof of concept grant program virginia tech i-corps program virginia tech i-corps virginia tech intellectual properties (vtip) resources for inventors resources for alumni news & events contact us launch: center for new ventures @media only screen and (max-width: 802px) {
+  .greybox {
+ margin-left:30px!important;
+  width:90%!important;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .greybox {
+ margin-left:30px!important;
+  width:90%!important;
+  }
+} launch: center for new ventures virginia tech’s motto ut prosim (that i may serve) is a force for positive change. we believe that technologies discovered from virginia tech research offer opportunities to make positive societal impact in this spirit of service. launch: center for new ventures serves the virginia tech research community. we are focused on transitioning discoveries to market through new venture creation where promising new technologies can generate value to a broad range of stakeholders. .tablediv{
+   display:flex;
+width: 85%;
+margin: auto;
+}
+.tablediv .vt-col{
+align-items: stretch;
+border:solid 1px #000;
+padding:20px;
+height:100%!important;
+margin-bottom:20px;
+} proof of concept program launch offers grant funding and related resources to bridge the early stage gap between academic research and technology commercialization efforts. learn more creating new venture opportunities considerations for academic entrepreneurship and the shaping of new venture opportunities from deep research. learn more hokie-owned business directory a user-maintained list of businesses that capture the hokie entrepreneurial spirit! these ventures are founded or operated by alumni, faculty or staff. learn more tune in as mark mondry, associate director of launch discusses 'the science of launching technology' loading player for https://youtu.be/hmzacrgmfjm... jwplayer("vt_video_95ec2e1e-72a4-468d-8053-7a0cb60db931").setup({
+        file: "https://youtu.be/hmzacrgmfjm",
+        width: "100%",
+        stretching: "fill",
+        aspectratio: "16:9",
+        
+        
+        flashplayer: "/etc/clientlibs/vtlibs/jwplayer/source-7.0/jwplayer.flash.swf",        
+        image: "/content/dam/link_vt_edu/aluminate/aluminate_video_slidepodcast_mark_mondry.png",
+        skin: {
+              url: "/etc/clientlibs/vtlibs/jwplayer/source-7.0/skins/beelden.css",
+              name: "beelden"
+        }
+    }); resources + tools general item virginia tech i-corps general item resources for inventors general item corporate venture arms general item faculty inventor spotlights funding opportunities redirect item global change center faculty seed grant redirect item virginia tech carilion innovation fund redirect item ictas diversity and inclusion research grants redirect item center for innovative technology redirect item go virginia region 2 resources redirect item activate - entrepreneurial fellowships for researchers redirect item commonwealth cyber initiative redirect item vt institute for society, culture and environment redirect item sbir & sttr submission calendars redirect item research & innovation funding opportunities recent opportunities // id of the google spreadsheet
+ var spreadsheetid = "12q9qekx8e1a93afeq7tpzggbq6nqw9oaxvizax8tb6m";
+ //https://spreadsheets.google.com/feeds/list/12q9qekx8e1a93afeq7tpzggbq6nqw9oaxvizax8tb6m/1/public/full?alt=json
+
+ // make sure it is public or set to anyone with link can view 
+ var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetid + "/1/public/full?alt=json";
+ 
+// make json call to google data api
+$.getjson(url, function(data) {
+
+    // set global html variable
+    var html = '';
+
+    // build table headings
+    html += '<div class="vt-tablesorter-formatted vt-datatable-formatted"><table>';
+    html += '<thead>';
+    html += '<th>title</th>';
+    html += '<th>type</th>';
+    html += '<th>deadline</th>';
+    html += '<th>multiple rounds?</th>';
+    html += '<th>sponsor</th>';
+    html += '<th>technologies</th>';
+    html += '<th>description</th>';
+    html += '</thead>';
+    html += '<tbody>';
+    // loop to build html output for each row
+    var entry = data.feed.entry;
+/**
+  ** change to descending order
+  ** for (var i = entry.length - 1; i >= 0; i -= 1) {
+   */
+    for (var i = 0; i < entry.length; i++) {
+        if (entry[i]["gsx$active"]["$t"] === "yes") {
+            html += '<tr>';
+            html += "<td><a href='" + entry[i]['gsx$hyperlink']['$t'] + "'>" + entry[i]['gsx$title']['$t'] + "</a></td>";
+            html += '<td>' + entry[i]['gsx$type']['$t'] + '</td>';
+            html += '<td>' + entry[i]['gsx$deadline']['$t'] + '</td>';
+            html += '<td>' + entry[i]['gsx$multiplerounds']['$t'] + '</td>';
+            html += '<td>' + entry[i]['gsx$sponsor']['$t'] + '</td>';
+            html += '<td>' + entry[i]['gsx$technologies']['$t'] + '</td>';
+            html += '<td>' + entry[i]['gsx$description']['$t'] + '</td>';
+            html += '</tr>';
+        }
+    }
+  html += '</tbody></table></div>';
+
+  // output html
+  $('.console').html(html);
+}); .loading {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: url(https://secure.research.vt.edu/filedrop/images/spinning_icon.gif) center center no-repeat;
+}
+td{
+font-size:13px!important;
+text-align:left!important;
+}
+.tabletop{
+border-bottom:dashed 1px #ccc;
+}
+.tablebottom{
+text-align:left;
+} view all opportunities highlights rss feed redirect item dc i-corps/virginia tech short course: spring 2021 date: march 2021 article item $10 million grant to foster new sustainable biomass research date: april 2021 article item applications are open for the 2021 virginia tech health sciences and technology commercialization fellows program date: march 2021 article item virginia tech climbs seven spots in most innovative schools ranking by u.s. news & world report date: september 2020 about launch @ virginia tech: expanding impact from deep research our experienced team serves the world-class virginia tech research community in the pursuit of socio-economic impact through the translation of research outputs into vibrant new technology ventures. our launch programs, resources, and innovation network is designed to support collaborative teams in the virginia tech research community to advance technology commercialization, shape market readiness, and increase recognition within our growing innovation ecosystem. .vt-page-title {
+       visibility: hidden;
+}
+
+.container-fluid {
+        background-color: #fff;
+}
+
+.launchcontainer {
+display:table;
+}
+.launchcol{
+display:table-cell;
+} link+license+launch virginia tech holtzman alumni center 901 prices fork road blacksburg, va 24061 540-231-1782 contact us lang: en_us advancement research & innovation link | center for advancing industry partnerships license | center for technology commercialization launch | center for new ventures vtip | virginia tech intellectual properties innovation campus people news events resources policies forms let's get connected (pdf) var mossprefs = {};
+mossprefs.showquicklinks = "no"; $(document).ready(function() {
+
+//change the link on the site title in the header
+//$(".department-name a").attr("href", "https://vt.edu/link");
+
+//custom multicolumn classes
+    //.vt-multicolumn.vt-2col-md-6-only
+    if($('.vt-multicolumn.vt-2col-md-6-only')) {
+        $('.vt-multicolumn.vt-2col-md-6-only').each(function () {
+            $(this).find('.row >div').removeclass('col-sm-6');
+            $(this).find('.row >div:first-of-type').addclass('col-sm-12');
+            $(this).find('.row >div:last-of-type').addclass('col-sm-12');
+        });
+    }
+    //.vt-2col-7-4-offset-1
+    if($('.vt-multicolumn.vt-2col-7-4-offset-1')) {
+        $('.vt-multicolumn.vt-2col-7-4-offset-1').each(function () {
+            $(this).find('.row >div').removeclass('col-md-6 col-sm-6');
+            $(this).find('.row >div:first-of-type').addclass('col-md-7');
+            $(this).find('.row >div:last-of-type').addclass('col-md-4 col-md-offset-1');
+        });
+    }
+
+    //.vt-2col-4-7-offset-1
+    if($('.vt-multicolumn.vt-2col-4-7-offset-1')) {
+        $('.vt-multicolumn.vt-2col-4-7-offset-1').each(function () {
+            $(this).find('.row >div').removeclass('col-md-6 col-sm-6');
+            $(this).find('.row >div:first-of-type').addclass('col-md-4');
+            $(this).find('.row >div:last-of-type').addclass('col-md-7 col-md-offset-1');
+        });
+    }
+
+    //.vt-2col-7-5
+    if($('.vt-multicolumn.vt-2col-7-5')) {
+        $('.vt-multicolumn.vt-2col-7-5').each(function () {
+            $(this).find('.row >div').removeclass('col-md-6 col-sm-6');
+            $(this).find('.row >div:first-of-type').addclass('col-md-7');
+            $(this).find('.row >div:last-of-type').addclass('col-md-5');
+        });
+    }
+
+    //.vt-2col-5-7
+    if($('.vt-multicolumn.vt-2col-5-7')) {
+        $('.vt-multicolumn.vt-2col-5-7').each(function () {
+            $(this).find('.row >div').removeclass('col-md-6 col-sm-6');
+            $(this).find('.row >div:first-of-type').addclass('col-md-5');
+            $(this).find('.row >div:last-of-type').addclass('col-md-7');
+        });
+    }
+
+    //.vt-2col-8-4
+    if($('.vt-multicolumn.vt-2col-8-4')) {
+        $('.vt-multicolumn.vt-2col-8-4').each(function () {
+            $(this).find('.row >div').removeclass('col-md-6 col-sm-6');
+            $(this).find('.row >div:first-of-type').addclass('col-md-8');
+            $(this).find('.row >div:last-of-type').addclass('col-md-4');
+        });
+    }
+
+    //.vt-2col-4-8
+    if($('.vt-multicolumn.vt-2col-4-8')) {
+        $('.vt-multicolumn.vt-2col-4-8').each(function () {
+            $(this).find('.row >div').removeclass('col-md-6 col-sm-6');
+            $(this).find('.row >div:first-of-type').addclass('col-md-4');
+            $(this).find('.row >div:last-of-type').addclass('col-md-8');
+        });
+    }
+
+    //.vt-2col-9-3
+    if($('.vt-multicolumn.vt-2col-9-3')) {
+        $('.vt-multicolumn.vt-2col-9-3').each(function () {
+            $(this).find('.row >div').removeclass('col-md-6 col-sm-6');
+            $(this).find('.row >div:first-of-type').addclass('col-md-9');
+            $(this).find('.row >div:last-of-type').addclass('col-md-3');
+        });
+    }
+
+    //.vt-2col-3-9
+    if($('.vt-multicolumn.vt-2col-3-9')) {
+        $('.vt-multicolumn.vt-2col-3-9').each(function () {
+            $(this).find('.row >div').removeclass('col-md-6 col-sm-6');
+            $(this).find('.row >div:first-of-type').addclass('col-md-3');
+            $(this).find('.row >div:last-of-type').addclass('col-md-9');
+        });
+    }
+}); @media (min-width: 992px)
+{
+.vt-width-75 {
+    width: 75%;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+.vt-padding-50{
+padding: 50px;
+}
+}
+
+.featured-content-container .carousel-caption .container .row, .gallery .carousel-caption .container .row {
+    /* float: left; */
+    background: rgba(255,255,255,1);
+    position: relative;
+    padding: 15px 25px;
+    width: 55vw;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 75%;
+}
+
+.featured-content-container .carousel-caption .container .row{
+float: none;
+}
+
+.vt-form-button-wrapper{
+display: flex;
+flex-direction: row;
+justify-content: center;
+
+}
+
+.vt-brand-formbutton{
+    background: transparent;
+    color: #861f41;
+    border: 2px solid #861f41;
+    padding: 20px;
+    margin: 0;
+    border-radius: 0;
+    font-size: 18px;
+    width: 75%;
+
+}
+
+.vt-brand-formbuttonfull{
+    background: transparent;
+    color: #861f41;
+    border: 2px solid #861f41;
+    padding: 20px;
+    margin: 0;
+    border-radius: 0;
+    font-size: 18px;
+    width: 100%;
+
+}
+
+.vt-brand-formbutton:hover, .vt-brand-formbuttonfull:hover{
+
+    background: #861f41;
+    color: #fff;
+}
+
+.vt-outline{
+border: 1px dashed grey;
+}
+
+.vt-border-bottom{
+    border-bottom: 3px solid grey;
+}
+
+.vt-contact-input{
+background: rgba(134,31,65,1);
+color: #ffffff;
+
+}
+.vt-margin-bottom-20{
+ margin-bottom: -20px;
+}
+.department-name{
+    text-transform: none;
+}
+
+
+.vt-link-ctasidebar .parbase {
+  margin-bottom: 0;
+}
+
+.vt-link-ctacontainer {
+  display: block;
+  position: relative;
+  border-top: 1px dotted rgba(117, 120, 123, 1.0);
+  padding: 20px 0 0;
+}
+
+.vt-link-ctabutton {
+  display: block;
+  position: relative;
+  background-color: transparent;
+  border: 2px solid #861f41;
+  padding: 1em;
+  margin-bottom: 30px;
+  font-size: 1.4em;
+  text-align: center;
+  line-height: 1.2;
+  word-wrap: normal;
+  color: #861f41;
+  width: 100%;
+}
+
+.vt-link-ctabutton:hover,
+.vt-link-ctabutton:focus {
+  background-color: #861f41;
+  border: 2px solid #fff;
+  color: #fff;
+} get directions see all locations contact virginia tech university status principles of community privacy statement acceptable use we remember university libraries accessibility consumer information stop abuse policies equal opportunity wvtf university bookstore jobs at virginia tech strategic plan © 2021 virginia polytechnic institute and state university. all rights reserved.

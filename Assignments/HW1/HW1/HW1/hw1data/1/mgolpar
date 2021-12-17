@@ -1,0 +1,1110 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Mani Golparvar Fard
+ | Computer Science | UIUC</title>
+		<link rel="shortcut icon" type="image/x-icon" href="//ws.engr.illinois.edu/images/favicon.ico">
+
+		<meta name="description" content="Mani Golparvar Fard
+">
+		<meta name="author" content="Grainger Engineering Office of Marketing and Communications">
+
+		<!-- meta tags for mobile devices -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">  
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+				<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="26be7d61-2017-4ea7-8a8b-8f1704889763"></script>
+		<script type="text/javascript"> function OptanonWrapper() { } </script>
+
+		<meta property="og:type" content="article" />
+<meta property="og:title" content="Mani Golparvar Fard
+" />
+<meta property="og:description" content="Mani Golparvar Fard
+" />
+<meta property="og:url" content="https://cs.illinois.edu/about/people/all-faculty/*" />
+<meta property="og:image" content="https://ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=12050" />
+
+
+		<!-- fonts -->
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i,900,900i%7cBarlow+Condensed%7cPlayfair+Display%7cMontserrat:400,500,600,700,800%7cFjalla+One%7cLexend+Exa%7cMontserrat+Alternates:400,700">
+		<script src="https://kit.fontawesome.com/64a62210ef.js"></script>
+
+		<!-- stylesheets -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.5/css/responsive.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://ws.engr.illinois.edu/sitemanager/gensite.css?v=2.671.281">
+		<link rel="stylesheet" type="text/css" href="/css/styles.css?v=0.19">
+
+				<!-- Global site tag (gtag.js) - Google Ads: 1011414001 -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1011414001"></script>
+		<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-1011414001'); </script> 
+		<!-- Event snippet for Outbound Google Ads click conversions -->
+		<script> function gtag_report_conversion(url) {var callback = function () {if (typeof(url) != 'undefined') {window.location = url;}};gtag('event', 'conversion', {'send_to': 'AW-1011414001/YNxnCM-1kfMBEPHno-ID','event_callback': callback});return false;} </script>
+		
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	</head>
+
+	<body class="site prod about people all-faculty mgolpar  isattop theme_dagobah" data-sidebar="" data-sidebarskip="[sidebarskip]" data-sidebarinclude="[sidebarinclude]">
+		<div id="page">
+			
+			<header>
+				<div id="skiptocontent"><a href="#content">skip to main content</a></div>
+
+				<div class="container-fluid campus">
+					<div class="row mx-auto maxwidth1140">
+						<div class="col p-0">
+							<a href="http://illinois.edu/"><span>University of Illinois Urbana-Champaign</span></a>
+						</div>
+						<div id="featurelinks" class="col p-0 text-right">
+							<ul>
+	<li><a href="/alumni">Alumni</a></li>
+	<li><a href="/corporate">Corporate</a></li>
+       <li><a href="/about/people">People</a></li>
+	<li><a href="https://my.cs.illinois.edu">My.CS</a></li>
+</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="container-fluid site">
+					<div class="row wordmark d-flex flex-nowrap align-items-center">
+						<div class="d-flex flex-fill pr-3">
+							<div class="blocki"><a href="https://illinois.edu">University of Illinois at Urbana-Champaign</a></div>
+							<div class="site_identification">
+								<div class="parent_name"><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a></div>
+								<div class="site_name"><a href="/"><span>Computer Science</span></a></div>
+							</div>
+						</div>
+
+						<div class="d-flex align-items-center">
+							<div id="header-search-container" class="d-none d-lg-block site-search">
+								<form class="form-inline" method="get" action="/search" id="search-form">
+									<div class="input-group">
+										<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="header-search-go-button">
+										<div class="input-group-append">
+											<a href="/search" onclick="$('#header-search-container form').submit(); return false;" class="input-group-text" id="header-search-go-button"><i class="far fa-search"></i><span class="sr-only">Search</span></a>
+										</div>
+									</div>
+								</form>	
+							</div>
+
+							<div id="mainnav-toggler-container">
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainnav" aria-controls="mainnav" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="icon"></span> <span class="label sr-only">Menu</span>
+								</button>
+							</div>
+						</div>
+					</div>
+					<nav class="navbar navbar-expand-lg p-0">
+<div class="collapse navbar-collapse" id="mainnav">
+<form class="d-block d-lg-none" method="get" action="/search" id="mobile-search-form">
+<div class="form-row p-3">
+<div class="col">
+<div class="input-group">
+<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="mobile-search-go-button">
+<div class="input-group-append">
+<a href="/search" onclick="$('#mobile-search-form').submit(); return false;" class="input-group-text" id="mobile-search-go-button"><i class="far fa-search" aria-hidden="true"></i><span class="sr-only">Search</span></a>
+</div>
+</div>
+</div>
+</div>
+</form>
+<ul class="navbar-nav w-100">
+<li class="dropdown mega twocol nav-item">
+<a href="/about" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>About</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-about">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/about">About</a></h2>
+<ul class="about ">
+<li><a href="/about/cs-cares">CS CARES Committee</a></li>
+<li><a href="/about/values">Values & Code of Conduct</a></li>
+<li><a href="/about/statistics">Rankings & Statistics</a></li>
+<li><a href="/about/contact-us">Contact Us & Directions</a></li>
+<li class="dropdown"><a href="/about/people">People</a><ul class="people ">
+<li><a href="/about/people/all-faculty">All Faculty</a></li>
+<li><a href="/about/people/department-faculty">Department Faculty</a></li>
+<li><a href="/about/people/affiliate-faculty">Affiliate Faculty</a></li>
+<li><a href="/about/people/adjunct-faculty">Adjunct Faculty</a></li>
+<li><a href="/about/people/postdocs">Postdocs</a></li>
+<li><a href="/about/people/emeritus-faculty">Emeritus Faculty</a></li>
+<li class="dropdown"><a href="/about/people/staff">Staff</a><ul class="staff ">
+<li><a href="/about/people/staff/office-department-head">Office of the Department Head</a></li>
+<li><a href="/about/people/staff/communications-engagement-team">Communications &amp; Engagement Team</a></li>
+<li><a href="/about/people/staff/undergraduate-advising-office">Undergraduate Advising Office</a></li>
+<li><a href="/about/people/staff/graduate-advising-office">Graduate Advising Office</a></li>
+<li><a href="/about/people/staff/instructional-development-team">Instructional Development Team</a></li>
+<li><a href="/about/people/staff/business-office">Business Office</a></li>
+<li><a href="/about/people/staff/faculty-support-contacts">Faculty Support Contacts</a></li>
+<li><a href="/about/people/staff/facilities-shipping-and-receiving">Facilities, Shipping and Receiving</a></li>
+</ul>
+</li>
+<li><a href="/about/people/graduating-phd-students">Graduating PhD Students</a></li>
+<li><a href="/about/people/recent-phd-alumni">Recent PhD Alumni</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/positions">Open Positions</a><ul class="positions ">
+<li><a href="/about/positions/faculty-positions">Faculty Positions</a></li>
+<li><a href="/about/positions/postdoctoral">Postdoctoral Positions</a></li>
+<li><a href="/about/positions/staff-positions">Staff Positions</a></li>
+<li><a href="/about/positions/choose-illinois-computer-science">Choose Illinois Computer Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/calendar">Calendar</a><ul class="calendar ">
+<li><a href="/about/calendar/all">All Events</a></li>
+<li><a href="/about/calendar/corporate">Corporate Events</a></li>
+<li><a href="/about/calendar/department">Department Events</a></li>
+<li><a href="/about/calendar/graduate">Graduate Events</a></li>
+<li><a href="/about/calendar/outreach">Outreach Events</a></li>
+<li><a href="/about/calendar/speakers">Speakers</a></li>
+<li><a href="/about/calendar/student-groups">Student Group Events</a></li>
+<li><a href="/about/calendar/undergraduate">Undergraduate Events</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards">Awards</a><ul class="awards ">
+<li><a href="/about/awards/celebration">Celebration of Excellence</a></li>
+<li class="dropdown"><a href="/about/awards/faculty-awards">Faculty Awards</a><ul class="faculty-awards ">
+<li><a href="/about/awards/faculty-awards/chairs-and-professorships">Chairs and Professorships</a></li>
+<li><a href="/about/awards/faculty-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/faculty-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards/undergraduate-scholarships-awards">Undergraduate Scholarships &amp; Awards</a><ul class="undergraduate-scholarships-awards ">
+<li><a href="/about/awards/undergraduate-scholarships-awards/shieh-li-scholarship">Ruey-Feng Shieh Li Family Scholarship</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/graduate-fellowships-awards">Graduate Fellowships &amp; Awards</a></li>
+<li class="dropdown"><a href="/about/awards/alumni-awards">Alumni Awards</a><ul class="alumni-awards ">
+<li><a href="/about/awards/alumni-awards/alumni-awards-past-recipients">Alumni Awards Past Recipients</a></li>
+<li><a href="/about/awards/alumni-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/alumni-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/staff-awards">Staff Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/history-timeline">History Timeline</a></li>
+<li><a href="/about/accreditation">Accreditation</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/admissions" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Admissions</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-admissions">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/admissions">Admissions</a></h2>
+<ul class="admissions ">
+<li class="dropdown"><a href="/admissions/undergraduate">Undergraduate Admissions</a><ul class="undergraduate ">
+<li><a href="https://admissions.illinois.edu/apply">Apply Now</a></li>
+<li><a href="/academics/undergraduate/degree-program-options">Degree & Program Options</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/dates">Application Deadlines</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/process">Applications Process & Requirements</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+<li><a href="https://www.housing.illinois.edu">Housing</a></li>
+<li><a href="/about-us/accreditation">Accreditation</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/admissions/graduate">Graduate Admissions</a><ul class="graduate ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+<li class="dropdown"><a href="/admissions/graduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/admissions/graduate/degree-program-options/professional-master-computer-science-mcs-program">Professional Master of Computer Science (MCS) Program</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-deadlines">Application Deadlines</a></li>
+<li class="dropdown"><a href="/admissions/graduate/applications-process-requirements">Applications Process &amp; Requirements</a><ul class="applications-process-requirements ">
+<li><a href="/admissions/graduate/applications-process-requirements/additional-required-application-materials">Additional Required Application Materials for International Students</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/application-fee-waivers">Application Fee Waivers</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/data-structures-proficiency-exam">Data Structures Proficiency Exam</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-checklist">Application Checklist</a></li>
+<li class="dropdown"><a href="/admissions/graduate/faqs">FAQs</a><ul class="faqs ">
+<li><a href="/admissions/graduate/faqs/ican-faqs">iCAN FAQs</a></li>
+<li><a href="/admissions/graduate/faqs/online-mcs-faqs">Online MCS FAQs</a></li>
+</ul>
+</li>
+<li><a href="https://choose.illinois.edu/apply/">Check Application Status</a></li>
+</ul>
+</li>
+<li><a href="/admissions/impact-illinois-cs-degree">Impact of an Illinois CS Degree</a></li>
+<li><a href="/admissions/financial-aid">Financial Aid</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/academics" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Academics</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-academics">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/academics">Academics</a></h2>
+<ul class="academics ">
+<li class="dropdown"><a href="/academics/undergraduate">Undergraduate Academics</a><ul class="undergraduate ">
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/academics/undergraduate/degree-program-options/bs-computer-science">B.S. in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-mathematics-computer-science">B.S. in Mathematics &amp; Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-statistics-computer-science">B.S. in Statistics &amp; Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs">CS + X Degree Programs</a><ul class="cs-x-degree-programs ">
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-advertising">Computer Science + Advertising</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-animal-sciences">Computer Science + Animal Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-anthropology">Computer Science + Anthropology</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-astronomy">Computer Science + Astronomy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-chemistry">Computer Science + Chemistry</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-crop-sciences">Computer Science + Crop Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-economics">Computer Science + Economics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-geography">Computer Science + Geography &amp; Geographic Information Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-linguistics">Computer Science + Linguistics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-music">Computer Science + Music</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-philosophy">Computer Science + Philosophy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/cs-x-degree-requirements">CS + X Degree Requirements &amp; Planning Forms</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-undergraduate-degree-options-faq">CS Undergraduate Degree Options FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/registration">Registration</a><ul class="registration ">
+<li><a href="/academics/undergraduate/registration/cs-course-restrictions-enrollment-caps">CS Course Restrictions &amp; Enrollment Caps</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/policies-and-procedures">Policies and Procedures</a></li>
+<li><a href="/academics/undergraduate/undergraduate-advising">Undergraduate Advising</a></li>
+<li><a href="/academics/undergraduate/cs-student-opportunity-series-cs-sos">CS Student Opportunity Series (CS SOS)</a></li>
+<li><a href="/academics/undergraduate/undergraduate-forms">Undergraduate Forms</a></li>
+<li><a href="/academics/undergraduate/honors">Honors</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate">Graduate Academics</a><ul class="graduate ">
+<li class="dropdown"><a href="/academics/graduate/phd-program">PhD Program</a><ul class="phd-program ">
+<li><a href="/academics/graduate/phd-program/final-exam-thesis-defense">Final Exam (Thesis Defense)</a></li>
+<li><a href="/academics/graduate/phd-program/guidelines-forming-phd-committee">Guidelines for Forming Ph.D. Committee</a></li>
+<li><a href="/academics/graduate/phd-program/phd-ms-thesis-format-review-guidelines">Ph.D. / M.S. Thesis Format Review Guidelines</a></li>
+<li><a href="/academics/graduate/phd-program/phd-program-study-process">PhD Program of Study Process</a></li>
+<li><a href="/academics/graduate/phd-program/phd-requirements">PhD Requirements</a></li>
+<li><a href="/academics/graduate/phd-program/phd-time-limits-milestones">PhD Time Limits &amp; Milestones</a></li>
+<li><a href="/academics/graduate/phd-program/preliminary-exam">Preliminary Exam</a></li>
+<li><a href="/academics/graduate/phd-program/qualifying-exam">Qualifying Exam</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/ms-program">MS Program</a></li>
+<li><a href="/academics/graduate/ms-bioinformatics-program">MS in Bioinformatics Program</a></li>
+<li class="dropdown"><a href="/academics/graduate/professional-mcs">Professional Master of Computer Science</a><ul class="professional-mcs ">
+<li><a href="/academics/graduate/professional-mcs/campus-master-computer-science">On-Campus Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science">Online Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science-data-science">Online Master of Computer Science in Data Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/fifth-year-masters-programs">Fifth Year Master's Programs</a><ul class="fifth-year-masters-programs ">
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-mcs-program">5-year BS-MCS Program</a></li>
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-ms-program">5-year BS-MS Program</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">Illinois Computing Accelerator for Non-Specialists (iCAN)</a><ul class="ican ">
+<li><a href="/academics/graduate/ican/application-process">iCAN Application Process</a></li>
+<li><a href="/academics/graduate/ican/curriculum">iCAN Curriculum</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources">Graduate Forms &amp; Advising Resources</a><ul class="graduate-forms-advising-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/epi-exam-requirements">EPI Exam Requirements</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-advising-contacts">Graduate Advising Contacts</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-student-annual-evaluation-process">Graduate Student Annual Evaluation Process</a></li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources">New Graduate Student Resources</a><ul class="new-graduate-student-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/mcs-campus">MCS On-Campus General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/ms-general">MS General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/phd-general">PhD General Advising for Registration</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/official-forms">Official Forms</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/academics/courses">Courses</a></li>
+<li><a href="/academics/honor-code">Honor Code</a></li>
+<li><a href="https://cs.illinois.edu/student-life/student-resources">Student Resources</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/student-life" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Student Life</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-student-life">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41390_8405" data-pageid="41390" data-tileid="8405" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=55621);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Salesforce's CodeT5 System Can Understand and Generate Code</h2>
+			<div class="description"></div>
+			<p><a href="/news/salesforces-codet5-system-can-understand-and-generate-code" class="button" title="Salesforce's CodeT5 System Can Understand and Generate Code">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 7, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/student-life">Student Life</a></h2>
+<ul class="student-life ">
+<li><a href="/student-life/overview-cs-student-life">Overview of CS Student Life</a></li>
+<li><a href="/student-life/student-organizations">Student Organizations</a></li>
+<li><a href="/student-life/department-college-and-campus-events">Department, College, and Campus Events</a></li>
+<li><a href="/student-life/student-resources">Student Resources</a></li>
+<li><a href="/student-life/career-services">Career Services</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/research" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Research</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-research">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Explore visionary research conducted by world-renowned faculty.</h2>
+<p><a class="orange button" href="/research/areas">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/research">Research</a></h2>
+<ul class="research ">
+<li class="dropdown"><a href="/research/areas">Research Areas</a><ul class="areas ">
+<li><a href="/research/areas/architecture-compilers-and-parallel-computing">Architecture, Compilers, and Parallel Computing</a></li>
+<li><a href="/research/areas/artificial-intelligence">Artificial Intelligence</a></li>
+<li><a href="/research/areas/bioinformatics-and-computational-biology">Bioinformatics and Computational Biology</a></li>
+<li><a href="/research/areas/computers-and-education">Computers and Education</a></li>
+<li><a href="/research/areas/data-and-information-systems">Data and Information Systems</a></li>
+<li><a href="/research/areas/interactive-computing">Interactive Computing</a></li>
+<li><a href="/research/areas/programming-languages-formal-methods-and-software-engineering">Programming Languages, Formal Methods, and Software Engineering</a></li>
+<li><a href="/research/areas/scientific-computing">Scientific Computing</a></li>
+<li><a href="/research/areas/security-and-privacy">Security and Privacy</a></li>
+<li><a href="/research/areas/systems-and-networking">Systems and Networking</a></li>
+<li><a href="/research/areas/theory-and-algorithms">Theory and Algorithms</a></li>
+</ul>
+</li>
+<li><a href="/research/technical-conferences-workshops">Technical Conferences &amp; Workshops</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+<li><a href="/corporate#research">Corporate Partners</a></li>
+<li><a href="https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=3146">Illinois CS Research Overview</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/broadening-participation-computing" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Broadening Participation</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-broadening-participation-computing">
+<section class="tile w50 white-box py-5 marketing">
+<p class="mb-0"><img src="//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=16163&s=375" class="image" alt="" width="375" /></p>
+<p style="padding: 10px 15px 0px 15px;">New certificate program for college graduates who want a deeper understanding of computers, algorithms, and programming.</p>
+<p><a class="orange button" href="/ican">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/broadening-participation-computing">Broadening Participation</a></h2>
+<ul class="broadening-participation-computing ">
+<li><a href="https://drive.google.com/file/d/12vDswb1i-mEXaXgVt7FOhtqYs7b8F_1p/view">BPC Departmental Plan</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs">BPC Programs & Activities for Students</a><ul class="programs ">
+<li><a href="/broadening-participation-computing/programs/csambassadors">CS Student Ambassador/Research Scholars (CS STARS)</a></li>
+<li><a href="/broadening-participation-computing/programs/cskickstart">Illinois CS Kickstart</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs/ai4all">AI4ALL</a><ul class="ai4all ">
+<li><a href="http://go.cs.illinois.edu/DiscoverAI">Apply Now</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">iCAN</a><ul class="ican ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+</ul>
+</li>
+<li><a href="http://cs.illinois.edu/research/summer-research-experience-undergraduates">Summer Research Experience for Undergraduates</a></li>
+</ul>
+</li>
+<li><a href="/broadening-participation-computing/resources">BPC Resources</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/cross-cutting">Cross-Cutting Educational Activities</a><ul class="cross-cutting ">
+<li><a href="/broadening-participation-computing/cross-cutting/conferences-workshops">BPC Conferences & Workshops</a></li>
+<li><a href="/broadening-participation-computing/cross-cutting/ca-training">Course Assistant Training</a></li>
+<li><a href="https://cs.illinois.edu/news/featured-lectures#equity-justice">Equity & Justice in Computing Seminar Series</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/broadening-participation-computing/k-12">K-12 Outreach & Resources</a><ul class="k-12 ">
+<li><a href="/broadening-participation-computing/k-12/k-12-outreach">K-12 Outreach Programs</a></li>
+<li><a href="/broadening-participation-computing/k-12/k-12-resources">K-12 Resources</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/student-life/student-organizations">Student Organizations</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/news" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>News</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-news">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41391_5367" data-pageid="41391" data-tileid="5367" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=51204);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging</h2>
+			<div class="description"><p>The Defense Advanced Research Projects Agency (DARPA) has awarded $5.8 million to a team, led by Illinois CS's <a href="/about/people/faculty/zaher">Tarek Abdelzaher</a>, that will work to characterize how different foreign populations respond to influence campaigns as a first step towards development of effective countermeasures.</p></div>
+			<p><a href="/news/abdelzaher-leading-DARPA-effort-understand-how-people-respond-influence-messaging" class="button" title="Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 8, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/news">News</a></h2>
+<ul class="news ">
+<li><a href="/news">Department News</a></li>
+<li><a href="/news/features">Feature Stories</a></li>
+<li><a href="/news/covid-19-projects">COVID-19 Projects</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/news/media-coverage">Media Coverage</a></li>
+<li><a href="/news/e-news">E-News</a></li>
+<li><a href="/news/impact-report-publications">Impact Report &amp; Publications</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/give" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Give</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-give">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Help ensure that Illinois continues to set a global standard for CS research and education.</h2>
+<p><a class="orange button" href="/give/give-now">Make a Gift</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/give">Give</a></h2>
+<ul class="give ">
+<li><a href="/give/give-now">Give Now</a></li>
+<li><a href="/give/ways-give">Ways to Give</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/give/computer-science-visionary-scholarship-donors">Computer Science Visionary Scholarship Donors</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+</ul>
+</div>
+</nav>
+
+				</div>
+			</header>
+
+			<div id="content">
+				<main>
+					<div  id="hero" class="container-fluid">
+						<div class="row maxwidth1140">
+							<div class="col">
+								<div>
+									<nav id="breadcrumbs"><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/about/people">People</a></li><li><a href="/about/people/all-faculty">All Faculty</a></li></ul></nav>
+									<h1>Mani Golparvar Fard
+</h1>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					
+
+					<div id="content_inner" class="container-fluid">
+						<div class="tile-list">
+							<section class="tile w100 white-box   py-5 " id="tile6806" data-tileid="6806" >
+	<div class="lower  maxwidth1140   " id="lower6806">
+		<div class="row">
+			<div class="col-md column1      " >
+				<div>	<div class="directory-profile maxwidth800" id="article_[postid]">
+		<figure class="image align-right ">
+			<img alt="Mani Golparvar Fard" title="Mani Golparvar Fard" src="//ws.engr.illinois.edu/directory/viewphoto.aspx?id=40621&s=300&type=portrait" />
+			<figcaption>Mani Golparvar Fard</figcaption>
+		</figure>
+
+		<!--<h2>Mani Golparvar Fard</h2>-->
+		<div class="roles">
+			
+			<div><div class="role cat5 notprimary">
+<div class="title"><strong>Associate Professor, Civil and Environmental Engineering</strong></div>
+<!--<div class="groups"><ul><li> Civil and Environmental Engineering</li></ul></div>-->
+<div class="phone"></div>
+<div class="email"><a href="mailto:mgolpar@illinois.edu">mgolpar@illinois.edu</a></div>
+<div class="office">3129D Newmark Civil Engineering Bldg</div>
+</div>
+</div>
+		</div>
+
+		<h2>For more information</h2>
+<ul>
+<li><a href="http://raamac.cee.illinois.edu">Link to Golparvar-Fard's research group's website</a></li>
+<li><a href="http://www.reconstructinc.com">Link to Golparvar-Fard's startup company launched from research group in December 2015. The company has raised $28 million dollars in venture funding putting it among the fastest ConTech companies as listed by Crunchbase.</a></li>
+</ul>
+
+		
+		<h2>Education</h2>
+<ul>
+<li>Bachelor of Science in Civil Engineering, Iran University of Science and Technology, 1998-2002&#160;</li>
+<li>Master of Science in Civil Engineering, Area: Hydro Structures, Iran University of Science and Technology,  2002-2005</li>
+<li>Master of Applied Science in Civil Engineering, Area: Project and Construction Management, University of British Columbia, 2005-2006</li>
+<li>Master of Computer Science, Areas: Computer Vision and Machine Learning, University of Illinois at Urbana-Champaign, 2008-2010
+
+</li>
+<li>Doctor of Philosophy in Civil Engineering, Area: Construction Engineering and Management, University of Illinois at Urbana-Champaign,&#160;2006-2010</li>
+</ul>
+
+		<h2>Biography</h2>
+<p> Dr. Mani Golparvar is Associate Professor of Civil Engineering, Computer Science, & Technology Entrepreneursip, Faculty Entrepreneurial Fellow, Excellence Faculty Fellow, and the director of the Real-time and Automated Monitoring and Control (RAAMAC) lab at University of Illinois at Urbana-Champaign (UIUC). He received his PhD degree in Civil Engineering  and MS degree in Computer Science from UIUC in 2010, MASc in Civil Engineering  from University of British Columbia in 2006, and MS and BS in Civil Engineering from Iran University of Science and Technology in 2005 and 2002 respectively. Prior to joining the faculty at UIUC, he was an Assistant Professor in Civil Engrg at Virginia Tech.<br />
+<br />
+Dr. Golparvar has worked with many national and international construction companies and most extensively with Turner Construction. Dr. Golparvar-Fard has several patents and is currently involved in Reconstruct Inc., a start-up companies which were founded based on the outcomes of his ongoing research projects.<br />
+<br />
+ He is the recipient of the 2018 Walter Huber Research Prize from American Society of Civil Engineers (ASCE), 2017 Young Professional Award from Engineering News-Record (ENR), 2016 ASCE Dan H. Halpin Award for Scholarship in Construction, 2013 ASCE James R. Croes Medal for innovation in Civil Engrg, 2013 FIATECH CETI award for outstanding researcher, 2012 best paper award from the ASCE Journal of Construction Engrg and Management, and numerous conference paper awards. Dr. Golparvar serves on the editorial board of the ASCE Journal of Computing in Civil Engineering, ASCE Journal of Construction Engrg and Management, and Elsevier Journal of Automation in Construction.  He is also the founder of RECONSTRUCT, a startup company that offers visual data analytics to construction projects. The underlying technology is licensed from UIUC and is recognized by several awards including an Innovation Award from Turner Construction Company in 2015 and 016 World Economic Forum most innovative startup company.</p>
+
+		<h2>Academic Positions</h2>
+<ul>
+<li>Assistant Professor, Virginia Tech, Via Department of Civil and Environmental Engineering, 2010-2012</li>
+<li>Principal Faculty, Virginia Tech, Myers-Lawson School of Construction, 2010-2012</li>
+<li>Assistant Professor, University of Illinois at Urbana-Champaign, Department of Civil and Environmental Engineering, 2013-2016</li>
+<li>Assistant Professor, University of Illinois at Urbana-Champaign, Department of Computer Science, 2013-2016
+</li>
+<li>Faculty Affiliate, University of Illinois at Urbana-Champaign, Illinois Institute of Informatics, 2013-present</li>
+<li>Faculty Affiliate, University of Illinois at Urbana-Champaign, Computational Science and Engineering (CSE) Program, 2013-present</li>
+<li>Associate Professor, University of Illinois at Urbana-Champaign, Technology Entrepreneurship Program, 2017-present</li>
+<li>Associate Professor, University of Illinois at Urbana-Champaign, Department of Computer Science, 2016-present</li>
+<li>Associate Professor, Faculty Entrepreneurial Fellow, and Faculty Excellence Fellow, University of Illinois at Urbana-Champaign, Department of Civil and Environmental Engineering, 2016-present</li>
+</ul>
+
+		
+		
+		<h2>Other Professional Employment</h2>
+<ul>
+<li>Co-Founder and CTO, Reconstruct Inc., Champaign, IL and Menlo Park, CA, 2019-present</li>
+</ul>
+
+		
+		
+		
+		<h2>Professional Highlights</h2>
+<ul>
+<li>Fox News (2020) UI professor's software streamlines work on construction sites
+TV Interview https://foxillinois.com/news/illinois-innovations/ui-professors-software-streamlines-work-on-construction-sites</li>
+</ul>
+
+		
+		<h2>Resident Instruction</h2>
+<ul>
+<li>CEE595- Artificial Intelligence (AI) in Construction (new webinar series), University of Illinois at Urbana-Champaign, Fall 2020</li>
+<li>CEE320- Construction Engineering and Management, University of Illinois at Urbana-Champaign, Fall 2020</li>
+<li>CEE598BIM and CEE598BIO: Building Information Modeling, University of Illinois at Urbana-Champaign, Spring 2020</li>
+<li>CEE598BIM and CEE598BIO: Building Information Modeling, University of Illinois at Urbana-Champaign, Spring 2019</li>
+<li>CEE320- Construction Engineering and Management, University of Illinois at Urbana-Champaign, Fall 2018</li>
+<li>CEE320- Construction Engineering and Management, University of Illinois at Urbana-Champaign, Spring 2018</li>
+<li>CEE320- Construction Engineering and Management, University of Illinois at Urbana-Champaign, Fall 2017</li>
+<li>CEE598: Visual Data Sensing and Analytics for Civil Infrastructure Systems, Spring 2017</li>
+<li>CEE320- Construction Engineering and Management, University of Illinois at Urbana-Champaign, Fall 2016</li>
+<li>TE598-298: Breakthrough Innovation Teams, University of Illinois at Urbana-Champaign, Spring 2016</li>
+<li>CEE598BIM and CEE598BIO: Building Information Modeling, University of Illinois at Urbana-Champaign, Spring 2016</li>
+<li>TE598-298: Breakthrough Innovation Teams, University of Illinois at Urbana-Champaign, Fall 2015</li>
+<li>CEE/CSE598 (Cross-listed)- Visual Sensing for Civil Infrastructure Engineering and Management, University of Illinois at Urbana-Champaign, Spring 2015</li>
+</ul>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<h2>Research Interests</h2>
+<ul>
+<li>Computer Vision and Machine Learning for Monitoring Construction and Operation in the Built Environment</li>
+</ul>
+
+		
+		
+		<div class="extProfileAREA">
+			<h2>Research Areas</h2>
+<ul>
+<li><a href="http://cs.illinois.edu/research/areas/artificial-intelligence">Artificial Intelligence</a></li>
+</ul>
+
+		</div>
+		
+		
+		
+		
+		<h2>Books Edited or Co-Edited (Original Editions)</h2>
+<ul>
+<li>White, J., Schmidt, D.C., and Golparvar-Fard, M. (2014). "Proceedings of the IEEE; Special Issue: Applications of Augmented Reality", 102(2), 1-2.</li>
+</ul>
+
+		
+		<h2>Chapters in Books</h2>
+<ul>
+<li>Lin, J., and Golparvar-Fard, M. (2020) "Construction Progress Monitoring Using Cyber-Physical Systems" Cyber Physical Systems in the Built Environment,  Chimay Anumba and Nazila Roofigari. </li>
+<li><a href="https://www.routledge.com/Construction-40-An-Innovation-Platform-for-the-Built-Environment-1st/Sawhney-Riley-Irizarry/p/book/9780367027308">Lin, J., and Golparvar-Fard, M. (2019) "Computer Vision and BIM-Driven Data Analytics for Monitoring Construction and Operation in the Built Environment"  Construction 4.0: An Innovation Platform for the Built Environment; Editors: Anil Sawhney, Michael Riley, Javier Irizarry, and Cristina Toca Perez.</a></li>
+<li>Golparvar-Fard M., Pe&#241;a-Mora F., and Savarese S. (2012). &#8220;D4AR- A 4-Dimensional Augmented Reality Model for Automating Construction Progress Data Collection, Processing and Communication.&#8221; Future IT in Construction.</li>
+<li>Pe&#241;a-Mora F., Golparvar-Fard M., Aziz Z. and Roh S. (2011). &#8220;Collaborative Design Development and Progress Coordination During the Construction Phase.&#8221; A book chapter in &#8220;Collaborative Design in Virtual Environments. Editors: Zinagyu Wang and Jerry Tsai.</li>
+</ul>
+
+		<h2>Monographs</h2>
+<ul>
+<li>Saidi, K., Cheok, G., Franaszek, M., Brown, C., Swerdlow, J., Lipman, R., Katz, I., Golparvar-Fard, M., Goodrum, P., Akula, M., Dadi, G., and Ghadimi, B. (2011), &#8220;Development and Use of the NIST Intelligent and Automated Construction Job Site Testbed&#8221;. NIST TN 1726, National Institute of Standards and Technology, Gaithersburg, MD, Dec. 2011.</li>
+</ul>
+
+		<h2>Selected Articles in Journals</h2>
+<ul>
+<li>Amer, F.,  Jung. Y., and Golparvar-Fard, M. (2021). "Transformer Machine Learning Language Model for Auto-alignment of Long-Term and Short-Term Plans in Construction.", Elsevier Journal of Automation in Construction (accepted).
+
+</li>
+<li>Perez-Perez, Y., Golparvar-Fard, M., and El-Rayes, K. (2021). "Automatic 3D Solid Modeling of Indoor Building Scenes from Point Clouds Using Semantic Segmentation and NURBS Fitting." ASCE Journal of Computing in Civil Engineering (accepted)</li>
+<li>Tang, S., and Mani Golparvar-Fard, M. (2021). "Machine Learning-Based Risk Analysis for Construction Worker Safety from Ubiquitous Site Photos and Videos." ASCE Journal of Computing in Civil Engineering (accepted)</li>
+<li><a href="https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CO.1943-7862.0002132">Perez-Perez, Y., Golpavar-Fard, M., and El-Rayes, K. (2021). &#8220;Scan2BIM-NET: A Deep Learning Method for Segmentation of Point Clouds for Scan-to-BIM." ASCE Journal of Construction Engineering and Management, 147(9): 04021107.  https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CO.1943-7862.0002132 (Editor's Choice Recognition)</a></li>
+<li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12693">Ibrahim, A., Golparvar-Fard, M. and El-Rayes, K. (2021). "Metrics and Methods for Evaluating Model-driven Reality Capture Plans for Progress Monitoring and Asset Inspection." Wiley Computer-Aided Civil and Infrastructure Engineering. Comput. Aided Civ Inf. 2021; 1&#8211; 18.  https://doi.org/10.1111/mice.12693</a></li>
+<li><a href="https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CO.1943-7862.0002093">Amer, F., Koh, H. and Golparvar-Fard, M. (2021) "Automated Methods and Systems for Construction Planning and Scheduling: A Critical Review on Three Decades of Research." ASCE Journal of Construction Engineering and Management, 147(7): 03121002.  https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CO.1943-7862.0002093</a></li>
+<li><a href="https://doi.org/10.1061/(ASCE)CO.1943-7862.0002045">Lin, J. and Golparvar-Fard, M. (2021). "A Visual and Virtual Production Management System for Proactive Project Controls."  ASCE Journal of Construction Engineering and Management, 147(7): 04021058.  https://doi.org/10.1061/(ASCE)CO.1943-7862.0002045</a></li>
+<li><a href="https://doi.org/10.1016/j.autcon.2021.103584">Perez-Perez, Y., Golparvar-Fard, M., and El-Rayes, K. (2021). "Segmentation of Point Clouds via Joint Semantic and Geometric Features for 3D Modeling of the Built Environment." Elsevier Journal of Automation in Construction, 125, 103584.</a></li>
+<li><a href="https://doi.org/10.3390/app11020520">Hoskere V., Amer F., Friedel D., Yang W., Tang Y., Narazaki Y., Smith M.D., Golparvar-Fard M., and Spencer B. (2021) "InstaDam: Open-source Platform for Rapid Semantic Segmentation of Structural Damage." MDPI Journal of Applied Sciences, 11(2), 520.</a></li>
+<li><a href="https://doi.org/10.1061/(ASCE)CP.1943-5487.0000937">Torres Calderon, W., Roberts, D. and Golparvar-Fard, M. (2021). "Synthesizing Pose Sequences from 3D Assets for Vision-Based Activity Analysis."  ASCE Journal of Computing in Civil Engineering. 35(1): 04020052.  https://doi.org/10.1061/(ASCE)CP.1943-5487.0000937 </a></li>
+<li><a href="https://doi.org/10.1016/j.aei.2020.101198">Amer, F., and Golparvar-Fard, M. (2021) "Modeling Dynamic Construction Work Templates from Existing Schedule Records via Sequential Machine Learning." Elsevier Advanced Engineering Informatics. 47. 10.1016/j.aei.2020.101198. </a></li>
+<li><a href="https://doi.org/10.1061/(ASCE)CP.1943-5487.0000923">Tang, S., Golparvar-Fard, M., Naphade, M. and Gopalakrishna, M.M., (2020). "Video-Based Motion Trajectory Forecasting Method for Proactive Construction Safety Monitoring Systems". Journal of Computing in Civil Engineering, 34(6), p.04020041.</a></li>
+<li><a href="https://ascelibrary.org/doi/full/10.1061/%28ASCE%29CP.1943-5487.0000954">Lin , J., Ibrahim, A. Sarwade, S. and Golparvar-Fard, M. (2021) &#8220;Bridge Inspection with Aerial Robots: Automating the Entire Pipeline of Visual Data Capture, 3D Mapping, Defect Detection, Analysis and Reporting&#8221; ASCE Journal of Computing in Civil Engineering (invited paper). 35 (2) https://ascelibrary.org/doi/full/10.1061/%28ASCE%29CP.1943-5487.
+</a></li>
+<li><a href="https://doi.org/10.1061/(ASCE)CP.1943-5487.0000898">Roberts, D., Torres Calderon, W., Tang , S., and Golparvar-Fard M. (2020). "Vision-Based Construction Worker Activity Analysis Informed by Body Posture." Journal of Computing in Civil Engineering.  2020 Jul 1.; 34(4):04020017.</a></li>
+<li>Sherafat, B., Ahn C., Akhavian R., Behzadan A., Golparvar-Fard, M., Kim H., Lee, H., Rashidi A., and Rezazadeh A.E. (2020)  "Automated Methods for Activity Recognition of Construction Workers and Equipment: A State-of-the-Art Review."  ASCE Journal of Construction Engineering and Management.  146(6), 03120002, DOI: 10.1061/(ASCE)CO.1943-7862.0001843</li>
+<li><a href="https://doi.org/10.1016/j.autcon.2020.103356">Tang S., Roberts D., and Golparvar-Fard, M. (2020). "Human-Object Interaction Recognition for Automatic Construction Site Safety Inspection." Elsevier Journal of Automation in Construction. Volume 120,
+103356, ISSN 0926-5805. https://doi.org/10.1016/j.autcon.2020.103356</a></li>
+<li><a href="https://doi.org/10.1061/(ASCE)CO.1943-7862.0001969">Garcia, G., Golparvar-Fard, M. de la Garza, J., and Fischer, M. (2020). "Measuring Progress and Productivity in Model-Driven Engineering for Capital Project Delivery", ASCE Journal of Construction Engineering and Management. 147(4): 04021009.  https://doi.org/10.1061/(ASCE)CO.1943-7862.0001969 </a></li>
+<li><a href="https://doi.org/10.1061/(ASCE)CO.1943-7862.0001755">Bhandari, S., Hallowell, M. R., Van Boven, L., Golparvar-Fard, M., and Gruber, J. (2020). "Using Augmented Virtuality to Examine How Emotions Influence Construction Hazard Identification, Risk Assessment, and Safety Decisions" ASCE Journal of Construction Engineering and Management. 146( 2).   https://doi.org/10.1061/(ASCE)CO.1943-7862.0001755</a></li>
+<li><a href="https://doi.org/10.1061/(ASCE)CF.1943-5509.0001441">Bartel, L., Liu, L., El-Rayes, K., El-Gohary, N., Golparvar-Fard, M., and Grussing, M. (2019). "Work Optimization with Association Rule Mining of Accelerated Deterioration in Building Components",  ASCE Journal of Performance of Constructed Facilities.  34(3): 04020033. https://doi.org/10.1061/(ASCE)CF.1943-5509.0001441</a></li>
+<li>Roberts D., Tang S., Torres Calderon W., and Golparvar-Fard, M. (2019) "Vision-Based Construction Worker Activity Analysis Informed by Body Posture."  ASCE Journal of Computing in Civil Engineering. 34(4): 04020017 </li>
+<li>Feng, Y. and Golparvar-Fard, M. (2018). "Image-Based Localization for Facilitating Construction Field Reporting on Mobile Devices." Springer Journal of Advances in Informatics and Computing in Civil and Construction Engineering. 585-592</li>
+<li>Roberts, D. and Golparvar-Fard, M. (2018). "End-To-End Vision-Based Detection, Tracking and Activity Analysis of Interacting Earthmoving Equipment.&#8221; Elsevier Journal of Automation in Construction (94) 312-326.
+</li>
+<li>Han, K., Degol, J., and Golparvar-Fard, M. (2017). "Geometry- and Appearance-Based Reasoning of Construction Progress Monitoring."  ASCE Journal of Construction Engineering and Management.</li>
+<li><a href="https://doi.org/10.1186/s40327-017-0052-3">Han, K. and Golparvar-Fard, M. (2017). Crowdsourcing BIM-guided Collection of Construction Material Library from Site Photologs. Journal of Visualization in Engineering. 5:14.</a></li>
+<li><a href="http://dx.doi.org/10.1016/j.autcon.2016.11.004">Han K. and Golparvar-Fard, M. (2017) "Potential of Big Visual Data and Building Information Modeling for Construction Performance Analytics: An Exploratory Study" Elsevier Journal of Automation in Construction (73) 184-198.</a></li>
+<li>Bae H., Walker M., White J., Pan, Y., Sun, Y., and Golparvar-Fard, M. (2016). &#8220;Fast and Scalable Structure-From-Motion Based Localization for High-Precision Mobile Augmented Reality Systems&#8221; mUX: Springer Journal of Mobile User Experience, 5 (1) 1-21. </li>
+<li><a href="DOI: 10.1111/mice.12192">Dimitrov, A., Gu, R., and Golparvar-Fard. &#8220;Non Uniform B-Spline Surface Fitting from Unordered 3D Point Clouds for As-Built Modeling&#8221; (2016) Journal of Computer-Aided Civil and Infrastructure Engineering, Wiley DOI: 10.1111/mice.12192</a></li>
+<li><a href="http://onlinelibrary.wiley.com/doi/10.1002/stc.1850/abstract">Yoon, H., Elanwar, H., Choi, H., Golparvar&#8208;Fard, M., & Spencer, B. F. (2016).  "Target&#8208;free Approach for Vision&#8208;Based Structural System Identification Using Consumer&#8208;Grade Cameras."  Structural Control and Health Monitoring, 23 (12), 1405&#8211;1416.</a></li>
+<li><a href="10.1186/s40327-015-0029-z">Ham, Y., Han, K.K., Lin, J.J. and Golparvar-Fard, M. (2016). "Visual Monitoring of Civil Infrastructure Systems via Camera-Equipped Unmanned Aerial Vehicles (UAVs): a review of related works".  Springer Visualization in Engineering, 4(1), 1-8.</a></li>
+<li><a href="DOI: 10.1016/j.autcon.2014.09.007">Balali, V., and Golparvar-Fard, M. (2015). &#8220;Segmentation and recognition of roadway assets from car-mounted camera video streams using a scalable non-parametric image parsing method&#8221;, Elsevier Journal of Automation in Construction, 49(1), 27&#8211;39.</a></li>
+<li><a href="DOI: 10.1016/j.autcon.2014.12.015">Dimitrov, A., and Golparvar-Fard, M. (2015). &#8220;Segmentation of Building Point Cloud Models including Detailed Architectural/Structural Features and MEP Systems&#8221;, Elsevier Journal of Automation in Construction, 51, 32-45</a></li>
+<li>Balali, V., and Golparvar-Fard, M. (2015) &#8220;Evaluation of Multi-Class Traffic Sign Detection and Classification Methods for U.S. Roadway Asset Inventory Management", Journal of Computing in Civil Engineering, 10.1061/(ASCE)CP.1943-5487.0000491 , 04015022, ASCE.</li>
+<li><a href="doi:10.1016/j.aei.2015.10.006">Han, K., Cline, D., and Golparvar-Fard, M. &#8220;Formalized Knowledge of Construction Sequencing for Visual Monitoring of Work-In-Progress via Incomplete Point Clouds and Low-LoD 4D BIMs&#8221; (2015) Journal of Advanced Engineering Informatics, 29 (4), 889&#8211;901.</a></li>
+<li><a href="doi:10.1016/j.aei.2015.03.004">Cho, Y., Ham, Y., and Golparvar-Fard, M. (2015) &#8220;3D As-is Building Energy Modeling and Diagnostics: A Review of the State-of-the-Art.&#8221; Elsevier Journal of Advanced Engineering Informatics, 29(2), 184&#8211;195.
+
+</a></li>
+<li><a href="doi:10.1016/j.aei.2015.08.003">Balali, V., Sadeghi, M.A. and Golparvar-Fard, M. (2015) &#8220;Image-based Retro-Reflectivity Measurement of Traffic Signs in Day Time&#8221; Elsevier Journal of Advanced Engineering Informatics, 29(4), 1028-1040</a></li>
+<li><a href="10.&#8203;1186/&#8203;s40327-015-0027-1)">Balali, V., Ashouri Rad, A., and Golparvar-Fard, M. (2015) &#8220;Detection, Classification, and Mapping of U.S. Traffic Signs Using Google Street View Images for Roadway Inventory Management.&#8221;  Springer Visualization in Engineering, 3(15), 1-18.</a></li>
+<li><a href="doi:10.1016/j.aei.2015.01.011">Yang, J., Park, M.W., Vela, P.A., and Golparvar-Fard, M. (2015) &#8220;Construction Performance Monitoring via Still Images, Time-Lapse Photos, and Video Streams: Now, Tomorrow, and the Future", Elsevier Journal of Advanced Engineering Informatics, 29(2), 211&#8211;224.</a></li>
+<li> Yoon, H., Ham, Y., Golparvar-Fard, M., and Spencer, B. (2015) "Forward-Backward Approach for 3D Event Localization using Commodity Smartphones for Ubiquitous Context-Aware Applications in Civil and Infrastructure Engineering." Computer&#8208;Aided Civil and Infrastructure Engineering 31 (4), 245-260.</li>
+<li><a href="http://dx.doi.org/10.1016/j.autcon.2015.02.007">Han, K., and Golparvar-Fard, M. (2015). &#8220;Appearance-based Material Classification for Monitoring of Operation-Level Construction Progress Using 4D BIM and Site Photologs.&#8221;  Elsevier Journal of Automation in Construction, 53, 44-57.</a></li>
+<li><a href="http://dx.doi.org/10.1061/(ASCE)CO.1943-7862.0001010">Liu, K., and Golparvar-Fard, M. (2015) &#8220;Crowdsourcing Construction Activity Analysis from Jobsite Video Streams&#8221; ASCE Journal of Construction Engineering and Management, 10.1061/(ASCE)CO.1943-7862.0001010, 04015035, 1-19.</a></li>
+<li><a href="10.1007/s00779-015-0892-6">Bae, H., White, J., Golparvar-Fard, M., Pan, Y., Sun, Y. &#8220;Fast and Scalable 3D Cyber-physical Modeling for High-precision Mobile Augmented Reality Systems&#8221; (2015) Journal of Personal and Ubiquitous Computing, Personal and Ubiquitous Computing 19 (8), 1275-1294.</a></li>
+<li><a href="DOI: 10.1145/2661229.2661256">Karsch, K., Golparvar-Fard, M., and Forsyth, D. (2014). &#8220;ConstructAide: Analyzing and Visualizing Construction Sites through Photographs and Building Models&#8221;, ACM Transactions on Graphics, 33(6)</a></li>
+<li><a href="DOI: 10.1186/s40327-014-0012-0">Ham, Y., and Golparvar-Fard, M. (2014). &#8220;3D visualization of thermal resistance and condensation problems using infrared thermography for building energy diagnostics&#8221;, Springer Journal of Visualization in Engineering, 2:12.</a></li>
+<li><a href="DOI: 10.1016/j.autcon.2014.08.003">Khosrowpour, A., Niebles, J.C., and Golparvar-Fard, M. (2014). &#8220;Vision-based workface assessment using depth images for activity analysis of interior construction operations&#8221;, Elsevier Journal of Automation in Construction, 48, 27&#8211;39, 74-87.</a></li>
+<li><a href="http://dx.doi.org/10.1016/j.autcon.2014.07.009">Ham, Y., and Golparvar-Fard, M. (2014). "Mapping actual thermal properties to building elements in gbXML-based BIM for reliable building energy performance modeling", Elsevier Journal of Automation in Construction, 49 (B), 214&#8211;224.</a></li>
+<li><a href="http://dx.doi.org/10.1016/j.aei.2013.11.002">Dimitrov, A., and Golparvar-Fard, M. (2014). "Vision-Based Material Recognition for Automated Monitoring of Construction Progress and Generating Building Information Modeling from Unordered Site Image Collections", Elsevier Journal of Advanced Engineering Informatics, 28(1), 37&#8211;49.</a></li>
+<li><a href="http://dx.doi.org/10.1061/(ASCE)CP.1943-5487.0000406">Ham, Y., and Golparvar-Fard, M. (2014). &#8220;Three-Dimensional Thermography-Based Method for Cost-Benefit Analysis of Energy Efficiency Building Envelope Retrofits.&#8221; ASCE Journal of Computing in Civil Engineering, 10.1061/(ASCE)CP.1943-5487.0000406, B4014009.</a></li>
+<li><a href="http://dx.doi.org/10.1061/(ASCE)CP.1943-5487.0000392">Bae, H., Golparvar-Fard, M., and White, J. (2014). "Image-based Localization and Content Authoring in Structure-from-Motion Point Cloud Models for Real-time Field Reporting Applications", ASCE Journal of Computing in Civil Engineering, 10.1061/(ASCE)CP.1943-5487.0000392, B4014008.</a></li>
+<li><a href="http://dx.doi.org/10.1061/(ASCE)CO.1943-7862.0000860">Albert, A., Hallowell, M.R., Kleiner, B., Chen, A., Golparvar-Fard, M. (2014). &#8221;Enhancing Construction Hazard Recognition with High-Fidelity Augmented Virtuality.&#8221; ASCE Journal of Construction Engineering and Management, 140(7), 04014024.
+
+</a></li>
+<li><a href="http://dx.doi.org/10.1061/(ASCE)CP.1943-5487.0000311">Golparvar-Fard, M., and Ham, Y. (2014). &#8220;Automated Diagnostics and Visualization of Potential Energy Performance Problems in Existing Buildings using EPAR - Energy Performance Augmented Reality - Models.&#8221; Journal of Computing in Civil Engineering, ASCE, Special Issue on Computational Approaches to Understand and Reduce Energy Consumption in the Built Environment. 28(1), 17-29.</a></li>
+<li><a href="http://dx.doi.org/10.1016/j.autcon.2012.12.002">Milad Memarzadeh, Golparvar-Fard, M., and Niebles, J.C. (2013). &#8220;Automated 2D detection of construction equipment and workers from site video streams using histograms of oriented gradients and colors&#8221;. Elsevier Journal of Automation in Construction (32), 24-37.</a></li>
+<li><a href="http://dx.doi.org/10.1109/iThings/CPSCom.2011.54">Guyman, D., Dougherty, B., White, J., and Golparvar-Fard, M. (2013). &#8220;Power-efficient Cyber-physical Late Arrival Detection with Smartphones.&#8221;  Springer Journal of Mobile Networks and Applications.</a></li>
+<li><a href="10.1016/j.enbuild.2013.02.054">Ham. Y., and Golparvar-Fard, M. (2013). &#8220;EPAR: Energy Performance Augmented Reality models for identification of building energy performance deviations between actual measurements and simulation results.&#8221; Elsevier Journal of Energy and Buildings (63), 15-28, ISSN 0378-7788 (impact factor: 2.809)</a></li>
+<li><a href="http://www.viejournal.com/content/1/1/3">Bae, H.J., Golparvar-Fard, M., and White, J. (2013) "High-precision Vision-based Mobile Augmented Reality System for Context-aware AEC/FM Applications." Springer Journal of Visualization in Engineering, 1:3,10.1186/2213-7459-1-3.</a></li>
+<li><a href="http://dx.doi.org/10.1061/(ASCE)CP.1943-5487.0000283">Golparvar-Fard, M., Balali, V., and de la Garza, J.M. (2013). &#8220;Segmentation and Recognition of Highway Assets using Image-based 3D Point Clouds and Semantic Texton Forests.&#8221; ASCE Journal of Computing in Civil Engineering, Special Issue on Data Sensing and Analysis. 04014023.</a></li>
+<li><a href="http://dx.doi.org/10.1016/j.aei.2013.03.005">Ham, Y. and Golparvar-Fard, M. (2013). "An automated vision-based method for rapid 3D energy performance modeling of existing buildings using thermal and digital imagery", Elsevier Journal of Advanced Engineering Informatics, 27 (3), 395-409.</a></li>
+<li><a href="http://dx.doi.org/10.1061/(ASCE)CP.1943-5487.0000334">Torok, M., Golparvar-Fard, M., and Kochersberger, K. (2013). "Image-Based Automated 3D Crack Detection for Post-Disaster Building Assessment." ASCE Journal of Computing in Civil Engineering, 10.1061/(ASCE)CP.1943-5487.0000334.
+</a></li>
+<li><a href="http://dx.doi.org/10.1061/(ASCE)CO.1943-7862.0000755">Ahn, C., Lewis, P., Golparvar-Fard, M., and Lee, S.(2013) &#8220;Toward An Integrated Framework for Estimating, Benchmarking and Monitoring the Environmental Impacts of Construction Operations.&#8221; ASCE Journal of Construction Engineering and Management, 139(12), A4013003.</a></li>
+<li><a href="http://dx.doi.org/10.1016/j.aei.2013.09.001">Golparvar-Fard, M., Heydarian, A., and Niebles, J.C. (2013). &#8220;Vision-based action recognition of earthmoving equipment using spatio-temporal features and support vector machine classifiers," Elsevier Journal of Advanced Engineering Informatics, 27 (4), 652-663.</a></li>
+<li><a href="http://dx.doi.org/10.1061/(ASCE)CP.1943-5487.0000319">Gulbinas, R., Jain, R.K., Taylor, J.T., Peschiera, G., Siegel, J., and Golparvar-Fard, M. (submitted 2012). &#8220;Network Eco-Informatics: Development of a Social Eco-Feedback System to Drive Energy Efficiency in Residential Buildings.&#8221; ASCE Journal of Computing in Civil Engineering, Special Issue on Computational Approaches to Understand and Reduce Energy Consumption in the Built Environment, 28(1), 89&#8211;98.</a></li>
+<li><a href="10.1061/(ASCE)AE.1943-5568.0000118">MCcoy, A., Golparvar-Fard, M., and Rigby, E. (2012). &#8220;Reducing barriers to remote projects: a case study of low-tech image-based 3D reconstruction techniques.&#8221;  ASCE Journal of Architectural Engineering, 10.1061/(ASCE)AE.1943-5568.0000118, 05013002.</a></li>
+<li><a href="http://dx.doi.org/10.1061/(ASCE)CP.1943-5487.0000205">Golparvar&#8208;Fard, M., Pe&#241;a&#8208;Mora, F., and Savarese, S. (2012). "Automated Progress Monitoring Using Unordered Daily Construction Photographs and IFC&#8208;Based Building Information Models." ASCE Journal of Computing in Civil Engineering, 10.1061/(ASCE)CP.1943-5487.0000205.</a></li>
+<li><a href="http://dx.doi.org/10.1061/(ASCE)CP.1943-5487.0000117">Pe&#241;a-Mora, F., Thomas, J., Golparvar-Fard, M. and Aziz, Z. (2012). &#8220;Supporting civil engineers during disaster response and recovery using a Segway mobile workstation chariot.&#8221;  ASCE Journal of Computing in Civil Engineering, 26(3), 448-455.</a></li>
+<li>Fukuchi, Y. and Golparvar-Fard, M. (2011). &#8220;Automated visualization technology with D4AR models.&#8221; Japan Construction Information Technology (CIC) Information 103 Journal, 26(3), 50-55.</li>
+<li>Golparvar-Fard, M., Pe&#241;a-Mora, F., and Savarese, S. (2011). &#8220;Integrated sequential as-built and as-planned representation with D4AR &#8211; 4 dimensional augmented reality - tools in support of decision-enabling tasks in the AEC/FM industry.&#8221; ASCE Journal of Construction Engineering and Management. 137(12), 1-21.</li>
+<li>Golparvar-Fard, M., Bohn, J., Teizer, J., Savarese, S. and Pe&#241;a-Mora, F. (2011). &#8220;Evaluation of still photography and laser scanning as emerging automated performance monitoring techniques.&#8221; Elsevier Journal of Automation in Construction. 20(8), 1143-1155.</li>
+<li>Kamat, V., Golparvar-Fard M., Martinez J., Pe&#241;a-Mora F., Fischer, M. and Savarese S. (2011). &#8220;Research in Visualization Techniques for Field Construction.&#8221; ASCE J. of Construction Engineering and Management. 137(10), 853-863.</li>
+<li><a href="http://www.itcon.org/2009/13">Golparvar-Fard, M., Pe&#241;a-Mora, F., and Savarese, S. (2009). &#8220;D4AR- A 4-Dimensional augmented reality model for automating construction progress data collection, processing and communication.&#8221; Journal of Information Technology in Construction (ITcon), Special Issue Next Generation Construction IT: Technology Foresight, Future Studies, Roadmapping, and Scenario Planning, 14, 129-153.</a></li>
+<li>Golparvar-Fard, M., Pe&#241;a-Mora, F. Arboleda, C. A., and Lee, S. H. (2009). &#8220;Visualization of construction progress monitoring with 4d simulation model overlaid on time-lapsed photographs.&#8221;  ASCE J. of Computing in Civil Engineering, 23 (6), 391-404.</li>
+<li>Golparvar-Fard, M., Yeganeh-Bakhtiary, A. and Cheng, L. (2005). &#8220;Numerical simulation of steady current below offshore pipeline near plane boundary.&#8221; International Journal of Civil Engineering, 3 (1), 46-57.</li>
+</ul>
+
+		<h2>Articles in Conference Proceedings</h2>
+<ul>
+<li><a href="http://www.iaarc.org/isarc2020">Lin, J., Ibrahim A., Srwade, A., Nitta, Y., Moirkawa, H and Fukuchi, Y. (2020) "Bridge Inspection with Aerial Robots and Computer Vision: A Japanese National Initiative." 37thInternational Symposium on Automation and Robotics in Construction (ISARC 2020)</a></li>
+<li>Tang S., Chen O., Yu L., and Golparvar-Fard, M. (2020).  "Improving Real-Time Construction Equipment Detection by Learning to Correct False Positives."  ASCE Construction Research Congress. Tempe Arizona, 2020</li>
+<li>Perez-Perez, Y., Golpavar-Fard, M., and El-Rayes, K. (2020). "Convolutional Neural Network Architecture for Semantic Labeling Structural and Mechanical Elements." ASCE Construction Research Congress. Tempe Arizona, 2020</li>
+<li>Amer, F., Yi Koh, H., & Golparvar-Fard, M. (2020). "Quick, Correct, and Consistent Text Annotations: An Active Learning-Based Annotation Workflow and Tool for Sequence Labeling of Construction Schedules." ASCE Construction Research Congress. Tempe Arizona, 2020</li>
+<li>Tang, S., Golparvar-Fard, M.., Naphade, M. and Gopalakrishna, M.M. (2019), "Video-Based Activity Forecasting for Construction Safety Monitoring Use Cases". ASCE International Conference on Computing in Civil Engineering 2019: Smart Cities, Sustainability, and Resilience, i3CE 2019, 204-210</li>
+<li>Amer, F., & Golparvar-Fard, M. (2019). "Formalizing Construction Sequencing Knowledge and Mining Company-Specific Best Practices from Past Project Schedules." Computing in Civil Engineering 2019: Visualization, Information Modeling, and Simulation - Selected Papers from the ASCE International Conference on Computing in Civil Engineering 2019, 215&#8211;223. </li>
+<li>Ibrahim, A. and Golparvar-Fard, M. (2019) "4D-BIM based Optimal Flight Planning for Construction Monitoring Applications using Camera-equipped UAVs." The 2019 ASCE International Conference on Computing in Civil Engineering. Atlanta, Georgia, June 17 - 19, 2019.</li>
+<li>Ibrahim, A., Sabet, A., Golparvar-Fard, M. (2019) "BIM-Driven Mission Planning and Navigation for Automatic Indoor Construction Progress Detection using Robotic Ground Platform." 2019 European Conference on Computing in Construction. Chania, Crete, Greece. July 10-12, 2019.</li>
+<li>Lin, J.J. Lee, J. and Golparvar-Fard, M. (2019). "Exploring the Potential of Image-based 3D Geometry and Appearance Reasoning for Automated Construction Progress Monitoring." The 2019 ASCE International Conference on Computing in Civil Engineering, Atlanta, U.S., June 17-19, 2019.</li>
+<li>Amer, F., and Golparvar-Fard, M. (2019) "Construction Knowledge Formalization and Automated Construction Scheduling: a Literature Review." Canadian Society of Civil Engineers (CSCE) Annual Conference, 2019</li>
+<li> Amer, F., & Golparvar-Fard, M. (2019a).  "Automatic Understanding of Construction Schedules: Part-of-Activity Tagging."  Proceedings of the 2019 European Conference for Computing in Construction, 1, 190&#8211;197. https://doi.org/10.35490/ec3.2019.196</li>
+<li> Amer, F., and Golparvar-Fard, M. (2019). "Formalizing Construction Sequencing Knowledge and Mining Company-Specific Best Practices from Past Project Schedules." ASCE 2019 International Conference on Computing in Civil Engineering</li>
+<li>Torres-Calderon, W., Chi, Y., Amer, F., and Golparvar-Fard, M. (2019). "Automated Mining of Construction Schedules for Easy and Quick Assembly of 4D BIM Simulations."  ASCE 2019 International Conference on Computing in Civil Engineering</li>
+<li>Perez-Perez, Y., Golparvar-Fard, M., and El-Rayes K. (2019). &#8220;Artificial Neural Network for Semantic Segmentation of Built Environments for Automated Scan2BIM.&#8221; I3CE 2019, Atlanta, Georgia. </li>
+<li>Roberts D., Wang Y., Sabet A. and Golparvar-Fard M. (2019).  "Annotating 2D Imagery with 3D Kinematically Configurable Assets of Construction Equipment for Training Pose-Informed Activity Analysis and Safety Monitoring Algorithms." Proceedings of the 2019 ASCE International Conference on Computing in Civil Engineering (I3CE)</li>
+<li>Roberts D.,  Wang M., Torres Calderon W. and Golparvar-Fard M. (2019).  "An Annotation Tool for Benchmarking Methods for Automated Construction Resource Pose Estimation and Activity Analysis." Proceedings of the 2019 International Conference of Smart Infrastructure and Construction (ICSIC)</li>
+<li>Eray, E; Haas, C T; Rayside, D; Golparvar-Fard, M.  (2018). "A Conceptual Framework for Tracking Design Completeness of Track Line Discipline in MRT Projects." Proceedings of the International Symposium on Automation and Robotics in Construction (ISARC); Waterloo  Vol. 35, : 1-7. Waterloo: IAARC Publications. (2018)</li>
+<li><a href="https://ascelibrary.org/doi/10.1061/9780784481288.011">Bhandari S.,Hallowell M.R., van Boven L., Golparvar-Fard, M. (2018). "Using Augmented Virtuality to Understand the Situational Awareness Model."  Construction Research Congress 2018, 105-115
+</a></li>
+<li>G Garcia, M Golparvar-Fard, JM De La Garza, Fischer, M. (2018). "Model Maturity Risk Index Framework for Tracking Progress in Model-Based Engineering." Construction Research Congress 2018, 2011-2021.</li>
+<li>Feng, Y. and Golparvard-Fard,  M. (2018) "Indoor/Outdoor Localization and augmented Reality for Improving Construction Onsite Information Delivery and Management." 35th CIB W78 2018 Conference, Chicago, USA</li>
+<li>Amer, F., and Golparvar-Fard, M. (2018). &#8220;Decentralized Visual 3D Mapping of Scattered Work Locations for High-Frequency Tracking of Indoor Construction Activities.&#8221; Proceedings of Construction Research Congress 2018, April 2-4, New Orleans, Louisiana</li>
+<li>Amer, F., and Golparvar-Fard, M. (2018). &#8220;Crowd-Sourced Visual Data Collection for Monitoring Indoor Construction in 3D.&#8221;  The Second European and Mediterranean Structural Engineering and Construction Conference (EURO-MED-SEC-2).</li>
+<li>Lin J.J., and Golparvar-Fard M. (2018).  "Visual Data and Predictive Analytics for Proactive Project Controls on Construction Sites." EG-ICE 2018: 25th International Workshop on Intelligent Computing in Engineering, Lausanne, Switzerland, June 10-13, 2018.</li>
+<li>Amer, F. and Golparvard-Fard,  M.(2018). "Decentralized Visual 3D Mapping of Scattered Work Locations for High-Frequency Tracking of Indoor Construction Activities."  ASCE Construction Research Congress (CRC).</li>
+<li>Roberts, D., Golparvar-Fard, M., Carlos Niebles, J., Gwak, JY. and Bao, R. (2018). "Vision-based Construction Activity Analysis in Long Video Sequences via Hidden Markov Models: Experiments on Earthmoving Operations." Construction Research Congress (CRC).</li>
+<li>Perez-Perez, Y., Golparvar-Fard, M., and El-Rayes K. (2018). &#8220;Automatic 3D Modeling of Structural and Mechanical Components from Point Clouds.&#8221; CRC 2018, New Orleans, Louisiana, 502-511.</li>
+<li><a href="http://web.engr.illinois.edu/~degol2/pages/MatRec_CVPR16.html">DeGol, J., Golparvar-Fard, M., and Hoiem, D. (2016). "Geometry-Informed Material Recognition". IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 1554-1562. Spotlight Paper (acceptance rate: 9.7%).</a></li>
+<li>Karsch, K., Golparvar-Fard, M., and Forsyth, D. (2014). &#8220;ConstructAide: Analyzing and Visualizing Construction Sites through Photographs and Building Models.&#8221; SIGGRAPH Asia.* Acceptance Rate: 18% </li>
+</ul>
+
+		
+		<h2>Invited Lectures</h2>
+<ul>
+<li><a href="http://www.pcc.usp.br/icccbe-w78-2020">Keynote Speaker "Convergence of BIM and Artificial Intelligence for Proactive Project Controls in Construction" </a></li>
+<li>Keynote Speaker "Artifical Intelligence, Building Information Modeling, and Computer vision"</li>
+<li>Keynote Speaker "Artificial Intelligence, Building Information Modeling, and Computer Vision"</li>
+<li><a href="https://www.enr.com/articles/44674-tech-investment-in-construction-doubles-in-past-decade?v=preview">Keynote Speaker "Artificial Intelligence, Building Information Modeling, and Computer Vision for Proactive Project Controls on Construction Sites"</a></li>
+<li>Invited Speaker: "Visual Production Management for Proactive Construction Project Controls"</li>
+<li><a href="invited by the director of Construction Institute at ASCE ">Keynote Speech: "Predictive Visual Data Analytics for Proactive Project Controls on Construction Sites" </a></li>
+<li><a href="http://cife.stanford.edu/SP2016Agenda">Invited Speaker "Predictive Visual Data Analytics for Proactive Project Controls on Construction Sites" </a></li>
+<li><a href="http://www.roboticscaucus.org/
+Schedule/2015/29April2015/index.asp">US Congressional Hearing: "Autonomous Vision-based Systems for Monitoring Construction Performance"</a></li>
+<li><a href="TBD">Keynote Speech: "The Role of Integrated Plan and As-built Models in Achieving Smooth Flow of Production in Construction"</a></li>
+<li><a href="http://www.iccbei.com/
+pages/conference2.html">Keynote Speech: "Model-based Monitoring of Work-in-Progress via Images taken by Camera-equipped UAVs and BIM"</a></li>
+</ul>
+
+		<h2>Other Publications</h2>
+<ul>
+<li><a href="https://blogs.oracle.com/construction-engineering/how-reality-models-%2b-4d-bim-enhance-construction-scheduling-and-progress-tracking">Golparvar-Fard, M. (2021). "How reality models + 4D BIM enhance construction scheduling and progress tracking" Oracle Construction and Engineering Global Business Unit</a></li>
+</ul>
+
+		
+		
+		<h2>Magazine Articles</h2>
+<ul>
+<li>Golparvar-Fard (2012). "D4AR- 4 Dimensional Augmented Reality Models for Integrated 4D AS-built, Plan Visualization, and Automated Construction Progress Monitoring." LiDAR magazine, 2(10), 1-4.</li>
+<li>Ham, Y., and Golparvar-Fard (2012). "Rapid 3D Energy Modeling for Retrofit Analysis of Existing Buildings Using Thermal and Digital Imagery."  LiDAR magazine, 3(4), 1-4. </li>
+</ul>
+
+		
+		<h2>Journal Editorships</h2>
+<ul>
+<li>Editorial Board Member, ASCE Journal of Computing in Civil Engineering, 2020-present.</li>
+<li>Guest Editor, Elsevier Journal of Automation in Construction, Special issue on IoT for Smart Infrastructure, 2017.</li>
+<li>Associate Editor, Elsevier Journal of Automation in Construction, 2015-present.</li>
+<li>Editorial Review Board Member, Emerald Journal of Engineering, Construction and Architectural Management, 2015-present.</li>
+<li>Guest Editor, IEEE Proceedings, 102(2), Special Issue on Applications of Augmented Reality, 2014.</li>
+<li>Specialty Editor, Information Technology in Construction, ASCE Journal of Construction Engineering and Management, 2012-present.</li>
+<li>Associate Editor, ASCE Journal of Computing in Civil Engineering, 2012-present.</li>
+</ul>
+
+		
+		<h2>Conferences Organized or Chaired</h2>
+<ul>
+<li>Workshop Co-Chair, The first AI in Design Workshop (2021). Institute of AI in Construction, Aug 2021.</li>
+<li>Workshop Chair, The first AI in Construction Workshop (2021). Institute of AI in Construction, April 2021.</li>
+<li>Co-Chair, Digital Twin for Civil Infrastructure, (2021) 13th International Workshop on Structural Health Monitoring (IWSHM), Stanford, CA.</li>
+<li>Technical Committee Member, 2021 ASCE International Conference on Computing in Civil Engineering</li>
+<li>Chair, Project Controls track, 2020 ASCE Construction Research Congress, Phoenix, AZ</li>
+<li>International Scientific Committee, 37th International CIB W78 Conference, June, 2 - 4/2020 -- S&#227;o Paulo - SP - Brazil
+</li>
+<li>Scientific Committee Member, CONVR 2020 - The 20th International Conference on Construction Applications of Virtual Reality, Sep 30-Oct 2, 2020, UK.</li>
+<li>Scientific Committee Member, The 6th International Project and Construction Management Conference, IPCMC2020, 12-14 November 2020, Istanbul, Turkey.</li>
+<li>International Scientific Committee, 18th International Conference on Computing in Civil and Building Engineering, June, 2 - 4/2020 - S&#227;o Paulo - SP - Brazil
+</li>
+<li>Technical Committee Member, 27th EG-ICE International Workshop, Intelligent Computing in Engineering 2020, Berlin, Germany, 30th of June to 3rd of July 2020</li>
+<li>Technical Committee Member, 2020 ASCE Construction Research Congress, Phoenix, AZ</li>
+</ul>
+
+		
+		
+		<h2>Professional Societies</h2>
+<ul>
+<li>Member of International Task Force on BIM-Driven Estimating & Scheduling, AIA BIM Forum, 2020-present
+ </li>
+<li>Member, Construction Industry Institute (CII) Technology Committee, 2019-present</li>
+<li>Chair, ASCE Construction Research Council (CRC), American Society of Civil Engineers (ASCE), 2018-2019</li>
+<li>Chair, Data Sensing and Analysis (DSA) Committee, Technical Council on Computing and Information Technology (TCCIT), American Society of Civil Engineers (ASCE), 2014-2016.</li>
+<li>Chair of the Communications subcommittee, Construction Industry Institute (CII) Academic Committee, 2014-2018</li>
+<li>Member, Construction Industry Institute (CII) Academic Committee, 2010- present</li>
+</ul>
+
+		
+		
+		
+		
+		
+		
+		
+		<h2>Teaching Honors</h2>
+<ul>
+<li>List of Teachers Ranked as Excellent by Their Students (Outstanding ranking) (2020)</li>
+<li>List of Teachers Ranked as Excellent by Their Students (2018)</li>
+<li>List of Teachers Ranked as Excellent by Their Students (2018)</li>
+<li>List of Teachers Ranked as Excellent by Their Students (2017)</li>
+<li>List of Teachers Ranked as Excellent by Their Students (2016)</li>
+<li>List of Teachers Ranked as Excellent by Their Students (2016)</li>
+<li>List of Teachers Ranked as Excellent by Their Students (2014)</li>
+<li>List of Teachers Ranked as Excellent by Their Students (2013)</li>
+</ul>
+
+		<h2>Research Honors</h2>
+<ul>
+<li>Center for Advanced Study (CAS) Associate (2020)</li>
+<li>Illinois&#8217; Innovation Economy Impact, Illinois Science & Technology Coalition (ISTC)  (2019)</li>
+<li>Outstanding Reviewer, ASCE Journal of Computing in Civil Engineering
+ (2019)</li>
+<li>Walter L. Huber Civil Engineering Research Prize, American Society of Civil Engineers (ASCE) (2018)</li>
+<li>Outstanding Reviewer, ASCE Journal of Computing in Civil Engineering
+ (2018)</li>
+<li>Hojjat Adeli Award for Innovation in Computing, Wiley-Blackwell (2017)</li>
+<li>National Top 20 Under 40 list, Engineering News Record (ENR) (2017)</li>
+<li>Top Young Professional, Engineering News Record (ENR) Midwest (2017)</li>
+<li>World Economics Forum (WEF)'s Future of Construction Ideas (2017)</li>
+<li>Campus Distinguished Promotion Award, University of Illinois at Urbana-Champaign (2016)</li>
+<li>Daniel H. Halpin Scholarship Award in Construction, American Society of Civil Engineers (ASCE) (2016)</li>
+<li>Outstanding Reviewer, ASCE Journal of Computing in Civil Engineering
+ (2016)</li>
+<li>Excellence Faculty Fellowship, Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign (2016)</li>
+<li>Dean's Award for Excellence in Research, College of Engineering, University of Illinois (2016)</li>
+<li>Best Conference Paper Award, 6th International Conference on Construction Engineering and Project Management (ICCEPM) (2015)</li>
+<li>Turner Innovation Award, Turner Construction Fourth Annual Innovation program (2015)</li>
+<li>Faculty Entrepreneurial Fellowship, College of Engineering, University of Illinois at Urbana-Champaign (2015)</li>
+<li>Best Conference Paper, Data Sensing and Analysis, ASCE International Workshop on Computing in Civil Engineering (2015)</li>
+<li>CETI Outstanding Early Career Researcher Award, FIATECH, Austin, TX (2014)</li>
+<li>Best Conference Paper Award, Second-Place, ASCE Construction Research Congress, Atlanta, GA (2014)</li>
+<li>Best Poster Award, Second-Place, ASCE Construction Research Congress, Atlanta, GA (2014)</li>
+<li>Best Poster Award, Second-Place, ASCE Construction Research Congress, Atlanta, GA (2014)</li>
+<li>Best Poster Award, Third-Place, ASCE Construction Research Congress, Atlanta, GA (2014)</li>
+<li>Best Conference Paper, ASCE International Workshop on Computing in Civil Engineering (2013)</li>
+<li>NCSA Faculty Fellowship - 1 (2013)</li>
+<li>NCSA Faculty Fellowship - 2 (2013)</li>
+<li>James R. Croes Medal, American Society of Civil Engineers (ASCE) (2013)</li>
+<li>Best Journal Paper, ASCE Journal of Construction Engineering and Management (2012)</li>
+<li>Best Conference Paper, 12th International Conference on Construction Applications of Virtual Reality, Taipei, Taiwan (2012)</li>
+<li>Best Poster Award, First-Place, ASCE Construction Research Congress, West Lafayette, IN (2012)</li>
+<li>Paul E. Torgersen Research Excellence Award, Virginia Tech, Blacksburg, VA (2011)</li>
+<li>FIATECH&#8217;s Scholarship Award, FIATECH at The University of Texas-Austin, Austin, TX (2010)</li>
+<li>FIATECH CETI Award, Outstanding Student Researcher, FIATECH, Austin, TX (2010)</li>
+<li>Best Poster Award, Construction Industry Institute 10th Annual Conference, Orlando, FL (2010)</li>
+<li>Best Student Conference Paper, 6th Int. Conference on Innovations in AEC, College State, PA (2010)</li>
+<li>Best Poster Award, First-Place, ASCE Construction Research Congress, Seattle, WA (2009)</li>
+<li>Construction Management Association of America&#8217;s Scholarship Award, Construction Management Association of America&#8217;s Chicago Chapter, Chicago, IL (2009)</li>
+</ul>
+
+		
+		<h2>Other Honors</h2>
+<ul>
+<li>Entrepreneurial Excellence: New Venture Award, The Champaign County Economic Development Corporation (2016)</li>
+<li>Cozad New Venture Competition Winner, University of Illinois at Urbana-Champaign (2016)</li>
+<li>Entrepreneurship: 2013 Consumer Electronic Show (CES) Innovation Award for HD4AR research project (commercialized as PAR Works) (2013)</li>
+<li>Entrepreneurship: 2013 Technical Achievement Finalist for HD4AR research project at SXSW (commercialized as PAR Works MARS). (2013)</li>
+<li>Entrepreneurship: 2013 Accelerator Award Finalist for HD4AR research project at SXSW (commercialized as PAR Works MARS) (2013)</li>
+</ul>
+
+		
+		<h2>Courses Taught - Last Four Years</h2>
+<ul><li>CEE 320 - Construction Engineering</li>
+<li>CEE 595 - AI in Construction</li>
+<li>CEE 598 - Building Information Modeling</li>
+<li>CEE 598 - Visual Sensing in Civil Infra</li>
+</ul>
+	</div>
+
+
+</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile w110 white-box   py-5 " id="tile7058" data-tileid="7058" >
+	<div class="lower     " id="lower7058">
+		<div class="row">
+			<div class="col-md column1      " >
+				<h2 class="text-center">Related News</h2>
+<div id="faculty-news" class="tile-list"><section class="tile news w25 platinum-box" id="page40350" data-pageid="40350" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=54055);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/piecing-it-all-together-ai-in-construction-workshop-identifies-use-inspired-applications-that-will-benefit-one-of-the-worlds-most-important-industries">Piecing it All Together: AI in Construction Workshop Identifies Use-Inspired Applications that will Benefit One of the World's Most Important Industries</a></h2>
+				<p class="first"><a href="/news">News</a> | July 20, 2021</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile news w25 platinum-box" id="page17544" data-pageid="17544" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=27127);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/institute-artificial-intelligence-construction-planned">Institute for Artificial Intelligence in Construction Planned</a></h2>
+				<p class="first"><a href="/news">News</a> | September 17, 2020</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile news w25 platinum-box" id="page18065" data-pageid="18065" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=12051);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/dpi-awards-grants-to-support-illinois-cs-faculty ">DPI Awards R&D Grants to Support Illinois CS Faculty</a></h2>
+				<p class="first"><a href="/news">News</a> | September 4, 2020</p>
+			</div>
+		</div>
+	</div>
+</section>
+</div>
+<p>&nbsp;</p>
+<p class="text-center"><a class="button orange loader" href="#" data-target="faculty-news" data-template="81" data-bookid="81" data-return="4" data-filter-field="netid" data-filter-value="mgolpar">Load more news</a></p>
+			</div>
+		</div>
+	</div>
+</section>
+
+						</div>
+					</div>
+				</main>
+			</div>
+
+			<footer>
+							<div class="container-fluid maxwidth1140">
+				<div class="row pt-5 pb-3">
+					<div class="col-lg-5 mb-5">
+						<div class="campus_wordmark"><a href="http://illinois.edu/"><img src="https://ws.engr.illinois.edu/images/uiuc-footer-wordmark.png" alt="University of Illinois Urbana Champaign"></a></div>
+					</div>
+
+					<div class="col-lg-7 mb-4 socials">
+						<a href="https://www.facebook.com/CSatIllinois/"><i class="fab fa-facebook-f"></i><span class="sr-only">Facebook</span></a>
+						<a href="https://twitter.com/IllinoisCS"><i class="fab fa-twitter"></i><span class="sr-only">Twitter</span></a>
+						<a href="https://www.youtube.com/user/IllinoisCS"><i class="fab fa-youtube"></i><span class="sr-only">YouTube</span></a>
+						<a href="https://www.linkedin.com/school/illinoiscs"><i class="fab fa-linkedin-in"></i><span class="sr-only">LinkedIn</span></a>
+						<a href="https://www.instagram.com/illinoiscs/"><i class="fab fa-instagram"></i><span class="sr-only">Instagram</span></a>
+						<div class="w-100 d-block d-lg-none"></div>
+						<a href="/about/contact-us" class="button">Contact Us</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="container-fluid maxwidth1140">
+				<div class="row pb-5 justify-content-between">
+					<div class="col-md pr-xl-5 mb-5 college_container">
+
+						<div class="contact">
+							<p><span class="fs150x"><a href="https://cs.illinois.edu">Thomas M. Siebel Center for Computer Science</a></span><br />
+                                                       201 North Goodwin Avenue MC 258<br />
+                                                        Urbana, IL 61801-2302<br />
+                                                         ph: 217-333-3426 (general) | 217-333-4428 (advising) <br />
+                                                         fax: 217-333-3501</p>
+                                                        <p> General email: <a href="mailto:admin@cs.illinois.edu">admin@cs.illinois.edu</a><br />
+                                                         Graduate Advising: <a href="mailto:academic@cs.illinois.edu">academic@cs.illinois.edu</a><br />
+                                                         Undergraduate Advising: <a href="mailto:undergrad@cs.illinois.edu">undergrad@cs.illinois.edu</a><br />
+                                                          Webmaster: <a href="mailto:grainger-marcom@illinois.edu?subject=CS Request">grainger-marcom@illinois.edu</a></p>
+							<p><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a><br />
+							<a href="https://illinois.edu">University of Illinois</a></p>
+
+						</div>
+					</div>
+
+
+					<div class="col-md pr-xl-5 my-5 concentrations">
+                                 	
+					</div>
+				</div>
+			</div>
+
+				<div class="container-fluid" id="legal">
+					<div class="row justify-content-md-center align-items-center py-4">
+
+						<div class="col-md-auto">
+							<div><button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Preferences</button></div>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Copyright &copy; 2021 University of Illinois Board of Trustees</p>
+						</div>
+
+						<div class="col-md-auto">
+							<p><a href="https://grainger.illinois.edu/cookie-policy">Cookie Policy</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy</a></p>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Powered by <a href="https://my.engr.illinois.edu/sitemanager/editpage.asp?id=11846">SiteManager</a> | <a href="mailto:grainger-marcom@illinois.edu">Contact Webmaster</a></p>
+						</div>
+					</div>
+				</div>
+
+				<div id="gototop" class="hidden">
+					<a href="#"><i class="fa fa-chevron-up"></i><span class="sr-only">Go to top</span></a>
+				</div>
+			</footer>
+		</div>
+
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+		<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax-video.min.js"></script>
+		<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+		<script src="https://cdn.datatables.net/responsive/2.2.5/js/dataTables.responsive.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.0/circle-progress.min.js'></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/twbs-pagination/1.4.2/jquery.twbsPagination.min.js'></script>
+		<script src="https://ws.engr.illinois.edu/sitemanager/genscripts.js?v=2.660.676"></script>
+		<script src="/js/scripts.js?v=0.27"></script>
+
+		<script async="async" src="https://enroll.illinois.edu/ping"></script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-9571262-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-9571262-1');
+</script>
+
+		
+	</body>
+</html>
+
+

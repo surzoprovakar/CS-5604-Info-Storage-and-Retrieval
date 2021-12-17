@@ -1,0 +1,272 @@
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new date().gettime(),event:'gtm.js'});var f=d.getelementsbytagname(s)[0],
+j=d.createelement(s),dl=l!='datalayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentnode.insertbefore(j,f);
+})(window,document,'script','datalayer','gtm-3sqhdc'); (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new date().gettime(),event:'gtm.js'});var f=d.getelementsbytagname(s)[0],
+      j=d.createelement(s),dl=l!='datalayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentnode.insertbefore(j,f);
+      })(window,document,'script','datalayer','gtm-p6f85q5'); consumer information | virginia tech skip to main content skip to search virginia tech® universal access universal access options report a barrier accessibility portal pause all background videos underline all links apply visit give shop hokie gear apparel, clothing, gear and merchandise hokie shop university bookstore, merchandise and gifts hokie license plates part of every virginia tech plate purchase funds scholarships resources for future students current students parents and families faculty and staff alumni industry and partners virginia tech menu virginia tech about facts about virginia tech campus locations university leadership arts@virginiatech history and traditions rankings academics colleges undergraduate majors undergraduate minors graduate school beyond boundaries online learning libraries continuing and professional education summer and winter sessions experiential learning living-learning programs study abroad admissions & aid cost & aid federal cares act reporting disclosure undergraduate admissions applying to virginia tech visit virginia tech transfer admissions international admissions veteran admissions graduate school admissions undergraduate admissions calendar first-generation students first-generation college institute black college institute tribal initiatives frequently asked questions online programs admissions staff site map campus life discover blacksburg housing dining career and professional development health and wellness corps of cadets clubs, organizations, and involvement cultural centers athletics inclusivevt engagement and outreach research apply visit give shop hokie gear apparel, clothing, gear and merchandise hokie shop university bookstore, merchandise and gifts hokie license plates part of every virginia tech plate purchase funds scholarships resources for future students current students parents and families faculty and staff alumni industry and partners search search submit home / consumer information / explore about academics admissions & aid campus life inclusivevt engagement and outreach research consumer information ready1 consumer information statistical overview of virginia tech virginia tech provides the following information on graduation rates, retention, undergraduate tuition, student fees, and postsecondary employment data. as the statistics show, the university excels at providing a quality education and presents a substantial return on investment. the university consistently ranks among the top public universities for quality of life, alumni network, and as a best value in higher education. visit the university's rankings page for a comprehensive list of accolades. /*custom styles for statistics overview page*/
+
+.stats-chart iframe{
+ border: none;
+ padding-left: 0px;
+ height: 400px;
+}
+
+.stats-chart{
+ margin-left: -20px;
+}
+
+.table{
+ font-family: "pt sans";
+}
+
+.table tbody > tr > td, .table tfoot > tr > td {
+    border-top: 1px solid var(--vt-maroon);
+}
+
+td, th{
+ text-align: center;
+}
+
+.year{
+ background-color: #dbd8bc;
+}
+
+.resident{
+ background-color: #edeada;
+}
+
+.non-resident{
+ background-color: #dbd8bc;
+
+}
+
+.comp-fees{
+ background-color: #c2c1ba;
+
+}
+.table-headers{
+ background-color: var(--vt-maroon)!important; 
+ color: #fff;
+}
+
+.table thead > tr > th{
+ border-bottom: none;
+ border-top: none;
+}
+
+.border-left{
+ border-left: 2px solid var(--vt-maroon);
+}
+
+.border-right{
+ border-right: 2px solid var(--vt-maroon);
+}
+
+.border-bottom{
+ border-bottom: 2px solid var(--vt-maroon)!important;
+}
+
+.border-top{
+ border-top: 2px solid var(--vt-maroon);
+} undergraduate tuition and e&g fees comprehensive fees total undergraduate tuition and mandatory fees in-state students out-of-state students all students in-state students out-of-state students year cost increase cost increase cost increase cost increase cost increase 2008-2009 $6,895 11.9% $19,522 5.3% $1,303 5.3% $8,198 10.8% $20,825 5.3% 2009-2010 $7,370 6.9% $20,513 5.1% $1,365 4.8% $8,735 6.6% $21,878 5.1% 2010-2011 $8,098 9.9% $21,726 5.9% $1,491 9.2% $9,589 9.8% $23,217 6.1% 2011-2012 $8,899 9.9% $22,870 5.3% $1,610 8.0% $10,509 9.6% $24,480 5.4% 2012-2013 $9,250 3.9% $24,242 6.0% $1,673 3.9% $10,923 3.9% $25,915 5.9% 2013-2014 $9,703 4.9% $25,459 5.0% $1,752 4.7% $11,455 4.9% $27,211 5.0% 2014-2015 $10,197 5.1% $26,228 3.0% $1,820 3.9% $12,017 4.9% $28,048 3.1% 2015-2016 $10,628 4.2% $27,272 4.0% $1,857 2.0% $12,485 3.9% $29,129 3.9% 2016-2017 $10,941 2.9% $28,064 2.9% $1,911 2.9% $12,852 2.9% $29,975 2.9% 2017-2018 $11,263 2.9% $29,047 3.5% $1,967 2.9% $13,230 2.9% $31,014 3.5% 2018-2019 $11,595 2.9% $29,883 2.9% $2,025 2.9% $13,620 2.9% $31,908 2.9% 2019-2020 $11,595 0% $30,739 2.9% $2,096 3.5% $13,691 0.5% $32,835 2.9% .g{width: 100%; color: red; display: none;} //graph
+
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setonloadcallback(drawchart);
+      function drawchart() {
+        var data = new google.visualization.datatable();
+        data.addcolumn('string', 'year'); // implicit domain label col.
+        data.addcolumn({type:'string', role:'annotation'}); // annotation role col.
+        data.addcolumn({type:'string', role:'annotationtext'}); // annotationtext col.
+        data.addcolumn('number', 'percentage graduated within 6 years'); // implicit series 1 data col.
+        data.addrows([
+            ['1999', '4608','total entering full-time degree seeking students in 1999', 76.3 ],
+            ['2000', '4525','total entering full-time degree seeking students in 2000', 79.2 ],
+            ['2001', '4960','total entering full-time degree seeking students in 2001', 77.5 ],
+            ['2002', '4663','total entering full-time degree seeking students in 2002', 78.5 ],
+            ['2003', '4860','total entering full-time degree seeking students in 2003', 79.9 ],
+            ['2004', '4878','total entering full-time degree seeking students in 2004', 79.8 ],
+            ['2005', '4976','total entering full-time degree seeking students in 2005', 81.7 ],
+            ['2006', '5030','total entering full-time degree seeking students in 2006', 82.7 ],
+            ['2007', '5059','total entering full-time degree seeking students in 2007', 82.5 ],
+            ['2008', '5397','total entering full-time degree seeking students in 2008', 82.5 ],
+            ['2009', '4994','total entering full-time degree seeking students in 2009', 83.4 ]
+            
+        ]);
+
+
+        var options = {
+          pointsize: 6,
+          annotations: {style: 'line'},
+          legend: {position: 'top', maxlines: 3},
+          title: 'six year graduation rate',
+          textstyle: { color: '#333', fontname: 'pt sans', fontsize: '12'},
+          titletextstyle: { color: '#660000', fontname: 'pt sans', fontsize: '14'},
+          chartarea: { left:"10%", top:"10%", width:"100%", height:"60%"},
+          haxis: {
+            // title: 'year',  
+            titletextstyle: {color: '#333' }, 
+            textstyle: { color: '#333', fontname: 'pt sans', fontsize: '12'},
+            },
+            tooltip: {
+            titletextstyle: {color: '#333' }, 
+            textstyle: { color: '#333', fontname: 'pt sans', fontsize: '14'},
+            },
+          vaxis: {
+            format: "#,###'%'",
+            textstyle: { color: '#333', fontname: 'pt sans', fontsize: '12'},
+            viewwindow: {
+              max:100,
+              min:0
+            },
+        },    
+
+        colors: ['#ff6600', '#660000',]
+        
+        };
+
+
+
+        function resize () {
+        var chart = new google.visualization.areachart(document.getelementbyid('grad_div'));
+        chart.draw(data, options);
+      }
+
+        window.onload = resize();
+        window.onresize = resize;
+
+      } google.load("visualization", "1", {packages:["corechart"]});
+      google.setonloadcallback(drawchart);
+      function drawchart() {
+
+
+        var data = new google.visualization.datatable();
+        data.addcolumn('string', 'year'); // implicit domain label col.
+        data.addcolumn({type:'string', role:'annotation'}); // annotation role col.
+        data.addcolumn({type:'string', role:'annotationtext'}); // annotationtext col.
+        data.addcolumn('number', 'retention rate'); // implicit series 1 data col.
+        data.addrows([
+            ['2004', '4878','total entering full-time degree seeking students in 2004', 88 ],
+            ['2005', '4976','total entering full-time degree seeking students in 2005', 88.6 ],
+            ['2006', '5030','total entering full-time degree seeking students in 2006', 93.2 ],
+            ['2007', '5059','total entering full-time degree seeking students in 2007', 91.1 ],
+            ['2008', '5397','total entering full-time degree seeking students in 2008', 90.9 ],
+            ['2009', '4994','total entering full-time degree seeking students in 2009', 91.9 ],
+            ['2010', '5136','total entering full-time degree seeking students in 2010', 91.1 ],
+            ['2011', '5157','total entering full-time degree seeking students in 2011', 92.6 ],
+            ['2012', '5413','total entering full-time degree seeking students in 2012', 91.4 ],
+            ['2013', '5298','total entering full-time degree seeking students in 2013', 92.8 ],
+            ['2014', '5403','total entering full-time degree seeking students in 2014', 93.8 ]
+            
+        ]);
+
+
+        var options = {
+          pointsize: 6,
+          annotations: {style: 'line'},
+          legend: {position: 'top', maxlines: 3},
+          chartarea:{left:"10%",top:"10%",width:"100%",height:"60%"},
+          title: 'freshman to sophomore retention rate',
+          textstyle: { color: '#333', fontname: 'pt sans', fontsize: '12'},
+          titletextstyle: { color: '#660000', fontname: 'pt sans', fontsize: '14'},
+          chartarea: { left:"10%", top:"10%", width:"100%", height:"60%"},
+          haxis: {
+            // title: 'year',  
+            titletextstyle: {color: '#333' }, 
+            textstyle: { color: '#333', fontname: 'pt sans', fontsize: '12'},
+            },
+            tooltip: {
+            titletextstyle: {color: '#333' }, 
+            textstyle: { color: '#333', fontname: 'pt sans', fontsize: '14'},
+            },
+          vaxis: {
+            format: "#,###'%'",
+            textstyle: { color: '#333', fontname: 'pt sans', fontsize: '12'},
+            viewwindow: {
+              max:100,
+              min:0
+            },
+        },         
+
+        colors: ['#660000',]
+        
+        };
+
+        function resize () {
+        var chart = new google.visualization.areachart(document.getelementbyid('retention_div'));
+        chart.draw(data, options);
+      }
+
+        window.onload = resize();
+        window.onresize = resize;
+
+      } student achievement measure the student achievement measure is a newer standard that is intended to offer a more realistic picture of student progress and completion by including transfer students, part-time students, full-time students, and the outcomes of students who enroll in multiple institutions. .g{width: 100%; color: red; display: none;} //graph
+
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setonloadcallback(drawchart);
+      function drawchart() {
+        // var data = google.visualization.arraytodatatable([
+        //   ['year', 'percentage'],
+        //   ['2006', 90],
+        //   ['2007', 88],
+        //   ['2008', 89],
+        // ]);
+
+
+        var data = new google.visualization.datatable();
+        data.addcolumn('string', 'year'); // implicit domain label col.
+        data.addcolumn({type:'string', role:'annotation'}); // annotation role col.
+        data.addcolumn({type:'string', role:'annotationtext'}); // annotationtext col.
+        data.addcolumn('number', 'percentage graduated from virginia tech or another institution within 6 years'); // implicit series 1 data col.
+        data.addrows([
+            ['2006', '5082','total entering full-time degree seeking students in 2006' , 90 ],
+            ['2007', '5119','total entering full-time degree seeking students in 2007' , 88 ],
+            ['2008', '5456','total entering full-time degree seeking students in 2008' , 89 ],
+            ['2009', '5042','total entering full-time degree seeking students in 2009' , 88 ]
+            
+        ]);
+
+        var options = {
+          pointsize: 6,
+           annotations: {style: 'line'},
+          legend: {position: 'top', maxlines: 3},
+          chartarea:{left:"10%",top:"10%",width:"100%",height:"60%"},
+          title: 'student achievement measure',
+          textstyle: { color: '#333', fontname: 'pt sans', fontsize: '12'},
+          titletextstyle: { color: '#660000', fontname: 'pt sans', fontsize: '14'},
+          chartarea: { left:"10%", top:"10%", width:"100%", height:"60%"},
+          haxis: {
+            // title: 'year',  
+            titletextstyle: {color: '#333' }, 
+            textstyle: { color: '#333', fontname: 'pt sans', fontsize: '12'},
+            },
+            tooltip: {
+            titletextstyle: {color: '#333' }, 
+            textstyle: { color: '#333', fontname: 'pt sans', fontsize: '14'},
+            },
+          vaxis: {
+            format: "#,###'%'",
+            textstyle: { color: '#333', fontname: 'pt sans', fontsize: '12'},
+            viewwindow: {
+              max:100,
+              min:0
+            },
+        },    
+
+        colors: ['#660000']
+        
+        };
+
+
+
+        function resize () {
+        var chart = new google.visualization.areachart(document.getelementbyid('achieve_div'));
+        chart.draw(data, options);
+      }
+
+        window.onload = resize();
+        window.onresize = resize;
+
+      } student fee report year the amount of the student activity fee for a given year supports the operation, maintenance, and debt service expenditures for student engagement and campus life and also supports various student organization programming activities as determined by the student budget board. visit the university controller page if you would like more information, the state council of higher educations tuition and fee reports can be found on their reports page, here. if you would like more information on virginia tech’s tuition and fees, visit the bursar’s website here. get directions see all locations contact virginia tech university status principles of community privacy statement acceptable use we remember university libraries accessibility consumer information stop abuse policies equal opportunity wvtf university bookstore jobs at virginia tech strategic plan © 2021 virginia polytechnic institute and state university. all rights reserved.

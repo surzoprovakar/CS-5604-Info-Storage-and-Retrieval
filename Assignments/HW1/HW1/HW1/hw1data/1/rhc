@@ -1,0 +1,1264 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Roy H Campbell
+ | Computer Science | UIUC</title>
+		<link rel="shortcut icon" type="image/x-icon" href="//ws.engr.illinois.edu/images/favicon.ico">
+
+		<meta name="description" content="Roy H Campbell
+">
+		<meta name="author" content="Grainger Engineering Office of Marketing and Communications">
+
+		<!-- meta tags for mobile devices -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">  
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+				<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="26be7d61-2017-4ea7-8a8b-8f1704889763"></script>
+		<script type="text/javascript"> function OptanonWrapper() { } </script>
+
+		<meta property="og:type" content="article" />
+<meta property="og:title" content="Roy H Campbell
+" />
+<meta property="og:description" content="Roy H Campbell
+" />
+<meta property="og:url" content="https://cs.illinois.edu/about/people/all-faculty/*" />
+<meta property="og:image" content="https://ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=12050" />
+
+
+		<!-- fonts -->
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i,900,900i%7cBarlow+Condensed%7cPlayfair+Display%7cMontserrat:400,500,600,700,800%7cFjalla+One%7cLexend+Exa%7cMontserrat+Alternates:400,700">
+		<script src="https://kit.fontawesome.com/64a62210ef.js"></script>
+
+		<!-- stylesheets -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.5/css/responsive.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://ws.engr.illinois.edu/sitemanager/gensite.css?v=2.671.281">
+		<link rel="stylesheet" type="text/css" href="/css/styles.css?v=0.19">
+
+				<!-- Global site tag (gtag.js) - Google Ads: 1011414001 -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1011414001"></script>
+		<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-1011414001'); </script> 
+		<!-- Event snippet for Outbound Google Ads click conversions -->
+		<script> function gtag_report_conversion(url) {var callback = function () {if (typeof(url) != 'undefined') {window.location = url;}};gtag('event', 'conversion', {'send_to': 'AW-1011414001/YNxnCM-1kfMBEPHno-ID','event_callback': callback});return false;} </script>
+		
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	</head>
+
+	<body class="site prod about people all-faculty rhc  isattop theme_dagobah" data-sidebar="" data-sidebarskip="[sidebarskip]" data-sidebarinclude="[sidebarinclude]">
+		<div id="page">
+			
+			<header>
+				<div id="skiptocontent"><a href="#content">skip to main content</a></div>
+
+				<div class="container-fluid campus">
+					<div class="row mx-auto maxwidth1140">
+						<div class="col p-0">
+							<a href="http://illinois.edu/"><span>University of Illinois Urbana-Champaign</span></a>
+						</div>
+						<div id="featurelinks" class="col p-0 text-right">
+							<ul>
+	<li><a href="/alumni">Alumni</a></li>
+	<li><a href="/corporate">Corporate</a></li>
+       <li><a href="/about/people">People</a></li>
+	<li><a href="https://my.cs.illinois.edu">My.CS</a></li>
+</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="container-fluid site">
+					<div class="row wordmark d-flex flex-nowrap align-items-center">
+						<div class="d-flex flex-fill pr-3">
+							<div class="blocki"><a href="https://illinois.edu">University of Illinois at Urbana-Champaign</a></div>
+							<div class="site_identification">
+								<div class="parent_name"><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a></div>
+								<div class="site_name"><a href="/"><span>Computer Science</span></a></div>
+							</div>
+						</div>
+
+						<div class="d-flex align-items-center">
+							<div id="header-search-container" class="d-none d-lg-block site-search">
+								<form class="form-inline" method="get" action="/search" id="search-form">
+									<div class="input-group">
+										<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="header-search-go-button">
+										<div class="input-group-append">
+											<a href="/search" onclick="$('#header-search-container form').submit(); return false;" class="input-group-text" id="header-search-go-button"><i class="far fa-search"></i><span class="sr-only">Search</span></a>
+										</div>
+									</div>
+								</form>	
+							</div>
+
+							<div id="mainnav-toggler-container">
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainnav" aria-controls="mainnav" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="icon"></span> <span class="label sr-only">Menu</span>
+								</button>
+							</div>
+						</div>
+					</div>
+					<nav class="navbar navbar-expand-lg p-0">
+<div class="collapse navbar-collapse" id="mainnav">
+<form class="d-block d-lg-none" method="get" action="/search" id="mobile-search-form">
+<div class="form-row p-3">
+<div class="col">
+<div class="input-group">
+<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="mobile-search-go-button">
+<div class="input-group-append">
+<a href="/search" onclick="$('#mobile-search-form').submit(); return false;" class="input-group-text" id="mobile-search-go-button"><i class="far fa-search" aria-hidden="true"></i><span class="sr-only">Search</span></a>
+</div>
+</div>
+</div>
+</div>
+</form>
+<ul class="navbar-nav w-100">
+<li class="dropdown mega twocol nav-item">
+<a href="/about" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>About</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-about">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/about">About</a></h2>
+<ul class="about ">
+<li><a href="/about/cs-cares">CS CARES Committee</a></li>
+<li><a href="/about/values">Values & Code of Conduct</a></li>
+<li><a href="/about/statistics">Rankings & Statistics</a></li>
+<li><a href="/about/contact-us">Contact Us & Directions</a></li>
+<li class="dropdown"><a href="/about/people">People</a><ul class="people ">
+<li><a href="/about/people/all-faculty">All Faculty</a></li>
+<li><a href="/about/people/department-faculty">Department Faculty</a></li>
+<li><a href="/about/people/affiliate-faculty">Affiliate Faculty</a></li>
+<li><a href="/about/people/adjunct-faculty">Adjunct Faculty</a></li>
+<li><a href="/about/people/postdocs">Postdocs</a></li>
+<li><a href="/about/people/emeritus-faculty">Emeritus Faculty</a></li>
+<li class="dropdown"><a href="/about/people/staff">Staff</a><ul class="staff ">
+<li><a href="/about/people/staff/office-department-head">Office of the Department Head</a></li>
+<li><a href="/about/people/staff/communications-engagement-team">Communications &amp; Engagement Team</a></li>
+<li><a href="/about/people/staff/undergraduate-advising-office">Undergraduate Advising Office</a></li>
+<li><a href="/about/people/staff/graduate-advising-office">Graduate Advising Office</a></li>
+<li><a href="/about/people/staff/instructional-development-team">Instructional Development Team</a></li>
+<li><a href="/about/people/staff/business-office">Business Office</a></li>
+<li><a href="/about/people/staff/faculty-support-contacts">Faculty Support Contacts</a></li>
+<li><a href="/about/people/staff/facilities-shipping-and-receiving">Facilities, Shipping and Receiving</a></li>
+</ul>
+</li>
+<li><a href="/about/people/graduating-phd-students">Graduating PhD Students</a></li>
+<li><a href="/about/people/recent-phd-alumni">Recent PhD Alumni</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/positions">Open Positions</a><ul class="positions ">
+<li><a href="/about/positions/faculty-positions">Faculty Positions</a></li>
+<li><a href="/about/positions/postdoctoral">Postdoctoral Positions</a></li>
+<li><a href="/about/positions/staff-positions">Staff Positions</a></li>
+<li><a href="/about/positions/choose-illinois-computer-science">Choose Illinois Computer Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/calendar">Calendar</a><ul class="calendar ">
+<li><a href="/about/calendar/all">All Events</a></li>
+<li><a href="/about/calendar/corporate">Corporate Events</a></li>
+<li><a href="/about/calendar/department">Department Events</a></li>
+<li><a href="/about/calendar/graduate">Graduate Events</a></li>
+<li><a href="/about/calendar/outreach">Outreach Events</a></li>
+<li><a href="/about/calendar/speakers">Speakers</a></li>
+<li><a href="/about/calendar/student-groups">Student Group Events</a></li>
+<li><a href="/about/calendar/undergraduate">Undergraduate Events</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards">Awards</a><ul class="awards ">
+<li><a href="/about/awards/celebration">Celebration of Excellence</a></li>
+<li class="dropdown"><a href="/about/awards/faculty-awards">Faculty Awards</a><ul class="faculty-awards ">
+<li><a href="/about/awards/faculty-awards/chairs-and-professorships">Chairs and Professorships</a></li>
+<li><a href="/about/awards/faculty-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/faculty-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards/undergraduate-scholarships-awards">Undergraduate Scholarships &amp; Awards</a><ul class="undergraduate-scholarships-awards ">
+<li><a href="/about/awards/undergraduate-scholarships-awards/shieh-li-scholarship">Ruey-Feng Shieh Li Family Scholarship</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/graduate-fellowships-awards">Graduate Fellowships &amp; Awards</a></li>
+<li class="dropdown"><a href="/about/awards/alumni-awards">Alumni Awards</a><ul class="alumni-awards ">
+<li><a href="/about/awards/alumni-awards/alumni-awards-past-recipients">Alumni Awards Past Recipients</a></li>
+<li><a href="/about/awards/alumni-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/alumni-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/staff-awards">Staff Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/history-timeline">History Timeline</a></li>
+<li><a href="/about/accreditation">Accreditation</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/admissions" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Admissions</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-admissions">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/admissions">Admissions</a></h2>
+<ul class="admissions ">
+<li class="dropdown"><a href="/admissions/undergraduate">Undergraduate Admissions</a><ul class="undergraduate ">
+<li><a href="https://admissions.illinois.edu/apply">Apply Now</a></li>
+<li><a href="/academics/undergraduate/degree-program-options">Degree & Program Options</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/dates">Application Deadlines</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/process">Applications Process & Requirements</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+<li><a href="https://www.housing.illinois.edu">Housing</a></li>
+<li><a href="/about-us/accreditation">Accreditation</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/admissions/graduate">Graduate Admissions</a><ul class="graduate ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+<li class="dropdown"><a href="/admissions/graduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/admissions/graduate/degree-program-options/professional-master-computer-science-mcs-program">Professional Master of Computer Science (MCS) Program</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-deadlines">Application Deadlines</a></li>
+<li class="dropdown"><a href="/admissions/graduate/applications-process-requirements">Applications Process &amp; Requirements</a><ul class="applications-process-requirements ">
+<li><a href="/admissions/graduate/applications-process-requirements/additional-required-application-materials">Additional Required Application Materials for International Students</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/application-fee-waivers">Application Fee Waivers</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/data-structures-proficiency-exam">Data Structures Proficiency Exam</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-checklist">Application Checklist</a></li>
+<li class="dropdown"><a href="/admissions/graduate/faqs">FAQs</a><ul class="faqs ">
+<li><a href="/admissions/graduate/faqs/ican-faqs">iCAN FAQs</a></li>
+<li><a href="/admissions/graduate/faqs/online-mcs-faqs">Online MCS FAQs</a></li>
+</ul>
+</li>
+<li><a href="https://choose.illinois.edu/apply/">Check Application Status</a></li>
+</ul>
+</li>
+<li><a href="/admissions/impact-illinois-cs-degree">Impact of an Illinois CS Degree</a></li>
+<li><a href="/admissions/financial-aid">Financial Aid</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/academics" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Academics</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-academics">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/academics">Academics</a></h2>
+<ul class="academics ">
+<li class="dropdown"><a href="/academics/undergraduate">Undergraduate Academics</a><ul class="undergraduate ">
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/academics/undergraduate/degree-program-options/bs-computer-science">B.S. in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-mathematics-computer-science">B.S. in Mathematics &amp; Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-statistics-computer-science">B.S. in Statistics &amp; Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs">CS + X Degree Programs</a><ul class="cs-x-degree-programs ">
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-advertising">Computer Science + Advertising</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-animal-sciences">Computer Science + Animal Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-anthropology">Computer Science + Anthropology</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-astronomy">Computer Science + Astronomy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-chemistry">Computer Science + Chemistry</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-crop-sciences">Computer Science + Crop Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-economics">Computer Science + Economics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-geography">Computer Science + Geography &amp; Geographic Information Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-linguistics">Computer Science + Linguistics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-music">Computer Science + Music</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-philosophy">Computer Science + Philosophy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/cs-x-degree-requirements">CS + X Degree Requirements &amp; Planning Forms</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-undergraduate-degree-options-faq">CS Undergraduate Degree Options FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/registration">Registration</a><ul class="registration ">
+<li><a href="/academics/undergraduate/registration/cs-course-restrictions-enrollment-caps">CS Course Restrictions &amp; Enrollment Caps</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/policies-and-procedures">Policies and Procedures</a></li>
+<li><a href="/academics/undergraduate/undergraduate-advising">Undergraduate Advising</a></li>
+<li><a href="/academics/undergraduate/cs-student-opportunity-series-cs-sos">CS Student Opportunity Series (CS SOS)</a></li>
+<li><a href="/academics/undergraduate/undergraduate-forms">Undergraduate Forms</a></li>
+<li><a href="/academics/undergraduate/honors">Honors</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate">Graduate Academics</a><ul class="graduate ">
+<li class="dropdown"><a href="/academics/graduate/phd-program">PhD Program</a><ul class="phd-program ">
+<li><a href="/academics/graduate/phd-program/final-exam-thesis-defense">Final Exam (Thesis Defense)</a></li>
+<li><a href="/academics/graduate/phd-program/guidelines-forming-phd-committee">Guidelines for Forming Ph.D. Committee</a></li>
+<li><a href="/academics/graduate/phd-program/phd-ms-thesis-format-review-guidelines">Ph.D. / M.S. Thesis Format Review Guidelines</a></li>
+<li><a href="/academics/graduate/phd-program/phd-program-study-process">PhD Program of Study Process</a></li>
+<li><a href="/academics/graduate/phd-program/phd-requirements">PhD Requirements</a></li>
+<li><a href="/academics/graduate/phd-program/phd-time-limits-milestones">PhD Time Limits &amp; Milestones</a></li>
+<li><a href="/academics/graduate/phd-program/preliminary-exam">Preliminary Exam</a></li>
+<li><a href="/academics/graduate/phd-program/qualifying-exam">Qualifying Exam</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/ms-program">MS Program</a></li>
+<li><a href="/academics/graduate/ms-bioinformatics-program">MS in Bioinformatics Program</a></li>
+<li class="dropdown"><a href="/academics/graduate/professional-mcs">Professional Master of Computer Science</a><ul class="professional-mcs ">
+<li><a href="/academics/graduate/professional-mcs/campus-master-computer-science">On-Campus Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science">Online Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science-data-science">Online Master of Computer Science in Data Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/fifth-year-masters-programs">Fifth Year Master's Programs</a><ul class="fifth-year-masters-programs ">
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-mcs-program">5-year BS-MCS Program</a></li>
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-ms-program">5-year BS-MS Program</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">Illinois Computing Accelerator for Non-Specialists (iCAN)</a><ul class="ican ">
+<li><a href="/academics/graduate/ican/application-process">iCAN Application Process</a></li>
+<li><a href="/academics/graduate/ican/curriculum">iCAN Curriculum</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources">Graduate Forms &amp; Advising Resources</a><ul class="graduate-forms-advising-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/epi-exam-requirements">EPI Exam Requirements</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-advising-contacts">Graduate Advising Contacts</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-student-annual-evaluation-process">Graduate Student Annual Evaluation Process</a></li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources">New Graduate Student Resources</a><ul class="new-graduate-student-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/mcs-campus">MCS On-Campus General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/ms-general">MS General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/phd-general">PhD General Advising for Registration</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/official-forms">Official Forms</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/academics/courses">Courses</a></li>
+<li><a href="/academics/honor-code">Honor Code</a></li>
+<li><a href="https://cs.illinois.edu/student-life/student-resources">Student Resources</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/student-life" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Student Life</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-student-life">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41390_8405" data-pageid="41390" data-tileid="8405" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=55621);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Salesforce's CodeT5 System Can Understand and Generate Code</h2>
+			<div class="description"></div>
+			<p><a href="/news/salesforces-codet5-system-can-understand-and-generate-code" class="button" title="Salesforce's CodeT5 System Can Understand and Generate Code">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 7, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/student-life">Student Life</a></h2>
+<ul class="student-life ">
+<li><a href="/student-life/overview-cs-student-life">Overview of CS Student Life</a></li>
+<li><a href="/student-life/student-organizations">Student Organizations</a></li>
+<li><a href="/student-life/department-college-and-campus-events">Department, College, and Campus Events</a></li>
+<li><a href="/student-life/student-resources">Student Resources</a></li>
+<li><a href="/student-life/career-services">Career Services</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/research" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Research</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-research">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Explore visionary research conducted by world-renowned faculty.</h2>
+<p><a class="orange button" href="/research/areas">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/research">Research</a></h2>
+<ul class="research ">
+<li class="dropdown"><a href="/research/areas">Research Areas</a><ul class="areas ">
+<li><a href="/research/areas/architecture-compilers-and-parallel-computing">Architecture, Compilers, and Parallel Computing</a></li>
+<li><a href="/research/areas/artificial-intelligence">Artificial Intelligence</a></li>
+<li><a href="/research/areas/bioinformatics-and-computational-biology">Bioinformatics and Computational Biology</a></li>
+<li><a href="/research/areas/computers-and-education">Computers and Education</a></li>
+<li><a href="/research/areas/data-and-information-systems">Data and Information Systems</a></li>
+<li><a href="/research/areas/interactive-computing">Interactive Computing</a></li>
+<li><a href="/research/areas/programming-languages-formal-methods-and-software-engineering">Programming Languages, Formal Methods, and Software Engineering</a></li>
+<li><a href="/research/areas/scientific-computing">Scientific Computing</a></li>
+<li><a href="/research/areas/security-and-privacy">Security and Privacy</a></li>
+<li><a href="/research/areas/systems-and-networking">Systems and Networking</a></li>
+<li><a href="/research/areas/theory-and-algorithms">Theory and Algorithms</a></li>
+</ul>
+</li>
+<li><a href="/research/technical-conferences-workshops">Technical Conferences &amp; Workshops</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+<li><a href="/corporate#research">Corporate Partners</a></li>
+<li><a href="https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=3146">Illinois CS Research Overview</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/broadening-participation-computing" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Broadening Participation</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-broadening-participation-computing">
+<section class="tile w50 white-box py-5 marketing">
+<p class="mb-0"><img src="//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=16163&s=375" class="image" alt="" width="375" /></p>
+<p style="padding: 10px 15px 0px 15px;">New certificate program for college graduates who want a deeper understanding of computers, algorithms, and programming.</p>
+<p><a class="orange button" href="/ican">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/broadening-participation-computing">Broadening Participation</a></h2>
+<ul class="broadening-participation-computing ">
+<li><a href="https://drive.google.com/file/d/12vDswb1i-mEXaXgVt7FOhtqYs7b8F_1p/view">BPC Departmental Plan</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs">BPC Programs & Activities for Students</a><ul class="programs ">
+<li><a href="/broadening-participation-computing/programs/csambassadors">CS Student Ambassador/Research Scholars (CS STARS)</a></li>
+<li><a href="/broadening-participation-computing/programs/cskickstart">Illinois CS Kickstart</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs/ai4all">AI4ALL</a><ul class="ai4all ">
+<li><a href="http://go.cs.illinois.edu/DiscoverAI">Apply Now</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">iCAN</a><ul class="ican ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+</ul>
+</li>
+<li><a href="http://cs.illinois.edu/research/summer-research-experience-undergraduates">Summer Research Experience for Undergraduates</a></li>
+</ul>
+</li>
+<li><a href="/broadening-participation-computing/resources">BPC Resources</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/cross-cutting">Cross-Cutting Educational Activities</a><ul class="cross-cutting ">
+<li><a href="/broadening-participation-computing/cross-cutting/conferences-workshops">BPC Conferences & Workshops</a></li>
+<li><a href="/broadening-participation-computing/cross-cutting/ca-training">Course Assistant Training</a></li>
+<li><a href="https://cs.illinois.edu/news/featured-lectures#equity-justice">Equity & Justice in Computing Seminar Series</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/broadening-participation-computing/k-12">K-12 Outreach & Resources</a><ul class="k-12 ">
+<li><a href="/broadening-participation-computing/k-12/k-12-outreach">K-12 Outreach Programs</a></li>
+<li><a href="/broadening-participation-computing/k-12/k-12-resources">K-12 Resources</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/student-life/student-organizations">Student Organizations</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/news" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>News</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-news">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41391_5367" data-pageid="41391" data-tileid="5367" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=51204);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging</h2>
+			<div class="description"><p>The Defense Advanced Research Projects Agency (DARPA) has awarded $5.8 million to a team, led by Illinois CS's <a href="/about/people/faculty/zaher">Tarek Abdelzaher</a>, that will work to characterize how different foreign populations respond to influence campaigns as a first step towards development of effective countermeasures.</p></div>
+			<p><a href="/news/abdelzaher-leading-DARPA-effort-understand-how-people-respond-influence-messaging" class="button" title="Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 8, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/news">News</a></h2>
+<ul class="news ">
+<li><a href="/news">Department News</a></li>
+<li><a href="/news/features">Feature Stories</a></li>
+<li><a href="/news/covid-19-projects">COVID-19 Projects</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/news/media-coverage">Media Coverage</a></li>
+<li><a href="/news/e-news">E-News</a></li>
+<li><a href="/news/impact-report-publications">Impact Report &amp; Publications</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/give" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Give</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-give">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Help ensure that Illinois continues to set a global standard for CS research and education.</h2>
+<p><a class="orange button" href="/give/give-now">Make a Gift</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/give">Give</a></h2>
+<ul class="give ">
+<li><a href="/give/give-now">Give Now</a></li>
+<li><a href="/give/ways-give">Ways to Give</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/give/computer-science-visionary-scholarship-donors">Computer Science Visionary Scholarship Donors</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+</ul>
+</div>
+</nav>
+
+				</div>
+			</header>
+
+			<div id="content">
+				<main>
+					<div  id="hero" class="container-fluid">
+						<div class="row maxwidth1140">
+							<div class="col">
+								<div>
+									<nav id="breadcrumbs"><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/about/people">People</a></li><li><a href="/about/people/all-faculty">All Faculty</a></li></ul></nav>
+									<h1>Roy H Campbell
+</h1>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					
+
+					<div id="content_inner" class="container-fluid">
+						<div class="tile-list">
+							<section class="tile w100 white-box   py-5 " id="tile6806" data-tileid="6806" >
+	<div class="lower  maxwidth1140   " id="lower6806">
+		<div class="row">
+			<div class="col-md column1      " >
+				<div>	<div class="directory-profile maxwidth800" id="article_[postid]">
+		<figure class="image align-right ">
+			<img alt="Roy H Campbell" title="Roy H Campbell" src="//ws.engr.illinois.edu/directory/viewphoto.aspx?id=4988&s=300&type=portrait" />
+			<figcaption>Roy H Campbell</figcaption>
+		</figure>
+
+		<!--<h2>Roy H Campbell</h2>-->
+		<div class="roles">
+			
+			<div><div class="role cat7 primary">
+<div class="title"><strong>Sohaib and Sara Abbasi Professor Emeritus</strong></div>
+<!--<div class="groups"></div>-->
+<div class="phone"></div>
+<div class="email"><a href="mailto:rhc@illinois.edu">rhc@illinois.edu</a></div>
+<div class="office"> </div>
+</div>
+</div>
+		</div>
+
+		<h2>For more information</h2>
+<ul>
+<li><a href="http://srg.cs.illinois.edu">Research Web Site</a></li>
+<li><a href="http://cs.illinois.edu/people/faculty/roy-campbell">Roy H. Campbell's home page</a></li>
+</ul>
+
+		
+		<h2>Education</h2>
+<ul>
+<li>Ph.D., Computer Science, University of Newcastle upon Tyne, May 1977</li>
+</ul>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<h2>Research Interests</h2>
+<ul>
+<li>Problems and techniques of complex computer system organization and software engineering including: cloud computing, software development environments, operating systems, distributed and parallel systems, object-oriented design, networks, real-time systems, programming language design, verification, reliability, abstract data types, synchronization, data bases, security, digital forensics, fault tolerant systems, compilers, machine architecture, digital video and audio networking.</li>
+</ul>
+
+		
+		
+		<div class="extProfileAREA">
+			<h2>Research Areas</h2>
+<ul>
+<li><a href="https://cs.illinois.edu/research/systems-and-networking">Distributed Systems</a></li>
+<li><a href="https://cs.illinois.edu/research/systems-and-networking">Networking</a></li>
+<li><a href="https://cs.illinois.edu/research/systems-and-networking">Operating Systems</a></li>
+<li><a href="https://cs.illinois.edu/research/areas/security-and-privacy">Security and Privacy</a></li>
+<li><a href="http://cs.illinois.edu/research/areas/systems-and-networking">Systems and Networking</a></li>
+</ul>
+
+		</div>
+		
+		
+		
+		
+		<h2>Books Edited or Co-Edited (Original Editions)</h2>
+<ul>
+<li>Roy H. Campbell, Charles A. Kamhoua and Kevin A. Kwiat, "Assured Cloud Computing," Wiley-IEEE Computer Society Pr., ISBN 978-1-119-42863-3, Jul 2018</li>
+</ul>
+
+		
+		
+		
+		<h2>Selected Articles in Journals</h2>
+<ul>
+<li><a href="https://doi.org/10.1002/ana.25431">S Bandres&#8208;Ciga, AJ Noyce, G Hemani, A Nicolas, A Calvo, G Mora, ...,  "Shared polygenic risk and causal inferences in amyotrophic lateral sclerosis,"  Annals of neurology 85 (4), 470-481, 2019</a></li>
+<li><a href="https://doi.org/10.1371/journal.pone.0218942">Y.W. Lin, Y. Zhou, F. Faghri, M.J. Shaw, R.H. Campbell,  "Analysis and prediction of unplanned intensive care unit readmission using recurrent neural networks with long short-term memory," PloS one 14 (7), e0218942, 2019</a></li>
+<li>S.A. Jyothi, S.H. Hashemi, R.H. Campbell, B. Godfrey, "Towards An Intent-Aware Network Interface for Cloud Applications," Network, 2019</li>
+<li><a href="https://doi.org/10.1016/j.chaos.2020.110140">S. Basu, R. H. Campbell, "Going by the numbers: Learning and modeling COVID-19 disease dynamics," Chaos, Solitons & Fractals 138, 110140, 2020</a></li>
+<li>Nicolas, Aude, Kenna, Kevin P, Renton, Alan E, Ticozzi, Nicola, Faghri, Faraz, Chia, Ruth,..  "Genome-wide Analyses Identify KIF5A as a Novel ALS Gene," Neuron, Cell Press, 97, 6, 1268-1283.e6, 2018</li>
+<li>Cornelis Blauwendraat, Faraz Faghri, Lasse Pihlstrom, Joshua T Geiger, Alexis Elbaz...,  "NeuroChip, an updated version of the NeuroX genotyping platform to rapidly screen for variants associated with neurological diseases," Journal: Neurobiology of Aging, Elsevier, 2017 </li>
+<li>Qiaomin Xie, Mayank Pundir, Yi Lu, Cristina L. Abad, Roy Campbell"Pandas: Robust Locality-Aware Scheduling with Stochastic Delay Optimality," IEEE/ACM Transactions on Networking, 2016, pp 1-12</li>
+<li>Zachary  D. Stephens, Skyler Y.  Lee, Faraz Faghri, Roy H. Campbell, Chengxiang Zhai, Miles J. Efron MJ, Ravishankar Iyer, Michael C. Schatz, Saurabh Sinha, Gene E. Robinson. (2015) Big Data: Astronomical or Genomical? PLoS Biol 13(7): e1002195. doi:10.1371/journal.pbio.1002195, July 7, 2015</li>
+<li>Abhishek Verma, Ludmila Cherkasova, Roy H. Campbell, "Profiling and evaluating hardware choices for MapReduce environments: An application-aware approach", <em> Perfom. Eval. 79:</em> 2014, pages 328-344.</li>
+<li>Mirko Montanari, Ellick Chan, Kevin Larson, Wurcherl Yoo, and Roy H. Campbell, "Distributed Security Policy Conformance", <em>Computers & Security</em>, Volume 33, March 2013, pages 28-40.</li>
+<li>Abhishek Verma, Brian Cho, Nicolas Zea, Indranil Gupta, and Roy H. Campbell, "Breaking the MapReduce Stage Barrier", <em>Cluster Computing</em>, volume 16, issue 1, March 2013, Pages 191-206.</li>
+<li>Mirko Montanari, Ellick Chan, Kevin Larson, Wucherl Yoo, and Roy H. Campbell, "Distributed Security Policy Conformance", <em>Computers & Security</em>, volume 33, March 2013, pages 28-40.</li>
+<li>Cristina L. Abad, Mindi Yuan, Chris X. Cai, Yi Lu, Nathan Roberts, and Roy H. Campbell, "Generating Request Streams on Big Data using Clustered Renewal Processes", <em>Performance Evaluation</em>, volume 70, issue 10, October 2013, pages 704-719.</li>
+<li>Abhishek Verma, Ludmila Cherkasova, and Roy H. Campbell, "Orchestrating an Ensemble of MapReduce Jobs for Minimizing Their Makespan", <em>IEEE Transactions on Dependable and Secure Computing</em>, volume 10, issue 5, September-October 2013, pages 314-327.</li>
+<li>Roy H. Campbell, Mirko Montanari, and Reza Farivar, "A Middleware for Assured Clouds", <em>Journal of Internet Services and Applications</em>, volume 3, issue 1, May 2012, pages 87-94.</li>
+<li>Mohamed Bakhouya, Roy H. Campbell, Antonio Coronato, Giuseppe de Pietro, and Anand Ranganathan, "Introduction to Special Section on Formal Methods in Pervasive Computing", <em>ACM Transactions on Autonomous and Adaptive Systems (TASS)</em>, volume 7, issue 1, April 2012, article 6.</li>
+<li>Jadwiga Indulska, Claudio Bettini, Roy H. Campbell, and Cecilia Mascolo, Editorial, "Pervasive and Mobile Computing",&#160; <em>Ninth Annual IEEE International Conference on Pervasive Computing and Communications (PerCom 2011)</em>, volume 7, issue 6, December 2011, pages 641-642.</li>
+<li>Kyungtae Kang, Won Jong Jeon, Kyung-Joon Park, Roy H. Campbell, Klara Nahrstedt, "Cross-Layer Quality Assessment of Scalable Video Services on Mobile Embedded Systems", <em>IEEE Transactions on Mobile Computing</em>, volume 9, October 2010, pages 1478-1490.</li>
+<li>Arutyan Avetisyan, Roy H. Campbell, Indranil Gupta, Michael T. Heath, Steven Y. Ko, Gregory R. Ganger, Michael A. Kozuch, David R. O'Hallaron, Marcel Kunze, Thomas T. Kwan, Kevin Lai, Martha Lyons, Dejan S. Milojicic, Hing Yan Lee, Yeng Chai Soh, Ng Kwang Ming, Jing-Yuan Luke, Han Namgoong, "Open Cirrus: A Global Cloud Computing Testbed", <em>IEEE </em><em>Computer</em>, volume 43, number 4, April 2010, pages 35-43.</li>
+<li>Zahid Anwar, Mirko Montanari, Alejandro Gutierrez, and Roy H. Campbell, Budget constrained optimal security hardening of control networks for critical cyber-infrastructures, International Journal of Critical Infrastructure Protection, Volume 2, Issue 1-2, Elsevier, May 2009.</li>
+<li>A. Ranganathan and R. H. Campbell, "What is the complexity of a distributed computing system?" <em>Complexity</em>, vol. 12, pp. 37-45, 2007.</li>
+<li>C. S. Shankar, A. Ranganathan, and R. H. Campbell, "Towards fault tolerant pervasive computing," <em>Technology and Society Magazine,</em> IEEE, vol. 24, pp. 38-44, 2005.</li>
+<li>Anand Ranganathan, Chetan Shankar, and Roy Campbell, "Application Polymorphism for Autonomic Ubiquitous Computing," <em>An International Journal, </em>V 1:2/2005, IOS Press (PDF).</li>
+<li>Fabio Kon, Jeferson Roberto Marques, Tomonori Yamane, Roy H. Campbell, and M. Dennis Mickunas,  "Design, Implementation, and Performance of an Automatic Configuration Service for Distributed component Systems," in <em>Software Practice and Experience</em>, V 35:7, pp. 667-703, John Wiley & Sons, Inc. Publisher, May 2005.</li>
+<li>Anand Ranganathan, Jalal Al-Muhtadi, Roy H. Campbell,  Reasoning about Uncertain Contexts in Pervasive Computing Environments, In IEEE Pervasive Computing Magazine, V 3:2, pp. 62-70, April-June 2004.</li>
+<li>Anand Ranganathan, Robert E. McGrath, Roy H. Campbell, M. Dennis Mickunas,  Use of Ontologies in Pervasive Computing Environment, In The Knowledge Engineering Review, V 18:3, pp. 209-220,  Cambridge University Press, 2004.</li>
+<li>Hess, C.K. and R.H. Campbell,  An application of a context-aware file system. Pers. Ubiquit. Comput., 2003. 7: p. 339-352.</li>
+<li>Ranganathan, A. and R.H. Campbell,  An Infrastructure for Context-awareness based on First Order Logic. Personal and Ubiquitous Computing, 2003. 7: p. 353-364.</li>
+<li>Zhaoyu Liu, Roy H. Campbell, M. Dennis Mickunas,  Active Security Support for Active Networks, IEEE Transactions on Systems, Man and Cybernetics - PARTC:  Applications and Reviews, Vol. 33, No. 4, pp. 432-445, November 2003.</li>
+<li>Al-Muhtadi, J., D. Mickunas, and R. Campbell,  A Lightweight Reconfigurable Security Mechanism for 3G Mobile Devices. IEEE Wireless Communications Magazine, 2002. 9(2).</li>
+<li>Ranganathan, A., R.H. Campbell, A. Ravi, and A. Mahajan,  ConChat:  A Context-Aware Chat Program. Pervasive Computing, Mobile and Ubiquitous Systems, 2002. 1(3): p. 51-57.</li>
+<li>Roman, M., C. Hess, R. Cerqueira, A. Ranganathan, R.H. Campbell, and K. Nahrstedt, Gaia: a middleware platform for active spaces, in ACM SIGMOBILE Mobile Computing and Communications Review. 2002, ACM: New York, USA. 6(4), p. 65-67.</li>
+<li>Roman, M., C.K. Hess, R. Cerqueira, R.H. Campbell, and K. Narhstedt, Gaia: A Middleware Infrastructure to Enable Active Spaces. IEEE Pervasive Computing, 2002. 1(4): p. 74-83.</li>
+<li>Manuel Roman, Christopher Hess, Renato Cerqueira, and Roy H. Campbell, "A Systems Approach to Ubiquitous Computing:  The Gaia Middleware Operating System," <em>IEEE Distributed Systems Online</em>, March 2002.</li>
+<li>Fabio Kon, Fabio Costa, Gordon Blair, and Roy H. Campbell, "The Case for Reflective Middleware," <em>Communications of the ACM,</em> V45; 6, pp. 33-38, June 2002.</li>
+<li>Kon, Fabio, Roy H. Campbell and Klara Nahrstedt, "Using Dynamic Configuration to Manage A Scalable Multimedia Distribution System," 24:105-123,<em> Computer Communication Journal </em>(Special Issue on QoS-Sensitive Distributed Systems and Applications)  Elsevier Science Publisher (2001).</li>
+<li>Francisco J. Ballesteros, Ricardo Jimenez, Marta Pati&#195;&#402;&#194;&#177;o, Fabio Kon, Sergio Arevalo, and Roy H. Campbell, "Using Interpreted Composite Calls to Improve Operating System Services." 30:6, pp. 589-615, <em>Software, Practice and Experience</em>, John Wiley & Sons, Inc. Publisher, May (2000).</li>
+<li>Roy H. Campbell, Zhaoyu Liu, M. Dennis Mickunas, Prasad Naldurg, and Seung Yi, "Seraphim:  Dynamic Interoperable Security Architecture for Active Networks,"<em> IEEE OPENARCH 2000</em>, Tel-Aviv, Israel, pp. 55-64, March (2000).</li>
+<li>Fabio Kon and Roy H. Campbell, "Dependence Management in Component-Based Distributed Systems," <em>IEEE Concurrency</em>,  8:1, 26-36, January-March 2000 (2000).</li>
+<li>Nayeem Islam and Roy H. Campbell, "Latest Developments in Operating Systems," Guest Editors, <em>Communications of the ACM</em>, Vol. 39, No. 9, pp. 38-87, September 1996, (1996).</li>
+<li>Nayeem Islam and Roy H. Campbell, "Uniform Co-Scheduling Using Object-Oriented Design Techniques," In <em>Journal of Parallel and Distributed Computing</em>, IEEE Computer Society Press (1995).</li>
+<li>S. Landsberger, W. D. Cizek, and R. H. Campbell, "NADA92:  An Automated, User-Friendly Program for Neutron Activation Data Analysis," <em>2nd International Symposium on Nuclear Analytical Chemistry</em>, June 3-5, 1992, in <em>Journal of Radioanalytical and Nuclear Chemistry</em>, Articles, Vol. 180, No. 1, pp. 55-63, (1994).</li>
+<li>J. W. Lockwood, H. Duan, J. J. Morikuni, S. M. Kang, S. Akkineni, R. H. Campbell, "Scalable Optoelectronic ATM Networks:  The iPOINT Fully Functional Testbed,"<em>  IEEE Journal of Lightwave Technology</em>, Accepted July 1994.  Yet to appear in May 1995 (1995).</li>
+<li>Roy H. Campbell, Nayeem Islam, David Raila, and Peter Madany, "Designing and Implementing Choices: An Object-Oriented System in C++," <em>Communications of the ACM</em>, pp. 117-126, September 1993 (1993).</li>
+<li>Roy H. Campbell and Nayeem Islam, "A Technique for Documenting the Framework of an Object-Oriented System," <em>Computing Systems</em>, 6(4), pp. 363-389, Fall 1993 (1993).</li>
+<li>Andrew Schmidt and Roy Campbell, "Internet Protocol Traffic Analysis with Applications for ATM Switch Design," <em>Computer Communication Review</em>, 23(2):39-46,  April 1993 (1993).</li>
+<li>Nayeem Islam and Roy H. Campbell, "Design Considerations for Shared Memory Multiprocessor Message Systems," submitted to the Special Issue on Measurement and Evaluation of Parallel and Distributed Systems for the <em>IEEE Transactions on Parallel and Distributed Systems</em>, 1992, (3)6:702-711, November 1992, (1992).</li>
+<li>Roy H. Campbell, Nayeem Islam, and Peter Madany, "Choices, Frameworks and Refinement," <em>Computing Systems</em>, (5)3:217-257, Summer 1992 (1992).</li>
+<li>Michael H. Comer, Michael W. Condry, Scott Cattanach, Roy Campbell, "Getting the Most for Your Megabit," <em>ACM CCR Journal</em>, pp. 5-12, July 1991 (1991).</li>
+<li>Gary J. Murakami, Roy H. Campbell, and Michael Faiman, "Pulsar:  Non-blocking Packet Switching with Shift-Register Rings," <em>ACM SIGCOMM '90 Symposium, Computer Communications Review</em>, Philadelphia, PA, Vol. 20.4, pp. 145-155, September 24-27, 1990 (1990).</li>
+<li>R. B. Terwilliger and R. H. Campbell, "ENCOMPASS: an Environment for the Incremental Development of Software," <em>Journal of Systems and Software</em>, 10(1):41-53, July 1989 (1989).</li>
+<li>R. B. Terwilliger and R. H. Campbell, "PLEASE: Executable Specifications for Incremental Software Development," <em>Journal of Systems and Software</em>, 10(2):97-112 September 1989 (1989).</li>
+<li>R. H.Campbell, G. Johnston, and V. Russo, "Choices (Class Hierarchical Open Interface for Custom Embedded Systems)," <em>ACM Operating  Systems Review</em>, 21(3):9-17 (1987).</li>
+<li>R. N. Sum Jr., R. H. Campbell and W. J. Kubitz, "An Approach to Operating System Testing,"  <em>Journal of Systems and Software</em>, V-6:273-284, 1986 (1986).</li>
+<li>A. Liestman and R. H. Campbell, "A Fault Tolerant Scheduling Problem,"<em> IEEE Transactions on Software Engineering,</em> 12(11):1089-1095, November 1986 (1986).</li>
+<li>R. H. Campbell and B. Randell, "Error Recovery in Asynchronous Systems,"<em>  IEEE Transactions on Software Engineering</em>, Vol. SE-12, No. 8, pp. 811-826, August  1986 (1986).</li>
+<li>R. H. Campbell, and W. J. Kubitz, "The Professional Workstation Project,"<em> IEEE Computer  Graphics and Applications</em>, 6(5):17-24, May 1986 (1986).</li>
+<li>P. Jalote and R. H. Campbell, "Atomic Actions for Fault-Tolerance using CSP,"<em> IEEE Transactions on Software Engineering,</em> Special Issue on Software Reliability - Part II, 12(1), January 1986 (1986).</li>
+<li>M. S. McKendry , and R. H. Campbell, "A Mechanism for Implementing Language  Support in High-Level Languages,"<em> Transactions on Software Engineering,</em> 10(3):227-236,  Orlando, Florida, May 1984 (1984).</li>
+<li>R. H. Campbell and R. B. Kolstad, "An Overview of Path Pascal's Design," <em>Sigplan Notices</em>, 15(9):15-24, September, 1980 (1980).</li>
+<li>P. E. Lauer and R. H. Campbell, "Formal Semantics of a Class of High Level Primitives for Co-ordinating Concurrent Processes," <em>Acta Informatica</em>, No. 5, pp. 297-332 (1975).</li>
+</ul>
+
+		<h2>Articles in Conference Proceedings</h2>
+<ul>
+<li><a href="https://www.usenix.org/system/files/opml19papers-hashemi.pdf">SH Hashemi, P Rausch, B Rabe, KY Chou, S Liu, V Kindratenko, ... "tensorflow-tracing: A performance tuning framework for production,"2019 {USENIX} Conference on Operational Machine Learning (OpML 19), 31-33, 2019</a></li>
+<li>Lukasz Kaiser, Mohammad Babaeizadeh, Piotr Milos, Blazej Osinski, Roy H Campbell, Konrad Czechowski, Dumitru Erhan, Chelsea Finn, Piotr Kozakowski, Sergey Levine, Ryan Sepassi, George Tucker, Henryk Michalewski,  "Model-Based Reinforcement Learning for Atari,"  arXiv preprint arXiv:1903.00374, 2019.</li>
+<li> Jyothi, Sangeetha Abdu, Hashemi, Sayed Hadi, Campbell, Roy H., and Brighton Godfrey,  "Towards An Intent-Aware Network Interface for Cloud Applications,"
+Network Volume 100, f1, 2019</li>
+<li><a href="https://scholar.google.com/scholar?oi=bibs&cluster=5309939995703706399&btnI=1&hl=en">Hashemi, Sayed Hadi, Jyothi, Sangeetha Abdu and Campbell, Roy H. "TicTac: Improving Distributed Deep Learning With Communication Scheduling," The Conference on Systems and Machine Learning (SysML Conference), 2019</a></li>
+<li><a href="https://www.ideals.illinois.edu/bitstream/2142/100335/2/bracelet.pdf">Phuong Nguyen, Steven Konstanty, Tarek Elgamal, Todd Nicholson, Stuart Turner, Patrick Su, Klara Nahrstedt,
+Timothy Spila, Roy H. Campbell, John Dallesasse, Michael Chan, Kenton McHenry, "BRACELET: Hierarchical Edge-Cloud Microservice Infrastructure for Scientific
+Instruments&#8217; Lifetime Connectivity," Illinois Digital Environment for Access to Learning and Scholarship Repository, 2018</a></li>
+<li>Mengjia Yan, Read Sprabery, Bhargava Gopireddy, Christopher Fletcher, Roy Campbell, Josep Torrellas, "Attack directories, not caches: Side channel attacks in a non-inclusive world," 2019 IEEE Symposium on Security and Privacy (SP), San Fransisco, CA, US, , pp. 56-72.
+doi:10.1109/SP.2019.00004, 2019</li>
+<li>Read Sprabery, Konstantin Evchenko, Abhilash Raj, Rakesh B Bobba, Sibin Mohan, Roy Campbell. "Scheduling, Isolation, and Cache Allocation: A Side-Channel Defense," 2018 IEEE International Conference on Cloud Engineering (IC2E) IEEE, 34-40, 2018, </li>
+<li><a href="https://arxiv.org/pdf/1812.00546.pdf">Vipul Satone, Rachneet Kaur, Faraz Faghri, Mike A Nalls, Andrew B Singleton, Roy H Campbell, "Learning the progression and clinical subtypes of Alzheimer's disease from longitudinal clinical data," arXiv preprint arXiv:1812.00546, 2018</a></li>
+<li><a href="https://www.sysml.cc/doc/197.pdf">Hashemi, Sayed Hadi, Jyothi, Sangeetha Abdu and Campbell, Roy H. "On The Importance of Execution Ordering in Graph-Based Distributed Machine Learning Systems," The Conference on Systems and Machine Learning (SysML  Conference), 2018</a></li>
+<li>Hashemi, Sayed Hadi, Jyothi, Sangeetha Abdu and Campbell, Roy H. "Communication Scheduling as a First-Class Citizen in Distributed Machine Learning Systems," arXiv 1803.03288, 8 Mar 2018.</li>
+<li><a href="https://arxiv.org/abs/1710.11252v1">Babaeizadeh, Mohammad. Chelsea Finn, Dumitru Erhan, Roy H Campbell, Sergey Levine. "Stochastic Variational Video Prediction," arXiv preprint arXiv:1710.11252, 30 Nov 2017.</a></li>
+<li><a href="https://arxiv.org/abs/1710.00112v1">Faghri, Faraz. Sayed Hadi Hashemi, Mohammad Babaeizadeh, Mike A Nalls, Saurabh Sinha, Roy H Campbell. "Toward Scalable Machine Learning and Data Mining: the Bioinformatics Case," arXiv preprint arXiv:1710.00112, 29 Sep 2017.</a></li>
+<li><a href="https://arxiv.org/abs/1710.00110v1"> Hashemi, Sayed Hadi. Faraz Faghri, Roy H Campbell, "Decentralized User-Centric Access Control using PubSub over Blockchain," 	arXiv preprint arXiv:1710.00110,  29 Sep 2017.</a></li>
+<li><a href="https://arxiv.org/abs/1708.09538v1">Sprabery, Read. Konstantin Evchenko, Abhilash Raj, Rakesh B Bobba, Sibin Mohan, Roy H Campbell. "A Novel Scheduling Framework Leveraging Hardware Cache Partitioning for Cache-Side-Channel Elimination in Clouds," arXiv preprint arXiv:1708.09538, 31 Aug 2017, </a></li>
+<li><a href="https://doi.org/10.14778/3137765.3137770">Noghabi, Shadi A. Kartik Paramasivam, Yi Pan, Navina Ramesh, Jon Bringhurst, Indranil Gupta, Roy H Campbell, "Samza: stateful scalable stream processing at LinkedIn," Proceedings of the VLDB Endowment, 10 (12), 1 Aug 2017, pp. 1634-1645.</a></li>
+<li><a href="https://doi.org/10.1109/CLOUD.2017.16">Di Giulio, Carlo . Read Sprabery, Charles Kamhoua, Kevin Kwiat, Roy H Campbell, Masooda N Bashir, "Cloud Standards in Comparison: Are New Security Frameworks Improving Cloud Security?" Cloud Computing (CLOUD), 2017 IEEE 10th International Conference on, 25 June  2017, pp. 50-57.</a></li>
+<li><a href="https://doi.org/10.1109/CCGRID.2017.137"> Di Giulio, Carlo. Read Sprabery, Charles Kamhoua, Kevin Kwiat, Roy Campbell, Masooda N Bashir.  "IT Security and Privacy Standards in Comparison: Improving FedRAMP Authorization for Cloud Service Providers," Cluster, Cloud and Grid Computing (CCGRID), 2017 17th IEEE/ACM International Symposium on, 14May 2017,  1090-1099.</a></li>
+<li><a href="https://arxiv.org/abs/1704.06001v1">Ramachandran, Prajit. Tom Le Paine, Pooya Khorrami, Mohammad Babaeizadeh, Shiyu Chang, Yang Zhang, Mark A Hasegawa-Johnson, Roy H Campbell, Thomas S Huang.  "Fast generation for convolutional autoregressive models,"  arXiv preprint arXiv:1704.06001, ICLR 2017 Workshop, 20 April 2017. </a></li>
+<li><a href="https://dl.acm.org/citation.cfm?id=3050759"> Estrada, Zachary J. Read Sprabery, Lok Yan, Zhongzhi Yu, Roy Campbell, Zbigniew Kalbarczyk, Ravishankar K Iyer. "Using OS Design Patterns to Provide Reliability and Security as-a-Service for VM-based Clouds," Proceedings of the 13th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments, 2017/4/8, pp. 157-170.</a></li>
+<li>Nguyen, Phuong, Steve Konstanty, Todd Nicholson, Thomas O&#8217;Brien, Aaron Schwartz-Duval, Tim Spila, Klara Nahrstedt, Roy Campbell, Indranil Gupta, Michael Chan, Kenton McHenry, Normand Paquin. "4CeeD: Real-time Acquisition and Analysis Framework for Materials-related Cyber-Physical Environments," Proc. 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid), 2017. Best Paper Award.</li>
+<li>Di Giulio, Carlo . Read Sprabery, Charles Kamhoua, Kevin Kwiat, Roy Campbell, Masooda Bashir, "Cloud Standards in Comparison Are New Security Frameworks Improving Cloud Security?" IEEE Cloud 2017, Hawaii, June 25-30, 2017
+</li>
+<li>Palmer, Imani . Boris Gelfand, Roy Campbell. "Exploring Digital Evidence with Graph Theory," Annual Conference on Digital Forensics, Security and Law. 9.Daytona Beach, Florida, May 15, 16, 2017</li>
+<li>Di Giulio, C., Sprabery, R., Kamhoua, C., Kwiat, K., Campbell, R., Bashir, M. "IT Security and Privacy Standards in Comparison: Improving FedRAMP Authorization for Cloud Service Providers," International Workshop on Assured Cloud Computing and QoS Aware Big Data (WACC &#8216;17), Madrid, Spain, May 14 2017</li>
+<li>Hashemi, Sayed Hadi, Noghabi, Shadi A., Gropp, William and Campbell, Roy H., "Performance Modeling of Distributed Deep Neural Networks," CoRR, abs/1612.00521, 2017</li>
+<li>Zachary J. Estrada, Read Sprabery, Lok Yan, Zhongzhi Yu, Roy Campbell, Zbigniew Kalbarczyk, Ravishankar K. Iyer, "Using OS Design Patterns to Provide Reliability and Security as-a-Service for VM-based Clouds," VEE'17 Proceedings of the 13th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments, 2017</li>
+<li>Di Giulio, Carlo . Read Sprabery, Charles Kamhoua, Kevin Kwiat, Roy H. Campbell, Masooda N. Bashir, "Cloud Security Certifications: A Comparison to Improve Cloud Service Provider Security," ICC'17, Churchill College, Cambridge, UK, March 22-23, 2017</li>
+<li>Sprabery, R. Estrada, Z. Kalbarczyk, Z. Iyer, R. Bobba, R. Campbell, R. "Trustworthy Services Built on Event Based Probing for Layered Defense," International Conference on Cloud Engineering (IC2E), 2017, 215-225</li>
+<li>Shadi A. Noghabi, Roy Campbell, Indranil Gupta, "Building a Scalable Distributed Online Media Processing Environment," Proceedings of the VLDB 2016 PhD Workshop, New Delhi, India, 2016</li>
+<li>Mohammad Babaeizadeh, Paris Smaragdis, Roy H. Campbell, NoiseOut: A Simple Way to Prune Neural Networks," CoRR, abs/1611.06211, Dec 2016</li>
+<li>Shadi A. Noghabi, Sriram Subramanian, Priyesh Narayanan, Sivabalan Narayanan, Gopalakrishna Holla, Mammad Zadeh, Tianwei Li, Indranil Gupta, Roy H. Campbell, "Ambry: LinkedIn's Scalable Geo-distributed Object Store," ACM SIGMOD/PODS Conference,  Jun 26th-July 1st, San Francisco, USA, 2016.</li>
+<li>Chris X. Cai, Franck Le, Xin Sun,  Geoffrey Xie, Hanii Jamjoom, Roy H. Campbell, "CRONets: Cloud-Routed Overlay Networks," I36th IEEE  International Conference on Distributed Computer Systems (ICDCS 2016),  June27th-30th, Nara, Japan, 2016.</li>
+<li>Chris X. Cai, Shayan Saeed, Indranil Gupta, Roy H. Campbell, Franck Le, "Phurti: Application and Network-Aware Flow Scheduling for Multi-Tenant MapReduce Clusters," IEEE International Conference on Cloud Engineering (IC2E), April 4-8, Berlin, Germany, 2016.</li>
+<li>Mayank Pundir, Manoj Kumar, Luke M. Leslie, Indranil Gupta, Roy H. Campbell, "Supporting On-demand Elasticity in Distributed Graph Processing, " IEEE International Conference on Cloud Engineering (IC2E), April 4-8, Berlin, Germany, 2016.</li>
+<li>Sayed Hadi Hashemi, Faraz Faghri, Paul Rausch, Roy H. Campbell , "World of Empowered IoT Users,"  The 1st IEEE International COnference on Internet-of-Things Design and Implementation, Berlin, Germany, April, 2016.</li>
+<li>Sayed Hadi Hashemi, Shadi A. Noghabi, John Bellessa, Roy H. Campbell: Toward Fabric: A Middleware Implementing High-level Description Languages on a Fabric-like Network. ANCS 2016: 117-118
+</li>
+<li>Fangzhou Yao, Kevin Chang,  and Roy H Campbell, "Ushio: Analyzing News Media and Public Trends in Twitter," 3rd International workshop on Big Data and Social Networking Management and Security (BDSN-2015), December 7-10, 2015, Limassol, Cyprus.</li>
+<li><a href="http://sadfe2015.safesocietylabs.com/wp-content/uploads/2015/10/SADFE-2015-Proceedings.pdf">Stefan Nagy, Imani Palmer, Sathya Chandran Sundaramurthy, Xinming Ou, Roy Campbell, "An empirical study on current models for reasoning about digital evidence," SADFE 2015 Proceedings, Safe Society Labs, Malaga, Spain, 2015.</a></li>
+<li>Boyang Peng, Mohammad Hosseini, Zhihao Hong, Reza Farivar, Roy Campbell, "R-Storm: Resource-Aware Scheduling in Storm," Middleware 2015, Dec 07-11, 2015, Vancouver, BC, Canada, 2015, pages 149-161.</li>
+<li>Mayank Pundir, Luke M. Leslie, Indranil Gupta, Roy H. Campbell,  "Zorro: Zero-Cost Reactive Failure Recovery in Distributed Graph Processing," The ACM Symposium on Cloud Computing  SoCC, 2015, pages 195-208.
+</li>
+<li>Weijie Liu, Rakesh B. Bobba, Sibin Mohan and Roy H. Campbell,  Inter-Flow Consistency: A Novel SDN Update Abstraction for Supporting Inter-Flow Constraints, accepted for 2015 IEEE Conference on Communications and Network Security (CNS) 2015.
+</li>
+<li>Weijie Liu, Rakesh B Bobba, Sibin Mohan, Roy H Campbell, &#8220;Inter-Flow Consistency: Novel SDN Update Abstraction for Supporting Inter-Flow Constraints,&#8221; <em>SENT &#8217;15, San Diego, CA, USA, </em> 8 February 2015.
+</li>
+<li>Abhishek Verma, Ludmila Cherkasova, and Roy H. Campbell, "Profiling and Evaluating Hardware Choices for MapReduce Environments: An Application-Aware Approach", <em> 32nd International Symposium on Computer Performance, Modeling, Measurements, and Evaluation (IFIP WG 7.3 Performance 2014),</em> Turin, Italy, October 7-9, 2014.
+</li>
+<li>Furquan Shaikh, Fangzhou Yao, Indranil Gupta, Roy H. Campbell, "VMDedup: Memory De-duplication in Hypervisor", IC2E 2014, pages 379-384.</li>
+<li>Fanghzou Yao and Roy H. Campbell, "CryptVMI: Encrypted Virtual Machine Introspection in the Cloud", <em>2014 IEEE Seventh International Conference on Cloud Computing</em>, Anchorage, AK, June 30, 2014, pages 977-978.</li>
+<li>Fangzhou Yao and Roy H. Campbell, "CouchFS: A High-Performance File System for Large Data Sets", <em>2014 IEEE Second International Congress on Big Data</em>, Anchorage, AK, June 30, 2014, pages 784-785.</li>
+<li>Jingwei Huang, David M. Nicol, and Roy H. Campbell, "Denial-of-Service Threat to Hadoop/YARN Clusters with Multi-Tenancy", <em>2014 IEEE Second International Congress on Big Data</em>, Anchorage, AK, June 30, 2014, pages 48-55.</li>
+<li>Cristina L. Abad, Yi Lu, Roy H. Campbell, and Nathan Roberts, "A Model-Based Namespace Metadata Benchmark for HDFS", <em>International Conference on Autonomic Computing</em>, Philadelphia, PA, June 18-20, 2014, pages 113-119.</li>
+<li>Fangzhou Yao, Read T. Spraybery, and Roy H. Campbell, "CryptVMI: A Flexible and Encrypted Virtual Machine Introspection in the Cloud", <em>Second International Workshop on Security in Cloud Computing</em>, Kyoto, Japan, June 3, 2014, pages 11-18.</li>
+<li>Muhammad Salman Malik, Robin Berthier, Rekesh B. Bobba, Roy H. Campbell, and William H. Sanders, "Formal Design of Communication Checkers for ICCP using UPPAAL", <em>IEEE International Conference on Smart Grid Communications (SmartGridComm)</em>, Vancouver, Canada, October 2013, pages 486-491.</li>
+<li>Muhammad Salman Malik, Mirko Montanari, Jun Ho Huh, Rakesh B. Bobba, and Roy H. Campbell, "Towards SDN Enabled Network Control Delegation in Clouds", <em>43rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)</em>, Budapest, Hungary, June 2013, pages 1-6.</li>
+<li>Mirko Montanari, Jun Ho Huh, Rakesh B. Bobba, and Roy H. Campbell, "Limiting Data Exposure in Monitoring Multi-domain Policy Conformance", <em>6th International Conference on Trust and Trustworthy Computing</em> <em>(TRUST 2013)</em>, London, UK, June 2013, pages 65-82.</li>
+<li>Gyorgy Dan, Rakesh B. Bobba, George Gross and Roy Campbell, "Cloud Computing for the Power Grid: From Service Composition to Assured Clouds," <em>5th USENIX Workshop on Hot Topics in Cloud Computing</em> <em>(HotCloud '13)</em>, San Jose, CA, June 2013.</li>
+<li>Jun Ho Huh, Mirko Montanari, Derek Dagit, Rakesh B. Bobba, Dong Wook Kim, Yoonjoo Choi and Roy Campbell, "An empirical study on the software integrity of virtual appliances: are you really getting what you paid for?", <em> ACM Symposium on Information, Computer and Communications Security (ASIA CCS '13)</em>, Hangzhou, China, May 2013, pages 231-242.</li>
+<li>Jon Tedesco, Roman Dudko, Abhishek Sharma, Reza Farivar, and Roy H. Campbell, "Theius: A Streaming Visualization Suite for Hadoop Clusters",<em> IEEE International Conference on Cloud Engineering (IC2E 2013)</em>, Redwood City, CA, March 2013, pages 177-182.</li>
+<li>Jun Ho Huh, Mirko Montanari, Derek Dagit, Rakesh B. Bobba, Dongwook Kim, Yoonjoo Choi, and Roy H. Campbell, "Assessing Software Integrity of Virtual Appliances through Software Whitelists", <em>20th Annual Network & Distributed System Security Symposium (NDSS 2013)</em>, San Diego, CA, February 2013.</li>
+<li>Reza Farivar and Roy H. Campbell: Utilizing Automated Robots to Recalibrate WiFi Fingerprint Maps for Indoor Location Estimation: <em> International Conference on Wireless Networks</em> 2012.</li>
+<li>Jonathan M. Chu, Mirko Montanari, Roy H. Campbell: A Case for Validating Remote Application Integrity for Data Processing Systems: <em>ISRCS</em> 2012</li>
+<li>Abad, C., Lee, K., Roberts, N., Lu, Y., Campbell, R.: A Metadata Workload Generator for Data-Intensive File Systems: <em>FAST</em> 2012</li>
+<li>Shu Shi, Klara Nahrstedt, and Roy Campbell. "A real-time remote rendering system for interactive mobile graphics," <em> ACM Transactions on Multimedia Computing, Communications, and Applications (TOMCCAP)</em> 8.3s (2012): 46.</li>
+<li>Abad, C., Luu, H., Roberts, N., Lee, K., Lu, Y., and Campbell, R.: Metadata Traces and Workload Models for Evaluating Big Storage Systems:<em> IEEE UCC </em>2012</li>
+<li>Abad, C., Roberts, N., Lu, Y., and Campbell, R.: A Storage-Centric Analysis of MapReduce Workloads: File Popularity, Temporal Locality and Arrival Patterns: <em>IEEE International Symposium on Workload Characterization</em> 2012</li>
+<li>Reza Farivar, Harshit Kharbanda, Shivram Venkatraman, Roy H. Campbell:An Algorithm for Fast Edit Distance Computation on GPUs:<em>IEEE Innovative Parallel Computing </em> 2012
+</li>
+<li>Faraz Faghri, Sobir Bazarbayev, Mark Overholt, Reza Farivar, Roy H. Campbell, William H. Sanders: Failure Scenario as a Service (FSaaS) for Hadoop Clusters: <em>SDMCCMM 2012</em></li>
+<li>Cristina L. Abad, Huong Luu, Nathan Roberts, Kihwal Lee, Yi Lu, Roy H. Campbell: Metadata Traces and Workload Models for Evaluating Big Storage Systems. <em>UCC 2012</em>: 125-132</li>
+<li>Wucherl Yoo, Kevin Larson, Lee Baugh, Sangkyum Kim, Roy H. Campbell: ADP: automated diagnosis of performance pathologies using hardware events. <em>SIGMETRICS 2012</em>: 283-294</li>
+<li>Mirko Montanari, Lucas T. Cook, Roy H. Campbell: Multi-organization Policy-Based Monitoring. <em>POLICY 2012</em>: 70-77</li>
+<li>Abhishek Verma, Ludmila Cherkasova, Vijay S. Kumar, Roy H. Campbell: Deadline-based workload management for MapReduce environments: Pieces of the performance puzzle. <em>NOMS 2012</em>: 900-905</li>
+<li>Abhishek Verma, Ludmila Cherkasova, Roy H. Campbell: Two Sides of a Coin: Optimizing the Schedule of MapReduce Jobs to Minimize Their Makespan and Improve Cluster Performance. <em>MASCOTS 2012</em>: 11-18</li>
+<li>Cristina L. Abad, Nathan Roberts, Yi Lu, Roy H. Campbell: A storage-centric analysis of MapReduce workloads: File popularity, temporal locality and arrival patterns.<em> IISWC 2012</em>: 100-109</li>
+<li>Reza Farivar, Roy H. Campbell: Plasma: Shared Memory Dynamic Allocation and Bank-Conflict-Free Access in GPUs. <em> ICPP Workshops 2012</em>: 612-613</li>
+<li>Mirko Montanari, Jun Ho Huh, Derek Dagit, Rakesh Bobba, Roy H. Campbell: Evidence of log integrity in policy-based security monitoring. <em>DSN Workshops</em> 2012: 1-6</li>
+<li>Mirko Montanari, Roy H. Campbell: Confidentiality of event data in policy-based monitoring. </em> DSN 2012</em>: 1-12</li>
+<li>Reza Farivar, Anand Raghunathan, Srimat T. Chakradhar, Harshit Kharbanda, Roy H. Campbell: PIC: Partitioned Iterative Convergence for Clusters. <em> CLUSTER 2012</em>: 391-401</li>
+<li>Harshit Kharbanda, Manoj Krishnan, Roy H. Campbell: Synergy: A Middleware for Energy Conservation in Mobile Devices. <em> CLUSTER 2012</em>: 54-62</li>
+<li>Yu Shyang Tan, Bu-Sung Lee, Bingsheng He, Roy H. Campbell: A Map-Reduce Based Framework for Heterogeneous Processing Element Cluster Environments.<em>  CCGRID </em> 2012: 57-64</li>
+<li>Mohamed Bakhouya, Roy H. Campbell, Antonio Coronato, Giuseppe De Pietro, Anand Ranganathan: Introduction to special section on formal methods in pervasive computing. <em> TAAS </em> 7(1): 6 (2012)</li>
+<li>Roy H. Campbell, Mirko Montanari, Reza Farivar: A middleware for assured clouds. <em> J. Internet Services and Applications </em> 3(1): 87-94 (2012)</li>
+<li>Shu Shi, Cheng-Hsin Hsu, Klara Nahrstedt, and Roy Campbell, Using Graphics Rending Contexts to Enhance the real-Time Video Coding for Mobile Cloud Gaming, in <em>Proceedings of the 19th ACM International Conference on Multimedia (MM'11)</em>. December 2011, pp. 103-112. (acceptance rate 17%)</li>
+<li>Abhishek Verma, Roy H. Campbell, Ludmila Cherkasova, Resource Provisioning Framework for MapReduce Jobs with Performance Goals, in <em>Proceedings of the ACM/IFIP/USENIX 12th International Middleware Conference (Middleware 2011). </em> Lisboa, Portugal, December 2011, pp. 165-186.</li>
+<li>Abhishek Verma, Roy H. Campbell, Ludmila Cherkasova, Play It Again, SimMR!, in <em>Proceedings of IEEE CLUSTER 2011</em>. Austin, TX, September 2011, pp. 253-261.</li>
+<li>Cristina Abad, Yi Lu, Roy H. Campbell, DARE: Adaptive Data Replication for Efficient Cluster Scheduling, in <em>Proceedings of IEEE CLUSTER 2011</em>. Austin, TX, September 2011, pp. 159-168.</li>
+<li>Abhishek Verma, Roy H. Campbell, Ludmila Cherkasova, SLO-Driven Right-Sizing and Resource Provisioning of MapReduce Jobs, in <em>Proceedings of the 5th Workshop on Large Scale Distributed Systems and Middleware (LADIS'2011)</em>. Seattle, WA, September 2011.</li>
+<li>Mirko Montanari, Roy H. Campbell, Attack-resilient Compliance Monitoring for Large Distributed Infrastructure Systems, in  <em>IEEE International Conference on Network and System Security (NSS)</em>. September 2011, pp. 192-199.</li>
+<li>Shu Shi, Klara Nahrstedt, Roy Campbell. Distortion over Latency: Novel Metric for Measuring Interactive Performance in Remote Rendering Systems, in <em>Proceedings of the 2011 IEEE ACM International Conference on Multimedia and Expo (ICME'11)</em>, pp. 1-6, Barcelona, July 2011. </li>
+<li>Mirko Montanari, Ellick Chan, Kevin Larson, Wucherl Yoo, and Roy Campbell, Distributed Security Policy Conformance, in <em>IFIP Sec 2011</em>, June 2011. </li>
+<li>Abhishek Verma, Ludmila Cherkasova, Roy H. Campbell, ARIA: Automatic Resource Inference and Allocation for MapReduce Environments, in <em>International Conference on Autonomic Computing (ICAC)</em>. Karlsruhe, Germany, June 2011, pp. 235-244. (acceptance rate 30%)
+</li>
+<li>Wucherl Yoo, Kevin Larson, Sangkyum Kim, Wonsun Ahn, Roy H. Campbell, and Baugh Lee, Automated Fingerprinting of Performance Pathologies Using Performance Monitoring Units(PMUs), in <em>3rd USENIX Workshop on Hot Topics in Parallelism (HotPar '11)</em>. Berkeley, CA, May 2011. (acceptance rate 28%)</li>
+<li>Ellick Chan, Shivaram Venkataraman, Nadia Tkach, Kevin Larson, Alejandro Gutierrez, Roy H. Campbell, Characterizing Data Structures for Volatile Forensics, in <em>Systematic Approaches to Digital Forensic Engineering (SADFE)</em>. Oakland, CA, May 2011. </li>
+<li>Mirko Montanari, Roy H. Campbell, Krishna Sampigethaya, Mingyan Li, A Security Policy Framework for eEnabled Fleets and Airports, in <em>2011 IEEE Aerospace Conference</em>. Big Sky, MT, March 2011.</li>
+<li>Shivaram Venkataramn, Niraj Tolia, Parthasarathy Ranganathan, Roy H. Campbell, Redesigning Data Structures for Non-Volatile Byte-Addressable Memory, in 2nd Annual Non-Volatile Memories Workshop. University of California, San Diego, March 2011.</li>
+<li>Shivaram Venkataraman, Niraj Tolia, Parthasarathy Ranganathan, Roy H. Campbell, Consistent and Durable Data Structures for Non-Volatile Byte-Addressable Memory, in <em>Proceedings of the 9th USENIX Conference on File and Storage Technologies (FAST 2011)</em>. San Jose, California, Feb. 2011, pp. 61-75. (acceptance rate 27%)</li>
+<li>V.K.Y. Wu and R.H. Campbell, Large-scale Distributed RFID Infrastructures for Pervasive Computing, in <em>NSF Workshop on Pervasive Computer at Scale (PeCS)</em>. Seattle, WA, Jan. 2011.</li>
+<li>Abhishek Verma, Xavier Llora, Shivaram Venkataram, Goldberg David and Campbell Roy, Scaling eCGA Model Building via Data-Intensive Computing, in <em>2010 IEEE Congress on Evolutionary Computation</em>. 2010.</li>
+<li>Wucherl Yoo, Shu Shi, Won J. Jeon, Klara Nahrstedt, Roy H. Campbell, Real-Time Parallel Remote Rendering for Mobile Devices using Graphics Processing Units, in <em>IEEE International Conference on Multimedia and Expo (ICME) 2010</em>. 2010. (acceptance rate 30%)</li>
+<li>Ellick Chan, Amey Chaugule, Kevin Larson and Roy Campbell, Performing Live Forensics on Insider Attacks, in <em>Proceedings of the CAE Workshop on Insider Threat</em>. St. Louis, MO, 2010.</li>
+<li>V.K.Y. Wu and R.H. Campbell, 3D Audio Interface for Rich Mobile Web Experiences, in <em>Proceedings of International Conference on Mobile Computing, Applications, and Services (MobiCASE)</em>. Santa Clara, CA, Oct. 2010. Also in <em>Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering (LNICST)</em>, 2010.</li>
+<li>Ellick Chan, Shivaram Venkataraman, Amey Chaugule and Roy Campbell, Forenscope: A Framework for Live Forensics, in <em>ACSAC</em>. Austin, TX, 2010, pp.307-316.</li>
+<li>Jones, B.R., Sodhi, R., Campbell, R.H., Garnett, G., Bailey, B.P., Build your world and play in it: Interacting with surface particles on complex objects, in <em>9th IEEE International Symposium Mixed and Augmented Reality (ISMAR)</em>, Seoul, Korea, October 2010, pp. 165-174. (acceptance rate 18%)</li>
+<li>Abhishek Verma, Nicolas Zea, Brian Cho, Indranil Gupta, and Roy H. Campbell, Breaking the MapReduce Stage Barrier, in <em>IEEE International Conference on Cluster Computing</em>. Heraklion, Greece, 2010,pp. 235-244. (acceptance rate 30.8%)</li>
+<li>Shu Shi, Mahsa Kamali, Klara Nahrstedt, John Hart, Roy Campbell, A High-Quality Low-Delay Remote Rendering System for 3D Video, in <em>Proceedings of the 18th ACM International Conference on Multimedia (MM '10)</em>. Firenze, Oct. 2010, p. 601-610. (acceptance rate 41%)</li>
+<li>Wucherl Yoo, Shu Shi, Won Jeon, Klara Nahrstedt, Roy Campbell, Real-Time Parallel Remote Rendering for Mobile Devices Using Graphics Processing Units, in <em>Proceedings of the 2010 IEEE International Conference on Multimedia and Expo (ICME '10)</em>. Singapore, July 2010, p. 902-907. (acceptance rate: 15%)</li>
+<li>Rini Kaushik, Ludmila Cherkasova, Roy H. Campbell, Klara Nahrstedt, Lightning: Self-adaptive, Energy-conserving, Multi-zoned, Commodity Green Cloud Storage System, in <em>Proceedings of the 19th ACM International Symposium on High Performance Distributed Computing (HPDC '10)</em>. Chicago, IL, 2010, pp.332-335. (acceptance rate 26%)</li>
+<li>Mirko Montanari, Roy H. Campbell, Multi-Aspect Security Assessment of Airport Computer Networks, in <em>AIAA Infotech@Aerospace</em>. Atlanta, GA, 2010. </li>
+<li>Christopher Johnson, Mirko Montanari, Roy H. Campbell, Automatic Management of Logging Infrastructure, in Center for Academic Excellence Workshop on Insider Threat (CAE), St. Louis, MO, 2010 (also invited for the NSA Symposium). </li>
+<li>Wu, V. and R. Campbell, An RFID Interface for 3D Audio Web Consumption, in IEEE RFID. 2010: Orlando, Florida. (acceptance rate 39 out of 130, 30%)</li>
+<li>Verma, A., X. Llora, S. Venkataram, D. Goldberg, and R. Campbell, Scaling eCGA Model Building via Data-Intensive Computing, in World Congress on Computational Intelligence CEC. 2010, IEEE Barcelona, Spain, p. 1-8.</li>
+<li>Abhishek Verma, Xavier Llora, Roy H. Campbell, David E. Goldberg, When Huge is Routine: Scaling Genetic Algorithms and Estimation of Distribution Algorithms via Data-Intensive Computing, in <em>Parallel and Distributed Computational Intelligence</em>, 2010, p. 11-41.</li>
+<li>Francisco J. Ballesteros, Fabio Kon, Marta Pantino, Ricardo Jimenez, Sergio Arevalo and Roy H. Campbell, Batching: A Design Pattern for Efficient and Flexible Client/Server Interaction, in <em>Transactions on Pattern Languages of Programming</em>. v.5770, p. 48-66. Springer. 2009.</li>
+<li>Kawaguchi, R., S. Ahmed, A. Unahalekhaka, A. Pan, and R. Campbell, A Market Anywhere: Establishing an SMS-based Virtual Market in Developing Regions, in Globi-Comp. 2009: Orlando, Florida.</li>
+<li>Jeon, W.J., K. Kang, R.H. Campbell, and K. Nahrstedt, Simulation Framework and Performance Analysis of Multimedia Broadcasting Service over Wireless Networks, in IEEE International Conference on Distributed Systems (ICDCS). 2009: Montreal, Quebec, Canada. p. 93-100. (acceptance rate 74 out of 454, 16.3%)</li>
+<li>Gutierrez, A., A. Godiyal, M. Stockton, C. Gunter, and R.H. Campbell, Sh@re: Negotiated Audit in Social Networks, in 2009 IEEE International Conference on Systems, Man, and Cybernetics. 2009: San Antonio, Texas. p. 74-79.</li>
+<li>Farivar, R., D. Wiczer, A. Gutierrez, and R.H. Campbell, A statistical study on the impact of wireless signals' behavior on Location Estimation Accuracy in 802.11 Fingerprinting Systems, in IEEE  International Symposium on Parallel and Distributed Processing Symposium. 2009: Rome, Italy. p. 1-8 (acceptance rate 100 out of 440, 22.7%)</li>
+<li>Reza Farivar, Mirko Montanari, Ellick Chan, and Roy H. Campbell, An Automatic User Study Demo in Indoor Environments and Its Privacy Implications , IEEE International Conference on Pervasive Computing and Communications (PerCom), Galveston, Texas, USA, 2009. (acceptance rate 16%)</li>
+<li>Riccardo Crepaldi, Mirko Montanari, Shayne Czyzewsky, Roy H. Campbell, and Robin Kravets, Event Detection Using Phenomenon Models, ACM / USENIX MobiSys, Krakaw, Poland, ACM, 2009. (acceptance rate 20%)</li>
+<li>Mirko Montanari, Roy H. Campbell, Multi-Aspect Security Configuration Assessment, Workshop on Assurable & Usable Security Configuration (SafeConfig), Collocated with ACM CCS 2009, ACM, Chicago, 2009 (acceptance rate 52%)</li>
+<li>Mirko Montanari, Mingyan Li, Krishna Sampigethaya, and Roy H. Campbell, A Formal Security Model for Networked Control Systems, AIAA InfoTech@Aerospace, Seattle, WA, AIAA, April 2009.</li>
+<li>Shi, S., Jeon, W. J., Nahrstedt, K., and Campbell, R. H. 2009. M-TEEVE: real-time 3D video interaction and broadcasting framework for mobile devices. In Proceedings of the 2nd international Conference on Immersive Telecommunications (Berkeley, California, May 27 - 29, 2009). International Conference on Immersive Telecommunications. ICST (Institute for Computer Sciences Social-Informatics and Telecommunications Engineering), ICST, Brussels, Belgium, 1-6. (acceptance rate 43%)</li>
+<li>Shi, S., Jeon, W. J., Nahrstedt, K., and Campbell, R. H. 2009. Real-time remote rendering of 3D video for mobile devices. In Proceedings of the Seventeen ACM international Conference on Multimedia (Beijing, China, October 19 - 24, 2009). MM '09. ACM, New York, NY, 391-400. (acceptance rate 16%)</li>
+<li>Verma, Abhishek; Llor&#195;&#160;, Xavier; Goldberg, David E.; Campbell, Roy H., "Scaling Genetic Algorithms Using MapReduce," Intelligent Systems Design and Applications, 2009. ISDA '09. Ninth International Conference on , vol., no., pp.13-18, Nov. 30 2009-Dec. 2 2009. (acceptance rate 249 out of 413, 60.3%)</li>
+<li>Farivar, R.; Verma, A.; Chan, E.M.; Campbell, R.H., "MITHRA: Multiple data independent tasks on a heterogeneous resource architecture," Cluster Computing and Workshops, 2009. CLUSTER '09. IEEE International Conference on , vol., no., pp.1-10, Aug. 31 2009-Sept. 4 2009. (acceptance rate 43%)</li>
+<li>Alejandro Gutierrez, Apeksha Godiyal, Matt Stockton, Carl Gunter, Roy H. Campbell, "Sh@re: Negotiated Audit in Social Networks"  2009 IEEE International Conference on Systems, Man, and Cybernetics, San Antonio, Texa pp. 74-79</li>
+<li>V.K.Y. Wu and R.H. Campbell, "Using Generalized Query Tree to cope with the Capture Effect in RFID Singulation," in Proc. IEEE Consumer Communications and Networking Conference (CCNC), Las Vegas, NV, Jan. 2009. (acceptance rate 35%)</li>
+<li>Victor K. Y. Wu, Roy H. Campbell: Password Streaming for RFID Privacy. <em>OTM Workshops 2008.</em> pp. 883-892. (acceptance rate 33%)</li>
+<li>V.K.Y. Wu and R.H. Campbell, Password Streaming for RFID Privacy, in <em>Proceedings of International Workshop on Pervasive Systems (PerSys)</em>. Monterrey, Mexico, Nov. 2008. Also in <em>Lecture Notes in Computer Science (LNCS)</em>. 2008, vol. 5333, pp. 883-892. </li>
+<li>Shu Shi, Klara Nahrstedt, Roy H. Campbell: View-dependent real-time 3d video compression for mobile devices. <em>ACM Multimedia 2008</em>. pp.781-784. (acceptance rate 26%)</li>
+<li>A. Ranganathan and R. H. Campbell, Provably Correct Pervasive Computing Environments, in<em> Percom 2008</em>, Hong Kong, 2008, pp. 160-169. (acceptance rate 12%)</li>
+<li>Reza Farivar, Daniel Rebolledo, Ellick Chan, Roy H. Campbell: A Parallel Implementation of K-Means Clustering on GPUs.<em> PDPTA 2008.</em> pp. 340-345.</li>
+<li>Francis M. David, Ellick Chan, Jeffrey C. Carlyle, Roy H. Campbell: CuriOS: Improving Reliability through Operating System Structure. <em>OSDI 2008</em>: pp. 59-72. (acceptance rate 13.5%)</li>
+<li>Ellick Chan, Jeffrey C. Carlyle, Francis M. David, Reza Farivar, Roy H. Campbell: BootJacker: compromising computers using forced restarts. <em>ACM Conference on Computer and Communications Security 2008</em>. pp.555-564. (acceptance rate 18%)</li>
+<li>F. M. David, E. M. Chan, J. C. Carlyle, and R. H. Campbell, Cloaker: Hardware Supported Rootkit Concealment, in<em> Proceedings of the IEEE Symposium on Security and Privacy,</em> Oakland, CA,&#160; 2008, pp. 296-310. (acceptance rate 11.2%)</li>
+<li>Roy H. Campbell, Skevos Evripidou, Anja Schanzenberger: PerSys 2008 PC Co-chairs' Message.<em> OTM Workshops 2008</em>. pp. 819</li>
+<li>Z. Anwar, R. Shankesi, and R. H. Campbell, Automatic Security Assessment of Large-Scale Cyber-Infrastructures, in<em> DSN-PDS</em>, Anchorage, Alaska, pp. 2008, pp. 366-375. (acceptance rate 23 out of 87, 26.4%)</li>
+<li>Z. Anwar and R. Campbell, Automated Assessment of Critical Infrastructures for Compliance to CIP Best Practices, in <em>Second IFIP WG 11.10 International Conference on Critical Infrastructure Protection,</em> George Mason University, Arlington, Virginia, 2008. (acceptance rate 47.6%)</li>
+<li>Anand Tripathi, Roy H. Campbell, Liviu Iftode, Paolo Bellavista:<em> Workshop Summary - ICSE Workshop on Software Engineering for Pervasive Computing Applications, Systems, and Environments (SEPCASE)</em>. ICSE Companion 2007. pp. 148-149</li>
+<li>L. Tan, E. M. Chan, R. Farivar, N. Mallick, J. C. Carlyle, F. M. David, and R. H. Campbell, iKernel: Isolating Buggy and Malicious Device Drivers Using Hardware Virtualization Support, in <em>3rd IEEE International Symposium on Dependable, Autonomic and Secure Computing (DASC'07)</em>, Columbia, MD, 2007, pp. 134--142.</li>
+<li>A. Kapadia, P. Naldurg, and R. H. Campbell, Distributed Enforcement of Unlinkability Policies: Looking Beyond the Chinese Wall, in<em> Proceedings of the Eighth  IEEE Workshop on Policies for Distributed Systems and Networks (POLICY'07)</em>, Bologna, Italy, 2007. (acceptance rate 22.8%)</li>
+<li>F. M. David, J. C. Carlyle, E. M. Chan, P. A. Reames, and R. H. Campbell, Improving Dependability by Revisiting Operating System Design, in <em>3rd Workshop on Hot Topics in Dependability (HotDep'07)</em>, Edinburgh, UK, 2007, pp. 58-73.</li>
+<li>F. M. David, J. C. Carlyle, and R. H. Campbell, Context Switch Overheads for Linux on ARM Platforms, in <em>Proceedings of the Workshop on Experimental Computer Science (ECS'07)</em>, 2007. pp. 3.</li>
+<li>F. M. David, J. C. Carlyle, and R. H. Campbell, Exploring Recovery from Operating System Lockups, in <em>2007 USENIX Annual Technical Conference,</em> Santa Clara, CA, 2007, pp. 351--356.</li>
+<li>F. M. David and R. H. Campbell, Building a Self-Healing Operating System, in <em>3rd IEEE International Symposium on Dependable, Autonomic and Secure Computing (DASC'07),</em> Columbia, MD, 2007, pp. 3--17.</li>
+<li>J. C. Carlyle, F. M. David, and R. H. Campbell, Back in a Flash! - Fast Recovery using Non-Volatile Memory, in <em>37th IEEE/IFIP International Conference on Dependable Systems and Networks,</em> Edinburgh, UK, 2007, pp. 422--423.</li>
+<li>Roy H. Campbell, Skevos Evripidou, Anja Schanzenberger: PerSys 2007 PC Co-chairs' Message. <em>OTM Workshops</em> (2) 2007. pp. 761</li>
+<li>Zahid Anwar, Roy H. Campbell: Secure Reincarnation of Compromised Servers Using Xen Based Time-Forking Virtual Machines. <em>PerCom Workshops 2007</em>. pp. 477-482.</li>
+<li>Z. Yang, Y. Cui, Z. Anwar, R. Bocchino, N. Kiyanclar, K. Nahrstedt, R. H. Campbell, and W. Yurcik, Real-Time 3D Video Compression for Tele-Immersive Environments, presented at <em>SPIE/ACM 13th Annual Multimedia Computing and Networking (MMCN)</em>, San Jose, California, U.S.A, 2006.</li>
+<li>C. S. Shankar, V. Talwar, S. Iyer, Y. Chen, D. Milojicic, and R. H. Campbell, Specification-enhanced Policies for Automated Management of Changes in IT Systems, presented at<em> LISA 06: 20th Large Installation System Administration Conference,</em> Washington, DC, 2006.</li>
+<li>C. S. Shankar and R. H. Campbell, Managing Pervasive Systems using Role-based Obligation Policies, presented at <em>Proceedings of the Fourth Annual IEEE International Conference on Pervasive Computing and Communications Workshops, (PerComW 2006)</em>. 2006, pp. 373-377.</li>
+<li>C. S. Shankar and R. H. Campbell, Ordering Management Actions in Pervasive Systems using Specification-enhanced Policies,<em> PerCom</em>, 2006, pp. 234-238.</li>
+<li>Z. Anwar, W. Yurcik, R. E. Johnson, M. Hafiz, and R. H. Campbell, Multiple Design Patterns for Securing Voice over IP, presented at <em>Workshop on Information Assurance (WIA)</em> at the <em>25th IEEE International Performance Computing & Communications (IPCCC), </em>Phoenix, Arizona USA, 2006.</li>
+<li>Z. Anwar, J. Wang, W. Yurcik, I. Gupta, and R. H. Campbell, SPEEDS - A First Step Toward Enhancing Privacy Protection in P2P Social Network Communities, presented at <em>14th International Conference on Telecommunication Systems - Modeling and Analysis (ICTSM),</em> Philadelphia PA USA, 2006.</li>
+<li>J. Al-Muhtadi, R. Hill, R. H. Campbell, and D. Mickunas, Context and Location-Aware Encryption for Pervasive Computing Environments, presented at<em> International Workshop on Pervasive Computing and Communication Security (PerSec 2006),</em> Pisa, Italy, 2006.</li>
+<li>P. D. Adamczyk, E. W. Chambers, R. H. Campbell, J. Fineberg, and K. Hamilton, Contested Boundaries: Artifacts and Communication in Interdisciplinary Design, presented at <em>Designing Interactive Systems</em>, 2006.</li>
+<li>B. D. Ziebart, D. Roth, R. H. Campbell, and A. K. Dey, Learning Automation Policies for Pervasive Computing Environments, in <em>2nd  IEEE International Conference on Autonomic Computing</em>, pp. 193-203, 2005.</li>
+<li>C. S. Shankar, A. Ranganathan, R. H. Campbell, An ECA-P Policy-based Framework for Managing Ubiquitous Computing Environments, In <em>Mobiquitous 2005:  The Second Annual International Conference on Mobile and Ubiquitous Systems:  Networks and Services</em>, San Diego, CA, July 2005, pp. 33-44.</li>
+<li>C. S. Shankar, R. H. Campbell, A Policy-based Management Framework for Pervasive Systems using Axiomatized Rule-Actions,<em> Fourth IEEE International Symposium on Network Computing and Applications (NCA 2005)</em>, 27-29 July 2005, Cambridge, MA, USA. IEEE Computer Society 2005, pp. 255-258.</li>
+<li>C. S. Shankar, J. Al-Muhtadi, R. H. Campbell, and M. D. Mickunas, Mobile Gaia: A Middleware for Ad-hoc Pervasive Computing, presented at<em> IEEE Consumer Communications and Networking Conference</em>, Las Vegas, 2005.</li>
+<li>A. Ranganathan, C. S. Shankar, J. Al-Muhtadi, R. H. Campbell, M. D. Mickunas, Olympus:  A High-Level Programming Model for Pervasive Computing Environments,<em> IEEE International Conference on Pervasive Computing and Communications (PerCom 2005), </em>Kauai Island, Hawaii, March 8-12, 2005, pp. 7-16.</li>
+<li>A. Ranganathan and R. H. Campbell, Self-Optimization of Task Execution in Pervasive Computing Environments, In <em>2nd IEEE International Conference on Autonomic Computing (ICAC),</em> Seattle, WA, June 13-16, 2005. pp. 333-334.</li>
+<li>A. Ranganathan, J. Al-Muhtadi, J. Biehl, B. Ziebart, R. Campbell, and B. Bailey, Towards a Pervasive Computing Benchmark.<em> PerWare '05 (Workshop on Middleware Support for Pervasive Computing)</em> at the <em>IEEE International Conference on Pervasive Computing and Communications (PerCom 2005)</em>, Kauai Island, Hawaii, March 8-12, 2005. pp. 194-198.</li>
+<li>Anand Ranganathan, Chetan Shiva Shankar, Roy H. Campbell: Application polymorphism for autonomic ubiquitous computing. Multiagent and Grid Systems 1(2): 2005, pp. 109-129.</li>
+<li>C. Peiper, D. Warden, E. Chan, R. H. Campbell, S. Kamin, and T. L. Wentling, Applying Active Space Principles to Active Classrooms, <em>PerCom Workshops</em> pp. 97-102, 2005.</li>
+<li>Raquel Hill, Suvda Myagmar, Roy Campbell, Threat Analysis of GNU Software Radio, <em>Proceedings of the 6th World Wireless Congress</em>, San Francisco, CA, May 2005.</li>
+<li>R. Hasan, Z. Anwar, W. Yurcik, L. Brumbaugh and R. H. Campbell, A Survey of  Peer-to-Peer Storage Techniques for Distributed File Systems.<em> ITCC</em> (2) 2005: 205-213.</li>
+<li>E. Chan, J. Bresler, J. Al-Muhtadi, R. H. Campbell, GAIA Microserver:  An Extendable Mobile Middleware Platform,<em> IEEE International Conference on Pervasive Computing and Communications (PerCom 2005)</em>, Kauai Island, Hawaii, March 8-12, 2005. pp. 309-313.</li>
+<li>R. H. Campbell, Beyond Global Communications: The Active World,<em> Third IEEE International Conference on Pervasive Computing and Communications, 2005. PerCom 2005</em>., pp. 211-211, 2005.</li>
+<li>Z. Anwar, W. Yurcik, V. Pandey, A. Shankar, I. Gupta, and R. H. Campbell, Leveraging Social-Network Infrastructure to Improve Peer-to-Peer Overlay Performance: Results from Orkut, in ACM Corr cs.NI/0509095: ACM, 2005.</li>
+<li>Z. Anwar, W. Yurcik, and R. H. Campbell, A Survey and Comparison of Peer-to-Peer Group Communication Systems Suitable for Network-Centric Warfare , <em>SPIE Security and Defense Conference, Program on Communications and Networking Technologies and Systems,</em> Orlando FL USA, 2005.</li>
+<li>Z. Anwar, W. Yurcik, S. Baset, H. Schulzrinne, and R. H. Campbell, A First Step Towards Call Survivability in Cellular Networks, <em>The Proceedings of the 30th IEEE Conference on Local Computer Networks (LCN)</em>, Sydney, Australia, November 15-17, 2005. pp. 501-502.</li>
+<li>Z. Anwar, J. Al-Muhtadi, W. Yurcik, and R. H. Campbell, Plethora: A Framework for Converting Generic Applications to Run in a Ubiquitous Environment, in the <em>Proceedings of the 2nd Annual International Conference on Mobile and Ubiquitous Systems: Network and Services (MobiQuitous 2205)</em>, San Diego, CA., July 2005. pp. 192-201.</li>
+<li>A. Kapadia, G. Sampemane and R. H. Campbell, Know Why Your Access was Denied:  Regulating Feedback for Usable Security, <em>Proceedings of the 11th ACM Conference on Computers and Communications Security (CCS)</em>, Washington, DC, October 22-29, 2004, pp. 52-61.</li>
+<li>R. Hill, J. Al-Muhtadi, R. Campbell, A. Kapadia, P. Naldurg, A. Ranganathan, A Middleware Architecture for Security Ubiquitous Computing Cyber Infrastructures, In <em>ACM/IFIP/USENIX 5th International Middleware Conference</em>, Toronto, Ontario, Canada, October 18-22, 2004.</li>
+<li>A. Ranganathan, J. Al-Muhtadi, S. Chetan, R. Campbell, M. D. Mickunas,  MiddleWhere:  A Middleware for Location Awareness in Ubiquitous Computing Applications, In <em>ACM/IFIP/USENIX 5th International Middleware Conference</em>, Toronto, Ontario, Canada, October 18-22, 2004, V. LNCS 3231, pp. 397-416.</li>
+<li>Jalal Al-Muhtadi, Raquel Hill, Roy Campbell, A Privacy Preserving Overlay for Active Spaces, <em>Ubicomp Privacy Workshop</em> in Conjunction with the<em> Sixth International Conference on Ubiquitous Computing</em>, Nottingham, England, September 2004.</li>
+<li>Raquel Hill, Geetanjali Sampemane, Anand Ranganathan, and Roy H. Campbell, Towards A Framework for Automatically Satisfying Security Requirements, In<em> Workshop on Specification and Automated Processing of Security Requirements - SAPS '04</em> at the <em>19th IEEE International Conference on Automated Software Engineering</em>, Linz, Austria, September 20-24, 2004.</li>
+<li>Anand Ranganathan, Shiva  Chetan, Roy Campbell, Mobile Polymorphic Applications in Ubiquitous Computing Environments, In<em> Mobiquitous 2004:  The First Annual International Conference on Mobile and Ubiquitous Systems:  Networking and Services,</em> Boston, MA, August 22-25, 2004.</li>
+<li>Apu Kapadia, Prasad Naldurg, and Roy H. Campbell, Routing with Confidence:  Supporting Discretionary Routing Requirements in Policy Based Networks,<em>  Proceedings of the IEEE 5th International Workshop on Policies for Distributed Systems and Networks (POLICY 2004)</em>,  pp. 45-55, Yorktown Heights, NY, June 7-9, 2004.</li>
+<li>Anand Ranganathan and Roy H. Campbell, Pervasive Autonomic Computing Based on Planning,<em> IEEE International Conference on Autonomic Computing (ICAC),</em> New York, NY, May 17-18, 2004.</li>
+<li>Shiva Chetan, Anand Ranganathan, Roy Campbell, Towards Fault Tolerant Pervasive Computing, In <em>1st International Workshop on Sustainable Pervasive Computing at Pervasive 2004,</em> Vienna, Austria, April 20, 2004, Vol. 24, No. 1, pp. 38-44, 2004.</li>
+<li>Jalal Al-Muhtadi, Shiva Chetan, Anand Ranganathan, Roy H. Campbell, Super Spaces:  A Middleware for Large-Scale Pervasive Computing Environments, In <em>PerWare 2004:  Middleware Support for Pervasive Computing Workshop </em>at the <em>2nd IEEE International Conference on Pervasive Computing and Communications (PerCom 2004), </em>Orlando, FL, March 14, 2004.</li>
+<li>Robert E. McGrath, Anand Ranganathan, Roy H. Campbell, and M. Dennis Mickunas, Investigations of Semantic Interoperability in Ubiquitous Computing Environments,<em> 15th IASTED International Conference on Parallel and Distributed Computing and Systems (ICPDCS 2003),</em> Marina del Rey, CA, November 3-5, 2003.</li>
+<li>Dulcineia Carvalho, Roy Campbell, Geneva Belford, Dennis Mickunas, Definition of a User Environment in a Ubiquitous System, <em> Fifth International Symposium on distributed Objects and Applications (DOA 2003).</em> Caatania, Sicily,<em> Lecture Notes in Computer Science</em> 2888, Springer-Verlag, November 3-7, 2003, pp. 1151-1169.</li>
+<li>Prasad Naldurg and Roy H. Campbell, Formal Specification and Analysis of Network Denial of Service Resistance, <em>Proceedings of the First ACM Workshop on Survivable and Self-Regenerative Systems (SSRS '03)</em>, Fairfax, VA, October 31, 2003</li>
+<li>Robert E. McGrath, Anand Ranganathan, Roy H. Campbell, M. Dennis Mickunas, Incorporating "Semantic Discovery" into Ubiquitous  Computing Infrastructure, in <em>System Support for Ubiquitous Computing Workshop at the Fifth Annual Conference on Ubiquitous Computing (UbiComp/UbiSys 2003),</em> Seattle, WA, October 12, 2003.</li>
+<li>Anand Ranganathan, Robert E. McGrath, Roy H. Campbell, M. Dennis Mickunas, Ontologies in a Pervasive Computing Environment.  In <em>Eighteenth International Joint Conference on Artificial Intelligence (IJCAI-03) Workshop on Ontologies and Distributed Systems</em>, Acapulco, Mexico, August 3, 2003.</li>
+<li>Anand Ranganathan and Roy H. Campbell, A Middleware for Context-Aware Agents in Ubiquitous computing Environments, <em>Proceedings of ACM/IFIP/USENIX International Middleware Conference</em>, Rio de Janeiro, Brazil, June 16-20, 2003, pp. 143-161 (2003)</li>
+<li>Manuel Roman and Roy H. Campbell, A Middleware-Based Application Framework for Active Space Applications,<em> Proceedings of ACM/IFIP/USENIX International Middleware Conference (Middleware 2003),</em> Rio de Janeiro, Brazil, June 16-20, 2003, pp. 433-454 (2003).</li>
+<li>Prasad Naldurg and Roy H. Campbell, Dynamic Access Control:  Preserving Safety and Trust in Network Defense Operations, in the<em> Proceedings of the Eighth ACM Symposium in Access Control Models and Technologies (ACM SACMAT '03),</em> Como, Italy, June 1-4, 2003.</li>
+<li>Christopher K. Hess and Roy H. Campbell, A Context-Aware Data Management System for Ubiquitous Computing Applications, In<em> International Conference on Distributed Computing Systems (ICDCS 2003)</em>, Providence, RI, May 19-22, 2003, pp. 169-178.</li>
+<li>Manuel Roman, Brian Ziebart, and Roy Campbell, Dynamic Application Composition:  Customizing the Behavior of an Active Space. In <em>IEEE International Conference on Pervasive Computing and Communications (PerCom 2003)</em>, Dallas-Fort Worth, TX, March 23-26, 2003.</li>
+<li>Jalal Al-Muhtadi, Anand Ranganathan, Roy Campbell, and M. Dennis Mickunas, Cerberus:  A Context-Aware Security Scheme for Smart Space,<em> First IEEE International Conference on Pervasive Computing and Communications (PerCom)</em>, Dallas-Fort Worth, TX, March 2003, pp. 489-496.</li>
+<li>Manuel Roman, Brian Ziebart, and Roy H. Campbell, Dynamic Application Composition:  Customizing the Behavior of an Active Space, <em>First IEEE Annual Conference on Pervasive Computing and Communications (PerCom)</em>, Dallas-Fort Worth, TX, March 2003, pp. 169-176.</li>
+<li>Geetanjali Sampemane, Prasad Naldurg, and Roy H. Campbell, Access Control for Active Spaces, In <em>Annual Computer Security Applications Conference (ACSAC2002)</em>, Las Vegas, NV, December 2002.</li>
+<li>Liu, Z., R.H. Campbell, and M.D. Mickunas, Security as services in active networks. , in ISCC. 2002. p. 883-890</li>
+<li>Manual Roman, Herbert Ho, and Roy H. Campbell, Application Mobility in Active Spaces, (<strong>Best Student Paper Award</strong>), <em>1st International Conference on Mobile and Ubiquitous Multimedia,</em> Oulu, Finland, December 2002.</li>
+<li>Roy Campbell, Jalal Al-Muhtadi, Prasad Naldurg, Geetanjali Sampemane, M. Dennis Mickunas, Towards Security and Privacy for Pervasive Computing,<em> International Symposium on Software Security (ISSS 2002)</em>, Keio University, Tokyo Japan, November 2002.</li>
+<li>Anand Ranganathan, Roy H. Campbell, Arathi Ravi, and Anupama Mahajan, ConChat:  A Context-Aware Chat Program, in <em>Pervasive Computing Mobile and Ubiquitous Systems</em>, IEEE Computer Society, Volume 1, Number 3, July- September 2002, pp. 51-57.</li>
+<li>Christopher Hess, Manuel Roman, and Roy H. Campbell, Building Applications for Ubiquitous Computing Environments,<em> International Conference on Pervasive Computing 2002</em>, Zurich, Switzerland, August 2002.</li>
+<li>Jalal Al-Muhtadi, Anand Ranganathan, Roy Campbell and M. Dennis Mickunas, A Flexible, Privacy-Preserving Authentication Framework for Ubiquitous Computing Environments, <em>The International Workshop on Smart Appliances and Wearable Computing (IWSAWC 2002)</em>, Vienna, Austria, July 2, 2002.</li>
+<li>Jalal Al-Muhtadi, Roy Campbell, Apu Kapadia, Dennis Mickunas, Seung Yi, Routing Through the Mist: Privacy Preserving Communication in Ubiquitous Computing Environments,<em> The International Conference of Distributed Computing Systems (ICDCS 2002),</em> Vienna, Austria, July 3, 2002.</li>
+<li>Manuel Roman and Roy H. Campbell, A Distributed Object-Oriented Application Framework for Ubiquitous Computing Environments,<em> 12th Workshop for PhD Students in Object-Oriented Systems</em>, Malaga, Spain, June 2002.</li>
+<li>Manuel Roman, Christopher K. Hess, and Roy H. Campbell, Gaia:  An OO Middleware Infrastructure For Ubiquitous Computing Environments, <em>5th ECOOP Workshop on Object-Oriented Operating Systems (ECOOP-OOOSWS'2002)</em>, June 2002.</li>
+<li>Prasad Naldurg, Roy H. Campbell, and D. Mickunas, Developing Dynamic Security Policies, <em>Proceedings of the 2002 DARPA Active Networks Conference and Exposition (DANCE 2002),</em> San Francisco, CA, USA, IEEE Computer Society Press, May 29-31, 2002.</li>
+<li>Renato Cerqueira, Cristina Ururahy, Christopher K. Hess, Dulcineia Carvalho, Manuel Rom&#225;n, Noemi Rodriguez, and Roy H. Campbell, Support for Mobility in Active Spaces, <em>Workshop on Middleware for Mobile Computing</em> (held in conjunction with the <em>IFIP/ACM International Conference on Distributed Systems Platforms and Open Distributed Processing</em>), November 2001, Heidelberg, Germany.</li>
+<li>Renato Cerqueira, Christopher K. Hess, Manuel Rom&#225;n, Roy H. Campbell, Gaia: A Development Infrastructure for Active Spaces, <em>Workshop on Application Models and Programming Tools for Ubiquitous Computing</em> (held in conjunction with the<em> UBICOMP 2001</em>), September 2001, Atlanta, USA.</li>
+<li>Fabio Kon and Tomonori Yamane and Christopher Hess and Roy Campbell and M. Dennis Mickunas, "Dynamic Resource Management and Automatic Configuration of Distributed Component Systems," <em>Proceedings of the 6th USENIX Conference on Object-Oriented Technologies and Systems (COOTS'2001),</em> San Antonio, TX, February.</li>
+<li>Manuel Roman and Fabio Kon and Roy Campbell, Reflective Middleware: From Your Desk to Your Hand,<em> IEEE Distributed Systems Online</em>, 2001, V. 2, 5, July.  Available at       \url http://computer.org/dsonline/0105/features/rom0105_1.htm</li>
+<li>Jalal Al-Muhtadi, Dennis Mickunas, Roy Campbell, Wearable Security Services,<em> ICDCS'2001,International Workshop on Smart Appliances and Wearable Computing (IWSAWC 2001),</em> (Scottsdale, AZ, April 16, 2001) (2001).</li>
+<li>Jalal Al-Muhtadi, Dennis Mickunas, Roy Campbell, A Lightweight Reconfigurable Security Mechanism for 3G Mobile Devices,<em> IEEE International Conference on 3rd Generation Wireless and Beyond (3Gwireless'01),</em> (San Francisco, CA, May 30, 2001)<em> IEEE Wireless Communications Magazine</em>, Vol. 9, No. 2 April 2002 (2002).</li>
+<li>Jalal Al-Muhtadi, Manish Anand, M. Dennis Mickunas, and Roy H. Campbell, Secure Smart Homes Using Jini and UIUC SESAME, <em>Proc. of the 16th Annual Computer Security Application Conference (ACSAC'2000), </em>(New Orleans, LA, December 2000) (2000).</li>
+<li>Zhaoyu Liu, Prasad Naldurg, Seung Yi, Roy H. Campbell, and M. Dennis Mickunas, Pluggable Active Security for Active Networks, <em>Twelfth IASTED International Conference on Parallel and Distributed Computing and Systems (PDCS 2000)</em>, (Las Vegas, NV, Nov. 2000) pp. 93-98 (2000).</li>
+<li>Fabio Kon Jalal Al-Muhtadi, Roy H. Campbell, and M. Dennis Mickunas, My Dream of Jini. <em>OOPSLA'2000 Workshop on Jini Pattern Language, </em>(Minneapolis, MN, October 2000) (2000).</li>
+<li>Manuel Roman and Roy H. Campbell, Gaia: Enabling Active Spaces,<em> Proc. of the 9th ACM SIGOPS European Workshop, </em>(Kolding, Denmark, Sept. 2000) pp. 229-234 (2000).</li>
+<li>Zhaoyu Liu,  Roy H. Campbell, and M. Dennis Mickunas, Securing the Node of an Active Network,  In <em>Active Middleware Services,</em> Salim Hariri, Craig Lee, and Cauligi Raghavendra (editors), Kluwer Academic Publishers,  (Boston, MA, September 2000) pp. 122-135 (2000).</li>
+<li>Fabio Kon, Binny Gill, Manish Anand, Roy H. Campbell, and M. Dennis Mickunas, Secure Dynamic Reconfiguration of Scalable CORBA Systems with Mobile Agents,<em> Proc. of the IEEE Joint Symposium on Agent Systems and Applications / Mobile Agents (ASA/MA'2000)</em> (Zurich, Switzerland, Sept. 2000) pp. 86-98 (2000)</li>
+<li>Fabio Kon, Roy H. Campbell, M. Dennis Mickunas, Klara Nahrstedt, and Francisco J. Ballesteros, 2K: A Distributed Operating System for Dynamic Heterogeneous Environments, <em>Proc. of the 9th IEEE International Symposium on High Performance Distributed Computing (HPDC'9)</em>, (Pittsburgh, PA, Aug. 2000) pp. 201-208 (2000).</li>
+<li>Dulcineia Carvalho, Fabio Kon, Francisco Ballesteros, Manuel Rom&#195;&#402;&#194;&#161;n, Roy Campbell And Dennis Mickunas, Management of Execution Environments in 2K,<em> Proc. of the Seventh International Conference on Parallel and Distributed Systems (ICPADS'2000)</em>, (Iwate, Japan, July 2000) pp. 479-485 (2000).</li>
+<li>Dulcinea Carvalho, Fabio Kon, Manuel Roman, Francisco Ballesteros, Christopher Hess, Roy Campbell and Dennis Mickunas, Interaction and Distribution of Execution Environments in 2K,<em> Fourth World Multiconference on Systemics, Cybernetics and Informatics, (SCI 2000),</em>  (Orlando, FL, July 2000) Information Systems Development VII-491-496 (2000).</li>
+<li>Christopher K. Hess, Francisco J. Ballesteros and Roy H. Campbell, An Adaptable Distributed File Service. <em>Proc. of the ECOOP PhD Workshop on Object Oriented Systems (PHDOOS'00)</em>, (Cannes, France, June 2000) (2000).</li>
+<li>Sudha K. Varadarajan, Tin Qian, and Roy H. Campbell, Dynamic, Distributed, Secure Multicast in Active Networks,<em>  IEEE International Conference on Communication,</em> (New Orleans, June 2000) (2000).</li>
+<li>Apu Kapadia, Jalal Al-Muhtadi, Roy H. Campbell, M. Dennis Mickunas, I-RBAC 2000:  Secure Interoperability using dynamic Role Translation, <em>Proc. of the International Conference on Internet Computing 2000, IC2000</em>, (Las Vegas, NV, June 2000) (2000).</li>
+<li>Manuel Rom&#195;&#161;n, Dennis Mickunas, Fabio Kon and Roy H. Campbell, LegORB and Ubiquitous CORBA, <em>Proc. of the IFIP/ACM Middleware'2000 Workshop on Reflective Middleware</em>, (Palisades, NY, April 1999) 1-2  (2000).</li>
+<li>C.K. Hess, D. Raila, and R. H. Campbell, Design and Performance of MPEG Streaming to Palmtop Computers in <em>Multimedia Computing and Networking 2000 (MMCN00)</em>. San Jose, CA 2000.</li>
+<li>Zhaoyu Liu, M. Dennis Mickunas, and Roy H. Campbell, Secure Information Flow in Mobile Bootstrapping Process. In the<em> International Workshop on Wireless Networks and Mobile Computing</em>, (Taipei, Taiwan, April 2000) D44-51 (2000).</li>
+<li>Zhaoyu Liu,  Roy H. Campbell, Sudha K. Varadarajan, Prasad Naldurg, Seung Yi, and M. Dennis Mickunas, Flexible Secure Multicasting in Active Networks. In the <em>International Workshop on Group Computation and Communications,</em> (Taipei, Taiwan, April 2000) C15-22 (2000).</li>
+<li>Fabio Kon, Manuel Roman, Ping Liu, Jina Mao, Tomonori Yamane, Luiz Claudio Magalhaes, and Roy H. Campbell, Monitoring, Security, and Dynamic Configuration with the dynamicTAO Reflective ORB, <em>Middleware 2000 Conference</em>, Springer-Verlag  (New York, NY, April 2000), LNCS 1795--121-143 (2000).</li>
+<li>Roy H. Campbell, Zhaoyu Liu, M. Dennis Mickunas, Prasad Naldurg, Seraphim:  Dynamic Interoperable Security Architecture for Active Networks, <em>The Third IEEE Conference on Open Architectures and Network Programming (OPENARCH 2000)</em>, (Tel-Aviv, Israel, March 2000) (2000).</li>
+<li>Zhaoyu Liu, Prasad Naldurg, Seung Yi, Tin Qian, Roy H. Campbell, and M. Dennis Mickunas, An Agent Based Architecture for Supporting Application Level Security, In the<em> DARPA Information Survivability Conference and Exposition</em>, (Hilton Head Island, SC,  January 2000) (2000).</li>
+<li>Fabio Kon and Roy H. Campbell, Automatic Configuration of Component-Based Distributed Systems, <em>OOPSLA '99 Doctoral Symposium </em>(Proceedings Companion), (Denver, CO, Nov. 1999) pp. 117-118 (1999).</li>
+<li>Manuel Roman, Ashish Singhai, Dulcineia Carvalho, Christopher Hess, and Roy H. Campbell, Integrating PDA's into Distributed Operating System:  2K and PalmORB,  <em>International Symposium on Handheld and Ubiquitous Computing (HUC '99)</em>, Springer-Verlag, (Karlsruhe, Germany, Sept. 1999) Vol. LCNS 1707, pp. 137-149 (1999).</li>
+<li>Marta Patino, Francisco Ballesteros, Ricardo Jimenez, Sergio Arevalo, Fabio Kon, and Roy Campbell, Batching:  A Design Pattern for Flexible and Efficient Client-Server Interaction, <em>Proceedings of the Conference on Pattern Languages of Programs (PLOP99)</em>, (Monticello, IL, Aug. 1999) 7:1-8 (1999).</li>
+<li>Christopher K. Hess, Fabio Kon, Roy H. Campbell, Manuel Roman, Dulcineia Carvalho, and Luiz Magalhaes, Dynamic Resource Management for Smart Environments:   The 2K Approach, <em>Inter-agency Workshop on Smart Environments</em>, Georgia Institute of Technology, (Atlanta, GA, July 25-26, 1999).</li>
+<li>Francisco J. Ballesteros, Christopher Hess, Fabio Kon, Sergio Arevalo, Roy H. Campbell, Object Orientation in Off++ - A Distributed Adaptable Kernel, the <em>2nd ECOOP Workshop on Object-Orientation and Operating Systems,</em> (Lisbon, Portugal, June 1999) pp. 49-53 (1999).</li>
+<li>Fabio Kon, Dulcineia Carvalho, and Roy H. Campbell, Automatic Configuration in the 2K Operating System, the <em>2nd ECOOP Workshop on Object-Orientation and Operating Systems</em>, (Lisbon, Portugal, June 1999) pp. 10-14 (1999).</li>
+<li>Christopher K. Hess and Roy H. Campbell, Media Streaming Protocol: An Adaptive Protocol for the Delivery of Audio and Video Over the Internet, accepted to the <em>6th International Conference on Multimedia Computing and Systems '99</em>, (Florence, Italy, June 1999) Vol. II, pp. 903-907 (1999).</li>
+<li>See-Mong Tan and Roy H. Campbell, Multimedia Support in Network Protocol Processing Subsystems", the <em>6th IEEE International Conference on Multimedia Computing and Systems '99</em>, Florence, Italy, June 1999) (1999).</li>
+<li>Fabio Kon and Roy Campbell, A Framework for Dynamically Configurable Multimedia Distribution,<em> Proceedings of the ECOOP '99 Workshop for PhD. Students in Object Oriented Systems</em>, (Lisbon, Portugal, June 1999) pp. 118-127 (1999).</li>
+<li>Roy Campbell, 2K:  an Operating System for the New Millennium, Keynote Speech in the <em>Proceedings of the ECOOP '99 Workshop on Object Orientation and Operating Systems,</em> (Lisbon, Portugal, June 1999) pp. 7-9 (1999).</li>
+<li>Manuel Roman, Fabio Kon, and Roy H. Campbell, Design and Implementation of Runtime Reflection in Communication Middleware:  the dynamicTAO Case,<em> Proceedings of The ICDCS '99 Workshop on Middleware</em>, (Austin, TX, June 1999) pp. 122-127 (1999).</li>
+<li>Fabio Kon and Roy H. Campbell, Supporting Automatic Configuration of Component-Based  Distributed Systems, <em>Proceedings of the 5th USENIX Conference on Object-Oriented Technologies and Systems (COOTS '99)</em>, ( San Diego, CA, May 1999) pp. 175-187 (1999).</li>
+<li>Roy Campbell and Tin Qian, Dynamic Agent-Based Security Architecture for Mobile Computers, <em>The Second International Conference on Parallel and Distributed Computing and Networks,</em> (Brisbane, Australia, Dec. 1998) (1998).</li>
+<li>Fabio Kon, Ashish Singhai, Roy H. Campbell, Dulcineia Carvalho, Robert Moore, and Francisco J. Ballesteros, 2K:  A Reflective, Component-Based Operating System for Rapidly Changing Environments, <em>ECOOP '98 Workshop on Reflective Object-Oriented Programming and Systems</em>. (Brussels, Belgium, July 1998) (1998).</li>
+<li>Francisco J. Ballesteros, Sergio Arevalo, Fabio Kon and Roy H. Campbell, Towards a Grand Unified Framework for Mobile Objects,<em> III ECOOP Workshop on Mobility and Replication</em>. (Brussels, Belgium, July 1998) (1998).</li>
+<li>Aamod Sane, Ashish Singhai, and Roy Campbell, End-to-End Considerations in Framework Design, the <em>12th European Conference on Object-Oriented Programming (ECOOP)</em>, (Brussels, Belgium, July 1998) (1998).</li>
+<li>Ashish Singhai, Aamod Sane, and Roy Campbell, Quarterware for Middleware, <em>International Conference on Distributed Computing Systems (ICDCS)</em>, (Amsterdam, The Netherlands, May 1998) pp. 192-201 (1998).</li>
+<li>Fabio Kon, Roy H. Campbell, See-Mong Tan, Miguel Valdez, Zhigang Chen, and Jim Wong, A Component-Based Architecture for Scalable Distributed Multicast, <em>Proceedings of  the 14th International Conference on Advanced Science and Technology (ICAST '98)</em>, (Naperville,  IL, April 1998) (1998)</li>
+<li>Roy Campbell, Dennis Mickunas, Tin Qian, and Zhaoyu Liu, An Agent-based Architecture  for Supporting Application Specific Security, in <em>Workshop on Research Directions for the  Next Generation Internet</em>, (Vienna, VA,  May 1997) (1997)</li>
+<li>Yongcheng Li, See-Mong Tan, Zhigang Chen, and Roy H. Campbell, Disk Scheduling for The Digital Library Object Server with Dynamic Request Priorities, the <em>Fourth International Conference on Parallel and Distributed Information Systems</em>, (Miami Beach, FL,  December 1996) (1996).</li>
+<li>W. S. Liao, S. M. Tan, and R. H. Campbell, Fine-grained, Dynamic User Customization of Operating Systems, in <em>Proceedings of the Fifth International Workshop on Object-Oriented in Operating Systems </em>(Seattle, WA, Oct. 1996) pp. 62-66 (1996).</li>
+<li>S. Tan, R. Campbell, Z. Chen, W. Liao, D. K. Raila, F. Kon, M. Valdez, Adaptation and  Synchronization in Low-Bandwidth Internet Video, in <em>World Wide Web Consortium Workshop on Real Time Multimedia in the WWW (RTMW '96)</em>,  (INRIA Sophia Antipolis, France, Oct. 1996) (1996)</li>
+<li>Mohlalefi Sefika, Aamod Sane, and Roy H. Campbell, Architecture-Oriented Visualization, <em>Conference on Object-Oriented Programming Systems, Languages & Applications</em>, (San Jose, CA, Oct. 1996) pp. 389-405 (1996).</li>
+<li>W. S. Liao and R. H. Campbell, An Interprocess Communications Design for Migrating  Objects, in <em>Proceedings of the Workshop on Mobility and Replication, ECOOP 96</em>, (Linz,  Austria, July 1996) (1996).</li>
+<li>Nayeem Islam, Amitabh Dave, and Roy H. Campbell, Communication Compilation for  Unreliable Networks,<em> 16th International Conference on Distributed Computing Systems</em>,  (Hong Kong, May 1996) pp. 188-195 (1996).</li>
+<li>Daniel Sturman, Theron Tock, Roy Campbell, Security, Delegation, and Extensibility, <em>16th International Conference on Distributed Computing Systems</em>, (Hong  Kong, May 27-30, 1996) (1996).</li>
+<li>Tin Qian, See-Mong Tan, Roy Campbell, An Integrated Architecture for Open Distributed Multimedia Computing, published in <em>Proceedings of the First International Workshop on Multimedia Software Development,</em> (Berlin, Germany, March 1996) pp. 24-30 (1996).</li>
+<li>Y. Li, Z. Chen, S. M. Tan and R. H. Campbell, Security Enhanced MPEG Player, published in <em>Proceedings of the First International Workshop on Multimedia Software Development,</em> (Berlin, Germany, March 1996) pp. 169-175 (1996).</li>
+<li>Mohlalefi Sefika, Aamod Sane, Roy Campbell, Monitoring Compliance of a Software System With Its High-Level Design Models, for presentation at the <em>18th International Conference on Software Engineering</em> held in (Berlin, Germany, March 1996) pp. 387-396 (1996).</li>
+<li>Z. Chen, S. M. Tan, R. H. Campbell and Y. Li, Real Time Video and Audio in the World  Wide Web, in <em>Fourth International World Wide Web Conference,</em> (Boston, MA,  Dec. 1995) pp. 333-348 (1995).</li>
+<li>Yongcheng Li, Varna Puvvada, and Roy Campbell, Dynamic Retrieval of Remote Digital  Objects,<em> Proceedings of Fourth International Conference on Information and Knowledge Management (CIKM'95),</em> (Baltimore, MD, Nov. 1995) pp. 182-187 (1995).</li>
+<li>Yongcheng Li and Roy Campbell, A Dynamic Priority-based Scheduling Method in Distributed Systems, <em>Proceedings of the International Conference on Parallel and  Distributed  Processing Techniques and Applications  (PDPTA'95)</em>, (Athens, Georgia, Nov. 1995) pp. 177-186 (1995).</li>
+<li>Aamod Sane and Roy Campbell, Object-Oriented State Machines, in <em>10th Annual OOPSLA Conference,</em> (Austin, TX, Oct. 1995) pp. 17-32 (1995).</li>
+<li>Mohlalefi Sefika and Roy H. Campbell, An Open Visual Model for Object-Oriented  Operating System, in <em>Fourth International Workshop on Object-Orientation in Operating  Systems</em>.  IEEE Computer Society Press. (Lund, Sweden, Aug. 1995) (1995).</li>
+<li>S. M. Tan, D. K. Raila and R. H. Campbell, An Object-Oriented Nano-Kernel for Operating System Hardware Support, in <em>Fourth International Workshop on Object-Orientation in Operating Systems '95</em>, IEEE Computer Society Press. (Lund, Sweden, Aug. 1995) pp. 220-223 (1995).</li>
+<li>Willy S. Liao, David M. Putzolu and Roy H. Campbell, Building a Secure, Location  Transparent Object Invocation System, in <em>Proceedings of International Workshop on Object-Orientation in Operating Systems '95</em>, IEEE Computer Society Press., (Lund,  Sweden, Aug. 1995) pp. 114-117 (1995).</li>
+<li>See-Mong Tan and Roy H. Campbell, Efficient Signalling Algorithms for ATM Networks, in<em> IFIP Third Workshop on Performance Modelling and Analysis of ATM Networks</em>, (Bradford, UK, July 1995)  International Federation for Information Processing, 26/1-26/11 (1995).</li>
+<li>Ashish Singhai and Roy Campbell, xMPI:  An MPI Implementation for ATM Networks, In <em>Second MPI Developers' Conference,</em> (Notre Dame, Indiana, June 1995). Available http://www.cse.nd.edu/mpidc95/proceedings/papers/postscript/singhai.ps</li>
+<li>Nayeem Islam and Roy H. Campbell, Techniques for Global Optimizations of Message Passing Communications on Unreliable Networks, In <em>15th International Conference on Distributed Computing Systems, </em>(Vancouver, BC, Canada, June 1995) pp. 246-253 IEEE Computer Society Press (1995).</li>
+<li>Roy Campbell, Daniel Sturman, and Theron Tock, Mobile computing, security and delegation, In the<em> International Workshop on Multi-Dimensional Mobile Communications,</em>  (Japan, Nov., 1994) (1994).</li>
+<li>Amitabh Dave, Nayeem Islam, and Roy H. Campbell, A Low-Latency Scalable Locking Algorithm for Shared Memory Multiprocessors, In <em>Sixth IEEE Symposium on Parallel and Distributed Processing, </em>(Dallas, TX, October 1994), IEEE Computer Society Press (1994).</li>
+<li>J. W. Lockwood, C. Cheong, S. Ho, B. Cox, S. M. Kang, S. G. Bishop, and R. H. Campbell, The iPOINT testbed for optoelectronic ATM networking.  In <em>Conference on Lasers and Electro-Optics, </em>(Baltimore, MD, 1993) pp. 370-371 (1993).</li>
+<li>McGrath, Robert E., Nayeem Islam, and Roy H. Campbell, Parallel Distributed Application Performance and Message Passing:  A case study, In <em>Symposium on Experiences With Distributed and Multiprocessor Systems</em>, (October 1993) pp. 73-88 (1993)</li>
+<li>Lim, Swee Boon, Lun Xiao, Roy H. Campbell, Distributed Access to Persistent Objects, In<em> International Conference on Decentralized and Distributed Systems, </em>(Palma de Mallorca, Spain, Sept. 1993) pp. 329-340 (1993).</li>
+<li>Islam, Nayeem and Roy Campbell, Uniform Co-Scheduling Using Object-Oriented Design Techniques, in<em> International Conference on Decentralized and Distributed Systems,</em> (Palma de Mallorca, Spain, Sept. 1993) pp. 317-328 (1993).</li>
+<li>Lun Xiao and Roy H. Campbell, Object-Oriented Transactions in Choices, <em>Proceedings of the 26th Hawaii International Conference on System Sciences</em>, vol. II, pp. 50-59,  (January 5-8, 1993), (1993).</li>
+<li>Peter Madany, Panos Kougiouris, Nayeem Islam, and Roy H. Campbell, Practical Examples of Reification and Reflection in C++, <em>Proceedings of the International Workshop On Reflection and Meta Level Architecture</em>, (Tokyo, Japan, Nov. 1992) pp. 76-81(1992).</li>
+<li>Nayeem Islam and Roy H. Campbell, Object-Oriented Framework Design and Implementation,<em> Conference on Object-Oriented Programming Systems, Languages, and Applications,</em> (Vancouver, British Columbia, Canada, Oct. 1992) tutorial. IEEE Computer Society Press (1992).</li>
+<li>Michael W. Condry, Swee Boon Lim, and Lup Yuen Lee, The Object-Oriented Advantage in Prototyping a Remote File System, <em>Proceedings of the Second International Workshop on Object-Oriented Operating Systems</em>, (Paris, France,  Sept. 1992) pp. 190-199 (1992).</li>
+<li>Amitabh Dave, Mohlalefi Sefika, and Roy H. Campbell, Proxies, Application Interfaces, and Distributed Systems,<em> Proceedings of The Second International Workshop on Object-Oriented Operating Systems</em>, (Paris, France, Sept. 1992) pp. 212-220 (1992).</li>
+<li>Roy H. Campbell and Nayeem Islam, A Technique for Documenting the Framework of an Object-Oriented System, <em>Proceedings of The Second International Workshop on Object-Oriented Operating Systems,</em> (Paris, France, Sept. 1992) pp. 288-300  (1992).</li>
+<li>Nayeem Islam and Roy H. Campbell, Design Considerations for Shared Memory Multiprocessor Message Systems, <em>Third Symposium on Experiences with Distributed and Multiprocessor Systems</em>, (Newport Beach, CA, March 1992) pp. 149-171 (1992)  (judged by the committee to be one of the two best papers.)</li>
+<li>Peter W. Madany and Roy H. Campbell, Organizing and Typing Persistent Objects within an Object-Oriented Framework, <em>Proceedings of the Twenty-fifth Annual Hawaii International Conference on System Sciences</em>, (Kauai, Hawaii, Jan. 1991) V-1:800-809 (1992).</li>
+<li>Roy H. Campbell, Nayeem Islam, Ralph Johnson, Panos Kougiouris and Peter Madany, Choices, Frameworks and Refinement,<em> Proceedings of the 1991 International Workshop on Object-Orientation in Operating Systems</em>, Luis-Felipe Cabrera, Vincent Russo, and Marc Shapiro, editors, (Palo Alto, CA, Oct. 1991) pp. 9-15 (1991).</li>
+<li>Hal Render and Roy Campbell, An Object-Oriented Model of Software Configuration Management, <em>Proceedings of the Third International Workshop on Software Configuration Management</em>,  (Trondheim, Norway, June 1991) pp. 127-139 (1991).</li>
+<li>Peter W. Madany, Roy H. Campbell, and Panagiotis Kougiouris, Experiences Building an Object-Oriented System in C++, Presented at<em> Technology of Object-Oriented Languages and Systems Conference '91</em>, Jean Bezivin and Bertrand Meyer, editor, (Paris, France, March 1991) pp. 35-49 (1991).</li>
+<li>Aamod Sane, Roy Campbell, and Ken MacGregor, Distributed Virtual Memory Consistency Protocols:  Design and Performance, presented at the<em> IEEE Workshop on Experimental Distributed Systems, </em>(Huntsville, AL, Oct. 1990) pp. 91-96 (1990).</li>
+<li>Vincent F. Russo, Peter W. Madany, and Roy H. Campbell, C++ and Operating Systems Performance:  A Case Study, <em>1990 USENIX C++ Conference,</em> (San Francisco, CA, April 1990) pp. 103-114 (1990).</li>
+<li>R. H. Campbell, H. S. Render, Formalizing Configuration Management with CLEMMA, <em>Proceedings of the International Conference on System Development Environments & Factories,</em> (Berlin, W. Germany, May 1989) (1989).</li>
+<li>H. S. Render, R. N. Sum, Jr., and R. H. Campbell, Integrated Configuration Management and Project Management in an Object-oriented Software Development Environment, <em>Proceedings of FedCASE 89</em>, (Gaithersburg,  MD, October 1989) (1989).</li>
+<li>G. M. Johnston and R. H. Campbell, An Object-Oriented Implementation of Distributed Virtual Memory, <em>Proceedings of the Workshop on Experiences with Building Distributed and Multiprocessor Systems,</em> (Ft, Lauderdale, FL, Oct. 1989) pp. 39-57 (1989).</li>
+<li>V. F. Russo and R. H. Campbell, Virtual Memory and Backing Storage Management in Multiprocessor Operating Systems Using Object-Oriented Design Techniques, <em>Proceedings  of the Conference on Object-Oriented Programming:  Systems, Languages, and Applications,</em> (New Orleans, LA, Oct. 1989) pp. 267-278 (1989).</li>
+<li>P. W. Madany, R. H. Campbell, V. F. Russo, and D. E. Leyens, A Class Hierarchy for Building Stream-Oriented File Systems,<em> Proceedings of the 1989 European Conference on Object-Oriented Programming,</em> (Editor Stephen Cook), Cambridge University Press, (Nottingham, UK, July 1989) pp. 311-328 (1989).</li>
+<li>G. M. Johnston and R. H. Campbell, A Multiprocessor Operating System Simulator, <em>Proceedings of the USENIX C++ Workshop,</em> (Denver, CO, Oct. 1988) pp. 169-182 (1988).</li>
+<li>P.W. Madany, D.E. Leyens, V.F. Russo, and R.H. Campbell, A C++ Class Hierarchy for Building UNIX-Like File Systems,<em> Proceedings of the UNIX C++ Workshop</em>, (Denver, CO, October 1988) pp. 65-79 (1988).  Also a departmental technical report UIUCDCS-88-1462.</li>
+<li>V. Russo, G. Johnston, and R. H. Campbell, Process Management and Exception Handling in Multiprocessor Operating Systems Using Object-Oriented Design Techniques,  <em>Proceedings on Object-Oriented Programming Systems, Languages, and Applications</em>, (San Diego, CA, Sept. 25-30, 1988) pp. 248-258 (1988).</li>
+<li>Hal S. Render and R. H. Campbell, CLEMMA:  The Design of a Practical Configuration Librarian, <em>Proceedings of CSM 88, Conference on Software Maintenance</em>, (Phoenix, AZ, October 24-27, 1988) pp. 222-228 (1988).</li>
+<li>R. H. Campbell,  V. Russo, and G. Johnston, Choices: The Design of a Multiprocessor Operating System, <em>Proceedings of the USENIX C++ Workshop</em>, (Santa Fe, NM, Nov. 8-10, 1987), 109-125. Conference, Software Engineering, University of Liverpool, July 11-15, 1988) pp. 55-63 (1988).</li>
+<li>S. M. Kaplan and R. H. Campbell, Designing and Prototyping in GRADS, In <em>Second IEE/BCS Conference on Software Engineering</em>, (University of Liverpool, July 1988) pp. 55-63 (1988).</li>
+<li>R. H. Campbell, H. Render, R. N. Sum, Jr., and R. B. Terwilliger, Automating the Software Development Process, <em>Proceedings of the 1988 ACM Computer Science Conference,</em> (Atlanta, GA, Feb. 1988) pp. 299-308 (1988)</li>
+<li>R. B. Terwilliger and R. H. Campbell, An Early Report on ENCOMPASS, <em>Proceedings of the 10th International Conference on Software Engineering</em>, (Singapore, April 1988) pp. 344-354 (1988).</li>
+<li>R. B. Terwilliger and R. H. Campbell, Rigorous Software Development Using PLEASE, <em>Annual   National Communications Forum,</em> (Sept. 1987) 41(2):1114-1118 (1987).</li>
+<li>R. H. Campbell, G. Johnston, K. Kenny, G. Murakami, and V. Russo, Choices (Class Hierarchical Open Interface for Custom Embedded Systems), In <em>Fourth Workshop on Real-Time Operating Systems, </em>(Cambridge, MA, July 1987) pp. 12-18 (1987).</li>
+<li>R. B. Terwilliger and R. H. Campbell, PLEASE: a Language for Incremental Software Development, <em>The Fourth International Workshop on Software Specification and Design</em>, (Monterey, CA, April 1987)   pp. 249-256 (1987).</li>
+<li>J. E.  Grass and R. H. Campbell, Mediators: A Synchronization Mechanism, <em>Proc. of Sixth International Distributed Computing Systems</em>, IEEE, (Cambridge, MA, May 19-23, 1986) pp. 468-477 (1986).</li>
+<li>R. B. Terwilliger and R. H. Campbell, PLEASE: Predicate Logic based ExecutAble SpEcifications. <em> Proceedings of the 1986 ACM Computer Science Conference, </em>(Feb. 1986) pp. 349-358 (1986).</li>
+<li>R. B. Terwilliger and R. H. Campbell, ENCOMPASS: a SAGA Based Environment for the Composition of Programs and Specifications. <em>Proceedings of the 19th Hawaii International Conference on System Sciences,</em> Honolulu, Hawaii, (January 1986) 436-447.  Republished as abstract in <em>Fourteenth ACM Computer Science Conference</em>, (Feb 1986) (1986).</li>
+<li>D. H. Hammerslag, S. N. Kamin and R. H. Campbell, Tree-Oriented Interactive Processing with an Application to Theorem-Proving,<em>  Proceedings of the Second ACM/IEEE Conference on Software Development Tools, Techniques, and Alternatives,</em> (Dec. 1985) pp. 199-206 (1985).</li>
+<li>R. H. Campbell and W. J. Kubitz, The Professional Workstation Project, <em>Proceedings of the 1st IEEE Conference on Computer Workstations</em>, Nov. 1985) pp. 222-230 (1985).</li>
+<li>M. V. Devarakonda, R. E. McGrath, R. H. Campbell, and W. J. Kubitz, Networking a Large Number of Workstations Using UNIX United, <em>Proceedings of the 1st IEEE Conference on Computer Workstations</em>, (Nov. 1985) (1985).</li>
+<li>G. M. Beshers and R. H. Campbell, Maintained and Constructor Attributes, <em>Proceedings of the ACM SIGPLAN 85 on Language Issues in Programming Environments</em>, (June 1985) SIGPLAN Notices, 20(7):34-42 (1985).</li>
+<li>P. A. Kirslis, R. B. Terwilliger and R. H. Campbell,  The SAGA Approach to Large Program Development in an Integrated Modular Environment,<em> Proceedings of the GTE Workshop on Software Engineering Environments for Programming-in-the-Large</em>, (Harwichport, MA., June 1985) pp. 44-53. Republished as abstract in <em>19th Hawaii International Conference on System Science</em>s, (January 1986) (1986).</li>
+<li>R. H. Campbell, A. M. Koelmans, and M. R. McLauchlan, STRICT: A Design Language for Strongly Typed Recursive Integrated CircuiTs, (Editor J. Mavor and H. Keinhadjian), <em>IEEE Proceedings on Solid State and Electron Devices</em>, (March/April 1985) Vol. 132, Pts. E and I, No. 2 (1985).</li>
+<li>P. Jalote and R. H. Campbell, Atomic Actions in Concurrent Systems, <em>Proceedings of the  5th International Conference on Distributed Computing Systems</em>, (Denver, CO, May 1985) (1985).</li>
+<li>R. N. Sum, R. H. Campbell and W. J. Kubitz, An Approach to Operating System Testing, <em>Proceedings of the Ninth Annual Software Engineering Workshop, AIAA</em>, (Goddard, MD, Nov. 1984) pp. 136-155 (1984).</li>
+<li>R. H. Campbell and  W. J. Kubitz,  XENIX, Graphics and Ethernet for the Professional Workstation, <em>Proceedings of the Eight University Study Conference,</em> IBM, (Ft. Lauderdale, FL, October 1984) (1984).</li>
+<li>Roy H. Campbell and P. E. Lauer, RECIPE: Requirements for an Evolutionary Computer-based Information Processing Environment. <em>Proceedings of the IEEE Software Process Workshop</em>, 67-76 (1984).</li>
+<li>P. Jalote and R. H. Campbell, Fault Tolerance using Communicating Sequential  Processes, <em>14th International Conference on Fault-Tolerant Computing (FTCS-14)</em>, (Orlando, FL, June 1984) pp. 347-352 (1984).</li>
+<li>R. H. Campbell and P. A. Kirslis, The SAGA Project: A System for Software Development, <em>Proceedings of the ACM SIGSOFT/SIGPLAN Software Engineering Symposium on Practical Software Development Environments</em>, (May 1984), Software Engineering Notes, 9(3):73-80, SIGPLAN Notices, Vol. 19, No. 5 (1984).</li>
+<li>M. D. Mickunas, P. Jalote and R. H. Campbell,  The Delay/Re-read Protocol for Concurrency Control in Databases, <em>Proceedings of the First International Conference on  Computer Data Engineering (COMPDEC)</em>, (Los Angeles, CA, April 1984) pp. 307-314 (1984).</li>
+<li>R. H. Campbell and W. J. Kubitz, The IBM Professional Workstation Project, <em>Proceedings of the Eight University Study Conference</em>, IBM, (Raleigh, NC, Oct. 1983) pp. 296-306 (1983).</li>
+<li>R. H. Campbell and T. Anderson, Practical Fault Tolerant Software for Asynchronous  Systems, <em>SAFECOMP 83, Third International IFAC Workshop on Achieving Safe Real-time Computer Systems</em>, Pergamon Press, (Oxford, England, 1983) (1983).</li>
+<li>A. Liestman and R. H. Campbell, A Fault Tolerant Scheduling Problem, <em>Digest of Papers FTCS-13: Thirteenth Annual International Symposium on Fault-Tolerant Computing</em>, (Milano Italy, June 1983) (1983).</li>
+<li>W. Y. Cheng, S. Ray, R. Kolstad, J. Luhukay, R. Campbell, and J. W-S. Liu,  ILLINET-A 32 Mbits/sec. local-area network, <em>Proceedings of the 1981 National Computer Conference</em>, (Chicago, IL, May 1981) pp. 209-214 (1981).</li>
+<li>A.Y. Wei, K. Hiraishi, R. Cheng, R. H. Campbell, Application of the Fault-Tolerant Deadline Mechanism to a Satellite On-Board Computer System, <em>Digest of Papers FTCS-10: Tenth International Symposium on Fault-Tolerant Computing</em>, (Kyoto Japan, October, 1980) (1980).</li>
+<li>R. H. Campbell and P. Richards, SAGA: A System to Automate the Management of  Software Production, <em>Proceedings of 1981 National Computer Conference</em>, (Chicago, IL, May 1981) pp. 231-234 (1981).</li>
+<li>R. Balocca and R. H. Campbell, PP-11, A Path Pascal Language System for the PDP-11, In<em> Proceedings of the Eighth Texas Conference on Operating Systems</em>, (Dallas, TX, Nov. 1979) (1979). (acceptance rate 100%)</li>
+<li>R. H. Campbell and R. B. Kolstad, Path Expressions in Pascal, In <em>Proceedings of the Fourth International Conference on Software Engineering</em>, (Munich, Germany, Sept. 1979) pp. 212-219 (1979). (acceptance rate 15%)</li>
+<li>R. H. Campbell, K. Horton, and G. G. Belford, Simulations of a Fault-Tolerant Deadline Mechanism, <em>Digest of Papers FTCS-9: Ninth Annual International Symposium on Fault-Tolerant Computing</em>, (Madison WI, June 1979) pp. 95-102 (1979).</li>
+<li>R. H. Campbell and R. B. Kolstad, Practical Applications of Path Expressions to Systems Programming, <em>ACM79</em>, (Detroit, MI, 1979) pp. 81-87 (1979) (acceptance rate 15%)</li>
+<li>K. H. Horton, R. H. Campbell, and G. G. Belford, Meeting Real-time Deadlines, <em>Proceedings of Computers, Electronics and Control,</em> ACTA Press, Calgary, 1979.</li>
+<li>P. E. Lauer and R. H. Campbell, A Description of Path Expressions by Petri Nets, <em>Second ACM Symposium on Principles of Programming Languages</em>,  (Palo Alto, CA, Jan. 1975) 955 (1975) (acceptance rate 23%)</li>
+</ul>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		<h2>Other Scholarly Activities</h2>
+<ul>
+<li>ARM 2008</li>
+</ul>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<h2>Honors</h2>
+<ul>
+<li>Certificate of Honor and Appreciation for Outstanding Contribution as a PC Chair for IEEE IC2E 2013</li>
+<li>Pervasive 2012 Ten Year Impact Award</li>
+<li>ACM Recognition of Service Award 2010 in Appreciation for Contributions to ACM Chair Middleware'09</li>
+<li>IEEE Certificate of Appreciation 2009 in recognition and appreciation of services and contributions to IEEE Central Illinois Section</li>
+<li>ACM Recognition of Service Award 2008 in Appreciation for Contributions to ACM Program Co-Chair Middleware'07</li>
+<li>IEEE Fellow, 2005</li>
+<li>Sohaib and Sara Abbasi Professor, 2004</li>
+<li>UIUC Professionals certification NSTISSI No. 4011 for the academic year 2003-2006, 2007-2010</li>
+<li>UIUC National Training Standards for Information Systems Security (INFOSEC), 2003-2006, 2007-2010</li>
+<li>UIUC recognition as an NSA Center of Excellence in Information Assurance Education, 2000-2003, 2003-2006, 2007-2010</li>
+<li>Information Technology Committee to the Illinois Terrorism Task Force, 2002, 2003</li>
+<li>Advanced technologies Group, Apple External research Accelerating Innovation Award 1991</li>
+<li>Aug. 1982-Aug. 1983:  Senior Visiting Research Fellowship at University of Newcastle upon Tyne, Science and Engineering Research Council of Great Britain.</li>
+<li>May 1981-Aug. 1981:  Senior Visiting Research Fellowship at the University of Newcastle upon Tyne, Science and Engineering Research Council of Great Britain.</li>
+<li>Technical Brief, "Path Pascal," June 1982.</li>
+<li>Certificate of Recognition for the Creative Development of a Technical Innovation, Published in NASA</li>
+</ul>
+
+		
+		
+		
+		
+		
+		<h2>Courses Taught - Last Four Years</h2>
+<ul><li>CS 498 - Data Science & Analytics</li>
+<li>CS 498 - Digital Forensics</li>
+<li>CS 523 - Advanced Operating Systems</li>
+<li>CS 591 - Advanced Seminar</li>
+<li>CS 591 - Cloud Computing Research</li>
+<li>CS 591 - Security Reading Seminar</li>
+<li>CS 598 - Ethical Thinking-Cyber Space</li>
+<li>CS 598 - Health Data Analysis</li>
+<li>LAW 797 - Digital Forensics</li>
+<li>LAW 797 - Digital Forensics II</li>
+</ul>
+	</div>
+
+
+</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile w110 white-box   py-5 " id="tile7058" data-tileid="7058" >
+	<div class="lower     " id="lower7058">
+		<div class="row">
+			<div class="col-md column1      " >
+				<h2 class="text-center">Related News</h2>
+<div id="faculty-news" class="tile-list"><section class="tile news w25 platinum-box" id="page38452" data-pageid="38452" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=51779);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/nahrstedt-team-sensing-edge-based-cyber-infrastructure-clean-labs">Nahrstedt and Team Create Sensing and Edge-Based Cyber-Infrastructure to Maintain Ultra-Clean Labs  </a></h2>
+				<p class="first"><a href="/news">News</a> | June 3, 2021</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile news w25 platinum-box" id="page19095" data-pageid="19095" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=27491);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/basu-campbell-machine-learning-model-predicts-covid-19-spread-and-mitigation-strategies">Basu, Campbell's Machine Learning Model Predicts COVID-19 Spread and Mitigation Strategies</a></h2>
+				<p class="first"><a href="/news">News</a> | October 6, 2020</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile news w25 platinum-box" id="page14247" data-pageid="14247" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=18195);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/midwest-collaboration-iquist-awarded-25-million-quantum-information-institute">Midwest Collaboration, Led by IQUIST, Awarded $25 Million Quantum Information Institute</a></h2>
+				<p class="first"><a href="/news">News</a> | July 21, 2020</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile news w25 platinum-box" id="page5873" data-pageid="5873" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=9879);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/after-43-years-roy-campbell-retires-legacy-innovation-leadership-will-remain">After 43 Years, Roy Campbell Retires, But Legacy of Innovation, Leadership Will Remain</a></h2>
+				<p class="first"><a href="/news">News</a> | June 7, 2019</p>
+			</div>
+		</div>
+	</div>
+</section>
+</div>
+<p>&nbsp;</p>
+<p class="text-center"><a class="button orange loader" href="#" data-target="faculty-news" data-template="81" data-bookid="81" data-return="4" data-filter-field="netid" data-filter-value="rhc">Load more news</a></p>
+			</div>
+		</div>
+	</div>
+</section>
+
+						</div>
+					</div>
+				</main>
+			</div>
+
+			<footer>
+							<div class="container-fluid maxwidth1140">
+				<div class="row pt-5 pb-3">
+					<div class="col-lg-5 mb-5">
+						<div class="campus_wordmark"><a href="http://illinois.edu/"><img src="https://ws.engr.illinois.edu/images/uiuc-footer-wordmark.png" alt="University of Illinois Urbana Champaign"></a></div>
+					</div>
+
+					<div class="col-lg-7 mb-4 socials">
+						<a href="https://www.facebook.com/CSatIllinois/"><i class="fab fa-facebook-f"></i><span class="sr-only">Facebook</span></a>
+						<a href="https://twitter.com/IllinoisCS"><i class="fab fa-twitter"></i><span class="sr-only">Twitter</span></a>
+						<a href="https://www.youtube.com/user/IllinoisCS"><i class="fab fa-youtube"></i><span class="sr-only">YouTube</span></a>
+						<a href="https://www.linkedin.com/school/illinoiscs"><i class="fab fa-linkedin-in"></i><span class="sr-only">LinkedIn</span></a>
+						<a href="https://www.instagram.com/illinoiscs/"><i class="fab fa-instagram"></i><span class="sr-only">Instagram</span></a>
+						<div class="w-100 d-block d-lg-none"></div>
+						<a href="/about/contact-us" class="button">Contact Us</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="container-fluid maxwidth1140">
+				<div class="row pb-5 justify-content-between">
+					<div class="col-md pr-xl-5 mb-5 college_container">
+
+						<div class="contact">
+							<p><span class="fs150x"><a href="https://cs.illinois.edu">Thomas M. Siebel Center for Computer Science</a></span><br />
+                                                       201 North Goodwin Avenue MC 258<br />
+                                                        Urbana, IL 61801-2302<br />
+                                                         ph: 217-333-3426 (general) | 217-333-4428 (advising) <br />
+                                                         fax: 217-333-3501</p>
+                                                        <p> General email: <a href="mailto:admin@cs.illinois.edu">admin@cs.illinois.edu</a><br />
+                                                         Graduate Advising: <a href="mailto:academic@cs.illinois.edu">academic@cs.illinois.edu</a><br />
+                                                         Undergraduate Advising: <a href="mailto:undergrad@cs.illinois.edu">undergrad@cs.illinois.edu</a><br />
+                                                          Webmaster: <a href="mailto:grainger-marcom@illinois.edu?subject=CS Request">grainger-marcom@illinois.edu</a></p>
+							<p><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a><br />
+							<a href="https://illinois.edu">University of Illinois</a></p>
+
+						</div>
+					</div>
+
+
+					<div class="col-md pr-xl-5 my-5 concentrations">
+                                 	
+					</div>
+				</div>
+			</div>
+
+				<div class="container-fluid" id="legal">
+					<div class="row justify-content-md-center align-items-center py-4">
+
+						<div class="col-md-auto">
+							<div><button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Preferences</button></div>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Copyright &copy; 2021 University of Illinois Board of Trustees</p>
+						</div>
+
+						<div class="col-md-auto">
+							<p><a href="https://grainger.illinois.edu/cookie-policy">Cookie Policy</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy</a></p>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Powered by <a href="https://my.engr.illinois.edu/sitemanager/editpage.asp?id=11846">SiteManager</a> | <a href="mailto:grainger-marcom@illinois.edu">Contact Webmaster</a></p>
+						</div>
+					</div>
+				</div>
+
+				<div id="gototop" class="hidden">
+					<a href="#"><i class="fa fa-chevron-up"></i><span class="sr-only">Go to top</span></a>
+				</div>
+			</footer>
+		</div>
+
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+		<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax-video.min.js"></script>
+		<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+		<script src="https://cdn.datatables.net/responsive/2.2.5/js/dataTables.responsive.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.0/circle-progress.min.js'></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/twbs-pagination/1.4.2/jquery.twbsPagination.min.js'></script>
+		<script src="https://ws.engr.illinois.edu/sitemanager/genscripts.js?v=2.660.676"></script>
+		<script src="/js/scripts.js?v=0.27"></script>
+
+		<script async="async" src="https://enroll.illinois.edu/ping"></script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-9571262-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-9571262-1');
+</script>
+
+		
+	</body>
+</html>
+
+

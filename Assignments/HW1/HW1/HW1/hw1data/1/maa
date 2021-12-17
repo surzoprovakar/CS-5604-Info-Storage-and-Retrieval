@@ -1,0 +1,974 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Mark A Anastasio
+ | Computer Science | UIUC</title>
+		<link rel="shortcut icon" type="image/x-icon" href="//ws.engr.illinois.edu/images/favicon.ico">
+
+		<meta name="description" content="Mark A Anastasio
+">
+		<meta name="author" content="Grainger Engineering Office of Marketing and Communications">
+
+		<!-- meta tags for mobile devices -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">  
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+				<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="26be7d61-2017-4ea7-8a8b-8f1704889763"></script>
+		<script type="text/javascript"> function OptanonWrapper() { } </script>
+
+		<meta property="og:type" content="article" />
+<meta property="og:title" content="Mark A Anastasio
+" />
+<meta property="og:description" content="Mark A Anastasio
+" />
+<meta property="og:url" content="https://cs.illinois.edu/about/people/all-faculty/*" />
+<meta property="og:image" content="https://ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=12050" />
+
+
+		<!-- fonts -->
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i,900,900i%7cBarlow+Condensed%7cPlayfair+Display%7cMontserrat:400,500,600,700,800%7cFjalla+One%7cLexend+Exa%7cMontserrat+Alternates:400,700">
+		<script src="https://kit.fontawesome.com/64a62210ef.js"></script>
+
+		<!-- stylesheets -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.5/css/responsive.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://ws.engr.illinois.edu/sitemanager/gensite.css?v=2.671.281">
+		<link rel="stylesheet" type="text/css" href="/css/styles.css?v=0.19">
+
+				<!-- Global site tag (gtag.js) - Google Ads: 1011414001 -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1011414001"></script>
+		<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-1011414001'); </script> 
+		<!-- Event snippet for Outbound Google Ads click conversions -->
+		<script> function gtag_report_conversion(url) {var callback = function () {if (typeof(url) != 'undefined') {window.location = url;}};gtag('event', 'conversion', {'send_to': 'AW-1011414001/YNxnCM-1kfMBEPHno-ID','event_callback': callback});return false;} </script>
+		
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	</head>
+
+	<body class="site prod about people all-faculty maa  isattop theme_dagobah" data-sidebar="" data-sidebarskip="[sidebarskip]" data-sidebarinclude="[sidebarinclude]">
+		<div id="page">
+			
+			<header>
+				<div id="skiptocontent"><a href="#content">skip to main content</a></div>
+
+				<div class="container-fluid campus">
+					<div class="row mx-auto maxwidth1140">
+						<div class="col p-0">
+							<a href="http://illinois.edu/"><span>University of Illinois Urbana-Champaign</span></a>
+						</div>
+						<div id="featurelinks" class="col p-0 text-right">
+							<ul>
+	<li><a href="/alumni">Alumni</a></li>
+	<li><a href="/corporate">Corporate</a></li>
+       <li><a href="/about/people">People</a></li>
+	<li><a href="https://my.cs.illinois.edu">My.CS</a></li>
+</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="container-fluid site">
+					<div class="row wordmark d-flex flex-nowrap align-items-center">
+						<div class="d-flex flex-fill pr-3">
+							<div class="blocki"><a href="https://illinois.edu">University of Illinois at Urbana-Champaign</a></div>
+							<div class="site_identification">
+								<div class="parent_name"><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a></div>
+								<div class="site_name"><a href="/"><span>Computer Science</span></a></div>
+							</div>
+						</div>
+
+						<div class="d-flex align-items-center">
+							<div id="header-search-container" class="d-none d-lg-block site-search">
+								<form class="form-inline" method="get" action="/search" id="search-form">
+									<div class="input-group">
+										<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="header-search-go-button">
+										<div class="input-group-append">
+											<a href="/search" onclick="$('#header-search-container form').submit(); return false;" class="input-group-text" id="header-search-go-button"><i class="far fa-search"></i><span class="sr-only">Search</span></a>
+										</div>
+									</div>
+								</form>	
+							</div>
+
+							<div id="mainnav-toggler-container">
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainnav" aria-controls="mainnav" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="icon"></span> <span class="label sr-only">Menu</span>
+								</button>
+							</div>
+						</div>
+					</div>
+					<nav class="navbar navbar-expand-lg p-0">
+<div class="collapse navbar-collapse" id="mainnav">
+<form class="d-block d-lg-none" method="get" action="/search" id="mobile-search-form">
+<div class="form-row p-3">
+<div class="col">
+<div class="input-group">
+<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="mobile-search-go-button">
+<div class="input-group-append">
+<a href="/search" onclick="$('#mobile-search-form').submit(); return false;" class="input-group-text" id="mobile-search-go-button"><i class="far fa-search" aria-hidden="true"></i><span class="sr-only">Search</span></a>
+</div>
+</div>
+</div>
+</div>
+</form>
+<ul class="navbar-nav w-100">
+<li class="dropdown mega twocol nav-item">
+<a href="/about" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>About</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-about">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/about">About</a></h2>
+<ul class="about ">
+<li><a href="/about/cs-cares">CS CARES Committee</a></li>
+<li><a href="/about/values">Values & Code of Conduct</a></li>
+<li><a href="/about/statistics">Rankings & Statistics</a></li>
+<li><a href="/about/contact-us">Contact Us & Directions</a></li>
+<li class="dropdown"><a href="/about/people">People</a><ul class="people ">
+<li><a href="/about/people/all-faculty">All Faculty</a></li>
+<li><a href="/about/people/department-faculty">Department Faculty</a></li>
+<li><a href="/about/people/affiliate-faculty">Affiliate Faculty</a></li>
+<li><a href="/about/people/adjunct-faculty">Adjunct Faculty</a></li>
+<li><a href="/about/people/postdocs">Postdocs</a></li>
+<li><a href="/about/people/emeritus-faculty">Emeritus Faculty</a></li>
+<li class="dropdown"><a href="/about/people/staff">Staff</a><ul class="staff ">
+<li><a href="/about/people/staff/office-department-head">Office of the Department Head</a></li>
+<li><a href="/about/people/staff/communications-engagement-team">Communications &amp; Engagement Team</a></li>
+<li><a href="/about/people/staff/undergraduate-advising-office">Undergraduate Advising Office</a></li>
+<li><a href="/about/people/staff/graduate-advising-office">Graduate Advising Office</a></li>
+<li><a href="/about/people/staff/instructional-development-team">Instructional Development Team</a></li>
+<li><a href="/about/people/staff/business-office">Business Office</a></li>
+<li><a href="/about/people/staff/faculty-support-contacts">Faculty Support Contacts</a></li>
+<li><a href="/about/people/staff/facilities-shipping-and-receiving">Facilities, Shipping and Receiving</a></li>
+</ul>
+</li>
+<li><a href="/about/people/graduating-phd-students">Graduating PhD Students</a></li>
+<li><a href="/about/people/recent-phd-alumni">Recent PhD Alumni</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/positions">Open Positions</a><ul class="positions ">
+<li><a href="/about/positions/faculty-positions">Faculty Positions</a></li>
+<li><a href="/about/positions/postdoctoral">Postdoctoral Positions</a></li>
+<li><a href="/about/positions/staff-positions">Staff Positions</a></li>
+<li><a href="/about/positions/choose-illinois-computer-science">Choose Illinois Computer Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/calendar">Calendar</a><ul class="calendar ">
+<li><a href="/about/calendar/all">All Events</a></li>
+<li><a href="/about/calendar/corporate">Corporate Events</a></li>
+<li><a href="/about/calendar/department">Department Events</a></li>
+<li><a href="/about/calendar/graduate">Graduate Events</a></li>
+<li><a href="/about/calendar/outreach">Outreach Events</a></li>
+<li><a href="/about/calendar/speakers">Speakers</a></li>
+<li><a href="/about/calendar/student-groups">Student Group Events</a></li>
+<li><a href="/about/calendar/undergraduate">Undergraduate Events</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards">Awards</a><ul class="awards ">
+<li><a href="/about/awards/celebration">Celebration of Excellence</a></li>
+<li class="dropdown"><a href="/about/awards/faculty-awards">Faculty Awards</a><ul class="faculty-awards ">
+<li><a href="/about/awards/faculty-awards/chairs-and-professorships">Chairs and Professorships</a></li>
+<li><a href="/about/awards/faculty-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/faculty-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards/undergraduate-scholarships-awards">Undergraduate Scholarships &amp; Awards</a><ul class="undergraduate-scholarships-awards ">
+<li><a href="/about/awards/undergraduate-scholarships-awards/shieh-li-scholarship">Ruey-Feng Shieh Li Family Scholarship</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/graduate-fellowships-awards">Graduate Fellowships &amp; Awards</a></li>
+<li class="dropdown"><a href="/about/awards/alumni-awards">Alumni Awards</a><ul class="alumni-awards ">
+<li><a href="/about/awards/alumni-awards/alumni-awards-past-recipients">Alumni Awards Past Recipients</a></li>
+<li><a href="/about/awards/alumni-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/alumni-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/staff-awards">Staff Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/history-timeline">History Timeline</a></li>
+<li><a href="/about/accreditation">Accreditation</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/admissions" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Admissions</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-admissions">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/admissions">Admissions</a></h2>
+<ul class="admissions ">
+<li class="dropdown"><a href="/admissions/undergraduate">Undergraduate Admissions</a><ul class="undergraduate ">
+<li><a href="https://admissions.illinois.edu/apply">Apply Now</a></li>
+<li><a href="/academics/undergraduate/degree-program-options">Degree & Program Options</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/dates">Application Deadlines</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/process">Applications Process & Requirements</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+<li><a href="https://www.housing.illinois.edu">Housing</a></li>
+<li><a href="/about-us/accreditation">Accreditation</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/admissions/graduate">Graduate Admissions</a><ul class="graduate ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+<li class="dropdown"><a href="/admissions/graduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/admissions/graduate/degree-program-options/professional-master-computer-science-mcs-program">Professional Master of Computer Science (MCS) Program</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-deadlines">Application Deadlines</a></li>
+<li class="dropdown"><a href="/admissions/graduate/applications-process-requirements">Applications Process &amp; Requirements</a><ul class="applications-process-requirements ">
+<li><a href="/admissions/graduate/applications-process-requirements/additional-required-application-materials">Additional Required Application Materials for International Students</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/application-fee-waivers">Application Fee Waivers</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/data-structures-proficiency-exam">Data Structures Proficiency Exam</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-checklist">Application Checklist</a></li>
+<li class="dropdown"><a href="/admissions/graduate/faqs">FAQs</a><ul class="faqs ">
+<li><a href="/admissions/graduate/faqs/ican-faqs">iCAN FAQs</a></li>
+<li><a href="/admissions/graduate/faqs/online-mcs-faqs">Online MCS FAQs</a></li>
+</ul>
+</li>
+<li><a href="https://choose.illinois.edu/apply/">Check Application Status</a></li>
+</ul>
+</li>
+<li><a href="/admissions/impact-illinois-cs-degree">Impact of an Illinois CS Degree</a></li>
+<li><a href="/admissions/financial-aid">Financial Aid</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/academics" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Academics</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-academics">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/academics">Academics</a></h2>
+<ul class="academics ">
+<li class="dropdown"><a href="/academics/undergraduate">Undergraduate Academics</a><ul class="undergraduate ">
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/academics/undergraduate/degree-program-options/bs-computer-science">B.S. in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-mathematics-computer-science">B.S. in Mathematics &amp; Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-statistics-computer-science">B.S. in Statistics &amp; Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs">CS + X Degree Programs</a><ul class="cs-x-degree-programs ">
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-advertising">Computer Science + Advertising</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-animal-sciences">Computer Science + Animal Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-anthropology">Computer Science + Anthropology</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-astronomy">Computer Science + Astronomy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-chemistry">Computer Science + Chemistry</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-crop-sciences">Computer Science + Crop Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-economics">Computer Science + Economics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-geography">Computer Science + Geography &amp; Geographic Information Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-linguistics">Computer Science + Linguistics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-music">Computer Science + Music</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-philosophy">Computer Science + Philosophy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/cs-x-degree-requirements">CS + X Degree Requirements &amp; Planning Forms</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-undergraduate-degree-options-faq">CS Undergraduate Degree Options FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/registration">Registration</a><ul class="registration ">
+<li><a href="/academics/undergraduate/registration/cs-course-restrictions-enrollment-caps">CS Course Restrictions &amp; Enrollment Caps</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/policies-and-procedures">Policies and Procedures</a></li>
+<li><a href="/academics/undergraduate/undergraduate-advising">Undergraduate Advising</a></li>
+<li><a href="/academics/undergraduate/cs-student-opportunity-series-cs-sos">CS Student Opportunity Series (CS SOS)</a></li>
+<li><a href="/academics/undergraduate/undergraduate-forms">Undergraduate Forms</a></li>
+<li><a href="/academics/undergraduate/honors">Honors</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate">Graduate Academics</a><ul class="graduate ">
+<li class="dropdown"><a href="/academics/graduate/phd-program">PhD Program</a><ul class="phd-program ">
+<li><a href="/academics/graduate/phd-program/final-exam-thesis-defense">Final Exam (Thesis Defense)</a></li>
+<li><a href="/academics/graduate/phd-program/guidelines-forming-phd-committee">Guidelines for Forming Ph.D. Committee</a></li>
+<li><a href="/academics/graduate/phd-program/phd-ms-thesis-format-review-guidelines">Ph.D. / M.S. Thesis Format Review Guidelines</a></li>
+<li><a href="/academics/graduate/phd-program/phd-program-study-process">PhD Program of Study Process</a></li>
+<li><a href="/academics/graduate/phd-program/phd-requirements">PhD Requirements</a></li>
+<li><a href="/academics/graduate/phd-program/phd-time-limits-milestones">PhD Time Limits &amp; Milestones</a></li>
+<li><a href="/academics/graduate/phd-program/preliminary-exam">Preliminary Exam</a></li>
+<li><a href="/academics/graduate/phd-program/qualifying-exam">Qualifying Exam</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/ms-program">MS Program</a></li>
+<li><a href="/academics/graduate/ms-bioinformatics-program">MS in Bioinformatics Program</a></li>
+<li class="dropdown"><a href="/academics/graduate/professional-mcs">Professional Master of Computer Science</a><ul class="professional-mcs ">
+<li><a href="/academics/graduate/professional-mcs/campus-master-computer-science">On-Campus Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science">Online Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science-data-science">Online Master of Computer Science in Data Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/fifth-year-masters-programs">Fifth Year Master's Programs</a><ul class="fifth-year-masters-programs ">
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-mcs-program">5-year BS-MCS Program</a></li>
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-ms-program">5-year BS-MS Program</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">Illinois Computing Accelerator for Non-Specialists (iCAN)</a><ul class="ican ">
+<li><a href="/academics/graduate/ican/application-process">iCAN Application Process</a></li>
+<li><a href="/academics/graduate/ican/curriculum">iCAN Curriculum</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources">Graduate Forms &amp; Advising Resources</a><ul class="graduate-forms-advising-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/epi-exam-requirements">EPI Exam Requirements</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-advising-contacts">Graduate Advising Contacts</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-student-annual-evaluation-process">Graduate Student Annual Evaluation Process</a></li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources">New Graduate Student Resources</a><ul class="new-graduate-student-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/mcs-campus">MCS On-Campus General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/ms-general">MS General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/phd-general">PhD General Advising for Registration</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/official-forms">Official Forms</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/academics/courses">Courses</a></li>
+<li><a href="/academics/honor-code">Honor Code</a></li>
+<li><a href="https://cs.illinois.edu/student-life/student-resources">Student Resources</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/student-life" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Student Life</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-student-life">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41390_8405" data-pageid="41390" data-tileid="8405" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=55621);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Salesforce's CodeT5 System Can Understand and Generate Code</h2>
+			<div class="description"></div>
+			<p><a href="/news/salesforces-codet5-system-can-understand-and-generate-code" class="button" title="Salesforce's CodeT5 System Can Understand and Generate Code">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 7, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/student-life">Student Life</a></h2>
+<ul class="student-life ">
+<li><a href="/student-life/overview-cs-student-life">Overview of CS Student Life</a></li>
+<li><a href="/student-life/student-organizations">Student Organizations</a></li>
+<li><a href="/student-life/department-college-and-campus-events">Department, College, and Campus Events</a></li>
+<li><a href="/student-life/student-resources">Student Resources</a></li>
+<li><a href="/student-life/career-services">Career Services</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/research" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Research</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-research">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Explore visionary research conducted by world-renowned faculty.</h2>
+<p><a class="orange button" href="/research/areas">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/research">Research</a></h2>
+<ul class="research ">
+<li class="dropdown"><a href="/research/areas">Research Areas</a><ul class="areas ">
+<li><a href="/research/areas/architecture-compilers-and-parallel-computing">Architecture, Compilers, and Parallel Computing</a></li>
+<li><a href="/research/areas/artificial-intelligence">Artificial Intelligence</a></li>
+<li><a href="/research/areas/bioinformatics-and-computational-biology">Bioinformatics and Computational Biology</a></li>
+<li><a href="/research/areas/computers-and-education">Computers and Education</a></li>
+<li><a href="/research/areas/data-and-information-systems">Data and Information Systems</a></li>
+<li><a href="/research/areas/interactive-computing">Interactive Computing</a></li>
+<li><a href="/research/areas/programming-languages-formal-methods-and-software-engineering">Programming Languages, Formal Methods, and Software Engineering</a></li>
+<li><a href="/research/areas/scientific-computing">Scientific Computing</a></li>
+<li><a href="/research/areas/security-and-privacy">Security and Privacy</a></li>
+<li><a href="/research/areas/systems-and-networking">Systems and Networking</a></li>
+<li><a href="/research/areas/theory-and-algorithms">Theory and Algorithms</a></li>
+</ul>
+</li>
+<li><a href="/research/technical-conferences-workshops">Technical Conferences &amp; Workshops</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+<li><a href="/corporate#research">Corporate Partners</a></li>
+<li><a href="https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=3146">Illinois CS Research Overview</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/broadening-participation-computing" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Broadening Participation</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-broadening-participation-computing">
+<section class="tile w50 white-box py-5 marketing">
+<p class="mb-0"><img src="//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=16163&s=375" class="image" alt="" width="375" /></p>
+<p style="padding: 10px 15px 0px 15px;">New certificate program for college graduates who want a deeper understanding of computers, algorithms, and programming.</p>
+<p><a class="orange button" href="/ican">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/broadening-participation-computing">Broadening Participation</a></h2>
+<ul class="broadening-participation-computing ">
+<li><a href="https://drive.google.com/file/d/12vDswb1i-mEXaXgVt7FOhtqYs7b8F_1p/view">BPC Departmental Plan</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs">BPC Programs & Activities for Students</a><ul class="programs ">
+<li><a href="/broadening-participation-computing/programs/csambassadors">CS Student Ambassador/Research Scholars (CS STARS)</a></li>
+<li><a href="/broadening-participation-computing/programs/cskickstart">Illinois CS Kickstart</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs/ai4all">AI4ALL</a><ul class="ai4all ">
+<li><a href="http://go.cs.illinois.edu/DiscoverAI">Apply Now</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">iCAN</a><ul class="ican ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+</ul>
+</li>
+<li><a href="http://cs.illinois.edu/research/summer-research-experience-undergraduates">Summer Research Experience for Undergraduates</a></li>
+</ul>
+</li>
+<li><a href="/broadening-participation-computing/resources">BPC Resources</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/cross-cutting">Cross-Cutting Educational Activities</a><ul class="cross-cutting ">
+<li><a href="/broadening-participation-computing/cross-cutting/conferences-workshops">BPC Conferences & Workshops</a></li>
+<li><a href="/broadening-participation-computing/cross-cutting/ca-training">Course Assistant Training</a></li>
+<li><a href="https://cs.illinois.edu/news/featured-lectures#equity-justice">Equity & Justice in Computing Seminar Series</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/broadening-participation-computing/k-12">K-12 Outreach & Resources</a><ul class="k-12 ">
+<li><a href="/broadening-participation-computing/k-12/k-12-outreach">K-12 Outreach Programs</a></li>
+<li><a href="/broadening-participation-computing/k-12/k-12-resources">K-12 Resources</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/student-life/student-organizations">Student Organizations</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/news" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>News</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-news">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41391_5367" data-pageid="41391" data-tileid="5367" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=51204);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging</h2>
+			<div class="description"><p>The Defense Advanced Research Projects Agency (DARPA) has awarded $5.8 million to a team, led by Illinois CS's <a href="/about/people/faculty/zaher">Tarek Abdelzaher</a>, that will work to characterize how different foreign populations respond to influence campaigns as a first step towards development of effective countermeasures.</p></div>
+			<p><a href="/news/abdelzaher-leading-DARPA-effort-understand-how-people-respond-influence-messaging" class="button" title="Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 8, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/news">News</a></h2>
+<ul class="news ">
+<li><a href="/news">Department News</a></li>
+<li><a href="/news/features">Feature Stories</a></li>
+<li><a href="/news/covid-19-projects">COVID-19 Projects</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/news/media-coverage">Media Coverage</a></li>
+<li><a href="/news/e-news">E-News</a></li>
+<li><a href="/news/impact-report-publications">Impact Report &amp; Publications</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/give" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Give</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-give">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Help ensure that Illinois continues to set a global standard for CS research and education.</h2>
+<p><a class="orange button" href="/give/give-now">Make a Gift</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/give">Give</a></h2>
+<ul class="give ">
+<li><a href="/give/give-now">Give Now</a></li>
+<li><a href="/give/ways-give">Ways to Give</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/give/computer-science-visionary-scholarship-donors">Computer Science Visionary Scholarship Donors</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+</ul>
+</div>
+</nav>
+
+				</div>
+			</header>
+
+			<div id="content">
+				<main>
+					<div  id="hero" class="container-fluid">
+						<div class="row maxwidth1140">
+							<div class="col">
+								<div>
+									<nav id="breadcrumbs"><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/about/people">People</a></li><li><a href="/about/people/all-faculty">All Faculty</a></li></ul></nav>
+									<h1>Mark A Anastasio
+</h1>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					
+
+					<div id="content_inner" class="container-fluid">
+						<div class="tile-list">
+							<section class="tile w100 white-box   py-5 " id="tile6806" data-tileid="6806" >
+	<div class="lower  maxwidth1140   " id="lower6806">
+		<div class="row">
+			<div class="col-md column1      " >
+				<div>	<div class="directory-profile maxwidth800" id="article_[postid]">
+		<figure class="image align-right ">
+			<img alt="Mark A Anastasio" title="Mark A Anastasio" src="//ws.engr.illinois.edu/directory/viewphoto.aspx?id=97392&s=300&type=portrait" />
+			<figcaption>Mark A Anastasio</figcaption>
+		</figure>
+
+		<!--<h2>Mark A Anastasio</h2>-->
+		<div class="roles">
+			
+			<div><div class="role cat5 notprimary">
+<div class="title"><strong>Donald Biggar Willett Professor in Engineering & Head, Bioengineering</strong></div>
+<!--<div class="groups"></div>-->
+<div class="phone"></div>
+<div class="email"><a href="mailto:maa@illinois.edu">maa@illinois.edu</a></div>
+<div class="office"> </div>
+</div>
+</div>
+		</div>
+
+		<h2>For more information</h2>
+<ul>
+<li><a href="https://anastasio.bioengineering.illinois.edu/">Anastasio Lab Web Site</a></li>
+</ul>
+
+		
+		<h2>Education</h2>
+<ul>
+<li>1995 &#8211; 2001 Ph.D. Medical Physics, The University of Chicago</li>
+</ul>
+
+		
+		<h2>Academic Positions</h2>
+<ul>
+<li>2019 - Present Affiliate Faculty, Department of Computer Science, University of Illinois Urbana-Champaign</li>
+<li>2019 - Present Affiliate Faculty, Beckman Institute, University of Illinois Urbana-Champaign</li>
+<li>2019-Present Affiliate Faculty, Carle-Illinois College of Medicine, University of Illinois Urbana-Champaign</li>
+<li>2019-Present Affiliate Faculty, Department of Electrical and Computer Engineering, University of Illinois Urbana-Champaign</li>
+<li>2019 - Present	Head and Donald Biggar Willett Professor in Engineering, Department of Bioengineering, University of Illinois Urbana-Champaign</li>
+</ul>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<h2>Research Interests</h2>
+<ul>
+<li>Computational imaging science, image reconstruction, machine learning, inverse problems</li>
+</ul>
+
+		
+		
+		<div class="extProfileAREA">
+			<h2>Research Areas</h2>
+<ul>
+<li><a href="http://cs.illinois.edu/research/areas/artificial-intelligence">Artificial Intelligence</a></li>
+<li><a href="http://cs.illinois.edu/research/areas/scientific-computing">Scientific Computing</a></li>
+</ul>
+
+		</div>
+		
+		
+		
+		
+		
+		
+		
+		
+		<h2>Selected Articles in Journals</h2>
+<ul>
+<li>Kaiyan Li, Weimin Zhou, Hua Li, Anastasio M.A.: Supervised learning-based ideal observer approximation for joint detection and estimation tasks, SPIE Medical Imaging, In press, 2021</li>
+<li>Kaiyan Li, Weimin Zhou, Hua Li, Anastasio M.A.: Task-based performance evaluation of deep neural network-based image denoising, SPIE Medical Imaging, In press, 2021</li>
+<li>Varun A. Kelkar, Xiaohui Zhang, Jason Granstedt, Hua Li, Anastasio M.A.: Task-based evaluation of deep image super-resolution in medical imaging, SPIE Medical Imaging, In press, 2021</li>
+<li>Weimin Zhou, Sayantan Bhadra, Frank J. Brooks, Jason L. Granstedt, Hua Li, Anastasio M.A.: Advancing the AmbientGAN for learning stochastic object models, SPIE Medical Imaging, In press, 2021</li>
+<li>Jason L. Granstedt, Varun A. Kelkar, Weimin Zhou, Anastasio M.A.: SlabGAN: a method for generating efficient 3D anisotropic medical volumes using generative adversarial networks, SPIE Medical Imaging, In press, 2021</li>
+<li>Varun A. Kelkar, Sayantan Bhadra, Anastasio M.A.: Medical image reconstruction using compressible latent space invertible networks, SPIE Medical Imaging, In press, 2021</li>
+<li>John Paul Phillips, Emil Y. Sidky, Greg Ongie, Weimin Zhou, Juan Cruz-Bastida, Ingrid S. Reiser, Anastasio M.A., Xiaochuan Pan: A hybrid channelized Hotelling observer for estimating the ideal linear observer for total-variation-based image reconstruction, SPIE Medical Imaging, In press, 2021</li>
+<li>Sidky EY, Phillips JP, Zhou W, Ongie G, Cruz-Bastida J, Reiser IS, Anastasio M.A., Pan X: A signal detection model for quantifying over-regularization in non-linear image reconstruction., arXiv preprint arXiv: 2010.03472.2020 Oct. 7</li>
+<li>J. Geng, X. Zhang, S. Prabhu, S.H. Shahoei, E.R. Nelson, K.S. Swanson, M.A. Anastasio, and A.M. Smith: 3D Microscopy and Deep Learning Reveal the Heterogeneity of Crown-Like Structure Microenvironments in Intact Adipose Tissue, Scientific Advances, In press, 2021.</li>
+<li>S. He, K.T. Minn, L. Solnica-Krezel, M.A. Anastasio and H. Li: Deeply-Supervised Density Regression for Automatic Cell Counting in Microscopy Images, Medical Image Analysis, 68: 101892, 2021. doi: 10.1016/j.media.2020.101892.</li>
+<li>V.A. Kelkar, S. Bhadra, and M.A. Anastasio: Compressible Latent-Space Invertible Networks for Generative Model-Constrained Image Reconstruction, IEEE Transactions on Computational Imaging, In press, 2021.</li>
+<li>K. Tripathy, Z.E. Markow, A.K. Fishell, A. Sherafati, T.M. Burns-Yocum, M.L. Schroeder, A.M. Svoboda, A.T. Eggebrecht, M.A. Anastasio, B.L. Schlaggar, and J.P. Culver: Decoding visual information from high-density diffuse optical tomography neuroimaging data, NeuroImage, 226: 117516, 2021. doi: 10.1016/j.neuroimage.2020.117516.</li>
+<li>K.T. Minn, Y.C. Fu, S. He, S. Dietmann, S.C. George, M.A. Anastasio, S.A. Morris, L. Solnica-Krezel: High-resolution transcriptional and morphogenetic profiling of cells from micropatterned human ESC gastruloid cultures, eLife, 9: e59445, 2020 doi: 10.7554/eLife.59445</li>
+<li>W. Zhou, H. Li, M.A. Anastasio: Approximating the Ideal Observer for joint signal detection and localization tasks by use of supervised learning methods, IEEE Trans. on Medical Imaging, 39(12): 3992-4000, (2020). doi: 10.1109/TMI.2020.3009022.</li>
+<li>J. Poudel and M.A. Anastasio: Joint reconstruction of initial pressure distribution and spatial distribution of acoustic properties of elastic media with application to transcranial photoacoustic tomography, Inverse Problems, 36(12): 124007, 2020. doi: 10.1088/1361-6420/abc7ce.</li>
+<li>K.S. Uddin, M. Zhang, M.A. Anastasio, and Q. Zhu: Optimal breast cancer diagnostic strategy using combined ultrasound and diffuse optical tomography,&#160;Biomedical Optics Express. 11 (5): 2722-2737, 2020. doi: 10.1364/BOE.389275.</li>
+<li>J. Poudel, S. Na, LV. Wang, and M.A. Anastasio: Iterative image reconstruction in transcranial photoacoustic tomography based on the elastic wave equation,&#160;Physics in Medicine and Biology.65(5): 055009, 2020. doi: 10.1088/1361-6560/ab6b46.</li>
+<li>Y. Chen, W. Zhou, C. Hagen, A. Olivo, M.A. Anastasio: Comparison of data-acquisition designs for single-shot edge-illumination X-ray phase-contrast tomography, Optics Express, 28(1), 1-19, 2020. doi: 10.1364/OE.28.000001.</li>
+<li>Y. Chen, C.K. Hagen, A. Olivo, and M.A. Anastasio: A partial-dithering strategy for edge-illumination X-ray phase-contrast tomography enabled by a joint reconstruction method, Phys. Med. Biol, 65(10):105007, 2020. doi: 10.1088/1361-6560/ab66e2.</li>
+<li>B. Shrestha, F. DeLuna1, M.A. Anastasio, J. Yong Ye, E.M. Brey: Photoacoustic Imaging in Tissue Engineering and Regenerative Medicine, Tissue Engineering Part B, 26(1):79-102, 2020. doi: 10.1089/ten.TEB.2019.0296.</li>
+<li>F.J. Brooks, S.P. Gunsten, S.K. Vasireddi, S.L. Brody, and M.A. Anastasio: Quantification of image texture in X&#8208;ray phase&#8208;contrast&#8208;enhanced projection images of in vivo mouse lungs observed at varied inflation pressures, Physiological Reports, 7(16): e14208, 2019. doi: 10.14814/phy2.14208.</li>
+<li>S. Dolly, Y. Lou, M.A. Anastasio, and H. Li: Task-Based Image Quality Assessment in Radiation Therapy: Initial Characterization and Demonstration with Computer-Simulation Study, Phys. Med. Biol., 64(14): 145020, 2019. doi: 10.1088/1361-6560/ab2dc5.</li>
+<li>J. Poudel, Y. Lou, and M.A. Anastasio: A Survey of Computational Frameworks for Solving the Acoustic Inverse Problem in Three-Dimensional Photoacoustic Computed Tomography, Phys. Med. Biol., 64(14), 2019. doi: 10.1088/1361-6560/ab2017.</li>
+<li>J. Brown, S. Somo, F. Brooks, S. Komarov, W. Zhou, M.A. Anastasio, E. Brey: X-Ray CT in Phase Contrast Enhancement Geometry of Alginate Microbeads,&#160;Annals of Biomedical Engineering, 48(3):1016-1024, 2019. doi: 10.1007/s10439-019-02291-4.</li>
+<li>Y. Lou, S. Park, F. Anis, R. Su, A. Oraevesky, M. A. Anastasio: Analysis of the Use of Unmatched Backward Operators in Iterative Image Reconstruction with Application to Three-Dimensional Optoacoustic Tomography, IEEE Transactions on Computational Imaging, 5(3) 437-49, 2019, doi: 10.1109/TCI.2019.2895217.</li>
+<li> Y. Chen, Y. Lou, K. Wang, M. A. Kupinski, M. A. Anastasio: Reconstruction-Aware Imaging System Ranking by Use of a Sparsity-Driven Numerical Observer Enabled by Variational Bayesian Inference, IEEE Transactions on Medical Imaging, 38(5): 1251-1262, May 2019. doi: 10.1109/TMI.2018.2880870.</li>
+<li>S. Alshahrani,&#160;Y. Yan,&#160;N. Alijabbari,&#160;A. Pattyn,&#160;I. Avrutsky,&#160;E. Malyarenko,&#160;J. Poudel,&#160;M.A. Anastasio,&#160;M. Mehrmohammadi: All-Reflective Ring Illumination System for Photoacoustic Tomography, Journal of Biomedical Optics&#160;24(4): 1-7, 2019.&#160; doi: 10.1117/1.JBO.24.4.046004.</li>
+<li>W. Zhou, H. Li, M.A. Anastasio: Approximating the Ideal Observer and Hotelling Observer for binary signal detection tasks by use of supervised learning methods, IEEE Trans. on Medical Imaging, April, 38(10): 2456-2468, Oct. 2019, doi: 10.1109/TMI.2019.2911211.</li>
+<li>J. Wu, C. Lian, S. Ruan, T. Mazur, S. Mutic, M.A. Anastasio, P. Grigsby, P. Vera, H. Li,: Treatment Outcome Prediction for Cancer Patients based on Radiomics and Belief Function Theory, IEEE Trans. on Radiation and Plasma Medical Sciences (RPMS), Special issue on Machine Learning in Radiation based Medical Sciences, 3(2): 216-244, 2019. doi: 10.1109/TRPMS.2018.2872406.</li>
+<li>S. Dolly, Y. Lou, M.A. Anastasio, and H. Li: Learning-Based Stochastic Object Models for Characterizing Anatomical Variations, Physics in Medicine and Biology,&#160;63 (6), 065004, 2018. doi: 10.1088/1361-6560/aab000.</li>
+<li> A.H. Lumpkin, A.B. Garson, M.A. Anastasio: First Point-Spread Function and X-ray Phase-Contrast Imaging Results with an 88-mm Diameter Single Crystal, Review of Scientific Instruments. 89, 073704, 2018. doi: 10.1063/1.5027499.</li>
+<li>H. Guan, C.K. Hagen, A. Olivo, and M.A. Anastasio: Subspace-Based Resolution-Enhancing Image Reconstruction Method for Few-View Differential Phase-Contrast Tomography, Journal of Medical Imaging,  5(2), 023501, 2018. doi: 10.1117/1.JMI.5.2.023501</li>
+<li>J. Wu, T. Mazur, Su Ruan, C. Lian, N. Daniel, H. Lashmett, L. Ochoa, I. Zoberi, M.A. Anastasio, M. Gach, S. Mutic, M. Thomas, H. Li: Deep Boltzmann Machines-Driven Method for In-Treatment Heart Motion Tracking Using Cine MRI, Medical Image Analysis, 47:68-80, 2018. doi: 10.1016/j.media.2018.03.015.</li>
+<li>T.P. Matthews, J. Poudel, L. Lei,&#160; L.V. Wang, and M.A. Anastasio: Parameterized joint reconstruction of the initial pressure and sound speed distributions for photoacoustic computed tomography,&#160;SIAM Journal on Imaging Sciences, 11(2): 1560&#8211;1588, 2018. 10.1137/17M1153649.</li>
+<li>Y. Chen and M.A. Anastasio: Properties of a Joint Reconstruction Method for Edge-Illumination X-Ray Phase-Contrast Tomography, Sensing and Imaging, 19(7), 2018. doi: 10.1007/s11220-018-0186-y.</li>
+<li>K.M.S. Uddin, A. Mostafa,&#160;M.A. Anastasio, Q. Zhu: Two Step Imaging Reconstruction using Truncated Pseudoinverse as an&#160;initial estimate in Ultrasound guided Diffuse Optical Tomography, Biomed. Optics Express,&#160;8(12): 5437-5449, 2017. doi: 10.1364/BOE.8.005437.</li>
+<li>A. Zamir, C. Hagen, P. Diemoz, M. Endrizzi, F. Vittoria, Y. Chen, M.A. Anastasio, A. Olivo: Recent Advances in Edge Illumination Tomography, Journal of Medical Imaging, 4(4), 040901 (2017). doi: 10.1117/1.JMI.4.4.040901.</li>
+<li>T.P Matthews and M.A. Anastasio: Joint Reconstruction of the Initial Pressure and Speed of Sound Distributions from Combined Photoacoustic and Ultrasound Tomography Measurements, Inverse Problems, 33(12):124002, 2017. doi: 10.1088/1361-6420/aa9384.</li>
+<li>K. Mitsuhashi, J. Poudel, T.P. Matthews, A. Garcia-Uribe, L.V. Wang, and M.A. Anastasio:  A forward-adjoint operator pair based on the elastic wave equation for use in transcranial photoacoustic computed tomography, SIAM Journal on Imaging Sciences, 10(4): 2022-2048, 2017. doi: 10.1137/16M1107619.</li>
+<li>Y. Lou, W. Zhou, T.P. Matthews, C.M. Appleton, and M.A. Anastasio: Generation of Anatomically Realistic Numerical Phantoms for Photoacoustic and Ultrasonic Breast Imaging. Journal of Biomedical Optics, 22(4), 041015, 2017. doi: 10.1117/1.JBO.22.4.041015.</li>
+<li>Y. Chen, H. Guan, C.K. Hagen, A. Olivo, and M.A. Anastasio: Single-Shot Edge Illumination X-ray Phase-Contrast Tomography Enabled by Joint Image Reconstruction. Optics Letters, 42(3): 619-622, 2017. doi: 10.1364/OL.42.000619.</li>
+<li>J. Poudel, T.P. Matthews, L. Li, M.A. Anastasio and L.V. Wang: Mitigation of Artifacts Due to Isolated Heterogeneities in Photoacoustic Computed Tomography using a Variable Data Truncation-Based Reconstruction Method. Journal of Biomedical Optics, 0001; 22(4):041018, 2017. doi: 10.1117/1.JBO.22.4.041018.</li>
+<li>T.P. Matthews, K. Wang, C. Li, N. Duric, and M.A. Anastasio: Regularized Dual Averaging Image Reconstruction for Full-Wave Ultrasound Computed Tomography. IEEE Trans. UFFC, 64(5): 811-825, May 2017. doi: 10.1109/TUFFC.2017.2682061.</li>
+<li>Y Lou, K. Wang, A. A. Oraevsky, M.A. Anastasio: Impact of Nonstationary Optical Illumination on Image Reconstruction in Optoacoustic Tomography. Journal of the Optical Society of America A, Dec 1; 33(12):2333-47, 2016. doi: 10.1364/JOSAA.33.002333.</li>
+<li>H. Li, S. Dolly, H.C Chen, M.A. Anastasio, DA. Low, H.H. Li, J.M. Michalski, W.L. Thorstad, H. Gay, S. Mutic:  A Comparative Study Based on Image Quality and Clinical Task Performance for CT Reconstruction Algorithms in Radiotherapy. Journal of Applied Clinical Medical Physics, Jul 8;17(4): 377-90, 2016. doi: 10.1120/jacmp.v17i4.5763.</li>
+<li>AA. Appel, V. Ibarra, SL Somo, JC Larson, AB Garson III, H. Guan, JP McQuilling, Z Zhong, M.A. Anastasio, E.C Opara, EM Brey: Imaging of Hydrogel Microsphere Structure and Foreign Body Response Based on Endogenous X-Ray Phase Contrast. Tissue Engineering Part C: Methods, 22(11):1038-48, 2016. doi: 10.1089/ten.TEC.2016.0253.</li>
+<li>L. Li, J. Xia, G. Li, A Garcia-Uribe, Q. Sheng, M.A. Anastasio, and L.V. Wang: Label-free Photoacoustic Tomography of Whole Mouse Brain Structures Ex Vivo, Journal of Neurophotonics, 3(3): 035001-035001, 2016. doi: 10.1117/1.NPh.3.3.035001.</li>
+<li>V. Ibarra, A. Appel, E. Opara, M.A. Anastasio and E.M Brey: Evaluation of the Tissue Response to Alginate Encapsulated Islets in an Omentum Pouch Mode, Journal of Biomedical Materials Research: Part A, 104, 2016. DOI: 10.1002/jbm.a.35769</li>
+<li>S. Dolly, H-C Chen, M.A. Anastasio, S. Mutic, and H. Li: Practical Considerations for Noise Power Spectra Estimation for Clinical CT Scanners, Journal of Applied Clinical Medical Physics, Vol. 17(3): 392-407, 2016. doi: 10.1120/jacmp.v17i3.5841.</li>
+<li>H. Li, H-C Chen, S. Dolly, B Fischer-Valuck, J Dempsey, S. Mutic, M.A. Anastasio, and H. Li. An Integrated-Model Driven Method for In-treatment Upper Airway Motion Tracking using Cine MRI in Head & Neck Radiation Therapy, Medical Physics, 43(8): 4700-4710, 2016. doi: 10.1118/1.4955118.</li>
+<li>Q. Xu, A. Sawatzky, T. Jun, D. Yang, and M.A. Anastasio: Accelerated Fast Iterative Shrinkage Thresholding Algorithms for Sparsity-Regularized Cone-Beam CT Image Reconstruction, Medical Physics, 43(4): 1849, 2016. doi: 10.1118/1.4942812.</li>
+<li>C. Huang, K. Wang, R. Schoonover, L.V. Wang, and M.A. Anastasio: Joint Reconstruction of Absorbed Optical Energy Density and Sound Speed Distributions in Photoacoustic Computed Tomography: A Numerical Investigation, IEEE Transactions on Computational Imaging, 2(2); 136-149, 2016. doi: 10.1109/TCI.2016.2523427.</li>
+<li>Q. Sheng, K. Wang, T. P. Matthews, J. Xia, L. Zhu, L.V. Wang, and M.A. Anastasio: A Constrained Variable Projection Reconstruction Method for Photoacoustic Computed Tomography without Accurate Knowledge of Transducer Responses, IEEE Transactions on Medical Imaging, 34(12): 2443-2458, 2015. doi: 10.1109/TMI.2015.2437356.</li>
+<li>A. Appel, J. C. Larson, B.  Jiang, Z. Zhong, M.A. Anastasio, and E. M. Brey: X-ray Phase Contrast Allows Three Dimensional, Quantitative Imaging of Hydrogel Implants. Annals of Biomedical Engineering, 44(3): 773-81, 2015. doi: 10.1007/s10439-015-1482-5.</li>
+<li>S.A. Ermilov, R. Su, A. Conjusteau, F. Anis, V. Nadvoretskiy, M.A. Anastasio, and A. A. Oraevsky: Three-Dimensional Optoacoustic and Laser-Induced Ultrasound Tomography System for Preclinical Research in Mice Design and Phantom Validation. Ultrasonic Imaging,38(1): 77-95, 2015. doi: 10.1177/0161734615591163.&#160;</li>
+<li>Chen, Hsin-Chen, Jun Tan, Steven Dolly, James Kavanaugh, M.A. Anastasio, Daniel A. Low, H. Harold Li et al.,: Automated Contouring Error Detection based on Supervised Geometric Attribute Distribution Models for Radiation Therapy: A General Strategy, Medical Physics, 42(2): 1048-1059, 2015. doi: 10.1118/1.4906197.</li>
+<li>H. Guan, Q. Xu, A.B. Garson, and M.A. Anastasio: Boundary-Enhancement in Propagation- Based X-ray Phase-Contrast Tomosynthesis Improves Depth Position Characterization, Physics in Medicine and Biology, 60(8): N151-65, 2015. doi: 10.1088/0031-9155/60/8/N151.</li>
+<li>K. Wang, T. Matthews, F. Anis, C. Li, N. Duric, and M.A. Anastasio: Waveform Inversion with Source Encoding for Breast Speed-of-Sound Reconstruction in Ultrasound Computed Tomography, IEEE Trans. UFFC, 62(3): 475-93, 2015. doi: 10.1109/TUFFC.2014.006788.</li>
+<li>G. Li, J. Xia, K. Wang, K. Maslov, M.A. Anastasio, and L.V. Wang: Tripling the Detection View of High-Frequency Linear-Array-Based Photoacoustic Computed Tomography by using Two Planar Acoustic Reflectors, Quantitative Imaging in Medicine and Surgery, 5(1): 57-62, 2015. doi: 10.3978/j.issn.2223-4292.2014.11.09.</li>
+<li>A. Appel, J. Larson, A. Garson, H. Guan Z. Zhong B. Nguyen, J. Fisher, M.A. Anastasio,  E.M. Brey: X-ray Phase-Contrast Imaging of Calcified Tissue and Biomaterial Structure in Bioreactor Engineered Tissues, Biotechnology and Bioengineering, 112(3): 612-620, 2015. doi: 10.1002/bit.25467.</li>
+<li>H. Li, L. Yu, M.A. Anastasio, H. Chen, J. Tan, H. Gay, J.M. Michalski, D.A. Low and S. Mutic: Automatic CT Simulation Optimization for Radiation Therapy: A General Strategy, Med. Phys. 41(3), 031913, 2014. doi: 10.1118/1.4866377.</li>
+<li>K. Wang, J. Xia, C. Li, L.V. Wang and M.A. Anastasio: Fast Spatio-Temporal Image Reconstruction Based on Low-Rank Matrix Estimation for Dynamic Photoacoustic Computed Tomography, Journal of Biomedical Optics, 19(5), 056007, 2014. doi: 10.1117/1.JBO.19.5.056007</li>
+<li>A. Sawatzky, Q. Xu, C. Schirra, and M.A. Anastasio: Proximal ADMM for Multi-Channel PWLS with Application to Decomposed Data in Spectral CT, IEEE Transactions on Medical Imaging, 33(8):1657-1668, 2014. doi: 10.1109/TMI.2014.2321098.</li>
+<li>K. Wang, R. Schoonover, R. Su, A. Oraevsky, and M.A. Anastasio: Discrete Imaging Models for Three-Dimensional Optoacoustic Tomography using Radially Symmetric Expansion Functions, IEEE Transactions on Medical Imaging, 33(5):1180-1193, 2014. doi: 10.1109/TMI.2014.2308478.</li>
+<li>Q. Xu, A. Sawatzky, E. Rossel, M.A. Anastasio and C. Schirra: Sparsity-Regularized Image Reconstruction of Decomposed K-Edge Data in Spectral CT, Physics in Medicine and Biology, 59(10), N65, 2014. doi: 10.1088/0031-9155/59/10/N65.</li>
+<li>J. Xia, W. Chen, K. Maslov, M.A. Anastasio, and L. V. Wang: Retrospective Respiration- Gated Whole-Body Photoacoustic Computed Tomography of Mice, Journal of Biomedical Optics, 19(1), 016003, 2014. doi: 10.1117/1.JBO.19.1.016003.</li>
+<li>K. Mitsuhashi, K. Wang, and M.A. Anastasio: Investigation of the Far-Field Approximation for Modeling a Transducer&#8217;s Spatial Impulse Response in Photoacoustic Computed Tomography, Photoacoustics, 2(1): 21-32, 2014. doi:10.1016/j.pacs.2013.11.001.</li>
+<li>C. Schirra, B. Brendel, M.A. Anastasio, and E. Roessl: Spectral CT: A Technology Primer for Contrast Agent Development, Contrast Media and Molecular Imaging, 9(1): 62-70, 2014. doi: 10.1002/cmmi.1573.</li>
+<li>J. Xia, C. Huang, K. Maslov, M.A. Anastasio, and L.V. Wang: Enhancement of photoacoustic tomography by ultrasonic computed tomography based on optical excitation of elements of a full-ring transducer array, Optics Letters, 38(16): 3140-3143, 2013. doi: 10.1364/OL.38.003140.</li>
+<li>A.B. Garson, E.W. Izaguirre, S.G. Price, and M.A. Anastasio: Characterization of speckle in lung images acquired with a benchtop in-line X-ray Phase-Contrast system, Phys Med Biol., 58(12):4237-53, 2013. doi: 10.1088/0031-9155/58/12/4237.</li>
+<li>A.A. Appel, M.A. Anastasio, J.C. Larson, and E.M. Brey, Imaging challenges in biomaterials and tissue engineering, Biomaterials, 34(28):6615-30, 2013. doi: 10.1016/j.biomaterials.2013.05.033.</li>
+<li>C. Huang, K. Wang, L. Nie, L.V. Wang, and M.A. Anastasio: Full-Wave Iterative Image Reconstruction in Photoacoustic Tomography with Acoustically Inhomogeneous Media, IEEE Transactions on Medical Imaging, 32(6), 1097, 2013. doi: 10.1109/TMI.2013.2254496.</li>
+<li>K. Wang, C. Huang, A. Oraevsky, and M.A. Anastasio: Accelerating Image Reconstruction in Three-Dimensional Optoacoustic/Photoacoustic Tomography on GPUs, Medical Physics, 40(2), 023301, 2013. doi: 10.1118/1.4774361.</li>
+<li>C.O. Schirra, E. Roess, T. Koehler, B. Brende, A. Thran, D. Pan, M.A. Anastasio, and R. Proksa: Statistical Reconstruction of Material Decomposed Data in Spectral CT, IEEE Transactions on Medical Imaging, 32(7):1249-57, 2013. doi: 10.1109/TMI.2013.2250991.</li>
+<li>M.A. Anastasio and Paul C. Beard: Special Section Guest Editorial: Photoacoustic Imaging and Sensing, Journal of Biomedical Optics 17(6): 0612011-0612011, 2012. doi: 10.1117/1.JBO.17.6.061201.</li>
+<li>L. Nie, X. Cai, K. Maslov, A. Garcia-Uribe, M.A. Anastasio, and L.V. Wang: Photoacoustic Tomography Through a Whole Adult Human Skull with a Photon Recycler, Journal of Biomedical Optics, 17(11), 110506, 2012. doi: 10.1117/1.JBO.17.11.110506.</li>
+<li>A. Tamhane, K. Arfanakis, M.A. Anastasio, X. Guo, M. Vannier, J. Gao: Rapid  ROPELLERMRI: A combination of iterative reconstruction and under-sampling, J. Magn. Reson. Imaging, 36(5): 1241-1247, 2012. doi: 10.1002/jmri.23720.</li>
+<li>K. Wang and M.A. Anastasio: A Simple Fourier Transform-Based Reconstruction Formula for Photoacoustic Computed Tomgraphy with a Circular or Spherical Measurement Geometry, Physics in Medicine and Biology, 57(23): N493, 2012. 10.1088/0031-9155/57/23/N493.</li>
+<li>A. Appel, C-Y Chou, J. Larson, Z. Zhong, F. Schoen, C. Johnston, E Brey, and M.A. Anastasio: An Initial Evaluation of Analyzer-Based Phase-Contrast X-ray Imaging for Imaging Carotid Plaque Microstructure, British Journal of Radiology, 86(1021): 20120318-20120318, 2013. doi: 10.1259/bjr.20120318.</li>
+<li>A. Appel, C-Y Chou, H. Greisler, J. Larson, S. Vasireddi, Z. Zhong, M.A. Anastasio, and E.M. Brey: Analyzer-Based Phase-Contrast X-ray Imaging of Carotid Plaque Microstructure, The American Journal of Surgery, 204(5):  631-636, 2012. doi: 10.1016/j.amjsurg.2012.07.021.</li>
+<li>K. Wang, R. Su, A. Oraevsky, and M.A. Anastasio: Investigation of Iterative Image Reconstruction in Three-Dimensional Optoacoustic Tomography, Physics in Medicine and Biology, 57(17), 5399, 2012. doi: 10.1088/0031-9155/57/17/5399.</li>
+<li>A.M. Zysk, A.B. Garson III, Q. Xu, E.M. Brey, W.Zhou, J.G. Brankov, M.N. Wernick, J.R. Kuszak, M.A. Anastasio: Non-destructive Volumetric Imaging of Tissue Microstructure with Benchtop X-ray Phase-Contrast Tomography and Critical Point Drying, Biomedical Optics Express, Vol. 3(8): 1924-1932, 2012. doi: 10.1364/BOE.3.001924.</li>
+<li>M. Rameez Chatni, J. Xia ; R. Sohn, K. Maslov, Z. Guo, Y. Zhang, K. Wang, M.A. Anastasio, J. Arbei, L.V. Wang: Tumor Glucose Metabolism Imaged In-Vivo in Small Animals with Whole-Body Photoacoustic Computed Tomography, Journal of Biomedical Optics, 17(7), 076012, 2012. doi: 10.1117/1.JBO.17.7.076012.</li>
+<li>Appel, Larson, Somo, Zhong, Spicer, Kasper, Mikos, M.A. Anastasio, and E. Brey: Imaging of poly(-hydroxy-ester) scaffolds with X-ray Phase Contrast MicroCT, Tissue Engineering C, 18(11): 859-865, 2012. doi: 10.1089/ten.tec.2012.0123.</li>
+<li>J. Xia, K. Maslov, Z. Guo, K. Wang, M.A. Anastasio, and L.V. Wang: Whole-Body Ring- Shaped Confocal Photoacoustic Computed Tomography of Small Animals In-Vivo, Journal of Biomedical Optics, 17(5), 050506, 2012. doi: 10.1117/1.JBO.17.5.050506.</li>
+<li>C. Huang, L. Nie, R. Schoonover, Z. Guo, C. Schirra, M.A. Anastasio, and L.V. Wang: Aberration Correction for Transcranial Photoacoustic Tomography Employing Adjunct Image Data, Journal of Biomedical Optics, 17(6), 066016, 2012. doi: 10.1117/1.JBO.17.6.066016.</li>
+<li>J. S. Sandhu, J.I. Weber, J. Tawiaha, V. Kunin, R. Schoonover, and M.A. Anastasio: Transducer field imaging using acoustography, Adv. Acoust. Vib., 275875, 2012. doi: 10.1155/2012/275858.</li>
+<li>A. Zysk, R. Schoonover, and M.A. Anastasio: A Framework for Computing the Spatial Coherence Effects of Polycapillary X-ray Optics, Optics Express, 20(4): 3975-3982, 2012. doi: 10.1364/OE.20.003975.</li>
+<li>A. Zysk, J. Brankov, M. Wernick, and M.A. Anastasio: Adaptation of a Clustered Lumpy Background Model for Task-Based Image Quality Assessment in X-ray Phase-Contrast Mammography, Medical Physics, 39(2): 906-911, 2012. doi: 10.1118/1.3676183.</li>
+<li>C. Huang, L. Nie, R. Schoonover, L.V. Wang, and M.A. Anastasio: Investigation of Photoacoustic Computed Tomography Correcting for Heterogeneity and Attenuation, Journal of Biomedical Optics, 17(6): 0612111-0612115, 2012. doi: 10.1117/1.JBO.17.6.061211.</li>
+<li>R. Schoonover, L.V. Wang and M.A. Anastasio: A Numerical Investigation of the Effects of Shear Waves in Transcranial Photoacoustic Tomography with a Planar Geometry, Journal of Biomedical Optics, 17(6): 0612151-06121511, 2012. doi: 10.1117/1.JBO.17.6.061215.</li>
+<li>Q. Xu, E.Y. Sidky, X. Pan, M. Stampanoni, P. Modregger, and M.A. Anastasio: Investigation of Discrete Imaging Models and Iterative Image Reconstruction in Differential X-ray Phase-Contrast Tomography, Optics Express, 20(10): 10724-10749, 2012. doi: 10.1364/OE.20.010724.</li>
+<li>R. Schoonover and M.A. Anastasio: Compensation of Shear Waves in Photoacoustic Tomography with Layered Acoustic Media, Journal of the Optical Society of America A, Vol. 28(10): 2091-2099, 2011. doi:&#160;10.1364/JOSAA.28.002091.</li>
+<li>A. Appel, M.A. Anastasio, and E.B. Brey: Potential for Imaging Engineered Tissues with X-ray Phase Contrast, Tissue Engineering Part B: Reviews, 17(5): 321-330, 2011. doi: 10.1089/ten.TEB.2011.0230.</li>
+<li>M. Roumeliotis, R. Stodilka, M.A. Anastasio, E. Ng, and J. Carson: Singular Value Decomposition Analysis of a Photoacoustic Imaging System and 3D Imaging at 0.7 FPS, Optics Express, 19(14): 13405-13417 (2011). doi:10.1364/OE.19.013405.</li>
+<li>G. Rodirguez, J. Weber, J.S. Sandhu and M.A. Anastasio: Feasibility Study of Complex Wavefield Retrieval in Off-Axis Acoustic Holography Employing an Acousto-Optic Sensor, Ultrasonics, 51(8), 275875, 2012. doi: 10.1016/j.ultras.2011.05.002.</li>
+<li>R. Schoonover and M.A. Anastasio: Image Reconstruction in Photoacoustic Tomography Involving Layered Acoustic Media, Journal of the Optical Society of America A 28(6): 1114-1120, 2011. doi: 10.1364/JOSAA.28.001114.</li>
+<li>M. Testorf, M. Fiddy, A. Dogariu, R. Piestun, C. Matson, and M.A. Anastasio: Signal Recovery and Computational Sensing and Imaging: Introduction to the Feature Issue, Applied Optics, 49(34): 1539-4522, 2010. doi: 10.1364/AO.49.00SRC1.</li>
+<li>M.A. Anastasio, C-Y. Chou, A. M. Zysk, and J. G. Brankov: Ideal Observer Analysis of Signal Detectability in Phase-Contrast Imaging Employing Linear Shift-Invariant Optical Systems, Journal of the Optical Society of America A, 27(12): 2648-2659, 2010. 10.1364/JOSAA.27.002648.</li>
+<li>E. M. Brey, A. Appel, Y-C. Chiu, Z. Zhong, and M.A. Anastasio: X-ray Imaging of Poly(ethylene glycol) Hydrogels Without Contrast Agents, Tissue Engineering, 16,(6): 1597-1600, 2010. doi: 10.1089/ten.tec.2010.0150.</li>
+<li>K.Wang, S.A. Ermilov, H-P. Brecht, R. Su, A. A. Oraevsky, and M.A. Anastasio: An Imaging Model Incorporating Ultrasonic Transducer Properties for Three-Dimensional Optoacoustic Tomography, IEEE Transactions on Medical Imaging, 30(2): 203-214, 2011. doi: 10.1109/TMI.2010.2072514</li>
+<li>A.M. Zysk, R.W. Schoonover, P.S. Carney and M.A. Anastasio: Transport of Intensity and Spectrum for Partially Coherent Fields, Optics Letters, 35(13): 2239-2241, 2010. doi: 10.1364/OL.35.002239.</li>
+<li>M. Roumeliotis, R.Z. Stodilka, M.A. Anastasio, G. Chaudhary, H. Al-Aabed, E. Ng, A. Immucci, and J.J.L. Carson: Analysis of a Photoacoustic Imaging System by the Crosstalk Matrix and Singular Value Decomposition, Optics Express, 18(11): 11406-11417, 2010. doi:10.1364/OE.18.011406.</li>
+<li>A.A. Tamhane, M.A. Anastasio, M. Gui, K. Arfanakis: Iterative Image Reconstruction for PROPELLER-MRI Using the Non-Uniform Fast Fourier Transform. Magn Reson Med, 321): 211-217, 2010. doi: 10.1002/jmri.22218.</li>
+<li>E.Y. Sidky, M.A. Anastasio, and X. Pan: Image Reconstruction Exploiting Object Sparsity in Boundary-Enhanced Phase-Contrast Tomography, Optics Express, 18(10): 10404-10422, 2010. doi: 10.1364/OE.18.010404.</li>
+<li>D. Modgil, M.A. Anastasio and P.J. La Riviere: Image Reconstruction in Photoacoustic Tomography with Variable Speed of Sound Using a Higher Order Geometrical Acoustics Approximation, Journal of Biomedical Optics, 15(2), 021308, 2010. doi: 10.1117/1.3333550.</li>
+<li>C-Y. Chou and M.A. Anastasio: Noise Texture and Signal Detectability in Propagation- Based X-ray Phase-Contrast Tomography, Medical Physics, 37(1): 270-281, 2009. doi: 10.1118/1.3267548.</li>
+<li>M.A. Anastasio, D. Shi, and X. Pan: Boundary-Enhanced Region-of-Interest Image Reconstruction in Propagation-Based X-ray Phase-Contrast Tomography, Applied Physics Letters, 95(24), 244101 2009. &#160;doi: 10.1063/1.3254235.</li>
+<li>D. Shi and M.A. Anastasio: Exploitation of Symmetries for Image Reconstruction in linearized Variable Density Diffraction Tomography, Journal of the Acoustical Society of America, 126(6): 3095-3105, 2009. doi: 10.1121/1.3238157.</li>
+<li>D. Shi and M.A. Anastasio: Relationships Between Smooth- and Small-Phase Conditions in X-ray Phase-Contrast Imaging, IEEE Transactions on Medical Imaging, 28(12): 1969-1973, 2009. doi: 10.1109/TMI.2009.2026899.</li>
+<li>J. Zhang, M.A. Anastasio, P.J. Riviere, and L.V. Wang: Effects of Imaging Model on Image Reconstruction Accuracy in Photoacoustic Tomography, IEEE Transactions on Medical Imaging, 28(11): 1781-1790, 2009. doi: 10.1109/TMI.2009.2024082.</li>
+<li>Y. Huang and M.A. Anastasio: Image Reconstruction in Lens-Based Intensity Diffraction Tomography, Journal of the Optical Society of America A, 26(6): 1335-1347, 2009. doi: 10.1364/josaa.26.001335.</li>
+<li>C-Y. Chou and M.A. Anastasio: Influence of Imaging Geometry on Noise Texture in Quantitative in-line X-ray Phase-Contrast Imaging, Optics Express, 17(17): 14466-14480, 2009. doi: 10.1364/OE.17.014466.</li>
+<li>C. M. Laperle, T. J. Hamilton, P. Wintermeyer, E. Walker, D. Shi, M.A. Anastasio, Z. Derdak, J.R. Wands, G. Diebold, and C. Rose-Petruck: Low Density Contrast Agents for X-ray Phase Contrast Imaging: The Use of Ambient Air for High-Resolution X-ray Angiography of Excised Murine Liver Tissue, Physics in Medicine and Biology, 53(23): 6911-6923, 2008. doi: 10.1088/0031-9155/53/23/017.</li>
+<li>M.A. Anastasio, Q. Xu, and D. Shi: Multi-Spectral Intensity Diffraction Tomography: Single Material Objects with Variable Densities, Journal of the Optical Society of America A, 26(2): 403-412, 2009. doi: 10.1364/josaa.26.000403.</li>
+<li>M.A. Anastasio, J. Zhang, D. Modgil, and P.J. LaRiviere: Application of Inverse Source Concepts to Photoacoustic Tomography, Inverse Problems, 23(6): S21-S36, 2007. doi: 10.1088/0266-5611/23/6/S03.</li>
+<li>C. M. Laperle, X. Li, B. Ahr, P. Wintermeyer, D. Shi, M.A. Anastasio, J. Wands, G.J. Diebold, and C. Rose-Petruck: Propagation-Based Differential Phase Contrast Imaging and Tomography of Murine Tissue with a Laser Plasma X-ray Source, Applied Physics Letters, 91(17): 173901- 174100, 2007. doi: &#160;10.1063/1.2802728.</li>
+<li>M.A. Anastasio and X. Pan: Region-of-Interest Imaging in Differential Phase-Contrast Tomography, Optics Letters, 32(21): 3167-3169, 2007. doi: 10.1364/ol.32.003167.</li>
+<li>C-Y Chou, Y. Huang, D. Shi and M.A. Anastasio: Image Reconstruction in Quantitative X-ray Phase-Contrast Imaging Employing Multiple Measurements, Optics Express, 15(16): 10002-10025, 2007. doi: 10.1364/OE.15.010002.</li>
+<li>D. Shi and M.A. Anastasio: Intensity Diffraction Tomography with a Fixed Detector Plane, Optical Engineering, 46(10), 107003, 2007. doi: 10.1117/1.2799088.</li>
+<li>C-Y Chou, M.A. Anastasio, J.B. Brankov, M.W. Wernick, E. Brey, D. Connor and Z. Zhong: An Extended DEI Method for Implementing Multiple-Image Radiography, 52(7): 1923- 1945, Physics in Medicine and Biology, 2007. doi: 10.1088/0031-9155/52/7/011.</li>
+<li>M.A. Anastasio, Y. Zou, E.Y. Sidky, and X. Pan: Local Cone-Beam Tomography Image Reconstruction on Chords, Journal of the Optical Society of America A, 24(6): 1569-1579, 2006. doi: 10.1364/JOSAA.24.001569.</li>
+<li>Yin Huang and M.A. Anastasio: Statistically Principled use of In-line Measurements in Intensity Diffraction Tomography, Journal of the Optical Society of America A, 24(3): 626-642, 2006. 10.1364/JOSAA.24.000626.</li>
+<li>P. J. La Riviere, J. Zhang, and M A. Anastasio: Image Reconstruction in Optoacoustic Tomography for Dispersive Acoustic Media, Optics Letters, 31(6): 781-783, 2006. doi: 10.1364/OL.31.000781.</li>
+<li>D. Shi and M.A. Anastasio: Off-axis Holographic Tomography for Diffracting Scalar Wavefields, Physical Review E, 73 (1 Part 2), 016612, 2006. doi: 10.1103/PhysRevE.73.016612.</li>
+<li>G. Khelashvili, J.G. Brankov, D. Chapman, M.A. Anastasio, Y. Yang, Z. Zhong, and M. N. Wernick: A Physical Model of Multiple Image Radiography, Physics in Medicine and Biology, 51(2): 221-236, 2006. doi: 10.1088/0031-9155/51/2/003.</li>
+<li>M.A. Anastasio, D. Shi, and G. Gbur: Multi-Spectral Intensity Diffraction Tomography: Quasi-Nondispersive Objects, Journal of the Optical Society of America A, 23(6): 1359-1368, 2006. doi: 10.1364/ OSAA.23.001359.</li>
+<li>J. Brankov, M. Wernick, D. Chapman, Y. Yang, C. Muehleman. Z. Zhong, and M.A. Anastasio: A computed tomography implementation of Multiple-Image Radiography, Medical Physics, 33(2): 278-289, 2006. doi: 10.1118/1.2150788.</li>
+<li>J. Zhang, D. Shi, M.A. Anastasio, J. Sillanpaa, and J. Chang: Weighted Expectation Maximization Reconstruction Algorithms with Application to Gated Megavoltage Tomography, Physics in Medicine and Biology, 50(21): N299-N307, 2005. doi: 10.1088/0031-9155/50/21/N02.</li>
+<li>M.A. Anastasio, E. Y. Sidky, Y. Zou, and X. Pan: Boundary Reconstruction on Chords in Cone-Beam Tomography (Invited Paper), Chinese Journal of Stereology and Image Analysis, 10: 137-140, 2005.</li>
+<li>M.A. Anastasio, J. Zhang, E.Y. Sidky, Y. Zou, D. Xia, and X. Pan: Feasibility of Half- Data Image Reconstruction in 3D Reflectivity Tomography with a Spherical Aperture, IEEE Transactions on Medical Imaging, 24(9): 1100-1112, 2005. doi: 10.1109/TMI.2005.852055</li>
+<li>M.A. Anastasio, D. Shi, Y. Huang, and G. Gbur: Image Reconstruction in Spherical Wave Intensity Diffraction Tomography, Journal of the Optical Society of America A, 22(12): 2651-2661, 2005. doi: 10.1364/JOSAA.22.002651</li>
+<li>J. Zhang, M.A. Anastasio, X. Pan, and L.V. Wang: Weighted EM Reconstruction Algorithms for Thermoacoustic Tomography, IEEE Transactions on Medical Imaging, 24(6): 817-820, 2005. doi: 10.1109/TMI.2005.848372.</li>
+<li>D. Shi, M.A. Anastasio, and X. Pan: Reconstruction of Refractive Index Discontinuities from Truncated Phase-Contrast Tomography Projections, Applied Physics Letters, 86(3), 034102, 2005. doi: 10.1063/1.1852093.</li>
+<li>K. Arfanakis, A. A. Tahmane, J.G. Pipe, and M.A. Anastasio: K-space Undersampling in PROPELLER Imaging, Magn. Reson. Med., 53(3): 675-683, 2005. doi: 10.1002/mrm.20380.</li>
+<li>M.A. Anastasio, J. Zhang, X. Pan, Y. Zou, G. Ku, and L. Wang: Half-Time Image Reconstruction in Thermoacoustic Tomography, IEEE Transactions on Medical Imaging, 24(2): 199-210, 2005. doi: 10.1109/TMI.2004.839682.</li>
+<li>G. Gbur, M.A. Anastasio, D. Shi, Y. Huang: Spherical Wave Intensity Diffraction Tomography, Journal of the Optical Society of America A, 22(2): 230-238, 2005.</li>
+<li>D. Shi, M.A. Anastasio, Y. Huang, and G. Gbur: Half-Scan and Single-Plane Intensity Diffraction Tomography for Phase Objects, Physics in Medicine and Biology, 49(12): 2733-2752, 2004. doi: 10.1088/0031-9155/49/12/018.</li>
+<li>M.A. Anastasio, D. Shi, F. De Carlo, and X. Pan: Analytic Image Reconstruction in Local Phase-Contrast Tomography, Physics in Medicine and Biology, 49(1): 121-144, 2004. doi: 10.1088/0031-9155/49/1/009.</li>
+<li>M. Wernick, O. Wirjadi, D. Chapman, Z. Zhong, N. Galatsanos, Y. Yang, J. Brankov, O. Oltulu, M.A. Anastasio, and C. Muehleman: Multiple-Image Radiography, Physics in Medicine and Biology, 48(23): 3875-3895, 2003. doi: 10.1088/0031-9155/48/23/006.</li>
+<li>M.A. Anastasio, D. Shi, X. Pan, C. Pelizzari, and P. Munro: A Preliminary Investigation of Local Tomography for Megavoltage CT Imaging, Medical Physics, 30(11): 2969-2980, 2003. doi: 10.1118/1.1619232</li>
+<li>M.A. Anastasio and X. Pan: An improved reconstruction algorithm for 3D diffraction tomography with spherical-wave sources, IEEE Transactions on Biomedical Engineering, 50(4): 517-521, 2003. doi: 10.1109/TBME.2003.809481.</li>
+<li>X. Pan, Y. Zou and M.A. Anastasio: Data Redundancy and Reduced-Scan Reconstruction in Reflectivity Tomography, IEEE Transactions on Image Processing, 12(7): 784-795, 2003. doi: 10.1109/TIP.2003.814244.</li>
+<li>X. Pan and M.A. Anastasio: On a Limited-View Reconstruction Problem in Diffraction Tomography, IEEE Transactions on Medical Imaging, 21(4): 413-416, 2002. doi: 10.1109/TMI.2002.1000265TMI</li>
+<li>M.A. Anastasio and X. Pan: Numerically Robust Minimal-Scan Reconstruction Algorithms for Diffraction Tomography via Radon Transform Inversion, International Journal of Imaging Systems and Technology, 12(2): 84-91, 2002. doi: 10.1002/ima.10014.</li>
+<li>M.A. Anastasio, X. Pan and E. Clarkson: Comments on the Filtered Backprojection Algorithm, Range Conditions, and the Pseudoinverse Solution, IEEE Transactions on Medical Imaging, 20(6): 539-542, 2001. doi: 10.1109/42.929620.</li>
+<li>M.A. Anastasio and X. Pan: Full- and Minimal-Scan Reconstruction Algorithms for Fan- Beam Diffraction Tomography, Applied Optics, 40(20): 3334-3345, 2001. doi: 10.1364/AO.40.003334.</li>
+<li>M.A. Anastasio and X. Pan: Investigation of the Noise Properties of a New Class of Reconstruction Methods in Diffraction Tomography, International Journal of Imaging Systems and Technology, 10(6): 437-446, 2000. doi:10.1002/(SICI)1098-1098(1999)10:63.0.CO;2-0.</li>
+<li>M.A. Anastasio and X. Pan: A New Reconstruction Approach for Reflection Mode Diffraction Tomography, IEEE Transactions on Image Processing, 9(7): 1262-1271, 2000. doi: 10.1109/83.847838.</li>
+<li>M A. Anastasio and X. Pan: Computationally Efficient and Statistically Robust Image Reconstruction in 3D Diffraction Tomography, Journal of the Optical Society of America A, 17(3): 391-400, 2000. doi: 10.1364/JOSAA.17.000391</li>
+<li>X. Pan and M.A. Anastasio: Minimal-Scan Filtered Backpropagation Algorithms for Diffraction Tomography, Journal of the Optical Society of America A, 16(12): 2896-2903, 1999. doi: 10.1364/josaa.16.002896</li>
+<li>C. Kao, X. Pan, P. La Riviere, and M.A. Anastasio: A Fourier-Based Optimal Recovery Approach for Anti-Aliasing Interpolation, Optical Engineering, 38(12): 2041-2044, 1999. doi.org/10.1117/1.602308</li>
+<li>M. Kupinski and M.A. Anastasio: Multiobjective Genetic Optimization of Diagnostic classifiers with Implications for Generating ROC Curves, IEEE Transactions on Medical Imaging, 18(8): 675-685, 1999. doi: 10.1109/42.796281.</li>
+<li> X. Pan, M.A. Anastasio, and C. Kao: A Comparative Study of Image Reconstruction in SPECT and Diffraction Tomography, IEEE Transactions on Nuclear Science, 46(3): 527-534, 1999. doi: 10.1109/23.775574.</li>
+<li>M.A. Anastasio, X. Pan, and C. Kao: Multi-Dimensional Smoothing Using Orthogonal Expansions, IEEE Signal Processing Letters, 6(4): 91 &#8211; 94, 1998. doi: 10.1109/97.752063</li>
+<li> M.A. Anastasio, M. Kupinski, and R. Nishikawa: Optimization and FROC Analysis of Rule-Based Detection Schemes Using a Multiobjective Approach, IEEE Transactions on Medical Imaging, 17(6): 1089-1093, 1998. doi: 10.1109/42.746726.</li>
+<li> M.A. Anastasio, M. Kupinski, and X. Pan: Noise Properties in Diffraction Tomography: Comparison of Conventional Reconstruction Algorithms with a New Algorithm, IEEE Transactions on Nuclear Science, 45(4): 2216-2223, 1998. doi: 10.1109/23.708350.</li>
+<li>M.A. Anastasio, H. Yoshida, R. Nagel, R. Nishikawa, and K. Doi: A Genetic Algorithm-Based Method for Optimizing Performance of a Computer-Aided Diagnosis Scheme for detection of Clustered Microcalcifications in Mammograms, Medical Physics, 25: 1613-1620, 1998. doi: 10.1118/1.598341.</li>
+</ul>
+
+		
+		
+		
+		
+		<h2>Patents</h2>
+<ul>
+<li>Principal Investigator (MPI with N. Duric), NIH R01EB028652, Advanced Image Reconstruction for High Resolution Breast Ultrasound Tomography, 09/01/2019&#8211;05/31/2023, $2,965,224.</li>
+<li>Principal Investigator, National Science Foundation (NSF), OP: Collaborative Research: Development of Advanced Image Reconstruction Methods for Pre-Clinical Applications of Photoacoustic Computed Tomography, 10/01/16 &#8211; 09/30/20, $343,900.</li>
+<li>Principal Investigator (MPI with EM Brey), NIH R01 EB020604, An Enabling Technology for Preclinical X-ray Imaging of Biomaterials In Vivo, 08/01/2016-04/30/2020, $2,632,725.</li>
+<li>Principal Investigator, NIH R01EB023045, Development of a Rapid Method for Imaging Regional Ventilation in Small Animals W/O Contrast Agents, 05/01/2017 &#8211; 02/28/2021, $1,715,299.</li>
+<li>Principal Investigator (MPI with LV Wang), NIH R01NS088494, Safe, rapid, & functional pediatric transcranial brain imaging using PACT, 09/15/2017 &#8211; 05/31/2022, $2,965,224. </li>
+<li>Zhu Q, Anastasio M, Uddin S, inventors; Washington University, assignee. Systems and Methods of Optimizing Functional Images of a Lesion Region using Guided Diffuse Optical Tomography, United States patent application US 16/649,743. 2020 Aug 20.</li>
+</ul>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<h2>Service on Department Committees</h2>
+<ul>
+<li>2019 &#8211; Present	Member, Big Ten Chairs </li>
+<li>2019 &#8211; Present	Member, BMES Council of Chairs</li>
+<li>2019 &#8211; Present	Chair, Promotion & Tenure Committee, Dept. of Bioengineering, UIUC</li>
+</ul>
+
+		<h2>Service on College Committees</h2>
+<ul>
+<li>2019 &#8211; Present	Member, Carle-Illinois Strategic Affiliation Steering Committee</li>
+<li>2020 &#8211; Present	Executive Committee, Mayo Clinic Illinois Alliance</li>
+<li>2020 &#8211; Present	co-Chair, Carle-Illinois AI Working Group</li>
+<li>2020 &#8211; Present	Member, IGB Unit Partners</li>
+<li>2019 &#8211; Present	Member, Jump ARCHES Steering Committee, UIUC</li>
+<li>2019	Search Committee Member, Head, Biomedical and Translational Sciences</li>
+<li>2019	Search Committee Member, Associate Dean for Facilities & Capital Planning</li>
+<li>2019	Chair, Director 5-year Review Comm. Health Care Eng. Systems Center </li>
+</ul>
+
+		
+		
+		<h2>Other Outside Service</h2>
+<ul>
+<li>2020-present, Illinois Institute of Technology Biomedical Engineering, External Advisory Board Member</li>
+</ul>
+
+		<h2>Honors</h2>
+<ul>
+<li>2015 	Elected as AIMBE Fellow (inducted in 2016), Citation: &#8220;For outstanding contributions to the development of emerging computed bio&#8211;imaging modalities&#8221;</li>
+<li>2017 	Elected as SPIE Fellow (to be inducted in February 2018), Citation: &#8220;Achievements in the areas of photoacoustic computed tomography, X-ray phase-contrast imaging, and computational imaging science&#8221;</li>
+</ul>
+
+		
+		
+		
+		
+		
+		<h2>Courses Taught - Last Four Years</h2>
+<ul><li>BIOE 501 - Seminar Discussion</li>
+<li>BIOE 598 - Theoretical Image Science</li>
+</ul>
+	</div>
+
+
+</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile w110 white-box   py-5 " id="tile7058" data-tileid="7058" >
+	<div class="lower     " id="lower7058">
+		<div class="row">
+			<div class="col-md column1      " >
+				<h2 class="text-center">Related News</h2>
+<div id="faculty-news" class="tile-list"></div>
+<p>&nbsp;</p>
+<p class="text-center"><a class="button orange loader" href="#" data-target="faculty-news" data-template="81" data-bookid="81" data-return="4" data-filter-field="netid" data-filter-value="maa">Load more news</a></p>
+			</div>
+		</div>
+	</div>
+</section>
+
+						</div>
+					</div>
+				</main>
+			</div>
+
+			<footer>
+							<div class="container-fluid maxwidth1140">
+				<div class="row pt-5 pb-3">
+					<div class="col-lg-5 mb-5">
+						<div class="campus_wordmark"><a href="http://illinois.edu/"><img src="https://ws.engr.illinois.edu/images/uiuc-footer-wordmark.png" alt="University of Illinois Urbana Champaign"></a></div>
+					</div>
+
+					<div class="col-lg-7 mb-4 socials">
+						<a href="https://www.facebook.com/CSatIllinois/"><i class="fab fa-facebook-f"></i><span class="sr-only">Facebook</span></a>
+						<a href="https://twitter.com/IllinoisCS"><i class="fab fa-twitter"></i><span class="sr-only">Twitter</span></a>
+						<a href="https://www.youtube.com/user/IllinoisCS"><i class="fab fa-youtube"></i><span class="sr-only">YouTube</span></a>
+						<a href="https://www.linkedin.com/school/illinoiscs"><i class="fab fa-linkedin-in"></i><span class="sr-only">LinkedIn</span></a>
+						<a href="https://www.instagram.com/illinoiscs/"><i class="fab fa-instagram"></i><span class="sr-only">Instagram</span></a>
+						<div class="w-100 d-block d-lg-none"></div>
+						<a href="/about/contact-us" class="button">Contact Us</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="container-fluid maxwidth1140">
+				<div class="row pb-5 justify-content-between">
+					<div class="col-md pr-xl-5 mb-5 college_container">
+
+						<div class="contact">
+							<p><span class="fs150x"><a href="https://cs.illinois.edu">Thomas M. Siebel Center for Computer Science</a></span><br />
+                                                       201 North Goodwin Avenue MC 258<br />
+                                                        Urbana, IL 61801-2302<br />
+                                                         ph: 217-333-3426 (general) | 217-333-4428 (advising) <br />
+                                                         fax: 217-333-3501</p>
+                                                        <p> General email: <a href="mailto:admin@cs.illinois.edu">admin@cs.illinois.edu</a><br />
+                                                         Graduate Advising: <a href="mailto:academic@cs.illinois.edu">academic@cs.illinois.edu</a><br />
+                                                         Undergraduate Advising: <a href="mailto:undergrad@cs.illinois.edu">undergrad@cs.illinois.edu</a><br />
+                                                          Webmaster: <a href="mailto:grainger-marcom@illinois.edu?subject=CS Request">grainger-marcom@illinois.edu</a></p>
+							<p><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a><br />
+							<a href="https://illinois.edu">University of Illinois</a></p>
+
+						</div>
+					</div>
+
+
+					<div class="col-md pr-xl-5 my-5 concentrations">
+                                 	
+					</div>
+				</div>
+			</div>
+
+				<div class="container-fluid" id="legal">
+					<div class="row justify-content-md-center align-items-center py-4">
+
+						<div class="col-md-auto">
+							<div><button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Preferences</button></div>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Copyright &copy; 2021 University of Illinois Board of Trustees</p>
+						</div>
+
+						<div class="col-md-auto">
+							<p><a href="https://grainger.illinois.edu/cookie-policy">Cookie Policy</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy</a></p>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Powered by <a href="https://my.engr.illinois.edu/sitemanager/editpage.asp?id=11846">SiteManager</a> | <a href="mailto:grainger-marcom@illinois.edu">Contact Webmaster</a></p>
+						</div>
+					</div>
+				</div>
+
+				<div id="gototop" class="hidden">
+					<a href="#"><i class="fa fa-chevron-up"></i><span class="sr-only">Go to top</span></a>
+				</div>
+			</footer>
+		</div>
+
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+		<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax-video.min.js"></script>
+		<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+		<script src="https://cdn.datatables.net/responsive/2.2.5/js/dataTables.responsive.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.0/circle-progress.min.js'></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/twbs-pagination/1.4.2/jquery.twbsPagination.min.js'></script>
+		<script src="https://ws.engr.illinois.edu/sitemanager/genscripts.js?v=2.660.676"></script>
+		<script src="/js/scripts.js?v=0.27"></script>
+
+		<script async="async" src="https://enroll.illinois.edu/ping"></script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-9571262-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-9571262-1');
+</script>
+
+		
+	</body>
+</html>
+
+

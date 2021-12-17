@@ -1,0 +1,1075 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Daniel S Katz
+ | Computer Science | UIUC</title>
+		<link rel="shortcut icon" type="image/x-icon" href="//ws.engr.illinois.edu/images/favicon.ico">
+
+		<meta name="description" content="Daniel S Katz
+">
+		<meta name="author" content="Grainger Engineering Office of Marketing and Communications">
+
+		<!-- meta tags for mobile devices -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">  
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+				<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="26be7d61-2017-4ea7-8a8b-8f1704889763"></script>
+		<script type="text/javascript"> function OptanonWrapper() { } </script>
+
+		<meta property="og:type" content="article" />
+<meta property="og:title" content="Daniel S Katz
+" />
+<meta property="og:description" content="Daniel S Katz
+" />
+<meta property="og:url" content="https://cs.illinois.edu/about/people/all-faculty/*" />
+<meta property="og:image" content="https://ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=12050" />
+
+
+		<!-- fonts -->
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i,900,900i%7cBarlow+Condensed%7cPlayfair+Display%7cMontserrat:400,500,600,700,800%7cFjalla+One%7cLexend+Exa%7cMontserrat+Alternates:400,700">
+		<script src="https://kit.fontawesome.com/64a62210ef.js"></script>
+
+		<!-- stylesheets -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.5/css/responsive.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://ws.engr.illinois.edu/sitemanager/gensite.css?v=2.671.281">
+		<link rel="stylesheet" type="text/css" href="/css/styles.css?v=0.19">
+
+				<!-- Global site tag (gtag.js) - Google Ads: 1011414001 -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1011414001"></script>
+		<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-1011414001'); </script> 
+		<!-- Event snippet for Outbound Google Ads click conversions -->
+		<script> function gtag_report_conversion(url) {var callback = function () {if (typeof(url) != 'undefined') {window.location = url;}};gtag('event', 'conversion', {'send_to': 'AW-1011414001/YNxnCM-1kfMBEPHno-ID','event_callback': callback});return false;} </script>
+		
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	</head>
+
+	<body class="site prod about people all-faculty dskatz  isattop theme_dagobah" data-sidebar="" data-sidebarskip="[sidebarskip]" data-sidebarinclude="[sidebarinclude]">
+		<div id="page">
+			
+			<header>
+				<div id="skiptocontent"><a href="#content">skip to main content</a></div>
+
+				<div class="container-fluid campus">
+					<div class="row mx-auto maxwidth1140">
+						<div class="col p-0">
+							<a href="http://illinois.edu/"><span>University of Illinois Urbana-Champaign</span></a>
+						</div>
+						<div id="featurelinks" class="col p-0 text-right">
+							<ul>
+	<li><a href="/alumni">Alumni</a></li>
+	<li><a href="/corporate">Corporate</a></li>
+       <li><a href="/about/people">People</a></li>
+	<li><a href="https://my.cs.illinois.edu">My.CS</a></li>
+</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="container-fluid site">
+					<div class="row wordmark d-flex flex-nowrap align-items-center">
+						<div class="d-flex flex-fill pr-3">
+							<div class="blocki"><a href="https://illinois.edu">University of Illinois at Urbana-Champaign</a></div>
+							<div class="site_identification">
+								<div class="parent_name"><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a></div>
+								<div class="site_name"><a href="/"><span>Computer Science</span></a></div>
+							</div>
+						</div>
+
+						<div class="d-flex align-items-center">
+							<div id="header-search-container" class="d-none d-lg-block site-search">
+								<form class="form-inline" method="get" action="/search" id="search-form">
+									<div class="input-group">
+										<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="header-search-go-button">
+										<div class="input-group-append">
+											<a href="/search" onclick="$('#header-search-container form').submit(); return false;" class="input-group-text" id="header-search-go-button"><i class="far fa-search"></i><span class="sr-only">Search</span></a>
+										</div>
+									</div>
+								</form>	
+							</div>
+
+							<div id="mainnav-toggler-container">
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainnav" aria-controls="mainnav" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="icon"></span> <span class="label sr-only">Menu</span>
+								</button>
+							</div>
+						</div>
+					</div>
+					<nav class="navbar navbar-expand-lg p-0">
+<div class="collapse navbar-collapse" id="mainnav">
+<form class="d-block d-lg-none" method="get" action="/search" id="mobile-search-form">
+<div class="form-row p-3">
+<div class="col">
+<div class="input-group">
+<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="mobile-search-go-button">
+<div class="input-group-append">
+<a href="/search" onclick="$('#mobile-search-form').submit(); return false;" class="input-group-text" id="mobile-search-go-button"><i class="far fa-search" aria-hidden="true"></i><span class="sr-only">Search</span></a>
+</div>
+</div>
+</div>
+</div>
+</form>
+<ul class="navbar-nav w-100">
+<li class="dropdown mega twocol nav-item">
+<a href="/about" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>About</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-about">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/about">About</a></h2>
+<ul class="about ">
+<li><a href="/about/cs-cares">CS CARES Committee</a></li>
+<li><a href="/about/values">Values & Code of Conduct</a></li>
+<li><a href="/about/statistics">Rankings & Statistics</a></li>
+<li><a href="/about/contact-us">Contact Us & Directions</a></li>
+<li class="dropdown"><a href="/about/people">People</a><ul class="people ">
+<li><a href="/about/people/all-faculty">All Faculty</a></li>
+<li><a href="/about/people/department-faculty">Department Faculty</a></li>
+<li><a href="/about/people/affiliate-faculty">Affiliate Faculty</a></li>
+<li><a href="/about/people/adjunct-faculty">Adjunct Faculty</a></li>
+<li><a href="/about/people/postdocs">Postdocs</a></li>
+<li><a href="/about/people/emeritus-faculty">Emeritus Faculty</a></li>
+<li class="dropdown"><a href="/about/people/staff">Staff</a><ul class="staff ">
+<li><a href="/about/people/staff/office-department-head">Office of the Department Head</a></li>
+<li><a href="/about/people/staff/communications-engagement-team">Communications &amp; Engagement Team</a></li>
+<li><a href="/about/people/staff/undergraduate-advising-office">Undergraduate Advising Office</a></li>
+<li><a href="/about/people/staff/graduate-advising-office">Graduate Advising Office</a></li>
+<li><a href="/about/people/staff/instructional-development-team">Instructional Development Team</a></li>
+<li><a href="/about/people/staff/business-office">Business Office</a></li>
+<li><a href="/about/people/staff/faculty-support-contacts">Faculty Support Contacts</a></li>
+<li><a href="/about/people/staff/facilities-shipping-and-receiving">Facilities, Shipping and Receiving</a></li>
+</ul>
+</li>
+<li><a href="/about/people/graduating-phd-students">Graduating PhD Students</a></li>
+<li><a href="/about/people/recent-phd-alumni">Recent PhD Alumni</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/positions">Open Positions</a><ul class="positions ">
+<li><a href="/about/positions/faculty-positions">Faculty Positions</a></li>
+<li><a href="/about/positions/postdoctoral">Postdoctoral Positions</a></li>
+<li><a href="/about/positions/staff-positions">Staff Positions</a></li>
+<li><a href="/about/positions/choose-illinois-computer-science">Choose Illinois Computer Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/calendar">Calendar</a><ul class="calendar ">
+<li><a href="/about/calendar/all">All Events</a></li>
+<li><a href="/about/calendar/corporate">Corporate Events</a></li>
+<li><a href="/about/calendar/department">Department Events</a></li>
+<li><a href="/about/calendar/graduate">Graduate Events</a></li>
+<li><a href="/about/calendar/outreach">Outreach Events</a></li>
+<li><a href="/about/calendar/speakers">Speakers</a></li>
+<li><a href="/about/calendar/student-groups">Student Group Events</a></li>
+<li><a href="/about/calendar/undergraduate">Undergraduate Events</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards">Awards</a><ul class="awards ">
+<li><a href="/about/awards/celebration">Celebration of Excellence</a></li>
+<li class="dropdown"><a href="/about/awards/faculty-awards">Faculty Awards</a><ul class="faculty-awards ">
+<li><a href="/about/awards/faculty-awards/chairs-and-professorships">Chairs and Professorships</a></li>
+<li><a href="/about/awards/faculty-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/faculty-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards/undergraduate-scholarships-awards">Undergraduate Scholarships &amp; Awards</a><ul class="undergraduate-scholarships-awards ">
+<li><a href="/about/awards/undergraduate-scholarships-awards/shieh-li-scholarship">Ruey-Feng Shieh Li Family Scholarship</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/graduate-fellowships-awards">Graduate Fellowships &amp; Awards</a></li>
+<li class="dropdown"><a href="/about/awards/alumni-awards">Alumni Awards</a><ul class="alumni-awards ">
+<li><a href="/about/awards/alumni-awards/alumni-awards-past-recipients">Alumni Awards Past Recipients</a></li>
+<li><a href="/about/awards/alumni-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/alumni-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/staff-awards">Staff Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/history-timeline">History Timeline</a></li>
+<li><a href="/about/accreditation">Accreditation</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/admissions" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Admissions</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-admissions">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/admissions">Admissions</a></h2>
+<ul class="admissions ">
+<li class="dropdown"><a href="/admissions/undergraduate">Undergraduate Admissions</a><ul class="undergraduate ">
+<li><a href="https://admissions.illinois.edu/apply">Apply Now</a></li>
+<li><a href="/academics/undergraduate/degree-program-options">Degree & Program Options</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/dates">Application Deadlines</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/process">Applications Process & Requirements</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+<li><a href="https://www.housing.illinois.edu">Housing</a></li>
+<li><a href="/about-us/accreditation">Accreditation</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/admissions/graduate">Graduate Admissions</a><ul class="graduate ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+<li class="dropdown"><a href="/admissions/graduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/admissions/graduate/degree-program-options/professional-master-computer-science-mcs-program">Professional Master of Computer Science (MCS) Program</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-deadlines">Application Deadlines</a></li>
+<li class="dropdown"><a href="/admissions/graduate/applications-process-requirements">Applications Process &amp; Requirements</a><ul class="applications-process-requirements ">
+<li><a href="/admissions/graduate/applications-process-requirements/additional-required-application-materials">Additional Required Application Materials for International Students</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/application-fee-waivers">Application Fee Waivers</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/data-structures-proficiency-exam">Data Structures Proficiency Exam</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-checklist">Application Checklist</a></li>
+<li class="dropdown"><a href="/admissions/graduate/faqs">FAQs</a><ul class="faqs ">
+<li><a href="/admissions/graduate/faqs/ican-faqs">iCAN FAQs</a></li>
+<li><a href="/admissions/graduate/faqs/online-mcs-faqs">Online MCS FAQs</a></li>
+</ul>
+</li>
+<li><a href="https://choose.illinois.edu/apply/">Check Application Status</a></li>
+</ul>
+</li>
+<li><a href="/admissions/impact-illinois-cs-degree">Impact of an Illinois CS Degree</a></li>
+<li><a href="/admissions/financial-aid">Financial Aid</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/academics" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Academics</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-academics">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/academics">Academics</a></h2>
+<ul class="academics ">
+<li class="dropdown"><a href="/academics/undergraduate">Undergraduate Academics</a><ul class="undergraduate ">
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/academics/undergraduate/degree-program-options/bs-computer-science">B.S. in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-mathematics-computer-science">B.S. in Mathematics &amp; Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-statistics-computer-science">B.S. in Statistics &amp; Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs">CS + X Degree Programs</a><ul class="cs-x-degree-programs ">
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-advertising">Computer Science + Advertising</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-animal-sciences">Computer Science + Animal Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-anthropology">Computer Science + Anthropology</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-astronomy">Computer Science + Astronomy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-chemistry">Computer Science + Chemistry</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-crop-sciences">Computer Science + Crop Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-economics">Computer Science + Economics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-geography">Computer Science + Geography &amp; Geographic Information Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-linguistics">Computer Science + Linguistics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-music">Computer Science + Music</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-philosophy">Computer Science + Philosophy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/cs-x-degree-requirements">CS + X Degree Requirements &amp; Planning Forms</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-undergraduate-degree-options-faq">CS Undergraduate Degree Options FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/registration">Registration</a><ul class="registration ">
+<li><a href="/academics/undergraduate/registration/cs-course-restrictions-enrollment-caps">CS Course Restrictions &amp; Enrollment Caps</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/policies-and-procedures">Policies and Procedures</a></li>
+<li><a href="/academics/undergraduate/undergraduate-advising">Undergraduate Advising</a></li>
+<li><a href="/academics/undergraduate/cs-student-opportunity-series-cs-sos">CS Student Opportunity Series (CS SOS)</a></li>
+<li><a href="/academics/undergraduate/undergraduate-forms">Undergraduate Forms</a></li>
+<li><a href="/academics/undergraduate/honors">Honors</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate">Graduate Academics</a><ul class="graduate ">
+<li class="dropdown"><a href="/academics/graduate/phd-program">PhD Program</a><ul class="phd-program ">
+<li><a href="/academics/graduate/phd-program/final-exam-thesis-defense">Final Exam (Thesis Defense)</a></li>
+<li><a href="/academics/graduate/phd-program/guidelines-forming-phd-committee">Guidelines for Forming Ph.D. Committee</a></li>
+<li><a href="/academics/graduate/phd-program/phd-ms-thesis-format-review-guidelines">Ph.D. / M.S. Thesis Format Review Guidelines</a></li>
+<li><a href="/academics/graduate/phd-program/phd-program-study-process">PhD Program of Study Process</a></li>
+<li><a href="/academics/graduate/phd-program/phd-requirements">PhD Requirements</a></li>
+<li><a href="/academics/graduate/phd-program/phd-time-limits-milestones">PhD Time Limits &amp; Milestones</a></li>
+<li><a href="/academics/graduate/phd-program/preliminary-exam">Preliminary Exam</a></li>
+<li><a href="/academics/graduate/phd-program/qualifying-exam">Qualifying Exam</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/ms-program">MS Program</a></li>
+<li><a href="/academics/graduate/ms-bioinformatics-program">MS in Bioinformatics Program</a></li>
+<li class="dropdown"><a href="/academics/graduate/professional-mcs">Professional Master of Computer Science</a><ul class="professional-mcs ">
+<li><a href="/academics/graduate/professional-mcs/campus-master-computer-science">On-Campus Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science">Online Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science-data-science">Online Master of Computer Science in Data Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/fifth-year-masters-programs">Fifth Year Master's Programs</a><ul class="fifth-year-masters-programs ">
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-mcs-program">5-year BS-MCS Program</a></li>
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-ms-program">5-year BS-MS Program</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">Illinois Computing Accelerator for Non-Specialists (iCAN)</a><ul class="ican ">
+<li><a href="/academics/graduate/ican/application-process">iCAN Application Process</a></li>
+<li><a href="/academics/graduate/ican/curriculum">iCAN Curriculum</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources">Graduate Forms &amp; Advising Resources</a><ul class="graduate-forms-advising-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/epi-exam-requirements">EPI Exam Requirements</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-advising-contacts">Graduate Advising Contacts</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-student-annual-evaluation-process">Graduate Student Annual Evaluation Process</a></li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources">New Graduate Student Resources</a><ul class="new-graduate-student-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/mcs-campus">MCS On-Campus General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/ms-general">MS General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/phd-general">PhD General Advising for Registration</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/official-forms">Official Forms</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/academics/courses">Courses</a></li>
+<li><a href="/academics/honor-code">Honor Code</a></li>
+<li><a href="https://cs.illinois.edu/student-life/student-resources">Student Resources</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/student-life" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Student Life</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-student-life">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41390_8405" data-pageid="41390" data-tileid="8405" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=55621);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Salesforce's CodeT5 System Can Understand and Generate Code</h2>
+			<div class="description"></div>
+			<p><a href="/news/salesforces-codet5-system-can-understand-and-generate-code" class="button" title="Salesforce's CodeT5 System Can Understand and Generate Code">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 7, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/student-life">Student Life</a></h2>
+<ul class="student-life ">
+<li><a href="/student-life/overview-cs-student-life">Overview of CS Student Life</a></li>
+<li><a href="/student-life/student-organizations">Student Organizations</a></li>
+<li><a href="/student-life/department-college-and-campus-events">Department, College, and Campus Events</a></li>
+<li><a href="/student-life/student-resources">Student Resources</a></li>
+<li><a href="/student-life/career-services">Career Services</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/research" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Research</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-research">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Explore visionary research conducted by world-renowned faculty.</h2>
+<p><a class="orange button" href="/research/areas">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/research">Research</a></h2>
+<ul class="research ">
+<li class="dropdown"><a href="/research/areas">Research Areas</a><ul class="areas ">
+<li><a href="/research/areas/architecture-compilers-and-parallel-computing">Architecture, Compilers, and Parallel Computing</a></li>
+<li><a href="/research/areas/artificial-intelligence">Artificial Intelligence</a></li>
+<li><a href="/research/areas/bioinformatics-and-computational-biology">Bioinformatics and Computational Biology</a></li>
+<li><a href="/research/areas/computers-and-education">Computers and Education</a></li>
+<li><a href="/research/areas/data-and-information-systems">Data and Information Systems</a></li>
+<li><a href="/research/areas/interactive-computing">Interactive Computing</a></li>
+<li><a href="/research/areas/programming-languages-formal-methods-and-software-engineering">Programming Languages, Formal Methods, and Software Engineering</a></li>
+<li><a href="/research/areas/scientific-computing">Scientific Computing</a></li>
+<li><a href="/research/areas/security-and-privacy">Security and Privacy</a></li>
+<li><a href="/research/areas/systems-and-networking">Systems and Networking</a></li>
+<li><a href="/research/areas/theory-and-algorithms">Theory and Algorithms</a></li>
+</ul>
+</li>
+<li><a href="/research/technical-conferences-workshops">Technical Conferences &amp; Workshops</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+<li><a href="/corporate#research">Corporate Partners</a></li>
+<li><a href="https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=3146">Illinois CS Research Overview</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/broadening-participation-computing" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Broadening Participation</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-broadening-participation-computing">
+<section class="tile w50 white-box py-5 marketing">
+<p class="mb-0"><img src="//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=16163&s=375" class="image" alt="" width="375" /></p>
+<p style="padding: 10px 15px 0px 15px;">New certificate program for college graduates who want a deeper understanding of computers, algorithms, and programming.</p>
+<p><a class="orange button" href="/ican">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/broadening-participation-computing">Broadening Participation</a></h2>
+<ul class="broadening-participation-computing ">
+<li><a href="https://drive.google.com/file/d/12vDswb1i-mEXaXgVt7FOhtqYs7b8F_1p/view">BPC Departmental Plan</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs">BPC Programs & Activities for Students</a><ul class="programs ">
+<li><a href="/broadening-participation-computing/programs/csambassadors">CS Student Ambassador/Research Scholars (CS STARS)</a></li>
+<li><a href="/broadening-participation-computing/programs/cskickstart">Illinois CS Kickstart</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs/ai4all">AI4ALL</a><ul class="ai4all ">
+<li><a href="http://go.cs.illinois.edu/DiscoverAI">Apply Now</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">iCAN</a><ul class="ican ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+</ul>
+</li>
+<li><a href="http://cs.illinois.edu/research/summer-research-experience-undergraduates">Summer Research Experience for Undergraduates</a></li>
+</ul>
+</li>
+<li><a href="/broadening-participation-computing/resources">BPC Resources</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/cross-cutting">Cross-Cutting Educational Activities</a><ul class="cross-cutting ">
+<li><a href="/broadening-participation-computing/cross-cutting/conferences-workshops">BPC Conferences & Workshops</a></li>
+<li><a href="/broadening-participation-computing/cross-cutting/ca-training">Course Assistant Training</a></li>
+<li><a href="https://cs.illinois.edu/news/featured-lectures#equity-justice">Equity & Justice in Computing Seminar Series</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/broadening-participation-computing/k-12">K-12 Outreach & Resources</a><ul class="k-12 ">
+<li><a href="/broadening-participation-computing/k-12/k-12-outreach">K-12 Outreach Programs</a></li>
+<li><a href="/broadening-participation-computing/k-12/k-12-resources">K-12 Resources</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/student-life/student-organizations">Student Organizations</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/news" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>News</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-news">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41391_5367" data-pageid="41391" data-tileid="5367" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=51204);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging</h2>
+			<div class="description"><p>The Defense Advanced Research Projects Agency (DARPA) has awarded $5.8 million to a team, led by Illinois CS's <a href="/about/people/faculty/zaher">Tarek Abdelzaher</a>, that will work to characterize how different foreign populations respond to influence campaigns as a first step towards development of effective countermeasures.</p></div>
+			<p><a href="/news/abdelzaher-leading-DARPA-effort-understand-how-people-respond-influence-messaging" class="button" title="Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 8, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/news">News</a></h2>
+<ul class="news ">
+<li><a href="/news">Department News</a></li>
+<li><a href="/news/features">Feature Stories</a></li>
+<li><a href="/news/covid-19-projects">COVID-19 Projects</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/news/media-coverage">Media Coverage</a></li>
+<li><a href="/news/e-news">E-News</a></li>
+<li><a href="/news/impact-report-publications">Impact Report &amp; Publications</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/give" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Give</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-give">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Help ensure that Illinois continues to set a global standard for CS research and education.</h2>
+<p><a class="orange button" href="/give/give-now">Make a Gift</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/give">Give</a></h2>
+<ul class="give ">
+<li><a href="/give/give-now">Give Now</a></li>
+<li><a href="/give/ways-give">Ways to Give</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/give/computer-science-visionary-scholarship-donors">Computer Science Visionary Scholarship Donors</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+</ul>
+</div>
+</nav>
+
+				</div>
+			</header>
+
+			<div id="content">
+				<main>
+					<div  id="hero" class="container-fluid">
+						<div class="row maxwidth1140">
+							<div class="col">
+								<div>
+									<nav id="breadcrumbs"><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/about/people">People</a></li><li><a href="/about/people/all-faculty">All Faculty</a></li></ul></nav>
+									<h1>Daniel S Katz
+</h1>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					
+
+					<div id="content_inner" class="container-fluid">
+						<div class="tile-list">
+							<section class="tile w100 white-box   py-5 " id="tile6806" data-tileid="6806" >
+	<div class="lower  maxwidth1140   " id="lower6806">
+		<div class="row">
+			<div class="col-md column1      " >
+				<div>	<div class="directory-profile maxwidth800" id="article_[postid]">
+		<figure class="image align-right ">
+			<img alt="Daniel S Katz" title="Daniel S Katz" src="//ws.engr.illinois.edu/directory/viewphoto.aspx?id=68715&s=300&type=portrait" />
+			<figcaption>Daniel S Katz</figcaption>
+		</figure>
+
+		<!--<h2>Daniel S Katz</h2>-->
+		<div class="roles">
+			
+			<div><div class="role cat5 notprimary">
+<div class="title"><strong>Research Associate Professor, NCSA</strong></div>
+<!--<div class="groups"></div>-->
+<div class="phone">(217) 244-8000</div>
+<div class="email"><a href="mailto:dskatz@illinois.edu">dskatz@illinois.edu</a></div>
+<div class="office">4102A Nat Center for Suprcomp Appl</div>
+</div>
+</div>
+		</div>
+
+		<h2>For more information</h2>
+<ul>
+<li><a href="http://danielskatz.org/">Home page for Daniel S. Katz</a></li>
+</ul>
+
+		
+		<h2>Education</h2>
+<ul>
+<li>BS, Electrical Engineering, Northwestern University, 1988</li>
+<li>MS, Electrical Engineering, Northwestern University, 1990</li>
+<li>PhD, Electrical Engineering, Northwestern University, 1994</li>
+</ul>
+
+		
+		<h2>Academic Positions</h2>
+<ul>
+<li>Guest Faculty, Data Science and Learning Division, Argonne National Laboratory (0%, 2016 - Present)</li>
+<li>Research Associate Professor, Graduate School of Library and Information Science (0%, 2016 - Present)</li>
+<li>Research Associate Professor, Electrical and Computer Engineering (0%, 2016 - Present)</li>
+<li>Research Associate Professor, Computer Science (0%, 2016 - Present)</li>
+<li>Chief Scientist, NCSA (100%, 2020 - Present)</li>
+<li>Assistant Director for Scientic Software & Applications, NCSA (100%, 2016 - Present)</li>
+<li>Senior Fellow, Computation Institute, Argonne National Laboratory (2009 - 2016)</li>
+<li>Senior Fellow, Computation Institute, University of Chicago (2009 - 2016)</li>
+<li>Affiliate Faculty, Center for Computation & Technology (CCT), LSU (2009 - Present)</li>
+<li>Adjunct Associate Professor, Electrical and Computer Engineering, LSU (2006 - 2013)</li>
+<li>Director for Cyberinfrastructure Development, Center for Computation & Technology (CCT), LSU (2006 - 2009)</li>
+</ul>
+
+		
+		
+		<h2>Other Professional Employment</h2>
+<ul>
+<li>Computational Scientist, Cray Research, Inc. (1993 - 1996)</li>
+<li>Senior Member of the Information Systems and Computer Science Staff, JPL (1996 - 1998)    </li>
+<li>Project Element Manager, Remote Exploration and Experimentation Project, JPL (1998 - 2001)	          </li>
+<li>Technical Group Supervisor, Parallel Applications Technologies Group, JPL (2002 - 2005)	          </li>
+<li>Area Program Manager, Dependable Computing, High-End Computing, JPL (2003 - 2005)	          </li>
+<li>Principal Member, Information Systems and Computer Science Staff, Jet Propulsion Laboratory (JPL) (2003 - 2006)	          </li>
+<li>Program Director, CISE/ACI, National Science Foundation (2012 - 2016)	          </li>
+</ul>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<h2>Research Interests</h2>
+<ul>
+<li>Resilience and fault-tolerance</li>
+<li>Parallel and distributed computing</li>
+<li>Many task computing</li>
+<li>Sustainable and open science, focusing on software, including software citation and software publication</li>
+</ul>
+
+		
+		
+		<div class="extProfileAREA">
+			<h2>Research Areas</h2>
+<ul>
+<li><a href="https://cs.illinois.edu/research/areas/data-and-information-systems">Data and Information Systems</a></li>
+<li><a href="http://cs.illinois.edu/research/areas/scientific-computing">Scientific Computing</a></li>
+<li><a href="http://cs.illinois.edu/research/areas/systems-and-networking">Systems and Networking</a></li>
+</ul>
+
+		</div>
+		
+		
+		
+		
+		
+		
+		
+		
+		<h2>Selected Articles in Journals</h2>
+<ul>
+<li><a href="https://doi.org/10.1080/13658816.2020.1831514">R. C. Vandewalle, W. C. Barley, A. Padmanabhan, D. S. Katz, and S. Wang, "Understanding the multifaceted geospatial software ecosystem: a survey approach," International Journal of Geographical Information Science, 2020. </a></li>
+<li><a href="https://doi.org/10.1186/s40537-020-00361-2">E. A. Huerta, A. Khan, E. Davis, C. Bushell, W. D. Gropp, D. S. Katz, V. Kindratenko, S. Koric, W. T. C. Kramer, B. McGinty, K. McHenry, and A. Saxton, "Convergence of artificial intelligence and high performance computing on NSF-supported cyberinfrastructure," Journal of Big Data, 7:88, 2020. </a></li>
+<li><a href="https://doi.org/10.1021/acsanm.0c02018">J. A. Schiller, R. Toro Santamaria, A. Shah, M. Surana, K. Zhang, M. Robertson, K. Miller, K. Cruse, K. Liu, B. Seong, C. Seol, I. Foster, B. Blaiszik, B. Galewsky, D. K. Adams, D. S. Katz, P. M. Ferreira, E. Ertekin, and S. Tawfick, "Crowd-Sourced Data and Analysis Tools for Advancing the Chemical Vapor Deposition of Graphene: Implications for Manufacturing", ACS Applied Nano Materials, 2020. </a></li>
+<li><a href="https://doi.org/10.12688/f1000research.25561.1">C. Jay, R. Haines, D. S. Katz, J. C. Carver, S. Gesing, S. R. Brandt, J. Howison, A. Dubey, J. C. Phillips, H. Wan, M. J. Turk, "The challenges of theory-software translation [version 1; peer review: 2 approved, 1 approved with reservations]", F1000Research, 9:1192, 2020.</a></li>
+<li><a href="https://doi.org/10.1109/MS.2020.2973362">J. Cohen, D. S. Katz, M. Barker, N. Chue Hong, R. Haines, C. Jay, "The Four Pillars of Research Software Engineering," IEEE Software, v.38(1), pp. 97-105, 2020
+</a></li>
+<li>E. A. Huerta, G. Allen, I. Andreoni, J. M. Antelis, E. Bachelet, G. B. Berriman, F. B. Bianco, R. Biswas, M. Carrasco Kind, K. Chard, M. Cho, P. S. Cowperthwaite, Z. B. Etienne, M. Fishbach, F. Forster, D. George, T. Gibbs, M. Graham, W. Gropp, R. Gruendl, A. Gupta, R. Haas, S. Habib, E. Jennings, M. W. G. Johnson, E. Katsavounidis, D. S. Katz, A. Khan, V. Kindratenko, W. T. C. Kramer, X. Liu, A. Mahabal, Z. Marka, K. McHenry, J. M. Miller, C. Moreno, M. S. Neubauer, S. Oberlin, A. R. Olivas Jr, D. Petravick, A. Rebei, S. Rosofsky, M. Ruiz, A. Saxton, B. F. Schutz, A. Schwing, E. Seidel, S. L. Shapiro, H. Shen, Y. Shen, L. P. Singer, B. M. Sipocz, L. Sun, J. Towns, A. Tsokaros, W. Wei, J. Wells, T. J. Williams, J. Xiong, Z. Zhao, "Enabling real-time multi-messenger astrophysics discoveries with deep learning," Nature Reviews Physics, v.1, pp. 600&#8211;608, 2019. doi: 10.1038/s42254-019-0097-4</li>
+<li>A. E. Ahmed, J. Heldenbrand, Y. Asmann, F. M. Fadlelmola, D. S. Katz, K. Kendig, M. C. Kendzior, T. Li, Y. Ren, E. Rodriguez, M. R. Weber, J. M. Wozniak, J. Zermeno, L. S. Mainzer, "Managing genomic variant calling workflows with Swift/T," PLOS ONE v.14(7), pp. e0211608, 2019. doi: 10.1371/journal.pone.0211608 (Preprint doi: 10.1101/524645)</li>
+<li>D. S. Katz, S. Druskat, R. Haines, C. Jay, A. Struck, "The State of Sustainable Research Software: Learning from the Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1)," Journal of Open Research Software, v.7(1), p. 11, 2019. doi: 10.5334/jors.242</li>
+<li>HEP Software Foundation: A. A. Alves Jr, G. Amadio, N. Anh-Ky, L. Aphecetche, J. Apostolakis, M. Asai, L. Atzori, M. Babik, G. Bagliesi, M. Bandieramonte, M. Barisits, L. A. T. Bauerdick, S. Belforte, D. Benjamin, C. Bernius, W. Bhimji, R. M. Bianchi, I. Bird, C. Biscarat, J. Blomer, K. Bloom, T. Boccali, B. Bockelman, T. Bold, D. Bonacorsi, A. Boveia, C. Bozzi, M. Bracko, D. Britton, A. Buckley, P. Buncic, P. Calafiura, S. Campana, P. Canal, L. Canali, G. Carlino, N. F. Castro, M. Cattaneo, G. Cerminara, P. Chang, J. Chapman, G. Chen, T. Childers, P. Clarke, M. Clemencic, E. Cogneras, I. Collier, G. Corti, G. Cosmo, D. Costanzo, B. Couturier, K. Cranmer, J. Cranshaw, L. Cristella, D. Crooks, S. Cr&#233;p&#233;-Renaudin, S. Dallmeier-Tiessen, K. De, M. De Cian, A. Di Girolamo, G. Dimitrov, C. Doglioni, A. Dotti, D. Duellmann, L. Duflot, D. Dykstra, K. Dziedziniewicz-Wojcik, A. Dziurda, U. Egede, P. Elmer, J. Elmsheuser, V. D. Elvira, G. Eulisse, T. Ferber, A. Filipcic, I. Fisk, C. Fitzpatrick, J. Flix, A. Formica, A. Forti, F. Gaede, G. Ganis, R. Gardner, V. Garonne, A. Gellrich, K. Genser, S. George, F. Geurts, A. Gheata, M. Gheata, F. Giacomini, S. Giagu, M. Giffels, D. Gingrich, M. Girone, V. V. Gligorov, I. Glushkov, W. Gohn, J. B. Gonzalez Lopez, I. Gonz&#225;lez Caballero, J. R. Gonz&#225;lez Fern&#225;ndez, G. Govi, C. Grandi, H. Grasland, H. Gray, L. Grillo, W. Guan, O. Gutsche, V. Gyurjyan, A. Hanushevsky, F. Hariri, T. Hartmann, J. Harvey, T. Hauth, B. Hegner, B. Heinemann, L. Heinrich, J. M. Hern&#225;ndez, M. Hildreth, S. H&#246;che, M. Hodgkinson, P. Hristov, X. Huang, V. N. Ivanchenko, T. Ivanov, B. Jashal, B. Jayatilaka, R. Jones, M. Jouvin, S. Y. Jun, M. Kagan, C. W. Kalderon, E. Karavakis, D. S. Katz, D. Kcira, B. P. Kersevan, M. Kirby, A. Klimentov, M. Klute, I. Komarov, P. Koppenburg, J. Kowalkowski, L. Kreczko, T. Kuhr, R. Kutschke, V. Kuznetsov, W. Lampl, E. Lancon, D. Lange, M. Lassnig, P. Laycock, C. Leggett, J. Letts, B. Lewendel, T. Li, G. Lima, J. Linacre, T. Linden, G. Lo Presti, S. Lopienski, P. Love, Z. L. Marshall, E. Martelli, S. Martin-Haugh, P. Mato, K. Mazumdar, T. McCauley, J. McFayden, S. McKee, A. McNab, H. Meinhard, D. Menasce, P. Mendez Lorenzo, A. Serhan Mete, M. Michelotto, J. Mitrevski, L. Moneta, B. Morgan, R. Mount, E. Moyse, S. Murray, M. S. Neubauer, S. Novaes, M. Novak, A. Oyanguren, N. Ozturk, A. Pacheco Pages, M. Paganini, J. Pansanel, V. R. Pascuzzi, A. Pearce, B. Pearson, K. Pedro, G. Perdue, A. Perez-Calero Yzquierdo, L. Perrozzi, T. Petersen, M. Petric, J. Piedra, L. Piilonen, D. Piparo, W. Pokorski, F. Polci, K. Potamianos, F. Psihas, G. Raven, J. Reuter, A. Ribon, M. Ritter, J. Robinson, E. Rodrigues, S. Roiser, D. Rousseau, G. Roy, A. Sailer, T. Sakuma, R. Santana, A. Sartirana, H. Schellman, J. Schovancov&#225;, S. Schramm, M. Schulz, A. Sciab&#224;, S. Seidel, S. Sekmen, C. Serfon, H. Severini, E. Sexton-Kennedy, M. Seymour, I. Shapoval, J. Shiers, J.-G. Shiu, H. Short, G. P. Siroli, S. Skipsey, T. Smith, S. Snyder, M. D. Sokoloff, H. Stadie, G. Stark, G. Stewart, A. S&#225;nchez-Hern&#225;ndez, J. Templon, G. Tenaglia, V. Tsulaia, C. Tunnell, E. Vaandering, A. Valassi, S. Vallecorsa, L. Valsan, P. Van Gemmeren, R. Vernet, B. Viren, J.-R. Vlimant, C. Voss, C. Vuosalo, C. V&#225;zquez Sierra, R. Wartel, T. Wenaus, S. Wenzel, F. Winklmeier, C. Wissing, F. Wuerthwein, B. Wynne, Z. Xiaomei, W. Yang and E. Yazgan, "A Roadmap for HEP Software and Computing R&D for the 2020s," Computing and Software for Big Science, v.3(7), December 2019. doi: 10.1007/s41781-018-0018-8</li>
+<li>D. Sholler, K. Ram, C. Boettiger, D. S. Katz, "Enforcing public data archiving policies in academic publishing: A study of ecology journals," Big Data & Society, March 25, 2019. doi: 10.1177/2053951719836258</li>
+<li>E. A. Huerta, R. Haas, S. Jha, M. Neubauer, D. S. Katz, "Supporting High&#8208;Performance and High&#8208;Throughput Computing for Experimental Science," Computing and Software for Big Science, v.3(5), 2019. doi: 10.1007/s41781-019-0022-7</li>
+<li>S. Olabarriaga, B. Corrie, A. Costa, S. Henwood, N. Chue Hong, M. Barker, A. Treloar, D. S. Katz, S. Gesing, S. Shahand, L. Wyborn, T. Glatard, H. Glaves, K. Jeffery, N. Wilkins-Diehr, "The Global Impact of Science Gateways, Virtual Research Environments and Virtual Laboratories," Future Generation Computing Systems (FGCS), 2019. doi: 10.1016/j.future.2018.12.026</li>
+<li>D. S. Katz, G. Allen, L. A. Barba, D. R. Berg, H. Bik, C. Boettiger, C. L. Borgman, C. T. Brown, S. Buck, R. Burd, A. de Waard, M. P. Eve, B. E. Granger, J. Greenberg, A. Howe, B. Howe, M. Khanna, T. L. Killeen, M. Mayernik, E. McKiernan, C. Mentzel, N. Merchant, K. E. Niemeyer, L. Noren, S. M. Nusser, D. A. Reed, E. Seidel, M. Smith, J. Spies, M. Turk, J. D. Van Horn, and J. Walsh, "The Principles of Tomorrow&#8217;s University [version 1; referees: 2 approved]," v.7.1926, F1000Research, 2018. doi: 10.12688/f1000research.17425.1</li>
+<li>D. S. Katz, L. C. McInnes, D. E. Bernholdt, A. C. Mayes, N. P. Chue Hong, J. Duckles, S. Gesing, M. A. Heroux, S. Hettrick, R. C. Jimenez, M. Pierce, B. Weaver, N. Wilkins-Diehr, "Community Organizations: Changing the Culture in Which Research Software Is Developed and Sustained," Computing in Science and Engineering (CiSE), 2018. doi: 10.1109/MCSE.2018.2883051 (preprint: arXiv: 1811.08473)</li>
+<li>A. M. Smith, K. E. Niemeyer, D. S. Katz, L. A. Barba, G. Githinji, M. Gymrek, K. D. Huff, C. R. Madan, A. Cabunoc Mayes, K. M. Moerman, P. Prins, K. Ram, A. Rokem, T. K. Teal, R. Valls Guimera, J. T. Vanderplas, "Journal of Open Source Software (JOSS): design and first-year review," PeerJ Computer Science, v.4, pp. e147, 2018. doi: 10.7717/peerj-cs.147</li>
+<li>J. P. Tennant, J. M. Dugan, D. Graziotin, D. C. Jacques, F. Waldner, D. Mietchen, Y. Elkhatib, L. B. Collister, C. K. Pikas, T. Crick, P. Masuzzo, A. Caravaggi, D. R. Berg, K. E. Niemeyer, T. Ross-Hellauer, S. Mannheimer, L. Rigling, D. S. Katz, B. Greshake, J. Pacheco-Mendoza, N. Fatima, M. Poblet, M. Isaakidis, D. E. Irawan, S. Renaut, C. R. Madan, L. Matthias, J. N. Kj&#230;r, D. P. O&#8217;Donnell, C. Neylon, S. Kearns, M. Selvaraju, and J. Colomb, "A multi-disciplinary perspective on emergent and future innovations in peer review" [version 3; referees: 2 approved], F1000Research, v.6:1151, 2017. doi: 10.12688/f1000research.12037.3</li>
+<li>R. C. Jim&#233;nez, M. Kuzak, Mo. Alhamdoosh, M. Barker, B. Batut, M. Borg, S. Capella-Gutierrez, N. Chue Hong, M. Cook, M. Corpas, M. Flannery, L. Garcia, J. L. Gelp&#237;, S. Gladman, C. Goble, M. Gonz&#225;lez Ferreiro, A. Gonzalez-Beltran, P. C. Griffin, B. Gr&#252;ning, J. Hagberg, P. Holub, R. Hooft, J. Ison, D. S. Katz, B. Lesko&#353;ek, F. L&#243;pez G&#243;mez, L. J. Oliveira, D. Mellor, R. Mosbergen, N. Mulder, Y. Perez-Riverol, R. Pergl, H. Pichler, B. Pope, F. Sanz, M. V. Schneider, V. Stodden, R. Suchecki, R. Svobodov&#225; Va&#345;ekov&#225;, H.-A. Talvik, I. Todorov, A. Treloar, S. Tyagi, M. van Gompel, D. Vaughan, A. Via, X. Wang, N. S. Watson-Haigh, S. Crouch, "Four simple recommendations to encourage best practices in research software" [version 1; referees: 3 approved], F1000Research v.6:876, 2017. doi: 10.12688/f1000research.11407.1</li>
+<li>A. Allen, C. Aragon, C. Becker, J. Carver, A. Chi&#351;, B. Combemale, M. Croucher, K. Crowston, D. Garijo, A. Gehani, C. Goble, R. Haines, R. Hirschfeld, J. Howison, K. Huff, C. Jay, D. S. Katz, C. Kirchner, K. Kuksenok, R. L&#228;mmel, O. Nierstrasz, M. Turk, R. van Nieuwpoort, M. Vaughn, J. J. Vinju, "Engineering Academic Software (Dagstuhl Perspectives Workshop 16252)," Dagstuhl Manifestos, v.6(1), 2017. doi: 10.4230/DagMan.6.1.1</li>
+<li>A. Marshall-Colon, S. P. Long, D. K. Allen, G. Allen, D. A. Beard, B. Benes, S. von Caemmerer, A. J. Christensen, D. J. Cox, J. C. Hart, P. M. Hirst, K. Kannan, D. S. Katz, J. P. Lynch, A. J. Millar, B. Panneerselvam, N. D. Price, P. Prusinkiewicz, D. Raila, R. G. Shekar, S. Shrivastava, D. Shukla, V. Srinivasan, M. Stitt, M. J. Turk, E. O. Voit, Y. Wang, X. Yin, X.-G. Zhu, "Crops In Silico: Generating Virtual Crops Using an Integrative and Multi-scale Modeling Platform," Frontiers in Plant Science, v.8, page 786, 2017. doi: 10.3389/fpls.2017.00786</li>
+<li>S. Jha, D. S. Katz, A. Luckow, N. Chue Hong, O. Rana, Y. Simmhan, "Introducing Distributed Dynamic Data-intensive (D3) Science: Understanding Applications and Infrastructure," Journal of Concurrency and Computation: Practice and Experience (CCPE), page e4032, 2017. doi: 10.1002/cpe.4032</li>
+<li>A. M. Smith, D. S. Katz, K. E. Niemeyer, FORCE11 Software Citation Working Group, "Software Citation Principles," PeerJ Computer Science, v.2, page e86, 2016. doi: 10.7717/peerj-cs.86</li>
+<li>K. E. Niemeyer, A. M. Smith, D. S. Katz, "The Challenge and Promise of Software Citation for Credit, Identification, Discovery, and Reuse," ACM Journal of Data and Information Quality (JDIQ), v.4(7):16, 2016. doi: 10.1145/2968452</li>
+<li>Z. Zhang, D. S. Katz, A. Merzky, M. Turilli, S. Jha, Y. Nand, "Application Skeleton: Generating Synthetic Applications for Infrastructure Research," Journal of Open Source Software, doi: 10.21105/joss.00017, 2016.</li>
+<li>Y. Perez-Riverol, L. Gatto, R. Wang, T. Sachsenberg, J. Uszkoreit, F. da Veiga Leprevost, C. Fufezan, T. Ternent, S. J. Eglen, D. S. Katz, T. J. Pollard, A. Konovalov, R. M. Flight, K. Blin, and J. A. Vizcaino, "Ten Simple Rules for Taking Advantage of git and GitHub," PLoS Computational Biology, v.12(7): e1004947, 2016.</li>
+<li>K. Chard, S. Caton, K. Kugler, O. Rana, and D. S. Katz, "A Social Content Delivery Network for e-Science," Concurrency and Communication: Practice and Experience, in press, 2016.</li>
+<li>D. S. Katz and A. M. Smith, "Transitive Credit and JSON-LD," Journal of Open Research Software, v.3: e7, 2015.</li>
+<li>L. B. Costa, H. Yang, E. Vairavanathan, A. Barros, K. Maheshwari, G. Fedak, D. S. Katz, M. Wilde, M. Ripeanu, S. Al-Kiswany, "The Case for Workflow-Aware Storage: An Opportunity Study," Journal of Grid Computing, v.13(1), pp. 95-113, 2015.</li>
+<li>D. S. Katz, S.-C. T. Choi, H. Lapp, K. Maheshwari, F. L&#246;ffler, M. Turk, M. Hanwell, N. Wilkins-Diehr, J. Hetherington, J. Howison, S. Swenson, G. D. Allen, A. C. Elster, B. Berriman, C. Venters, "Summary of the First Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE1)," Journal of Open Research Software, v.2(1): e6, pp. 1-21, 2014.</li>
+<li>D. S. Katz, "Transitive Credit as a Means to Address Social and Technological Concerns Stemming from Citation and Attribution of Digital Products," Journal of Open Research Software, v.2(1): e20, pp. 1-4, 2014.</li>
+<li>J. M. Wozniak, T. G. Armstrong, K. Maheshwari, E. L. Lusk, D. S. Katz, M. Wilde and I. T. Foster, "Turbine: A Distributed-Memory Dataflow Engine for High Performance Many-task Applications," Fundamenta Informaticae, v.128(3), pp. 337-366, 2013.</li>
+<li>J. M. Wozniak, M. Wilde, D. S. Katz, "JETS: Language and System Support for Many-Parallel-Task Workflows," Journal of Grid Computing (Special Issue on Scientific Workflows), v. 11(3), pp. 341-360, 2013.</li>
+<li>S. Jha, M. Cole, D. S. Katz, M. Parashar, O. Rana, J. Weissman, "Distributed computing practice for large-scale science and engineering applications," Journal of Concurrency and Computation: Practice and Experience (CCPE), v.25(11), pp. 1159-1585, 2013.</li>
+<li>M. Wilde, N. Hategan, J. M. Wozniak, B. Clifford, D. S. Katz, I. Foster, "Swift: A language for distributed parallel scripting," Parallel Computing, v.37(9), pp. 633-652, 2011.</li>
+<li>D. S. Katz, S. Callaghan, R. Harkness, S. Jha, K. Kurowski, S. Manos, S. Pamidighantam, M. Pierce, B. Plale, C. Song, J. Towns, "Science on the TeraGrid," Computational Methods in Science and Technology (CMST), v.Special Issue 2010, pp. 81-97, 2010.</li>
+<li>J. C. Jacob, D. S. Katz, G. B. Berriman, J. Good, A. C. Laity, E. Deelman, C. Kesselman, G. Singh, M.-H. Su, T. A. Prince, and R. Williams, "Montage: A Grid Portal and Software Toolkit for Science-Grade Astronomical Image Mosaicking," International Journal of Computational Science and Engineering, v. 4(2), pp. 73-87, 2009.</li>
+<li>D. S. Katz, G. Allen, R. Cortez, C. Cruz-Neira, R. Gottumukkala, Z. D. Greenwood, L. Guice, S. Jha, R. Kolluru, T. Kosar, L. Leger, H. Liu, C. McMahon, J. Nabrzyski, B. Rodriguez-Milla, E. Seidel, G. Speyrer, M. Stubblefield, B. Voss, and S. Whittenburg, "Louisiana: A Model for Advancing Regional e-Research through Cyberinfrastructure," Philosophical Transactions of the Royal Society A, v. 367, pp. 2459-2469, 2009.</li>
+<li>P. Chakraborty, S. Jha, and D. S. Katz, "Novel Submission Modes for Tightly-Coupled Jobs Across Distributed Resources for Reduced Time-to-Solution," Philosophical Transactions of the Royal Society A, v. 367, pp. 2545-2556, 2009.</li>
+<li>G. Singh, K. Vahi, A. Ramakrishnan, G. Mehta, E. Deelman, H. Zhao, R. Sakellariou, K. Blackburn, D. Brown, S. Fairhurst, D. Meyers, B. Berriman, J. Good, and D. S. Katz, "Optimizing Workflow Data Footprint," Scientific Programming, v. 15(4), pp. 249-268, 2007.</li>
+<li>D. E. Bernholdt, B. A. Allan, R. Armstrong, F. Bertrand, K. Chiu, T. L. Dahlgren, K. Damevski, W. R. Elwasif, T. G. W. Epperly, M. Govindaraju, D. S. Katz, J. A. Kohl, M. Krishnan, G. Kumfert, J. W. Larson, S. Lefantzi, M. J. Lewis, A. D. Malony, L. C. McInnes, J. Nieplocha, B. Norris, S. G. Parker, J. Ray, S. Shende, T. L. Windus, and S. Zhou, "A Component Architecture for High-Performance Scientific Computing," International Journal of High Performance Computing Applications, v. 20(2), pp. 163-202, Summer 2006.</li>
+<li>E. Deelman, G. Singh, M.-H. Su, J. Blythe, Y. Gil, C. Kesselman, G. Mehta, K. Vahi, G. B. Berriman, J. Good, A. Laity, J. C. Jacob, and D. S. Katz, "Pegasus: a Framework for Mapping Complex Scientific Workflows onto Distributed Systems," Scientific Programming, v.13(3), pp. 219-237, November 2005.</li>
+<li>M. Turmon, R. Granat, D. S. Katz, and J. Z. Lou, "Tests and Tolerances for High-Performance Software-Implemented Fault Detection," IEEE Transactions on Computers, v.52(5), pp. 579-591, May 2003.</li>
+<li>D. S. Katz and R. R. Some, "NASA Advances Robotic Space Exploration," IEEE Computer, v. 36(1), pp. 52-61, January 2003.</li>
+<li>T. Sterling, D. S. Katz, and L. Bergman, "High-Performance Computing Systems for Autonomous Spaceborne Missions," International Journal of High Performance Computing Applications, v. 15(3), pp. 282-296, Fall 2001.</li>
+<li>D. S. Katz, and J. Kepner, "Embedded/Real-Time Systems," International Journal of High Performance Computing Applications (special issue: Cluster Computing White Paper), v. 15(2), pp. 186-190, Summer 2001.</li>
+<li>D. S. Katz, T. Cwik, B. H. Kwan, J. Z. Lou, P. L. Springer, T. L. Sterling, and P. Wang, "An Assessment of a Beowulf System for a Wide Class of Analysis and Design Software," Advances in Engineering Software, v. 26(3-6), pp. 451-461, July 1998.</li>
+<li>T. Cwik, J. Z. Lou, and D. S. Katz, "Scalable, Finite Element Analysis of Electromagnetic Scattering and Radiation," Advances in Engineering Software, v. 26(3-6), pp. 289-296, July 1998.</li>
+<li>T. Cwik, D. S. Katz, C. Zuffada, and V. Jamnejad, "The Application of Scalable Distributed Memory Computers to the Finite Element Modeling of Electromagnetic Scattering and Radiation," International Journal of Numerical Methods in Engineering, v. 41(4), pp. 759-776, February 28, 1998.</li>
+<li>T. Cwik, D. S. Katz, and J. Patterson, "Scalable Solutions to Integral-Equation and Finite-Element Simulations," (invited paper for special issue on Advanced Numerical Techniques in Electromagnetics), IEEE Trans. Antennas Propagat., v. 45(3), pp. 544-555, March 1997.</li>
+<li>C. E. Reuter, R. M. Joseph, E. T. Thiele, D. S. Katz, and A. Taflove, "Ultrawideband Absorbing Boundary Conditions for Termination of Waveguiding Structures in FD-TD Simulations," IEEE Microwave and Guided Wave Letters, v. 4(10), pp. 344-346, October 1994.</li>
+<li>D. S. Katz, E. T. Thiele, and A. Taflove, "Validation and Extension to Three Dimensions of the Berenger PML Absorbing Boundary Condition for FD-TD Meshes," IEEE Microwave and Guided Wave Letters, v. 4(8), pp. 268-270, August 1994.</li>
+<li>M. J. Piket-May, A. Taflove, W. C. Lin, D. S. Katz, V. Sathiaseelan, and B. B. Mittal, "Initial Results for Automated Computational Modeling of Patient-Specific Electromagnetic Hyperthermia," IEEE Trans. Biomedical Engineering, v. 39(3), pp. 226-237, March 1992.</li>
+<li>D. S. Katz, M. J. Piket-May, A. Taflove, and K. R. Umashankar, "FD-TD Analysis of Electromagnetic Wave Radiation from Systems Containing Horn Antennas," IEEE Trans. Antennas Propagat., v. 39(8), pp. 1203-1212, August 1991.</li>
+</ul>
+
+		<h2>Articles in Conference Proceedings</h2>
+<ul>
+<li><a href="http://hdl.handle.net/10125/71494">D. S. Katz, K. McHenry, J. S. Lee, "Research Software Sustainability: Lessons Learned at NCSA," 54th Hawaii International Conference on System Sciences, pp. 7249-7256, 2021. </a></li>
+<li><a href="https://doi.org/10.4126/FRL01-006423290">L. J. Garcia Castro, M. Barker, N. Chue Hong, F. Psomopoulos, J. Harrow, D. S. Katz, M. Kuzak, P. A. Martinez, A. Via, "Software as a first-class citizen in research," First virtual workshop on Research data* management for Linked Open Science (DaMaLOS 2020), 2020. </a></li>
+<li><a href="https://doi.org/10.1145/3311790.3400848">J. Stubbs, S. Marru, D. Mejia, D. S. Katz, K. Chard, M. Dahan, M. Pierce, M. Zentner, "Toward Interoperable Cyberinfrastructure: Common Descriptions for Computational Resources and Applications," Practice and Experience in Advanced Research Computing (PEARC '20), pp. 522-525, 2020. </a></li>
+<li>K. Chard, Y. Babuji, A. Woodard, B. Clifford, Z. Li, R. Kumar, M. Wilde, D. S. Katz, J. Wozniak, I. Foster, "Scalable Parallel Programming in Python with Parsl," Practice and Experience in Advanced Research Computing (PEARC&#8217;19), 2019. doi: 10.1145/3332186.3332231</li>
+<li>Y. Babuji, A. Woodard, B. Clifford, Z. Li, D. S. Katz, R. Chard, R. Kumar, L. Lacinski, J. Wozniak, I. Foster, M. Wilde, K. Chard, "Parsl: Pervasive Parallel Programming in Python," 28th ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC 2019), 2019. doi: 10.1145/3307681.3325400 (preprint: arXiv 1905.02158)</li>
+<li>D. S. Katz, K. McHenry, C. Reinking, R. Haines, "Research Software Development & Management in Universities: Case Studies from Manchester's RSDS Group, Illinois' NCSA, and Notre Dame's CRC," Intl. Work. on Soft. Eng. for Science (SE4Science), 2019. doi: 10.1109/SE4Science.2019.00009 (preprint: arXiv 1903.00732)</li>
+<li>S. Druskat, D. S. Katz, "Mapping the research software sustainability space," International Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE 6.1), 2018.</li>
+<li>J. Cohen, D. S. Katz, M. Barker, R. Haines, N. Chue Hong, "Building a Sustainable Structure for Research Software Engineering Activities," International Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE 6.1), 2018.</li>
+<li>E. A. Huerta, R. Haas, E. Fajardo, D. S. Katz, S. Anderson, P. Couvares, J. Willis, T. Bouvet, J. Enos, W. T. C. Kramer, H. W. Leong, D. Wheeler, "BOSS-LDG: A Novel Computational Framework that Brings Together Blue Waters, Open Science Grid, Shifter and the LIGO Data Grid to Accelerate Gravitational Wave Discovery," Proceedings of the 13th IEEE International Conference on eScience (eScience 2017), 2017.</li>
+<li>M. Turilli, Y. N. Babuji, A. Merzky, M. T. Ha, M. Wilde, D. S. Katz, S. Jha, "Evaluating Distributed Execution of Workloads," Proceedings of the 13th IEEE International Conference on eScience (eScience 2017), 2017.</li>
+<li>U. Nangia and D. S. Katz, "Understanding Software in Research: Initial Results from Examining Nature and a Call for Collaboration", Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.2), 2017.</li>
+<li>U. Nangia and D. S. Katz, "Track 1 Paper: Surveying the U.S. National Postdoctoral Association Regarding Software Use and Training in Research," Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1), 2017.</li>
+<li>M. Turilli, F. Liu, Z. Zhang, A. Merzky, M. Wilde, J. Weissman, D. S. Katz, S. Jha, "Integrating Abstractions to Enhance the Execution of Distributed Applications," Proceedings of the 30th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2016.</li>
+<li>S. J. Krieder, J. M. Wozniak, T. Armstrong, M. Wilde, D. S. Katz, B. Grimmer, I. T. Foster, I. Raicu, "Design and Evaluation of the GeMTC Framework for GPU-enabled Many-Task Computing," Proceedings of 23rd ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC'14), pp. 153-164, 2014.</li>
+<li>Z. Zhang, D. S. Katz, T. G. Armstrong, J. M. Wozniak, I. Foster, "Parallelizing the Execution of Sequential Scripts," Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC13), 2013.</li>
+<li>Z. Zhang, D. S. Katz, M. Wilde, J. Wozniak, I Foster, "MTC Envelope: Defining the Capability of Large Scale Computers in the Context of Parallel Scripting Applications," Proceedings of 22nd International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC'13), 2013.</li>
+<li>J. Wozniak, T. Armstrong, M. Wilde, D. S. Katz, E. Lusk and I. Foster, "Swift/T: Scalable Data Flow Programming for Distributed-memory Task-parallel Applications," Proceedings of the 13th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid), 2013.</li>
+<li>Z. Zhang, D. S. Katz, M. Ripeanu, M. Wilde, I. Foster, "AME: An Anyscale Many-Task Computing Engine," Proceedings of the 6th Workshop on Workflows in Support of Large-Scale Science, 2011.</li>
+<li>D. S. Katz, D. Hart, C. Jordan, A. Majumdar, J.P. Navarro, W. Smith, J. Towns, V. Welch, N. Wilkins-Diehr, "Cyberinfrastructure Usage Modalities on the TeraGrid," 2011 High-Performance Grid and Cloud Computing Workshop, Proceedings of 2011 IPDPS Workshops, pp. 927-934, 2011.</li>
+<li>T. G. Armstrong, Z. Zhang, D. S. Katz, M. Wilde, I. T. Foster, "Scheduling Many-Task Workloads on Supercomputers: Dealing with Trailing Tasks," Proceedings of 3rd IEEE Workshop on Many-Task Computing on Grids and Supercomputers (MTAGS10), (Best Paper,) 2010.</li>
+<li>S. Jha, D. S. Katz, M. Parashar, O. Rana, and J. Weissman, "Critical Perspectives on Large-Scale Distributed Applications and Production Grids," (Best Paper Award Winner), Proceedings of the 10th IEEE/ACM International Conference on Grid Computing (Grid 2009), 2009.</li>
+<li>D. S. Katz, G. B. Berriman, E. Deelman, J. Good, J. C. Jacob, C. Kesselman, A. C. Laity, T. A. Prince, G. Singh, and M.-H. Su, "A Comparison of Two Methods for Building Astronomical Image Mosaics on a Grid," Proceedings of the 7th Workshop on High Performance Scientific and Engineering Computing (HPSEC-05), 2005.</li>
+<li>J. W. Larson, B. Norris, E. T. Ong, D. E. Bernholdt, J. B. Drake, W. R. El Wasif, M. W. Ham, C. E. Rasmussen, G. Kumfert, D. S. Katz, S. Zhou, C. DeLuca, and N. S. Collins, "Components, The Common Component Architecture, and the Climate/Ocean/Weather Community," Proceedings of the 20th International Conference on Interactive Information and Processing Systems (IIPS) for Meteorology, Oceanography, and Hydrology, 84th American Meteorological Society Annual Meeting, 2004.</li>
+<li>J. A. Gunnels, D. S. Katz, E. S. Quintana-Ort&#237;, and R. A. van de Geijn, "Fault-Tolerant High-Performance Matrix Multiplication: Theory and Practice," Proceedings of the 2001 International Conference on Dependable Systems and Networks, pp. 47-56, IEEE Press, 2001.</li>
+<li>D. S. Katz and P. L. Springer, "Development of a Spaceborne Embedded Cluster," Proceedings of the IEEE International Conference on Cluster Computing (CLUSTER2000), pp. 119-123, IEEE Press, 2000.</li>
+<li>F. Chen, L. Craymer, J. Deifik, A. J. Fogel, D. S. Katz, A. G. Silliman, Jr, R. R. Some, S. A. Upchurch, and K. Whisnant, "Demonstration of the Remote Exploration and Experimentation (REE) Fault-Tolerant Parallel-Processing Supercomputer for Spacecraft Onboard Scientific Data Processing," Proceedings of the 2000 International Conference on Dependable Systems and Networks, pp. 367-372, IEEE Press, 2000.</li>
+<li>M. Turmon, R. Granat, and D. S. Katz, "Software-Implemented Fault Detection for High-Performance Space Applications," Proceedings of the 2000 International Conference on Dependable Systems and Networks, pp. 107-116, IEEE Press, 2000.</li>
+<li>P. Wang, D. S. Katz, and Y. Chao, "Optimization of a Parallel Ocean General Circulation Model," (Best Paper Award Winner), SC97, 1997.</li>
+</ul>
+
+		
+		<h2>Invited Lectures</h2>
+<ul>
+<li>Research Software Sustainability</li>
+<li>Toward defining and implementing FAIR for research software</li>
+<li>Software Updates: Software Citation, FAIR4RS, ReSA, JOSS </li>
+<li>Requiring Publicly-Funded Software, Algorithms, and Workflows to be Made Public: Why and Why Not</li>
+<li>What is eScience, and where does it go from here? </li>
+<li>Citation and rewards systems</li>
+<li>Understanding software sustainability: Learning from Parsl and other projects</li>
+<li>Fundamentals of Software Sustainability </li>
+<li>Software Citation Today and Tomorrow</li>
+<li>Software in Research: Underappreciated and Underrewarded</li>
+<li>Software Citation: A solution with a problem</li>
+<li>Models for Model Integration</li>
+<li>Software citation: a cornerstone of software-enabled research</li>
+<li>(D. S. Katz, A. Merzky, Z. Zhang, S. Jha) Application Skeletons: Constructing and Using Abstract Many Task Applications in eScience</li>
+<li>(D. S. Katz, J. Wozniak, M. Wilde, I. Foster) Multi-component Modeling with Swift at Extreme Scale</li>
+<li>Advancing Science through Coordinated Cyberinfrastructure</li>
+<li>Advancing Science through Local, Regional, and National Cyberinfrastructure</li>
+<li>Science on the TeraGrid</li>
+<li>Data Challenges on the TeraGrid</li>
+<li>(D. S. Katz, J. C. Jacob, P. P. Li, Y. Chao, G. Allen) Data-Oriented Distributed Computing for Science: Reality and Possibilities</li>
+</ul>
+
+		<h2>Other Publications</h2>
+<ul>
+<li>D. S. Katz, R. Ramnath, "Principles of Research Software Sustainability," SIAM CSE21, 2021.</li>
+<li>R. Ramnath, D. S. Katz, "Case Studies in Research Software Sustainability," SIAM CSE21, 2021</li>
+<li>I. Cosden, J. C. Carver, C. R. Ferenbaugh, S. Gesing, C. Hill, D. S. Katz, C. Maimone, L. Parsons, J. Perr-Sauer, "The US-RSE Association: A Community-Driven National Organization of Research Software Engineers," SIAM CSE21, 2021.</li>
+<li>D. S. Katz, M. Gruenpeter, "PIDs for software - shedding some light on a dark puzzle," PIDapalooza, 2021.</li>
+<li>K. Liljedahl, K. McHenry, M. B. Jones, J. M. Cervenec, C. Witharana, A. E. Budden, M. Brook, M. Brubaker, G. Grosse, B. M. Jones, C. S. Jones, D. S. Katz, R. Kooper, L. Marini, J. Moss, I. Nitze, A. Soliman, M. Gavina, L. Walker, G. Wind, B. Yadav and R. Udawalpola, "The Permafrost Discovery Gateway: A web platform to enable knowledge-generation from big geospatial data," AGU Fall Meeting, 2020.</li>
+<li>R. Kooper, K. McHenry, D. S. Katz, C. Kirkpatrick, D. W. Fulker, "Jupyter Notebooks as a tool to increase Visibility of EarthCube Products," AGU Fall Meeting, 2020.</li>
+<li><a href="https://doi.org/10.5281/zenodo.4161308">D. S. Katz, "Forming and Supporting RSE Groups and Communities," What do we (not) know about RSEs, SORSE, 2020. </a></li>
+<li><a href="https://doi.org/10.5281/zenodo.4271902">D. S. Katz, N. P. Chue Hong, T. Clark, A. Muench, S. Stall, D. Bouquin, M. Cannon, S. Edmunds, T. Faez, P. Feeney, M. Fenner, M. Friedman, G. Grenier, M. Harrison, J. Heber, A. Leary, C. MacCallum, H. Murray, E. Pastrana, K. Perry, D. Schuster, M. Stockhause, J. Yeston, "A Software Citation Primer," poster, RDA Virtual Plenary 16, 2020. </a></li>
+<li><a href="https://doi.org/10.5281/zenodo.4271995">D. S. Katz, T. Pollard, F. Psomopoulos, E. Huerta, C. Erdmann, B. Blaiszik, "FAIR principles for Machine Learning models," poster, RDA Virtual Plenary 16, 2020. </a></li>
+<li>S. Gesing, D. S. Katz, L. Parsons, C. Ferenbaugh, I. Cosden, "The Continual Road to an Inclusive Definition and Use of Terms for the US Research Software Engineer Community," SORSE, 2020.</li>
+<li>D. S. Katz, M. Barker, N. P. Chue Hong, L. J. Garcia-Castro, M. Gruenpeter, J. Harrow, M. Kuzak, P. A. Martinez, F. E. Psomopoulos, "Toward defining and implementing FAIR for research software," ADSA Leadership Summit, 2020.</li>
+<li><a href="https://doi.org/10.6084/m9.figshare.11553144.v1">D. S. Katz, J. C. Carver, S. Gesing, K. Ram, N. Weber, Nicholas, "Conceptualizing a US Research Software Sustainability Institute (URSSI)," ESIP Winter Meeting, 2020. </a></li>
+<li><a href="https://doi.org/10.6084/m9.figshare.11553168.v1">D. S. Katz, N. Chue Hong, M. Fenner, Martin, "Recent Software Citation Work," ESIP Winter Meeting, 2020. </a></li>
+<li><a href="https://doi.org/10.6084/m9.figshare.11553165.v1">D. S. Katz, L. Wyborn, M. Daniels, "Software Sustainability, Discovery, and Accreditation," ESIP Winter Meeting, 2020.</a></li>
+<li>D. S. Katz, "Software Sustainability and Software Citation," 17th Annual Workshop on Charm++ and Its Applications, 2019.</li>
+<li>D. S. Katz, "Fundamentals of Software Sustainability, " csv,conf,v4, 2019.</li>
+<li>D. S. Katz, "Conceptualizing a US Research Software Sustainability Institute (URSSI)," SIAM CSE19, 2019.</li>
+<li>K. Niemeyer, A. Smith, L. Barba, G. Githinji, M. Gymrek, K. Huff, D. Katz, C. Madan, A. Cabunoc Mayes, K. Moerman, P. Prins, K. Ram, A. Rokem, T. Teal, J. Vanderplas, "Introducing JOSS: The Journal of Open Source Software," SciPy, 2017.</li>
+</ul>
+
+		
+		<h2>Bulletins</h2>
+<ul>
+<li><a href="https://sinews.siam.org/Details-Page/computational-research-software-challenges-and-community-organizations-working-for-culture-change">L. C. McInnes, D. S. Katz, S. Lathrop, "Computational Research Software: Challenges and Community Organizations Working for Culture Change", SIAM News, 2 December 2019.</a></li>
+</ul>
+
+		<h2>Magazine Articles</h2>
+<ul>
+<li>D. S. Katz, "Sustainable Software Needs a Change in the Culture of Science," Scientific Computing World, 2016.</li>
+<li>D. S. Katz and G. Allen, "Experiences and Lessons from the Center for Computation & Technology," Research Trends, (30), pp. 13-17, September 2012.</li>
+<li>B. Berriman, J. Good, J. C. Jacob, D. S. Katz, A. Laity, and T. A. Prince, "Montage Version 3.0," NASA Tech Briefs, NPO-41962, 2006.</li>
+<li>D. S. Katz, "Programs for Testing Processor-in-Memory Computing Systems," NASA Tech Briefs, NPO-41206, 2006.</li>
+<li>A. J. Bergou, B. Berriman, J. Good, J. C. Jacob, D. S. Katz, A. Laity, T. A. Prince, and R. Williams, "Software for Generating Mosaics of Astronomical Images," NASA Tech Briefs, NPO-40297, 2005.</li>
+<li>D. S. Katz, E. R. Tisdale, and C. D. Norton, "Evaluating Performance of Components," NASA Tech Briefs, NPO-30693, 2004.</li>
+<li>D. S. Katz, "PVM Wrapper," NASA Tech Briefs, NPO-40232, 2004.</li>
+<li>J. A. Gunnels, D. S. Katz, E. S. Quintana-Ort&#237;, R. A. van de Geijn, and E. R. Tisdale, "Software for Fault-Tolerant Matrix Multiplication," NASA Tech Briefs, NPO-30395, 2004.</li>
+<li>D. S. Katz, A. Borgioli, T. A. Cwik, C. Fu, W. A. Imbriale, V. Jamnejad, and P. L. Springer "Program for Designing Multiple-Reflector Antenna Systems," NASA Tech Briefs, NPO-20628, 1999.</li>
+<li>T. A. Cwik, D. S. Katz, C. Zuffada, V. Jamnejad, "Improved Parallel Computation of Electromagnetic Scattering," NASA Tech Briefs, NPO-20171, 1998.</li>
+<li>D. S. Katz, A. Taflove, J. P. Brooks, and E. Harrigan, "Large-Scale Methods in Computational Electromagnetics," Cray Channels, v. 13(1), pp. 16-19, Spring 1991.</li>
+</ul>
+
+		<h2>Reports</h2>
+<ul>
+<li><a href="https://arxiv.org/abs/2012.13117">Task Force on Best Practices for Software Registries: A. Monteil, A. Gonzalez-Beltran, A. Ioannidis, A. Allen, A. Lee, A. Bandrowski, B. E. Wilson, B. Mecum, C. F. Du, C. Robinson, D. Garijo, D. S. Katz, D. Long, G. Milliken, H. M&#233;nager, J. Hausman, J. H. Spaaks, K. Fenlon, K. Vanderbilt, L. Hwang, L. Davis, M. Fenner, M. R. Crusoe, M. Hucka, M. Wu, N. Chue Hong, P. Teuben, S. Stall, S. Druskat, T. Carnevale, T. Morrell, "Nine Best Practices for Research Software Registries and Repositories: A Concise Guide," arXiv:2012.13117 [cs.DL], 2020.</a></li>
+<li><a href="https://arxiv.org/abs/2011.07571">C. Jay, R. Haines, D. S. Katz, "Software must be recognised as an important output of scholarly research," arXiv:2011.07571 [cs.CY], 2020.</a></li>
+<li><a href="https://doi.org/10.15497/RDA00053">Research Data Alliance/FORCE11 Software Source Code Identification WG, A. Allen, A. Bandrowski, P. Chan, R. Di Cosmo, M. Fenner, L. Garcia, M. Gruenpeter, C. M. Jones, D. S. Katz, J. Kunze, M. Schubotz, I. T. Todorov, "Use cases and identifier schemes for persistent software source code identification," V1.1, Research Data Alliance, 2020. </a></li>
+<li><a href="https://arxiv.org/abs/2010.05102">D. S. Katz, S. Malik, M. S. Neubauer, G. A. Stewart, K. A. Assamagan, E. A. Becker, N. P. Chue Hong, I. A. Cosden, S. Meehan, E. J. W. Moyse, A. M. Price-Whelan, E. Sexton-Kennedy, M. O. Evans, M. Feickert, C. Lange, K. Lieret, R. Quick, A. S&#225;nchez Pineda, and C. Tunnell, "Software Sustainability & High Energy Physics", arXiv:2010.05102 [hep-ex], 2020.</a></li>
+<li><a href="https://doi.org/10.31235/osf.io/2kxq8">J. P. Tennant, R. Agrawal, K. Ba&#382;dari&#263;, D. Brassard, T. Crick, D. J. Dunleavy, T. R. Evans, N. Gardner, M. Gonzalez-Marquez, D. Graziotin, B. Greshake Tzovaras, D. Gunnarsson, J. Havemann, M. Hosseini, D. S. Katz, M. Kn&#246;chelmann, L. Lahti, C. R. Madan, P. Manghi, A. Marocchino, P. Masuzzo, P. Murray-Rust, S. Narayanaswamy, G. Nilsonne, J. Pacheco-Mendoza, B. Penders, O. Pourret, M. Rera, J. Samuel, T. Steiner, J. Stojanovski, A. Uribe-Tirado, R. Vos, S. Worthington, T. Yarkoni, "A tale of two 'opens': intersections between Free and Open Source Software and Open Scholarship," SocArXiv, 6 Mar. 2020.</a></li>
+<li>D. S. Katz, D. Bouquin, N. P. Chue Hong, J. Hausman, C. Jones, D. Chivvis, T. Clark, M. Crosas, S. Druskat, M. Fenner, T. Gillespie, A. Gonzalez-Beltran, M. Gruenpeter, T. Habermann, R. Haines, M. Harrison, E. Henneken, L. Hwang, M. B. Jones, A. A. Kelly, D. N. Kennedy, K. Leinweber, F. Rios, C. B. Robinson, I. Todorov, M. Wu, Q. Zhang, "Software Citation Implementation Challenges", arXiv:1905.08674 [cs.CY], 2019.</li>
+<li>L. Barba, J. Baz&#225;n, J. Brown, R. Guimera, M. Gymrek, A. Hanna, L. Heagy, K. D. Huff, D. S. Katz, C. Madan, K. Moerman, K. Niemeyer, J. L. Poulson, P. Prins, K. Ram, A. Rokem, A. M. Smith, G. K. Thiruvathukal, K. M. Thyng, L. Uieda, B. Wilson, Y. Yehudi, "Giving software its due through community-driven review and publication", 2019.</li>
+<li>D. S. Katz, P. Aerts, N. P. Chue Hong, A. Dubey, S. Gesing, H. J. Neeman, D. E. Pearah, "Sustaining Research Software: an SC18 Panel," arXiv: 1902.08942 [cs.SE], 2019.</li>
+<li>J. Tennant, J. Beamer, J. Bosman, B. Brembs, N. Chung, G. Clement, T. Crick, J. Dugan, A. Dunning, D. Eccles, A. Enkhbayar, D. Graziotin, R. Harding, J. Havemann, D. Katz, K. Khanal, J. N. Kjaer, T. Koder, P. Macklin, C. Madan, P. Masuzzo, L. Matthias, K. Mayer, D. Nichols, E. Papadopoulou, T. Pasquier, T. Ross-Hellauer, M. Schulte-Mecklenbeck, D. Sholler, T. Steiner, P. Szczesny, A. Turner, "Foundations for Open Scholarship Strategy Development," 2019.</li>
+<li>M. D. Hildreth, A. Boehnlein, K. Cranmer, S. Dallmeier, R. Gardner, T. Hacker, L. Heinrich, I. Jimenez, M. Kane, D. S. Katz, T. Malik, C. Maltzahn, M. Neubauer, S. Neubert, Jim Pivarski, E. Sexton, J. Shiers, T. Simko, S. Smith, D. South, A. Verbytskyi, G. Watts, J. Wozniak, "HEP Software Foundation Community White Paper Working Group - Data and Software Preservation to Enable Reuse," arXiv: 1810.01191 [physics.comp-ph], 2018.</li>
+<li>HEP Software Foundation: D. Berzano, R. M. Bianchi, P. Elmer, J. Harvey, R. Jones, M. Jouvin, D. S. Katz, S. Malik, D. Menasce, M. Neubauer, A. Puig, G. A. Stewart, C. Tunnell, "HEP Software Foundation Community White Paper Working Group - Training, Staffing and Careers," arXiv:1807.02875 [physics.ed-ph], 2018.</li>
+<li>HEP Software Foundation: L. Bauerdick, R. M. Bianchi, B. Bockelman, N. Castro, K. Cranmer, P. Elmer, R. Gardner, M. Girone, O. Gutsche, B. Hegner, J. M. Hern&#225;ndez, B. Jayatilaka, D. Lange, M. S. Neubauer, D. S. Katz, L. Kreczko, J. Letts, S. McKee, C. Paus, K. Pedro, J. Pivarski, M. Ritter, E. Rodrigues, T. Sakuma, E. Sexton-Kennedy, M. D. Sokoloff, C. Vuosalo, Frank W&#252;rthwein, G. Watts, "HEP Software Foundation Community White Paper Working Group &#8211; Data Analysis and Interpretation," arXiv: 1804.03983 [physics.comp-ph], 2018.</li>
+<li>HEP Software Foundation: B. Couturier, G. Eulisse, H. Grasland, B. Hegner, M. Jouvin, M. Kane, D. S. Katz, T. Kuhr, D. Lange, P. Mendez Lorenzo, M. Ritter, G. A. Stewart, A. Valassi, "HEP Software Foundation Community White Paper Working Group - Software Development, Deployment and Validation," arXiv: 1712.07959 [physics.comp-ph], 2017.</li>
+<li>D. S. Katz, K. E. Niemeyer, A. M. Smith, W. L. Anderson, C. Boettiger, K. Hinsen, R. Hooft, A. Lee, F. L&#246;ffler, T. Pollard, F. Rios, "Software vs. data in the context of citation," PeerJ Preprints 4:e2630v1, 2016. DOI: https://doi.org/10.7287/peerj.preprints.2630v1</li>
+<li>D. S. Katz and R. Ramnath, "Looking at Software Sustainability and Productivity Challenges from NSF," arXiv: 1508.03348 [cs.CY, cs.SE], 2015.</li>
+<li>D. S. Katz, T. G. Armstrong, Z. Zhang, M. Wilde, and J. M. Wozniak, Many Task Computing and Blue Waters, Technical Report CI-TR-13-0911, Computation Institute, University of Chicago & Argonne National Laboratory, 2012.</li>
+<li>D. S. Katz, K. Keahey, and S. Jul, "TeraGrid eXtreme Digital &#8220;Wide Users&#8221; Requirements Elicitation Meeting," Technical Report CI-TR-10-0811, Computation Institute, University of Chicago & Argonne National Laboratory, 2011.</li>
+<li>D. S. Katz, S. Jha, M. Parashar, O. Rana, and J. Weissman, "Survey and Analysis of Production Distributed Computing Infrastructures," Technical Report CI-TR-7-0811, Computation Institute, University of Chicago & Argonne National Laboratory, 2011.</li>
+<li>C. A. Stewart, D. S. Katz, D. L. Hart, D. Lantrip, D. S. McCaulay, R. L. Moore, "Survey of cyberinfrastructure needs and interests of NSF-funded principal investigators," IUScholarWorks, http://hdl.handle.net/2022/9917, 2011.</li>
+<li>C. A. Stewart, D. S. McCaulay, S. Jul, R. L. Moore, D. S. Katz, D. L. Hart, D. Lantrip "Technical Report: TeraGrid eXtreme Digital Campus Cyberinfrastructure and Campus Bridging Requirements Elicitation Meeting," IUScholarWorks, http://hdl.handle.net/2022/13026, 2011.</li>
+<li>G. Allen, D. S. Katz, "Computational Science, Infrastructure and Interdisciplinary Research on University Campuses: Experiences and Lessons from the Center for Computation & Technology," Center for Computation & Technology, Technical Report CCT-TR-2010-1, 2010.</li>
+<li>D. S. Katz, J. Daly, N. DeBardeleben, M. Elnozahy, B. Kramer, L. Lathrop, N. Nystrom, K. Milfeld, S. Sanielevici, S. Cott, and L. Votta, "2009 Fault Tolerance for Extreme-Scale Computing Workshop, Albuquerque, NM - March 19-20, 2009," Argonne National Laboratory, Technical Memorandum ANL/MCS-TM-312, December 2009.</li>
+<li>D. S. Katz, "The Hypercube Implementation of the Finite-Difference Time-Domain (FD-TD) Method for Electromagnetic Wave Scattering," Northwestern University EECS Department Honors Program, June 1988.</li>
+</ul>
+
+		<h2>Journal Editorships</h2>
+<ul>
+<li>Computing in Science & Engineering (CiSE), Special Issue on Software and Data Citation, (editors: D. S. Katz, N. Chue Hong, T. Clark, M. Fenner, M. E. Martone,) V. 22(2), IEEE, March-April 2020.</li>
+<li>Computing in Science & Engineering (CiSE), Special Issue on Software and Data Citation, (editors: D. S. Katz, N. Chue Hong, T. Clark, M. Fenner, M. E. Martone,) V. 22(1), IEEE, January-February 2020.</li>
+<li>Computing in Science & Engineering (CiSE), Special Issue on Accelerating Scientific Discovery With Reusable Software, (editors: S. Lathrop, M. Folk, D. S. Katz, L. C. McInnes, A. Terrel,) v.21(2), IEEE, March-April 2019.</li>
+<li>Associate Editor-in-Chief (2018-present), Editorial Board Member (2016-2018), Journal of Open Source Software (JOSS), 2016-present.</li>
+<li>Editorial Board Member, PeerJ Computer Science, 2015-present.</li>
+<li>Editorial Board Member, Journal of Cloud Computing Advances, Systems and Applications (JoCCASA), 2011-present.</li>
+<li>Editorial Board Member, International Journal of High Performance Computing and Networking (IJHPCN), 2003-present.</li>
+<li>Editorial Board Member, International Journal of Web Services Research (JWSR), 2005-2008.</li>
+<li>Associate Editor International Journal of Grid and Utility Computing (IJGUC), 2011-present (Editorial Board Member, 2003-2011).</li>
+<li>Associate Editor, International Journal of Grid and High Performance Computing (IJGHPC), 2008-present.</li>
+</ul>
+
+		
+		<h2>Conferences Organized or Chaired</h2>
+<ul>
+<li>Co-organizer: Research Software Engineers in HPC: Creating Community, Building Careers, Addressing Challenges (RSE-HPC-2020), in conjunction with 2020 ACM/IEEE International Conference on High Performance Computing, Networking, Storage and Analysis (SC20), 2020.</li>
+<li>Co-organizer: FAIR 4 Research Software, in conjunction with SORSE, 2020.</li>
+<li>Co-organizer: Sustainable Software in HEP, IRIS-HEP, 2020.</li>
+<li>Co-organizer (Notebooks track): EarthCube Annual Meeting, 2020.</li>
+<li>Co-organizer: Research Software Engineers Community Workshop,&#8221; in conjunction with PEARC20, 2020.</li>
+<li>SCALE Challenge Co-chair: 20th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid 2020), Melbourne, Australia, May 2020.
+</li>
+<li>Early Career Chair: 2019 ACM/IEEE International Conference on High Performance Computing, Networking, Storage and Analysis (SC19), 2019.</li>
+<li>Co-organizer: 2019 International Workshop on Software Engineering for HPC-Enabled Research (SE-HER 2019), in conjunction with 2019 ACM/IEEE International Conference on High Performance Computing, Networking, Storage and Analysis (SC19), 2019.</li>
+<li>Co-organizer: Theory-Software Translation Workshop, 2019.</li>
+<li>Co-organizer: International Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE 6.1), 2018.</li>
+<li>Program Area Chair (Multidisciplinary), 32nd IEEE International Parallel & Distributed Processing Symposium (IPDPS), Vancouver, Canada, May 2018.</li>
+<li>Area Chair, Technical Papers (State of the Practice), 2017 ACM/IEEE International Conference on High Performance Computing, Networking, Storage and Analysis (SC17), Denver, Colorado, November 2017.</li>
+<li>Co-organizer: International Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE 5.2), 2017.</li>
+<li>Co-organizer: International Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE 5.1), 2017.</li>
+<li>Program Co-Chair: 2017 International Conference on Parallel Processing (ICPP-2017), 2017.</li>
+<li>Co-Organizer: Fourth Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4), 2016.</li>
+<li>Program Track Co-Chair (Applications): 2016 International Conference on Parallel Processing (ICPP-2016), 2016.</li>
+<li>Program Track Chair (Applications): 16th IEEE International Symposium on Cluster, Cloud and Grid Computing (CCGrid), 2016. </li>
+<li>Co-Organizer: Third Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE3), 2015.</li>
+<li>Program co-Chair: 15th IEEE International Symposium on Cluster, Cloud and Grid Computing (CCGrid), 2015.</li>
+<li>Co-Organizer: Second Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE2), in conjunction with SC14, 2014.</li>
+<li>Co-Organizer: First Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE1), in conjunction with SC13, 2013.</li>
+<li>Program Vice Chair (Applications and Experiences): 13th IEEE International Symposium on Cluster, Cloud and Grid Computing (CCGrid 2013), 2013.</li>
+<li>Program co-Chair: IEEE International Conference on eScience, 2012.</li>
+<li>Program Vice Chair (Applications and Experiences): 12th IEEE International Symposium on Cluster, Cloud and Grid Computing (CCGrid 2012), 2012.</li>
+<li>Program Vice-Chair (e-Research and Applications): 12th IEEE/ACM International Conference on Grid Computing (Grid 2011), 2011.</li>
+<li>Program Co-Chair: TeraGrid 2011, 2011. </li>
+<li>General Co-Chair: TeraGrid 2010, 2010.</li>
+<li>General Co-Chair: Challenges of Large Applications in Distributed Environments (CLADE 2010), in conjunction with HPDC 2010.</li>
+<li>General Chair: 2009 IEEE International Conference on Cluster Computing (Cluster 2009).</li>
+<li>Poster Co-Chair: TeraGrid&#8217;09, 2009.</li>
+<li>Program Co-Chair: HPC ASIA 2009. </li>
+<li>Program Co-Chair: 6th International Symposium on Parallel and Distributed Processing and Applications (ISPA08), 2008.</li>
+<li>Program Co-Chair: International Symposium on Grid computing, high-performAnce and Distributed Applications (GADA'08), 2008.</li>
+<li>Program Vice Chair (Applications): 9th IEEE/ACM International Conference on Grid Computing, 2008.</li>
+<li>Program Vice Chair (HPC Applications): 9th IEEE International Conference on Computational Science and Engineering, 2008.</li>
+<li>General Chair, 15th Mardi Gras Conference, 2008.</li>
+<li>Program Vice Co-Chair (Cluster and Grid Computing), 13th International Conference on Parallel and Distributed Systems (ICPADS'2007).</li>
+<li>Program Co-Chair: International Symposium on Grid computing, high-performAnce and Distributed Applications (GADA'07), 2007.</li>
+<li>Program Vice-Chair (Software and Applications): Fourth International Symposium on Parallel and Distributed Processing and Applications (ISPA'06), 2006.</li>
+<li>Program Vice-Chair (Cluster Computing): 2006 International Conference on Parallel Processing (ICPP-2006).</li>
+<li>Program Chair: Sixth IEEE/ACM International Workshop on Grid Computing (Grid 2005).</li>
+<li>General Vice Chair: 2005 IEEE International Conference on Cluster Computing (CLUSTER2005).</li>
+<li>Co-Chair: Workshop on Web and Grid Services for Scientific Data Analysis (WAGSSDA), 2005.</li>
+<li>General Co-Chair: 2004 IEEE International Conference on Cluster Computing (CLUSTER2004).</li>
+<li>Program Co-Chair: 2003 IEEE International Conference on Cluster Computing (CLUSTER2003).</li>
+<li>Vice Co-Chair: 2002 IEEE International Conference on Cluster Computing (CLUSTER2002).</li>
+<li>Deputy Program Chair: 2001 IEEE International Conference on Cluster Computing (CLUSTER2001). </li>
+<li>Program Vice Chair (Cluster Applications): 2000 IEEE International Conference on Cluster Computing (CLUSTER2000).</li>
+<li>Member of Advisory Committee: IEEE International Conference on Cluster Computing, 2013 - present; Member of Steering Committee, 2000 - 2013; Chair of Steering Committee, 2008 - 2011.</li>
+<li>Chair of Steering Committee: IEEE International Conference on e-Science, 2014 &#8211; present; Member of Steering Committee, 2011 &#8211; present.</li>
+</ul>
+
+		
+		
+		<h2>Professional Societies</h2>
+<ul>
+<li>ACM: Senior Member, 2011-present.</li>
+<li>IEEE: Senior Member, 1999-present.</li>
+</ul>
+
+		
+		
+		
+		<h2>Service on Campus Committees</h2>
+<ul>
+<li>Illinois International Programs Advisory Committee (2020-present)</li>
+<li>Faculty Senate IT subcommittee (2020-present)</li>
+</ul>
+
+		
+		
+		
+		
+		<h2>Research Honors</h2>
+<ul>
+<li>Better Scientific Software (BSSw) Fellowship (2018)</li>
+<li>Best Paper Award: K. Maheshwari, J. M. Wozniak, H. Yang, D. S. Katz, M. Ripeanu, V. Zavala, M. Wilde, "Evaluating Storage Systems for Scientific Data in the Cloud," (best paper), Proceedings of 5th Workshop on Scientific Cloud Computing (ScienceCloud) 2014, (in conjunction with HPDC'14). (2014)</li>
+<li>Best Paper Award: Z. Zhang and D. S. Katz, "Application Skeletons: Encapsulating MTC Application Task Computation and I/O," (best paper), Proceedings of 6th Workshop on Many-Task Computing on Grids and Supercomputers (MTAGS) (at SC13). (2013)</li>
+<li>Best Paper Award: T. G. Armstrong, Z. Zhang, D. S. Katz, M. Wilde, and I. T. Foster, &#8220;Scheduling Many-Task Workloads on Supercomputers: Dealing with Trailing Tasks,&#8221; Proceedings of 3rd IEEE Workshop on Many-Task Computing on Grids and Supercomputers (at SC10). (2010)</li>
+<li>Best Paper Award: S. Jha, D. S. Katz, M. Parashar, O. Rana, and J. Weissman, &#8220;Critical Perspectives on Large-Scale Distributed Applications and Production Grids,&#8221; 10th IEEE/ACM International Conference on Grid Computing (Grid 2009), Banff, Canada. (2009)</li>
+<li>NASA Space Act Award: B. Berriman, J. Good, J. C. Jacob, D. S. Katz, A. Laity, and T. A. Prince, &#8220;Montage: An Astronomical Image Mosaic Service for the National Virtual Observatory&#8221;. (2005)</li>
+<li>NASA Space Act Award: A. Borgioli, T. Cwik, W. A. Imbriale, V. Jamnejad, D. S. Katz, and P. L. Springer, &#8220;MOD Tool: Microwave and Millimeter-wave Optic Design Tool&#8221; (2003)</li>
+<li>Best Paper Award: P. Wang, D. S. Katz, and Y. Chao, &#8220;Optimization of a Parallel Ocean General Circulation Model,&#8221; SC97, San Jose, California. (1997)</li>
+</ul>
+
+		
+		
+		
+		<h2>Courses Taught - Last Four Years</h2>
+<ul><li>CS 199 - INCLUSION project</li>
+</ul>
+	</div>
+
+
+</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile w110 white-box   py-5 " id="tile7058" data-tileid="7058" >
+	<div class="lower     " id="lower7058">
+		<div class="row">
+			<div class="col-md column1      " >
+				<h2 class="text-center">Related News</h2>
+<div id="faculty-news" class="tile-list"><section class="tile news w25 platinum-box" id="page19144" data-pageid="19144" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=27660);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/new-center-leverages-hpc-to-advance-hypersonic-propulsion">New Center to Leverage High-Performance Computing to Advance Hypersonic Propulsion</a></h2>
+				<p class="first"><a href="/news">News</a> | October 13, 2020</p>
+			</div>
+		</div>
+	</div>
+</section>
+</div>
+<p>&nbsp;</p>
+<p class="text-center"><a class="button orange loader" href="#" data-target="faculty-news" data-template="81" data-bookid="81" data-return="4" data-filter-field="netid" data-filter-value="dskatz">Load more news</a></p>
+			</div>
+		</div>
+	</div>
+</section>
+
+						</div>
+					</div>
+				</main>
+			</div>
+
+			<footer>
+							<div class="container-fluid maxwidth1140">
+				<div class="row pt-5 pb-3">
+					<div class="col-lg-5 mb-5">
+						<div class="campus_wordmark"><a href="http://illinois.edu/"><img src="https://ws.engr.illinois.edu/images/uiuc-footer-wordmark.png" alt="University of Illinois Urbana Champaign"></a></div>
+					</div>
+
+					<div class="col-lg-7 mb-4 socials">
+						<a href="https://www.facebook.com/CSatIllinois/"><i class="fab fa-facebook-f"></i><span class="sr-only">Facebook</span></a>
+						<a href="https://twitter.com/IllinoisCS"><i class="fab fa-twitter"></i><span class="sr-only">Twitter</span></a>
+						<a href="https://www.youtube.com/user/IllinoisCS"><i class="fab fa-youtube"></i><span class="sr-only">YouTube</span></a>
+						<a href="https://www.linkedin.com/school/illinoiscs"><i class="fab fa-linkedin-in"></i><span class="sr-only">LinkedIn</span></a>
+						<a href="https://www.instagram.com/illinoiscs/"><i class="fab fa-instagram"></i><span class="sr-only">Instagram</span></a>
+						<div class="w-100 d-block d-lg-none"></div>
+						<a href="/about/contact-us" class="button">Contact Us</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="container-fluid maxwidth1140">
+				<div class="row pb-5 justify-content-between">
+					<div class="col-md pr-xl-5 mb-5 college_container">
+
+						<div class="contact">
+							<p><span class="fs150x"><a href="https://cs.illinois.edu">Thomas M. Siebel Center for Computer Science</a></span><br />
+                                                       201 North Goodwin Avenue MC 258<br />
+                                                        Urbana, IL 61801-2302<br />
+                                                         ph: 217-333-3426 (general) | 217-333-4428 (advising) <br />
+                                                         fax: 217-333-3501</p>
+                                                        <p> General email: <a href="mailto:admin@cs.illinois.edu">admin@cs.illinois.edu</a><br />
+                                                         Graduate Advising: <a href="mailto:academic@cs.illinois.edu">academic@cs.illinois.edu</a><br />
+                                                         Undergraduate Advising: <a href="mailto:undergrad@cs.illinois.edu">undergrad@cs.illinois.edu</a><br />
+                                                          Webmaster: <a href="mailto:grainger-marcom@illinois.edu?subject=CS Request">grainger-marcom@illinois.edu</a></p>
+							<p><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a><br />
+							<a href="https://illinois.edu">University of Illinois</a></p>
+
+						</div>
+					</div>
+
+
+					<div class="col-md pr-xl-5 my-5 concentrations">
+                                 	
+					</div>
+				</div>
+			</div>
+
+				<div class="container-fluid" id="legal">
+					<div class="row justify-content-md-center align-items-center py-4">
+
+						<div class="col-md-auto">
+							<div><button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Preferences</button></div>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Copyright &copy; 2021 University of Illinois Board of Trustees</p>
+						</div>
+
+						<div class="col-md-auto">
+							<p><a href="https://grainger.illinois.edu/cookie-policy">Cookie Policy</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy</a></p>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Powered by <a href="https://my.engr.illinois.edu/sitemanager/editpage.asp?id=11846">SiteManager</a> | <a href="mailto:grainger-marcom@illinois.edu">Contact Webmaster</a></p>
+						</div>
+					</div>
+				</div>
+
+				<div id="gototop" class="hidden">
+					<a href="#"><i class="fa fa-chevron-up"></i><span class="sr-only">Go to top</span></a>
+				</div>
+			</footer>
+		</div>
+
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+		<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax-video.min.js"></script>
+		<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+		<script src="https://cdn.datatables.net/responsive/2.2.5/js/dataTables.responsive.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.0/circle-progress.min.js'></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/twbs-pagination/1.4.2/jquery.twbsPagination.min.js'></script>
+		<script src="https://ws.engr.illinois.edu/sitemanager/genscripts.js?v=2.660.676"></script>
+		<script src="/js/scripts.js?v=0.27"></script>
+
+		<script async="async" src="https://enroll.illinois.edu/ping"></script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-9571262-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-9571262-1');
+</script>
+
+		
+	</body>
+</html>
+
+

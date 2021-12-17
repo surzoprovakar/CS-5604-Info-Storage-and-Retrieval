@@ -1,0 +1,897 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Policies and Procedures | Computer Science | UIUC</title>
+		<link rel="shortcut icon" type="image/x-icon" href="//ws.engr.illinois.edu/images/favicon.ico">
+
+		<meta name="description" content="Policies and Procedures">
+		<meta name="author" content="Grainger Engineering Office of Marketing and Communications">
+
+		<!-- meta tags for mobile devices -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">  
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+				<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="26be7d61-2017-4ea7-8a8b-8f1704889763"></script>
+		<script type="text/javascript"> function OptanonWrapper() { } </script>
+
+		<meta property="og:type" content="article" />
+<meta property="og:title" content="Policies and Procedures" />
+<meta property="og:description" content="Policies and Procedures" />
+<meta property="og:url" content="https://cs.illinois.edu/academics/undergraduate/policies-and-procedures" />
+<meta property="og:image" content="https://ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=12050" />
+
+
+		<!-- fonts -->
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i,900,900i%7cBarlow+Condensed%7cPlayfair+Display%7cMontserrat:400,500,600,700,800%7cFjalla+One%7cLexend+Exa%7cMontserrat+Alternates:400,700">
+		<script src="https://kit.fontawesome.com/64a62210ef.js"></script>
+
+		<!-- stylesheets -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.5/css/responsive.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://ws.engr.illinois.edu/sitemanager/gensite.css?v=2.671.281">
+		<link rel="stylesheet" type="text/css" href="/css/styles.css?v=0.19">
+
+				<!-- Global site tag (gtag.js) - Google Ads: 1011414001 -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1011414001"></script>
+		<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-1011414001'); </script> 
+		<!-- Event snippet for Outbound Google Ads click conversions -->
+		<script> function gtag_report_conversion(url) {var callback = function () {if (typeof(url) != 'undefined') {window.location = url;}};gtag('event', 'conversion', {'send_to': 'AW-1011414001/YNxnCM-1kfMBEPHno-ID','event_callback': callback});return false;} </script>
+		
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	</head>
+
+	<body class="site prod academics undergraduate policies-and-procedures  isattop theme_dagobah" data-sidebar="" data-sidebarskip="[sidebarskip]" data-sidebarinclude="[sidebarinclude]">
+		<div id="page">
+			
+			<header>
+				<div id="skiptocontent"><a href="#content">skip to main content</a></div>
+
+				<div class="container-fluid campus">
+					<div class="row mx-auto maxwidth1140">
+						<div class="col p-0">
+							<a href="http://illinois.edu/"><span>University of Illinois Urbana-Champaign</span></a>
+						</div>
+						<div id="featurelinks" class="col p-0 text-right">
+							<ul>
+	<li><a href="/alumni">Alumni</a></li>
+	<li><a href="/corporate">Corporate</a></li>
+       <li><a href="/about/people">People</a></li>
+	<li><a href="https://my.cs.illinois.edu">My.CS</a></li>
+</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="container-fluid site">
+					<div class="row wordmark d-flex flex-nowrap align-items-center">
+						<div class="d-flex flex-fill pr-3">
+							<div class="blocki"><a href="https://illinois.edu">University of Illinois at Urbana-Champaign</a></div>
+							<div class="site_identification">
+								<div class="parent_name"><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a></div>
+								<div class="site_name"><a href="/"><span>Computer Science</span></a></div>
+							</div>
+						</div>
+
+						<div class="d-flex align-items-center">
+							<div id="header-search-container" class="d-none d-lg-block site-search">
+								<form class="form-inline" method="get" action="/search" id="search-form">
+									<div class="input-group">
+										<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="header-search-go-button">
+										<div class="input-group-append">
+											<a href="/search" onclick="$('#header-search-container form').submit(); return false;" class="input-group-text" id="header-search-go-button"><i class="far fa-search"></i><span class="sr-only">Search</span></a>
+										</div>
+									</div>
+								</form>	
+							</div>
+
+							<div id="mainnav-toggler-container">
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainnav" aria-controls="mainnav" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="icon"></span> <span class="label sr-only">Menu</span>
+								</button>
+							</div>
+						</div>
+					</div>
+					<nav class="navbar navbar-expand-lg p-0">
+<div class="collapse navbar-collapse" id="mainnav">
+<form class="d-block d-lg-none" method="get" action="/search" id="mobile-search-form">
+<div class="form-row p-3">
+<div class="col">
+<div class="input-group">
+<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="mobile-search-go-button">
+<div class="input-group-append">
+<a href="/search" onclick="$('#mobile-search-form').submit(); return false;" class="input-group-text" id="mobile-search-go-button"><i class="far fa-search" aria-hidden="true"></i><span class="sr-only">Search</span></a>
+</div>
+</div>
+</div>
+</div>
+</form>
+<ul class="navbar-nav w-100">
+<li class="dropdown mega twocol nav-item">
+<a href="/about" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>About</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-about">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/about">About</a></h2>
+<ul class="about ">
+<li><a href="/about/cs-cares">CS CARES Committee</a></li>
+<li><a href="/about/values">Values & Code of Conduct</a></li>
+<li><a href="/about/statistics">Rankings & Statistics</a></li>
+<li><a href="/about/contact-us">Contact Us & Directions</a></li>
+<li class="dropdown"><a href="/about/people">People</a><ul class="people ">
+<li><a href="/about/people/all-faculty">All Faculty</a></li>
+<li><a href="/about/people/department-faculty">Department Faculty</a></li>
+<li><a href="/about/people/affiliate-faculty">Affiliate Faculty</a></li>
+<li><a href="/about/people/adjunct-faculty">Adjunct Faculty</a></li>
+<li><a href="/about/people/postdocs">Postdocs</a></li>
+<li><a href="/about/people/emeritus-faculty">Emeritus Faculty</a></li>
+<li class="dropdown"><a href="/about/people/staff">Staff</a><ul class="staff ">
+<li><a href="/about/people/staff/office-department-head">Office of the Department Head</a></li>
+<li><a href="/about/people/staff/communications-engagement-team">Communications &amp; Engagement Team</a></li>
+<li><a href="/about/people/staff/undergraduate-advising-office">Undergraduate Advising Office</a></li>
+<li><a href="/about/people/staff/graduate-advising-office">Graduate Advising Office</a></li>
+<li><a href="/about/people/staff/instructional-development-team">Instructional Development Team</a></li>
+<li><a href="/about/people/staff/business-office">Business Office</a></li>
+<li><a href="/about/people/staff/faculty-support-contacts">Faculty Support Contacts</a></li>
+<li><a href="/about/people/staff/facilities-shipping-and-receiving">Facilities, Shipping and Receiving</a></li>
+</ul>
+</li>
+<li><a href="/about/people/graduating-phd-students">Graduating PhD Students</a></li>
+<li><a href="/about/people/recent-phd-alumni">Recent PhD Alumni</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/positions">Open Positions</a><ul class="positions ">
+<li><a href="/about/positions/faculty-positions">Faculty Positions</a></li>
+<li><a href="/about/positions/postdoctoral">Postdoctoral Positions</a></li>
+<li><a href="/about/positions/staff-positions">Staff Positions</a></li>
+<li><a href="/about/positions/choose-illinois-computer-science">Choose Illinois Computer Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/calendar">Calendar</a><ul class="calendar ">
+<li><a href="/about/calendar/all">All Events</a></li>
+<li><a href="/about/calendar/corporate">Corporate Events</a></li>
+<li><a href="/about/calendar/department">Department Events</a></li>
+<li><a href="/about/calendar/graduate">Graduate Events</a></li>
+<li><a href="/about/calendar/outreach">Outreach Events</a></li>
+<li><a href="/about/calendar/speakers">Speakers</a></li>
+<li><a href="/about/calendar/student-groups">Student Group Events</a></li>
+<li><a href="/about/calendar/undergraduate">Undergraduate Events</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards">Awards</a><ul class="awards ">
+<li><a href="/about/awards/celebration">Celebration of Excellence</a></li>
+<li class="dropdown"><a href="/about/awards/faculty-awards">Faculty Awards</a><ul class="faculty-awards ">
+<li><a href="/about/awards/faculty-awards/chairs-and-professorships">Chairs and Professorships</a></li>
+<li><a href="/about/awards/faculty-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/faculty-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards/undergraduate-scholarships-awards">Undergraduate Scholarships &amp; Awards</a><ul class="undergraduate-scholarships-awards ">
+<li><a href="/about/awards/undergraduate-scholarships-awards/shieh-li-scholarship">Ruey-Feng Shieh Li Family Scholarship</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/graduate-fellowships-awards">Graduate Fellowships &amp; Awards</a></li>
+<li class="dropdown"><a href="/about/awards/alumni-awards">Alumni Awards</a><ul class="alumni-awards ">
+<li><a href="/about/awards/alumni-awards/alumni-awards-past-recipients">Alumni Awards Past Recipients</a></li>
+<li><a href="/about/awards/alumni-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/alumni-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/staff-awards">Staff Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/history-timeline">History Timeline</a></li>
+<li><a href="/about/accreditation">Accreditation</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/admissions" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Admissions</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-admissions">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/admissions">Admissions</a></h2>
+<ul class="admissions ">
+<li class="dropdown"><a href="/admissions/undergraduate">Undergraduate Admissions</a><ul class="undergraduate ">
+<li><a href="https://admissions.illinois.edu/apply">Apply Now</a></li>
+<li><a href="/academics/undergraduate/degree-program-options">Degree & Program Options</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/dates">Application Deadlines</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/process">Applications Process & Requirements</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+<li><a href="https://www.housing.illinois.edu">Housing</a></li>
+<li><a href="/about-us/accreditation">Accreditation</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/admissions/graduate">Graduate Admissions</a><ul class="graduate ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+<li class="dropdown"><a href="/admissions/graduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/admissions/graduate/degree-program-options/professional-master-computer-science-mcs-program">Professional Master of Computer Science (MCS) Program</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-deadlines">Application Deadlines</a></li>
+<li class="dropdown"><a href="/admissions/graduate/applications-process-requirements">Applications Process &amp; Requirements</a><ul class="applications-process-requirements ">
+<li><a href="/admissions/graduate/applications-process-requirements/additional-required-application-materials">Additional Required Application Materials for International Students</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/application-fee-waivers">Application Fee Waivers</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/data-structures-proficiency-exam">Data Structures Proficiency Exam</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-checklist">Application Checklist</a></li>
+<li class="dropdown"><a href="/admissions/graduate/faqs">FAQs</a><ul class="faqs ">
+<li><a href="/admissions/graduate/faqs/ican-faqs">iCAN FAQs</a></li>
+<li><a href="/admissions/graduate/faqs/online-mcs-faqs">Online MCS FAQs</a></li>
+</ul>
+</li>
+<li><a href="https://choose.illinois.edu/apply/">Check Application Status</a></li>
+</ul>
+</li>
+<li><a href="/admissions/impact-illinois-cs-degree">Impact of an Illinois CS Degree</a></li>
+<li><a href="/admissions/financial-aid">Financial Aid</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/academics" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Academics</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-academics">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/academics">Academics</a></h2>
+<ul class="academics ">
+<li class="dropdown"><a href="/academics/undergraduate">Undergraduate Academics</a><ul class="undergraduate ">
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/academics/undergraduate/degree-program-options/bs-computer-science">B.S. in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-mathematics-computer-science">B.S. in Mathematics &amp; Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-statistics-computer-science">B.S. in Statistics &amp; Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs">CS + X Degree Programs</a><ul class="cs-x-degree-programs ">
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-advertising">Computer Science + Advertising</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-animal-sciences">Computer Science + Animal Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-anthropology">Computer Science + Anthropology</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-astronomy">Computer Science + Astronomy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-chemistry">Computer Science + Chemistry</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-crop-sciences">Computer Science + Crop Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-economics">Computer Science + Economics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-geography">Computer Science + Geography &amp; Geographic Information Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-linguistics">Computer Science + Linguistics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-music">Computer Science + Music</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-philosophy">Computer Science + Philosophy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/cs-x-degree-requirements">CS + X Degree Requirements &amp; Planning Forms</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-undergraduate-degree-options-faq">CS Undergraduate Degree Options FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/registration">Registration</a><ul class="registration ">
+<li><a href="/academics/undergraduate/registration/cs-course-restrictions-enrollment-caps">CS Course Restrictions &amp; Enrollment Caps</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/policies-and-procedures">Policies and Procedures</a></li>
+<li><a href="/academics/undergraduate/undergraduate-advising">Undergraduate Advising</a></li>
+<li><a href="/academics/undergraduate/cs-student-opportunity-series-cs-sos">CS Student Opportunity Series (CS SOS)</a></li>
+<li><a href="/academics/undergraduate/undergraduate-forms">Undergraduate Forms</a></li>
+<li><a href="/academics/undergraduate/honors">Honors</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate">Graduate Academics</a><ul class="graduate ">
+<li class="dropdown"><a href="/academics/graduate/phd-program">PhD Program</a><ul class="phd-program ">
+<li><a href="/academics/graduate/phd-program/final-exam-thesis-defense">Final Exam (Thesis Defense)</a></li>
+<li><a href="/academics/graduate/phd-program/guidelines-forming-phd-committee">Guidelines for Forming Ph.D. Committee</a></li>
+<li><a href="/academics/graduate/phd-program/phd-ms-thesis-format-review-guidelines">Ph.D. / M.S. Thesis Format Review Guidelines</a></li>
+<li><a href="/academics/graduate/phd-program/phd-program-study-process">PhD Program of Study Process</a></li>
+<li><a href="/academics/graduate/phd-program/phd-requirements">PhD Requirements</a></li>
+<li><a href="/academics/graduate/phd-program/phd-time-limits-milestones">PhD Time Limits &amp; Milestones</a></li>
+<li><a href="/academics/graduate/phd-program/preliminary-exam">Preliminary Exam</a></li>
+<li><a href="/academics/graduate/phd-program/qualifying-exam">Qualifying Exam</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/ms-program">MS Program</a></li>
+<li><a href="/academics/graduate/ms-bioinformatics-program">MS in Bioinformatics Program</a></li>
+<li class="dropdown"><a href="/academics/graduate/professional-mcs">Professional Master of Computer Science</a><ul class="professional-mcs ">
+<li><a href="/academics/graduate/professional-mcs/campus-master-computer-science">On-Campus Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science">Online Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science-data-science">Online Master of Computer Science in Data Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/fifth-year-masters-programs">Fifth Year Master's Programs</a><ul class="fifth-year-masters-programs ">
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-mcs-program">5-year BS-MCS Program</a></li>
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-ms-program">5-year BS-MS Program</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">Illinois Computing Accelerator for Non-Specialists (iCAN)</a><ul class="ican ">
+<li><a href="/academics/graduate/ican/application-process">iCAN Application Process</a></li>
+<li><a href="/academics/graduate/ican/curriculum">iCAN Curriculum</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources">Graduate Forms &amp; Advising Resources</a><ul class="graduate-forms-advising-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/epi-exam-requirements">EPI Exam Requirements</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-advising-contacts">Graduate Advising Contacts</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-student-annual-evaluation-process">Graduate Student Annual Evaluation Process</a></li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources">New Graduate Student Resources</a><ul class="new-graduate-student-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/mcs-campus">MCS On-Campus General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/ms-general">MS General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/phd-general">PhD General Advising for Registration</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/official-forms">Official Forms</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/academics/courses">Courses</a></li>
+<li><a href="/academics/honor-code">Honor Code</a></li>
+<li><a href="https://cs.illinois.edu/student-life/student-resources">Student Resources</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/student-life" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Student Life</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-student-life">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41390_8405" data-pageid="41390" data-tileid="8405" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=55621);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Salesforce's CodeT5 System Can Understand and Generate Code</h2>
+			<div class="description"></div>
+			<p><a href="/news/salesforces-codet5-system-can-understand-and-generate-code" class="button" title="Salesforce's CodeT5 System Can Understand and Generate Code">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 7, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/student-life">Student Life</a></h2>
+<ul class="student-life ">
+<li><a href="/student-life/overview-cs-student-life">Overview of CS Student Life</a></li>
+<li><a href="/student-life/student-organizations">Student Organizations</a></li>
+<li><a href="/student-life/department-college-and-campus-events">Department, College, and Campus Events</a></li>
+<li><a href="/student-life/student-resources">Student Resources</a></li>
+<li><a href="/student-life/career-services">Career Services</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/research" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Research</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-research">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Explore visionary research conducted by world-renowned faculty.</h2>
+<p><a class="orange button" href="/research/areas">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/research">Research</a></h2>
+<ul class="research ">
+<li class="dropdown"><a href="/research/areas">Research Areas</a><ul class="areas ">
+<li><a href="/research/areas/architecture-compilers-and-parallel-computing">Architecture, Compilers, and Parallel Computing</a></li>
+<li><a href="/research/areas/artificial-intelligence">Artificial Intelligence</a></li>
+<li><a href="/research/areas/bioinformatics-and-computational-biology">Bioinformatics and Computational Biology</a></li>
+<li><a href="/research/areas/computers-and-education">Computers and Education</a></li>
+<li><a href="/research/areas/data-and-information-systems">Data and Information Systems</a></li>
+<li><a href="/research/areas/interactive-computing">Interactive Computing</a></li>
+<li><a href="/research/areas/programming-languages-formal-methods-and-software-engineering">Programming Languages, Formal Methods, and Software Engineering</a></li>
+<li><a href="/research/areas/scientific-computing">Scientific Computing</a></li>
+<li><a href="/research/areas/security-and-privacy">Security and Privacy</a></li>
+<li><a href="/research/areas/systems-and-networking">Systems and Networking</a></li>
+<li><a href="/research/areas/theory-and-algorithms">Theory and Algorithms</a></li>
+</ul>
+</li>
+<li><a href="/research/technical-conferences-workshops">Technical Conferences &amp; Workshops</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+<li><a href="/corporate#research">Corporate Partners</a></li>
+<li><a href="https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=3146">Illinois CS Research Overview</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/broadening-participation-computing" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Broadening Participation</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-broadening-participation-computing">
+<section class="tile w50 white-box py-5 marketing">
+<p class="mb-0"><img src="//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=16163&s=375" class="image" alt="" width="375" /></p>
+<p style="padding: 10px 15px 0px 15px;">New certificate program for college graduates who want a deeper understanding of computers, algorithms, and programming.</p>
+<p><a class="orange button" href="/ican">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/broadening-participation-computing">Broadening Participation</a></h2>
+<ul class="broadening-participation-computing ">
+<li><a href="https://drive.google.com/file/d/12vDswb1i-mEXaXgVt7FOhtqYs7b8F_1p/view">BPC Departmental Plan</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs">BPC Programs & Activities for Students</a><ul class="programs ">
+<li><a href="/broadening-participation-computing/programs/csambassadors">CS Student Ambassador/Research Scholars (CS STARS)</a></li>
+<li><a href="/broadening-participation-computing/programs/cskickstart">Illinois CS Kickstart</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs/ai4all">AI4ALL</a><ul class="ai4all ">
+<li><a href="http://go.cs.illinois.edu/DiscoverAI">Apply Now</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">iCAN</a><ul class="ican ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+</ul>
+</li>
+<li><a href="http://cs.illinois.edu/research/summer-research-experience-undergraduates">Summer Research Experience for Undergraduates</a></li>
+</ul>
+</li>
+<li><a href="/broadening-participation-computing/resources">BPC Resources</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/cross-cutting">Cross-Cutting Educational Activities</a><ul class="cross-cutting ">
+<li><a href="/broadening-participation-computing/cross-cutting/conferences-workshops">BPC Conferences & Workshops</a></li>
+<li><a href="/broadening-participation-computing/cross-cutting/ca-training">Course Assistant Training</a></li>
+<li><a href="https://cs.illinois.edu/news/featured-lectures#equity-justice">Equity & Justice in Computing Seminar Series</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/broadening-participation-computing/k-12">K-12 Outreach & Resources</a><ul class="k-12 ">
+<li><a href="/broadening-participation-computing/k-12/k-12-outreach">K-12 Outreach Programs</a></li>
+<li><a href="/broadening-participation-computing/k-12/k-12-resources">K-12 Resources</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/student-life/student-organizations">Student Organizations</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/news" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>News</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-news">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41391_5367" data-pageid="41391" data-tileid="5367" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=51204);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging</h2>
+			<div class="description"><p>The Defense Advanced Research Projects Agency (DARPA) has awarded $5.8 million to a team, led by Illinois CS's <a href="/about/people/faculty/zaher">Tarek Abdelzaher</a>, that will work to characterize how different foreign populations respond to influence campaigns as a first step towards development of effective countermeasures.</p></div>
+			<p><a href="/news/abdelzaher-leading-DARPA-effort-understand-how-people-respond-influence-messaging" class="button" title="Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 8, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/news">News</a></h2>
+<ul class="news ">
+<li><a href="/news">Department News</a></li>
+<li><a href="/news/features">Feature Stories</a></li>
+<li><a href="/news/covid-19-projects">COVID-19 Projects</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/news/media-coverage">Media Coverage</a></li>
+<li><a href="/news/e-news">E-News</a></li>
+<li><a href="/news/impact-report-publications">Impact Report &amp; Publications</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/give" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Give</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-give">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Help ensure that Illinois continues to set a global standard for CS research and education.</h2>
+<p><a class="orange button" href="/give/give-now">Make a Gift</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/give">Give</a></h2>
+<ul class="give ">
+<li><a href="/give/give-now">Give Now</a></li>
+<li><a href="/give/ways-give">Ways to Give</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/give/computer-science-visionary-scholarship-donors">Computer Science Visionary Scholarship Donors</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+</ul>
+</div>
+</nav>
+
+				</div>
+			</header>
+
+			<div id="content">
+				<main>
+					<div  id="hero" class="container-fluid">
+						<div class="row maxwidth1140">
+							<div class="col">
+								<div>
+									<nav id="breadcrumbs"><ul><li><a href="/">Home</a></li><li><a href="/academics">Academics</a></li><li><a href="/academics/undergraduate">Undergraduate Academics</a></li></ul></nav>
+									<h1>Policies and Procedures</h1>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					
+
+					<div id="content_inner" class="container-fluid">
+						<div class="tile-list">
+							<section class="tile w110 white-box   py-5 " id="tile5980" data-tileid="5980" >
+	<div class="lower  maxwidth1140   " id="lower5980">
+		<div class="row">
+			<div class="col-12"><p class="intro">The list below addresses the undergraduate policy and procedure questions that the CS Office of Undergraduate Programs encounters most frequently. It does not constitute an exhaustive survey of the policies and procedures that pertain to all CS students. Students should consult the university's <a class="external-link" href="http://admin.illinois.edu/policy/code/" rel="nofollow">Student Code</a> and the advising resources from their respective college: <a class="external-link" href="https://wiki.cites.illinois.edu/wiki/display/ugadvise/Undergrad+Advising+Home" rel="nofollow noopener">Grainger Engineering</a>, <a class="external-link" href="http://www.las.illinois.edu/students/advising/college/" rel="nofollow noopener">LAS</a>, <a href="https://academics.aces.illinois.edu/student-resources/advising">ACES</a>, <a href="https://media.illinois.edu/">Media</a>, or <a href="https://faa.illinois.edu/current-students/academic-policies">FAA</a>.</p></div>
+			<div class="col-md column1      " >
+				<p><strong>Courses</strong></p>
+<ul>
+<li><a href="/academics/undergraduate/policies-and-procedures#ap-credit">Advanced placement (AP) credit</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#pass-fail">Credit/No Credit (a.k.a. pass/fail)</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#conflict-exam">Conflict examinations</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#drop-add">Dropping and adding classes</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#electives">Electives</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#grade-replacement">Grade Replacement</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#grading">Grading</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#independent-study">Independent/Individual Study (CS 397)</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#team-project">CS Team Project (CS 497)</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#senior-thesis">Senior Thesis (CS 499)</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#overrides">Registration restrictions and overrides</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#proficiency-exam">Proficiency examinations</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#retake">Retaking classes</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#transfer-courses">Transfer credit</a></li>
+</ul>
+			</div>
+			<div class="col-md column2      " >
+				<p class="rtecenter" style="text-align: left;"><strong>Requirements</strong></p>
+<ul>
+<li><a href="/academics/undergraduate/policies-and-procedures#substitutions">Course substitutions for requirements</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#dars">Degree audit (DARS report)</a></li>
+<li><a href="https://wiki.cites.illinois.edu/wiki/display/undergradProg/Policies+and+Procedures#PoliciesandProcedures-language">Foreign language requirement</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#min-gpa">Minimum GPA requirements</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#probation">Probation</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#team-study-abroad">Study abroad and team requirement</a></li>
+</ul>
+			</div>
+			<div class="col-md column3      " >
+				<p class="rtecenter" style="text-align: left;"><strong>Miscellaneous</strong></p>
+<ul>
+<li><a href="/academics/undergraduate/policies-and-procedures#cheating">Cheating</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#cpt">Curricular Practical Training (CPT)</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#honor-code">Honor Code</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#honors">Honors</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#min-max-hours">Minimum and maximum number of hours</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#minors">Minors</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#tuition-fees">Tuition and Fees</a></li>
+<li><a href="/academics/undergraduate/policies-and-procedures#working">Working - for credit or for pay</a></li>
+</ul>
+			</div>
+			<div class="col-12"></div>
+		</div>
+	</div>
+</section>
+<section class="tile w110 ghost-box   py-5 " id="tile5981" data-tileid="5981" >
+	<div class="lower  maxwidth1140   " id="lower5981">
+		<div class="row">
+			<div class="col-md column1      " >
+				<h2>For additional information, contact the appropriate advising office:</h2>
+<table class="table" style="height: 401px; width: 99.55%;">
+<tbody>
+<tr>
+<td style="width: 32.3304%;"><strong>CS Office of Undergraduate Programs</strong><br />Visit: 1210 Siebel Center<br />Call: 217-333-4428<br />Email: <a href="mailto:undergrad@cs.illinois.edu">undergrad@cs.illinois.edu</a></td>
+<td style="width: 37.1141%;"><strong>Grainger Engineering Undergraduate Programs Office</strong><br />Visit: 206 Engineering Hall<br />Call: 217-333-2280<br />Email: <a href="mailto:engineering@illinois.edu">engineering@illinois.edu</a></td>
+<td style="width: 30.455%;"><strong>LAS Student Academic Affairs</strong><br />Visit: 2002 Lincoln Hall<br />Call: 217-333-1705<br />Email: <a href="mailto:las-studentoffice@illinois.edu">las-studentoffice@illinois.edu</a></td>
+</tr>
+<tr>
+<td style="width: 32.3304%;">
+<p><strong>FAA Office of Undergraduate Academic Affairs</strong><br />Visit: 110 Architecture Building<br />Call: 217-333-6061<br />Email: <a href="mailto:faa-uaa@illinois.edu">faa-uaa@illinois.edu</a></p>
+</td>
+<td style="width: 37.1141%;">
+<p><strong>College of Media Student Services Center (SSC)</strong><br />Visit: 18 Gregory Hall<br />Call: 217-244-4329<br />Email: <a href="mailto:media-ssc@illinois.edu">media-ssc@illinois.edu</a></p>
+</td>
+<td style="width: 30.455%;"><strong>College of ACES Academic Programs Office</strong><br />Visit: 128 Mumford Hall<br />Call: 217-333-3380<br />Email: <a href="mailto:aces-academics@illinois.edu">aces-academics@illinois.edu</a><a href="mailto:aces-academics@illinois.edu"> </a></td>
+</tr>
+</tbody>
+</table>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile w110 white-box   py-5 " id="tile4798" data-tileid="4798" >
+	<div class="lower  maxwidth1140   " id="lower4798">
+		<div class="row">
+			<div class="col-md column1      " >
+				<h2>Courses</h2>
+<h3><a id="ap-credit" class="anchor" name="ap-credit"></a>Advanced Placement (AP) credit</h3>
+<p>To see which AP scores result in course credit (for all AP subjects), check the university's <a class="external-link" href="http://cte.illinois.edu/testing/pnp/main.html" rel="nofollow noopener">placement and proficiency website</a>, scroll down to "cutoff scores" and click on the current cutoff scores or the cutoff scores for the year you entered Illinois.</p>
+<p>Current students: to find out if you have received course credit for your AP scores, check your <a class="external-link" href="https://registrar.illinois.edu/dars-audit" rel="nofollow noopener">degree audit</a> with an advisor. If you think that you should have received AP credit but did not, check with your college office or contact <a class="external-link" href="https://apscore.collegeboard.org/scores" rel="nofollow noopener">The College Board</a> to request that your AP scores be sent to Illinois.</p>
+<h3><a id="pass-fail" class="anchor" name="pass-fail"></a>Credit/No Credit (a.k.a. pass/fail)</h3>
+<p>The Credit/No Credit (CR/NC) option allows students to take a course without having it count toward their GPA. CR/NC is intended to encourage students to explore academic subjects they might not otherwise consider for fear of harming their GPA. Before you consider taking a course CR/NC, read the following very carefully. You should also consult the specific guidelines set down by your college.</p>
+<ul>
+<li>You may not select the CR/NC option for any course that will fulfill a requirement (this includes campus general education requirements - though Engineering students may take the "additional six hours" of college general education requirements CR/NC).</li>
+<li>You may take free electives CR/NC, but not technical electives. For an explanation of the difference between free and technical electives see the section on <a href="#electives">Electives.</a></li>
+<li>You may select the CR/NC option only up to the half-way point of the term (same as drop-deadline).</li>
+<li>You may take a maximum of two courses CR/NC during a semester (only one during a summer term) - up to 18 hours maximum for your undergraduate career.</li>
+<li>CS students are particularly discouraged from taking CS courses CR/NC - even courses that are not needed to fulfill requirements - because graduate schools do not look favorably upon it and neither do some potential employers. Normally, a request to take a CS course CR/NC will be denied.</li>
+<li>Your instructor will not know that you have chosen the CR/NC option and will assign a letter grade. A C- or better will automatically be changed to CR. A D+ or worse will automatically result in NC.</li>
+</ul>
+<p>Procedure: To take a course CR/NC, you must fill out a form (available in CS Office of Undergraduate Programs&nbsp;or in your college's office), obtain a signature from the CS Office of Undergraduate Programs, and take the signed form to your college office. You may revert back to a letter grade using the same form and procedure, but you must do so before the half-way point of the course.</p>
+<h3><a id="conflict-exam" class="anchor" name="conflict-exam"></a>Conflict Examinations</h3>
+<p>If your schedule results in three final exams within a 24-hour period, you may request to take a conflict examination at another time for one of the courses. <a class="external-link" href="http://studentcode.illinois.edu/article3/part2/3-201/">University policy</a> holds that a course giving a combined exam (i.e. multiple lecture sections with one exam) must give the conflict exam if conflicting with a non-combined course. If none of the courses in question are combined, then the largest class (most students) must offer the conflict exam.</p>
+<h3><a id="drop-add" class="anchor" name="drop-add"></a>Dropping and adding classes</h3>
+<p>With notable exceptions (see below), students may drop and add classes by themselves on <a class="external-link" href="https://apps.uillinois.edu/selfservice/" rel="nofollow">Enterprise Student Self-Service</a>, as long as they do so within the proper time frame (between the earliest registration time for the semester in which they plan to graduate to the add deadline for that semester). Check the Registrar's Office website for the <a class="external-link" href="http://registrar.illinois.edu/academic-calendars" rel="nofollow">calendar of academic and financial deadlines</a>. Before you drop or add a class, however, please read carefully the following guidelines and restrictions.</p>
+<ul>
+<li>You may add a full-semester class within the first two weeks of a regular semester (the add-deadline).</li>
+<li>With notable exceptions (below), you may drop a full-semester class up to the drop-deadline (eight weeks into the semester for spring and fall).</li>
+<li><strong>Dropping a course after the drop-deadline is not normally allowed without extenuating circumstances</strong> and requires permission from the CS Academic Office and your college office. Extenuating circumstances may include an extended illness or incapacitating injury, the death of a family member, or the discovery and diagnosis of a learning disability or mental disorder. All of these must be properly documented to warrant a late drop. <strong>Dissatisfaction with your grade in a course is not a legitimate justification for a late drop.</strong></li>
+<li>A late drop may result in a "W" (withdrawal) being listed in the grade column for the course on your transcript. If you need to drop a course after the drop-deadline, contact the CS Academic Office.</li>
+<li>After the first two weeks of a regular semester, all College of Engineering students have a registration hold and must go through a college web portal to request drops. They must also receive permission from the college office to drop an Engineering core requirement (MATH 220/221, 231, 241; MATH 285; CHEM 102, 103; PHYS 211, 212 - note that PHYS 213 and 214 are half-semester courses and students must request permission to drop these courses after the first week of class).</li>
+<li>After the first two weeks of a regular semester, CS students in the College of Engineering must receive permission from the CS Academic Office before dropping CS 125, 126, 173, 225, and 233. CS students in other colleges should consult with CS undergraduate advisors before dropping any of these courses after the first two weeks of a regular semester.</li>
+<li>You must receive permission from your college office to drop below 12 hours (full-time status) during the spring and fall semesters. Unless it is your last semester before graduation, permission is granted only under certain conditions (chronic illness, for example). There is no minimum hours requirement for the summer terms.</li>
+</ul>
+<p>If you have any questions about whether you can drop or add a course, contact your advisor or <a class="external-link" href="mailto:undergrad@CS.illinois.edu" rel="nofollow">undergrad@cs.illinois.edu</a>.</p>
+<h3><a id="electives" class="anchor" name="electives"></a>Electives</h3>
+<p>Generally speaking, CS majors (in Engineering) have two types of electives, technical electives and free electives. Students must choose technical electives from a set of courses approved by the department. Almost any course on campus can be used for free elective credits. There are some restrictions (e.g. on the number of physical education courses you can take). For more information on these restrictions, please check the specific regulations on electives for your college (<a class="external-link" href="http://www.las.illinois.edu/students/requirements/index.html" rel="nofollow">LAS students</a>, <a class="external-link" href="https://wiki.illinois.edu/wiki/display/ugadvise/Degree+Requirements#DegreeRequirements-FreeElectives" rel="nofollow noopener">College of Engineering students</a>), while most Engineering students can find an explanation of their foreign language requirement <a class="external-link" href="https://wiki.illinois.edu/wiki/display/ugadvise/Degree+Requirements#DegreeRequirements-LanguageRequirements" rel="nofollow">here</a>.</p>
+<p>For international students who are not native speakers of English, the requirement can be more complicated. International students in LAS must have completed 4 yrs of their native language and English in a Senior Secondary School (grades 9, 10, 11, and 12). Students who did not complete 4 years of either English or their native language can take the proficiency exam in their native language through the 4th level at UIUC to waive the foreign language requirement.</p>
+<p>In the <a class="external-link" href="http://engineering.illinois.edu/" rel="nofollow">College of Engineering</a>, international students must have completed 3 years of their native language and English in a Senior Secondary School (grades 9, 10, 11, or 12). Students who did not complete 3 years can take the proficiency exam through the 3rd level at UIUC to waive the foreign language requirement. (This requirement applies to student who started school in Fall 2000 or later.)</p>
+<h3><a id="grade-replacement" class="anchor" name="grade-replacement"></a>Grade Replacement</h3>
+<p>Undergraduate students at the University of Illinois may take a limited number of courses under certain circumstances and have the grade from the first time taking the course removed from GPA calculations. Before retaking a course and assuming that grade replacement can be applied, READ <a class="external-link" href="http://admin.illinois.edu/policy/code/article3/part3/3-309/">THE UNIVERSITY'S GRADE REPLACEMENT POLICY</a> AND THE PROCEDURES FOR YOUR COLLEGE CAREFULLY.</p>
+<p>The <a class="external-link" href="http://admin.illinois.edu/policy/code/article3/part3/3-309/">university's grade replacement policy</a> is spelled out in the <a class="external-link" href="http://admin.illinois.edu/policy/code/index.html" rel="nofollow">Student Code</a>.</p>
+<p>CS majors in the College of Engineering should consult <a class="external-link" href="https://wiki.illinois.edu/wiki/display/ugadvise/Course+Registration?preview=%2F710311406%2F710311398%2FGrade+Replacement+Request+WIKI+FAQs.docx">the Engineering advising site on Grade Replacement</a> for procedures.</p>
+<p>CS majors in the College of Liberal Arts &amp; Sciences should consult the <a title="LAS Grade Replacement" href="http://www.las.illinois.edu/students/courses/repeating/">LAS advising site and Sciences for the grade replacement procedures</a> they should follow.</p>
+<p>Note that students may retake a class, regardless of whether they apply grade replacement or not, at any time.</p>
+<h3><a id="grading" class="anchor" name="grading"></a>Policy on Grading</h3>
+<p>Students have a right to be given assignments that are well-prepared and of appropriate length, and to have them graded in a timely fashion. Furthermore, knowing how the class will be graded, and where they stand, can reduce students' anxiety and promote learning.<br />Students can expect the following grading policy to be followed, unless instructors explicitly say otherwise.</p>
+<p><strong>Timeliness</strong></p>
+<p><em>Grading of mid-term exams</em></p>
+<ul>
+<li>If at all possible, the first mid-term should be given, graded, and returned prior to the undergraduate drop date.</li>
+<li>Mid-term exams should be graded and returned within two weeks, or at the very least, prior to the next exam.</li>
+<li>Solutions to exams should be posted immediately after all students have taken the exam.</li>
+</ul>
+<p><em>Grading of programming and written assignments</em></p>
+<ul>
+<li>Programs and written assignments should be graded and returned within two weeks, or less if subsequent assignments depend on them.</li>
+</ul>
+<p><strong>Preparation</strong></p>
+<ul>
+<li>No assignment should be given without its having been thoroughly reviewed by an instructor or TA.</li>
+<li>Assignments should be of reasonable length, keeping in mind that the student is taking several other courses that require a comparable amount of time. For programming assignments, it is desirable to leave a weekend between assigning the homework and collecting it.</li>
+<li>Similarly, exams should always be taken by the TA's to determine, at the very least, how long it takes to write the answers.</li>
+</ul>
+<p><strong>Course Grading</strong></p>
+<ul>
+<li>Course grading policies should be announced in as much detail as possible at the start of the semester. If grades will be normalized to a curve, then the curve should be published. Since students may use this policy to determine how much effort to expend on different parts of the course, the grading policy should not be altered if it can be avoided. Once the semester is over, no changes in the policy are allowed: University policies on capricious grading require that the announced policy be followed in assigning course grades.</li>
+<li>Students should be given regular - if possible, continuous - access to information about their position in the class.</li>
+<li>When grading classes of mixed undergraduate and graduate students, the instructor should announce up front whether the same grading policy will be used both for graduates and for undergraduates, or a separate scale will be used. The policy should not penalize undergraduates in courses that are expected to be taken by a large number of undergraduates. Two methods that work well are: (1) determine the grading curve based only on the undergrads, and then fit the grads to that scale; (2) determine the grading curve based only on grads, and then fit the undergrads to it.</li>
+</ul>
+<h3><a id="independent-study" name="independent-study"></a>Independent/Individual Study</h3>
+<p>CS 397 Individual Study is a course that students can register for to get credit for an individual research project carried on under the guidance of a CS faculty member (or a faculty member from another department approved for supervising a CS 397 section). You may take the course for anywhere from 1 to 3 hours (to be determined by your individual project supervisor) and you may register again for CS 397 Individual Study (under the same or different instructor) in subsequent semesters.</p>
+<p>To register for CS 397 Individual Study, make sure, first, that a faculty member has agreed to serve as your Individual Study supervisor. Then click on the link below, and fill out the online web form:</p>
+<p><a class="external-link" href="https://my.cs.illinois.edu/IndStudy" rel="nofollow">https://my.cs.illinois.edu/IndStudy</a></p>
+<p>The form will then go to the faculty member you designated as your individual study supervisor. Once they have indicated approval, you will be supplied with a 5-digit CRN which you can enter in Enterprise to register for that faculty member's CS 397 section.</p>
+<p>If you are a student outside of CS programs, you will need to complete a paper form to add a CS 397 course (available in the CS advising office).</p>
+<h3><a id="team-project" name="team-project"></a>CS Team Project (CS 497)</h3>
+<p>While there are many 400-level CS technical electives approved to meet the teaming requirement, this class offers students the opportunity to create a team project with classmates under the guidance of a CS faculty member. You<strong> must</strong> take this course for <span style="text-decoration: underline;">3 credit hours</span> unless it is added onto another CS course (i.e. CS 445). Students will not be approved to register for less than 3 credit hours of this course unless it is attached to another CS course. If CS 497 is added onto another course it should be taken for 1 credit hour.</p>
+<p>To register for CS 497, you will need to assemble a group of at least 3 undergrads and a Computer Science faculty supervisor for an approved project. Then click on the link below, and fill out the online web form:</p>
+<p><a class="external-link" href="https://my.cs.illinois.edu/IndStudy" rel="nofollow">https://my.cs.illinois.edu/IndStudy</a></p>
+<p>When completing the form, be sure to include full names for all members of the group and their UINs (if possible). Each group member will need to submit an individual request form. The description should be detailed enough to clarify the team learning goals for the project. Once the instructor has indicated approval, each team member will be supplied with a 5-digit CRN which you can enter in Enterprise to register for that faculty member's CS 497 Team Project section.</p>
+<p>If you are a student outside of CS programs, you will need to complete a paper form to add a CS 497 course (available in the CS advising office).</p>
+<h3><a id="senior-thesis" name="senior-thesis"></a>Senior Thesis</h3>
+<p>A senior thesis is an individual research project that you formulate, carry out and write up under the guidance of a faculty member.&nbsp; As the course description states, "A student works with a faculty member on a mutually agreed upon thesis topic and completes a written thesis. Work involves literature search, oral presentation, analysis and/or implementation, paper preparation, and a written thesis."</p>
+<p>A typical senior thesis should be at least 20 to 30 pages long (double-spaced) or about 5000 to 6000 words. Based on feedback from the advisor, a senior thesis is revised multiple times for language, style, and technical content, before it is submitted for a final grade. In addition to submitting the final version of their thesis to their advisor, students must also email it to <a href="mailto:undergrad@cs.illinois.edu">undergrad@cs.illinois.edu</a> for it to be archived.</p>
+<p>Like CS 397 to register for CS 499 Senior Thesis, make sure, first, that a faculty member has agreed to serve as your thesis supervisor. Then click on the link, below, and fill out the online web form:</p>
+<p><a class="external-link" href="https://my.cs.illinois.edu/IndStudy" rel="nofollow">https://my.cs.illinois.edu/IndStudy</a></p>
+<p>The form will then go to the faculty member you designated as your thesis supervisor. Once they have indicated approval, you will be supplied with a 5-digit CRN which you can enter in Enterprise to register for that faculty member's CS 499 section.</p>
+<h3><a id="overrides" name="overrides"></a>Registration restrictions and overrides</h3>
+<p>The CS Office of Undergraduate Programs can help CS students obtain overrides for certain registration restrictions. Examples are as follows:</p>
+<ul>
+<li>Overlapping courses (Time conflict): Enterprise will not let students register for classes with meeting times that overlap. However, the CS Office of Undergraduate Programs can provide an override if at least one of the courses is a CS course. To get an override, students must receive written approval (email is fine) from the instructors stating that 1) one of the instructors is OK with the student missing class time 2) one of the instructors is willing to provide a conflict examination if the course overlap results in two final exams scheduled at the same time. For example, if a student needs to leave a class fifteen minutes early, he/she must request a note or e-mail from the professor granting the student permission to be absent. The student should take the note (or forward an email) to the staff in the Office of Undergraduate Programs (<a href="mailto:undergrad@cs.illinois.edu">undergrad@cs.illinois.edu</a>), who can then enter an override allowing the student to register for the conflicting CS course.</li>
+<li>Prerequisite restrictions: As part of the Grainger College of Engineering prerequisite enforcement policy (<a href="https://wiki.illinois.edu/wiki/display/ugadvise/Course+Registration#CourseRegistration-Prerequisite">https://wiki.illinois.edu/wiki/display/ugadvise/Course+Registration#CourseRegistration-Prerequisite</a>), the CS department enforces prerequisites for all CS courses at the 100, 200, and 300-level. Attempts to register for courses without having met prerequisites will yield the following message <strong>&ldquo;Course Prerequisite and/or Test Score Error &ndash; Contact Course Department&rdquo;.</strong><br />
+<p>Before requesting an override, check course explorer to be sure you understand the prerequisites you are missing: <a href="https://courses.illinois.edu/schedule/DEFAULT/DEFAULT">https://courses.illinois.edu/schedule/DEFAULT/DEFAULT</a><br />If you have coursework that meets prerequisites for a course but is not on your academic record (such as summer transfer credit) or you have coursework that may be equivalent to listed prerequisites for a course, you can request a prerequisite override from the department: <a href="https://my.cs.illinois.edu/ugpetitions">https://my.cs.illinois.edu/ugpetitions</a>. No approvals will be granted without reviewable coursework, for example, no student will be approved to bypass prerequisites for CS courses based on self-study or planned proficiency exams.<br />Prerequisite override requests will be reviewed by the Computer Science department within 5 business days. Students will be notified of decisions within the undergraduate petitions portal and via email.</p>
+</li>
+<li>
+<p>Major restrictions: Departments will occasionally restrict registration for certain courses to majors within the department. In most cases, restrictions are described in the university's online course schedule. To find out if and when overrides might be provided or the restrictions lifted, contact the department controlling the course.</p>
+</li>
+<li>Graduate-level courses (Level restriction): Enterprise will not let undergraduates register for graduate level sections of 400-level courses (4 credit hours). Exceptionally qualified undergraduates may receive level overrides for 4 credit hour graduate sections of 400-level and some 500-level CS courses if they receive permission from the instructor of the course for which they want to register (again, an email will suffice) and from the CS Office of Undergraduate Programs. Students in the 5-year BS/MS or BS/MCS program do not need instructor permission to request an override if they encounter a level restriction (email <a href="mailto:undergrad@cs.illinois.edu">undergrad@cs.illinois.edu</a> for registration assistance)</li>
+<li>Online courses: With rare exceptions, CS undergraduates may not register for the online CS courses offered by CS and Engineering Online. The Office of Undergraduate Programs will occasionally provide an override to a graduating senior who has no other way of fulfilling a degree requirement than by taking an online course, but this should normally be avoided.</li>
+</ul>
+<h3><a id="proficiency-exam" class="anchor" name="proficiency-exam"></a>Proficiency examinations</h3>
+<p>The instructor who is teaching a CS course has the option of offering a proficiency exam. The rule is that students have to get a C- or higher on the exam in order to pass. If students pass the exam, the course will appear on their transcript as a proficiency class (with a PS entered in the grade column - like an AP credit); however, there are no consequences for the student if he/she fails the exam. To request a proficiency exam, contact the current instructor of the course. CS 124, CS 128, CS 173 and CS 225 usually offer proficiency exams some time around the beginning of the spring and fall semesters. For these courses, check the&nbsp;<a title="CS Proficiency Exams" href="https://proficiency.cs.illinois.edu/">CS proficiency website</a> for more information.</p>
+<h3><a id="retake" class="anchor" name="retake"></a>Retaking classes</h3>
+<p>A student can retake any class. Students can only apply for grade replacement, however, under certain circumstances (see <a class="external-link" href="/academics/undergraduate/policies-and-procedures#grade-replacement" rel="nofollow">Grade Replacement</a> for more information). Except under grade replacement, when a student retakes a class that he/she has already completed, both the old and the new grade are averaged into the student's GPA like any other grades, but the hours are credited only once. For example, a student receiving a D in CS 124 and then retaking the course for a B will have 6 hours of C averaged into his/her GPA but will receive 3 hours of credit toward graduation).</p>
+<p>Students should retake a class if:</p>
+<ul>
+<li>They fail a required class</li>
+<li>They earn a C+ or below in CS 124</li>
+<li>They earn a C- or below in CS 128</li>
+<li>They earn a C+ or below in CS 173</li>
+<li>They earn a C- or below in CS 225</li>
+<li>They feel they have not sufficiently grasped the material in a course that provides an important foundation for future coursework</li>
+</ul>
+<h3><a id="team-study-abroad" class="anchor" name="team-study-abroad"></a>Study Abroad and Team Requirement (CS in Engineering Only)</h3>
+<p>The team project requirement for the CS in Engineering cannot be completed with a course taken abroad. If a student completes a course equivalent to one of our campus-approved teaming courses, they will be required to complete another approved team project course on campus to meet the CS in Engineering team requirement.</p>
+<h3><a id="transfer-courses" class="anchor" name="transfer-courses"></a>Transfer credit</h3>
+<p>Many UIUC students take courses at other colleges or universities - usually over the summer in order to lighten regular semester schedules. Before taking a course at another institution, current UIUC undergraduates should do the following:</p>
+<ol>
+<li>Make sure that taking a course at another institution will not conflict with your University of Illinois residency requirement. Consult the <a href="http://studentcode.illinois.edu/article3/part8/3-801/">student code</a> and/or an Admissions and Records Officer (ARO) in your college office.</li>
+<li>Check to see what credit you'll receive for the course, especially if you want to fulfill a specific requirement. You can check for course equivalency at the University of Illinois by consulting <a href="https://www.transferology.com/index.htm" aria-invalid="true">Transferology</a>. You have to set up an account, but it's free.</li>
+<li>If you cannot find information about University of Illinois equivalency online - if you're taking a course in a state or institution not covered by Transferology or if you're taking a course that hasn't been evaluated yet - you'll have to obtain a syllabus or detailed course description for the course you want transferred and have it evaluated by someone at Illinois. Once you've obtained that information, consult your college office for further instructions. If the course you'd like evaluated is a CS course, you can send the syllabus to <a class="external-link" href="mailto:undergrad@CS.illinois.edu" rel="nofollow">undergrad@cs.illinois.edu</a>.</li>
+<li>The Advanced Composition requirement can be fulfilled with a tranfer course but only one that is specifically approved as satisfying the Advanced Composition requirement at UIUC.</li>
+<li>To have your courses credited here at UIUC, you must request that the institution you attend send a transcript of the courses you took there. Follow the guidelines below for having transcripts sent:</li>
+</ol>
+<p>Non-graduating seniors in the CS/Engineering program and all students in the CS programs in the College of LAS, or College of FAA, or College of ACES should send transcripts to:</p>
+<p class="rteindent1">University of Illinois at Urbana-Champaign<br />Office of Admissions and Records<br />901 West Illinois Street<br />Urbana, IL 61801-3028<br />217-333-0302</p>
+<p>Graduating seniors in the CS/Engineering program should <strong>also</strong> send transcripts to:</p>
+<p class="rteindent1">Robert Porter<br />College of Engineering<br />206 Engineering Hall<br />1308 W. Green Street<br />Urbana, IL 61801</p>
+<hr />
+<h2>Requirements</h2>
+<h3><a id="substitutions" class="anchor" name="substitutions"></a>Course substitutions for requirements</h3>
+<p>Students who transfer into CS from another program on the Urbana campus can often substitute courses that they have taken for their previous program of study for CS requirements if the courses are roughly equivalent. Below is a list of courses that are commonly substituted:</p>
+<ul>
+<li><strong>MATH 213: </strong>Students who transfer into a CS program with MATH 213 credit or who come in as freshmen with MATH 213 transfer credit may substitute that credit for CS 173.&nbsp; We strongly advise them, however, that they should take the proficiency exam for CS 173 to ensure that they have a thorough grasp of the material for future coursework, and to take CS 173 if they do not pass the proficiency exam for it. The reason is that CS 173 is better preparation for CS 225, and more so for CS 374.
+<p>Students who enter the department without CS 173 or MATH 213 *must* take CS 173 because (again) it is stronger preparation for follow-on courses, particularly CS 225 and CS 374 (and CS 421 for that matter).</p>
+</li>
+<li><strong>ECE 220:</strong> may substitute for CS 124/CS 125 for students who have already taken the ECE course and transferred into CS or for students pursuing a CS Minor.</li>
+<li><strong>CS 450 for CS 357</strong>: CS-Engineering students may substitute CS 450 for CS 357, but if they do so, they may not use CS 450 to count as one of their 400-level CS electives. They must also notify CS undergraduate advisors (<a href="mailto:undergrad@cs.illinois.edu">undergrad@cs.illinois.edu</a>) that they intend to make this substitution.&nbsp; This policy applies to Stats &amp; CS majors, as well.&nbsp; Math &amp; CS majors may take CS 450 without first taking CS 357, in which case they must take an extra 400-level CS or Math elective, not otherwise counting for a major requirement, to substitute for CS 357.</li>
+<li><strong>MATH 225:</strong> Students who came in as freshmen with MATH 225 transfer credit or who took MATH 225 before transferring from another department or institution into CS-Engineering may substitute that credit for MATH 257/MATH 415.&nbsp; This is only for students in CS-Engineering, not Math &amp; CS or Stat &amp; CS (all the other CS + X programs specifically include MATH 225 as an option).&nbsp; We strongly advise them, however, that they should either take or pass a proficiency exam for MATH 257/MATH 415 or take MATH 416 because these courses prepares them better for courses like CS 357 and many 400-level CS electives (particularly in areas like Machine Learning, AI and Scientific Computing).</li>
+<!--  
+<li><strong>MATH 285</strong> may substitute for MATH 441 in the Math and Scientific Computing Tracks for students who have transferred into CS from another major or institution. Otherwise, students under the new curriculum who select either the Math or Scientific Computing Track must take MATH 441</li>
+-->
+<li><strong>MATH 416</strong> may substitute for MATH 225, MATH 257 or MATH 415 for any CS program. Students who want to take MATH 416 must obtain permission from the Math Department - <a href="mailto:mathadvising@illinois.edu">mathadvising@illinois.edu</a>, 313 Altgeld Hall.</li>
+</ul>
+<h3><a id="dars" class="anchor" name="dars"></a>Degree audit (DARS report)</h3>
+<p>A degree audit or DARS report is a summary of your degree requirements and coursework. The Office of the Registrar's website has information on <a class="external-link" href="http://registrar.illinois.edu/dars-audit" rel="nofollow">student access to the DARS system</a>. You can also obtain a printout of your degree audit from the CS Academic Office or from your college office.</p>
+<p>If you find anything in your degree audit report that does not appear accurate, send an email to <a class="external-link" href="mailto:undergrad@cs.illinois.edu" rel="nofollow">undergrad@cs.illinois.edu</a>.</p>
+<h3><a id="min-gpa" class="anchor" name="min-gpa"></a>Minimum GPA requirements</h3>
+<p><strong>College of Engineering</strong><br />For graduation, the technical and the overall grade point averages must be at least 2.0. The department also requires that the technical grade point average be above 2.25 for the first thirty hours of technical course to continue as a computer science major. (The technical grade point average includes all computer science and required mathematics courses or substitutes. It does not include physics courses or science electives.) To achieve honors at graduation, a specific grade point average must be met. Please see <a href="/academics/undergraduate/honors">Honors</a> for more details.</p>
+<p><strong>College of Liberal Arts and Sciences</strong><br />For graduation, the major and the overall grade point averages must be at least 2.0. (The major grade point average is similar to the technical grade point average above. It is the grade point average for all computer science and mathematics courses.) Other technical courses such as physics are not counted. To achieve honors at graduation, a specific grade point average must be met. Please see <a href="/academics/undergraduate/honors">Honors</a> for more details.</p>
+<h3><a id="probation" class="anchor" name="probation"></a>Probation</h3>
+<p>For policies and procedures related to academic probation, see Rules 79 and 80 of the university <a class="external-link" href="http://admin.illinois.edu/policy/code/" rel="nofollow">Code of Policies and Regulations Applying to All Students</a> and the policy and procedures website for your college, <a class="external-link" href="https://wiki.illinois.edu/wiki/display/ugadvise/Academic+Status">Engineering</a> or <a class="external-link" href="http://www.las.illinois.edu/students/standing/status/" rel="nofollow">LAS</a>.</p>
+<hr />
+<h2>Miscellaneous</h2>
+<h3><a id="cheating" class="anchor" name="cheating"></a>Policy on Cheating</h3>
+<p>See the Computer Science Department <a href="/academics/honor-code">Honor Code</a>.</p>
+<h3><a id="cpt" class="anchor" name="cpt"></a>Curricular Practical Training (CPT)</h3>
+<p>PLEASE READ THESE INSTRUCTIONS COMPLETELY AND CAREFULLY!</p>
+<p>International students on an F-1 visa who wish to complete a paid internship must apply for a Curricular Practical Training (CPT) and receive a CPT letter from their departmental advisor. Students should submit a <a class="external-link" href="http://isss.illinois.edu/students/employment/f1cpt.html" rel="nofollow">CPT request through the I-Start portal on the ISSS website</a> and make sure to email the following information to Steve Herzog (<a href="mailto:smherzog@illinois.edu">smherzog@illinois.edu</a>) and Elizabeth Gonzalez (<a href="mailto:egon@illinois.edu">egon@illinois.edu</a>):</p>
+<ul>
+<li>When you expect to graduate</li>
+<li>List a few courses from which your internship might allow you to implement concepts/skills (these should be courses that you have taken).</li>
+<li>Indicate that you will register for <a class="external-link" href="https://courses.illinois.edu/schedule/terms/ENG/310" rel="nofollow">ENG 310</a>. Note that the US federal government *requires* that students on an F-1 visa must be enrolled in a course or curriculum which explicitly requires an internship in order to be employed in the US. This cannot be avoided and you will have to pay some tuition.</li>
+</ul>
+<p>Plan to register for ENG 310 during the term in which you are doing your internship. For more information about the current College of Engineering CPT request process, please review the <a title="ENG 310 Process" href="https://wiki.illinois.edu/wiki/display/ugadvise/Course+Registration#CourseRegistration-ENG310">College of Engineering ENG 310 page</a>.</p>
+<h3><a id="honor-code" class="anchor" name="honor-code"></a>Honor Code</h3>
+<p>See the CS Department <a href="/academics/honor-code">Honor Code</a>.</p>
+<h3><a id="honors" class="anchor" name="honors"></a>Honors in CS Majors</h3>
+<p>See <a href="/academics/undergraduate/honors">Honors</a>.</p>
+<h3><a id="min-max-hours" class="anchor" name="min-max-hours"></a>Minimum and maximum number of hours</h3>
+<p>All undergraduates (except students in their last semester before graduation) must maintain a schedule of at least 12 hours credit (the minimum required to be a full-time student) during the fall and spring semesters. To go below 12 hours, students must obtain permission from their college office and this is granted only under exceptional circumstances. Students in their last semester before graduation may take fewer than 12 hours of courses, but they should check to make sure that they are meeting all requirements to graduate. Some sources of financial aid, student loans and student insurance require full-time student status, so students should never go below 12 hours without contacting their funding and insurance sources! Students taking courses during the summer terms have no minimum-hours requirement.</p>
+<p>Students may register for a maximum of 18 hours without permission during a fall or spring semester. For the Summer II term, the maximum is 9 hours, for Summer I, the maximum is 4 hours. Students can obtain permission to register for more hours but they must receive a dean's permission from their college office to do so.</p>
+<h3><a id="minors" class="anchor" name="minors"></a>Minors</h3>
+<p>CS students are free to take any minors allowed by the offering department. It is the offering department that decides who is eligible for their minor. (Note: the math minor is open to CS in Engineering students, even though it only requires one or two courses beyond what is already required.)</p>
+<p>For more information about "declaring" a minor please see the&nbsp;<a class="external-link" href="http://provost.illinois.edu/education/advising-resources/pursuing-undergraduate-minor/" rel="nofollow">Provost's resource page, including links to necessary forms</a>.</p>
+<h3><a id="tuition-fees" class="anchor" name="tuition-fees"></a>Tuition and Fees</h3>
+<p>If you have any questions about tuition and fees you can find answers by consulting the <a class="external-link" href="https://registrar.illinois.edu/tuition-fee-rates" rel="nofollow">Registrar's Office tuition and fees webpage</a>.</p>
+<h3><a id="working" class="anchor" name="working"></a>Working - for credit or for pay</h3>
+<p>Domestic students (US citizenship or permanent resident status) may work part-time during the semester as long as the work does not impede academic progress. International students must apply for a <a href="/academics/undergraduate/policies-and-procedures#cpt">CPT (Curricular Practical Training)</a> in order to work (with some exceptions) &ndash; consult <a class="external-link" href="https://isss.illinois.edu/">ISSS</a> for more information. A student doing a CPT registers for ENG 310, and is required to satisfy additional learning requirements as part of the course, which go beyond their internship work.</p>
+<p>Many students ask whether they can get some type of independent study credit for work (paid, or unpaid) that they are already doing (e.g., as an intern) for some organization. The short answer is "no". While it is no doubt often the case that working in some capacity is also a learning experience, unless there are clear learning goals articulated by a faculty member that happen to include and go beyond the work done, and unless that faculty member is willing to oversee the work as an independent study project approved by the Director of Undergraduate Programs, no credit can be given.</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+						</div>
+					</div>
+				</main>
+			</div>
+
+			<footer>
+							<div class="container-fluid maxwidth1140">
+				<div class="row pt-5 pb-3">
+					<div class="col-lg-5 mb-5">
+						<div class="campus_wordmark"><a href="http://illinois.edu/"><img src="https://ws.engr.illinois.edu/images/uiuc-footer-wordmark.png" alt="University of Illinois Urbana Champaign"></a></div>
+					</div>
+
+					<div class="col-lg-7 mb-4 socials">
+						<a href="https://www.facebook.com/CSatIllinois/"><i class="fab fa-facebook-f"></i><span class="sr-only">Facebook</span></a>
+						<a href="https://twitter.com/IllinoisCS"><i class="fab fa-twitter"></i><span class="sr-only">Twitter</span></a>
+						<a href="https://www.youtube.com/user/IllinoisCS"><i class="fab fa-youtube"></i><span class="sr-only">YouTube</span></a>
+						<a href="https://www.linkedin.com/school/illinoiscs"><i class="fab fa-linkedin-in"></i><span class="sr-only">LinkedIn</span></a>
+						<a href="https://www.instagram.com/illinoiscs/"><i class="fab fa-instagram"></i><span class="sr-only">Instagram</span></a>
+						<div class="w-100 d-block d-lg-none"></div>
+						<a href="/about/contact-us" class="button">Contact Us</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="container-fluid maxwidth1140">
+				<div class="row pb-5 justify-content-between">
+					<div class="col-md pr-xl-5 mb-5 college_container">
+
+						<div class="contact">
+							<p><span class="fs150x"><a href="https://cs.illinois.edu">Thomas M. Siebel Center for Computer Science</a></span><br />
+                                                       201 North Goodwin Avenue MC 258<br />
+                                                        Urbana, IL 61801-2302<br />
+                                                         ph: 217-333-3426 (general) | 217-333-4428 (advising) <br />
+                                                         fax: 217-333-3501</p>
+                                                        <p> General email: <a href="mailto:admin@cs.illinois.edu">admin@cs.illinois.edu</a><br />
+                                                         Graduate Advising: <a href="mailto:academic@cs.illinois.edu">academic@cs.illinois.edu</a><br />
+                                                         Undergraduate Advising: <a href="mailto:undergrad@cs.illinois.edu">undergrad@cs.illinois.edu</a><br />
+                                                          Webmaster: <a href="mailto:grainger-marcom@illinois.edu?subject=CS Request">grainger-marcom@illinois.edu</a></p>
+							<p><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a><br />
+							<a href="https://illinois.edu">University of Illinois</a></p>
+
+						</div>
+					</div>
+
+
+					<div class="col-md pr-xl-5 my-5 concentrations">
+                                 	
+					</div>
+				</div>
+			</div>
+
+				<div class="container-fluid" id="legal">
+					<div class="row justify-content-md-center align-items-center py-4">
+
+						<div class="col-md-auto">
+							<div><button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Preferences</button></div>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Copyright &copy; 2021 University of Illinois Board of Trustees</p>
+						</div>
+
+						<div class="col-md-auto">
+							<p><a href="https://grainger.illinois.edu/cookie-policy">Cookie Policy</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy</a></p>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Powered by <a href="https://my.engr.illinois.edu/sitemanager/editpage.asp?id=5742">SiteManager</a> | <a href="mailto:grainger-marcom@illinois.edu">Contact Webmaster</a></p>
+						</div>
+					</div>
+				</div>
+
+				<div id="gototop" class="hidden">
+					<a href="#"><i class="fa fa-chevron-up"></i><span class="sr-only">Go to top</span></a>
+				</div>
+			</footer>
+		</div>
+
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+		<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax-video.min.js"></script>
+		<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+		<script src="https://cdn.datatables.net/responsive/2.2.5/js/dataTables.responsive.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.0/circle-progress.min.js'></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/twbs-pagination/1.4.2/jquery.twbsPagination.min.js'></script>
+		<script src="https://ws.engr.illinois.edu/sitemanager/genscripts.js?v=2.660.676"></script>
+		<script src="/js/scripts.js?v=0.27"></script>
+
+		<script async="async" src="https://enroll.illinois.edu/ping"></script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-9571262-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-9571262-1');
+</script>
+
+		
+	</body>
+</html>
+
+

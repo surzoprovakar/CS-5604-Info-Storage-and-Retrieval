@@ -1,0 +1,1203 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Ravishankar K Iyer
+ | Computer Science | UIUC</title>
+		<link rel="shortcut icon" type="image/x-icon" href="//ws.engr.illinois.edu/images/favicon.ico">
+
+		<meta name="description" content="Ravishankar K Iyer
+">
+		<meta name="author" content="Grainger Engineering Office of Marketing and Communications">
+
+		<!-- meta tags for mobile devices -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">  
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+				<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="26be7d61-2017-4ea7-8a8b-8f1704889763"></script>
+		<script type="text/javascript"> function OptanonWrapper() { } </script>
+
+		<meta property="og:type" content="article" />
+<meta property="og:title" content="Ravishankar K Iyer
+" />
+<meta property="og:description" content="Ravishankar K Iyer
+" />
+<meta property="og:url" content="https://cs.illinois.edu/about/people/all-faculty/*" />
+<meta property="og:image" content="https://ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=12050" />
+
+
+		<!-- fonts -->
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i,900,900i%7cBarlow+Condensed%7cPlayfair+Display%7cMontserrat:400,500,600,700,800%7cFjalla+One%7cLexend+Exa%7cMontserrat+Alternates:400,700">
+		<script src="https://kit.fontawesome.com/64a62210ef.js"></script>
+
+		<!-- stylesheets -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.5/css/responsive.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://ws.engr.illinois.edu/sitemanager/gensite.css?v=2.671.281">
+		<link rel="stylesheet" type="text/css" href="/css/styles.css?v=0.19">
+
+				<!-- Global site tag (gtag.js) - Google Ads: 1011414001 -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1011414001"></script>
+		<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-1011414001'); </script> 
+		<!-- Event snippet for Outbound Google Ads click conversions -->
+		<script> function gtag_report_conversion(url) {var callback = function () {if (typeof(url) != 'undefined') {window.location = url;}};gtag('event', 'conversion', {'send_to': 'AW-1011414001/YNxnCM-1kfMBEPHno-ID','event_callback': callback});return false;} </script>
+		
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	</head>
+
+	<body class="site prod about people all-faculty rkiyer  isattop theme_dagobah" data-sidebar="" data-sidebarskip="[sidebarskip]" data-sidebarinclude="[sidebarinclude]">
+		<div id="page">
+			
+			<header>
+				<div id="skiptocontent"><a href="#content">skip to main content</a></div>
+
+				<div class="container-fluid campus">
+					<div class="row mx-auto maxwidth1140">
+						<div class="col p-0">
+							<a href="http://illinois.edu/"><span>University of Illinois Urbana-Champaign</span></a>
+						</div>
+						<div id="featurelinks" class="col p-0 text-right">
+							<ul>
+	<li><a href="/alumni">Alumni</a></li>
+	<li><a href="/corporate">Corporate</a></li>
+       <li><a href="/about/people">People</a></li>
+	<li><a href="https://my.cs.illinois.edu">My.CS</a></li>
+</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="container-fluid site">
+					<div class="row wordmark d-flex flex-nowrap align-items-center">
+						<div class="d-flex flex-fill pr-3">
+							<div class="blocki"><a href="https://illinois.edu">University of Illinois at Urbana-Champaign</a></div>
+							<div class="site_identification">
+								<div class="parent_name"><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a></div>
+								<div class="site_name"><a href="/"><span>Computer Science</span></a></div>
+							</div>
+						</div>
+
+						<div class="d-flex align-items-center">
+							<div id="header-search-container" class="d-none d-lg-block site-search">
+								<form class="form-inline" method="get" action="/search" id="search-form">
+									<div class="input-group">
+										<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="header-search-go-button">
+										<div class="input-group-append">
+											<a href="/search" onclick="$('#header-search-container form').submit(); return false;" class="input-group-text" id="header-search-go-button"><i class="far fa-search"></i><span class="sr-only">Search</span></a>
+										</div>
+									</div>
+								</form>	
+							</div>
+
+							<div id="mainnav-toggler-container">
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainnav" aria-controls="mainnav" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="icon"></span> <span class="label sr-only">Menu</span>
+								</button>
+							</div>
+						</div>
+					</div>
+					<nav class="navbar navbar-expand-lg p-0">
+<div class="collapse navbar-collapse" id="mainnav">
+<form class="d-block d-lg-none" method="get" action="/search" id="mobile-search-form">
+<div class="form-row p-3">
+<div class="col">
+<div class="input-group">
+<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="mobile-search-go-button">
+<div class="input-group-append">
+<a href="/search" onclick="$('#mobile-search-form').submit(); return false;" class="input-group-text" id="mobile-search-go-button"><i class="far fa-search" aria-hidden="true"></i><span class="sr-only">Search</span></a>
+</div>
+</div>
+</div>
+</div>
+</form>
+<ul class="navbar-nav w-100">
+<li class="dropdown mega twocol nav-item">
+<a href="/about" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>About</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-about">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/about">About</a></h2>
+<ul class="about ">
+<li><a href="/about/cs-cares">CS CARES Committee</a></li>
+<li><a href="/about/values">Values & Code of Conduct</a></li>
+<li><a href="/about/statistics">Rankings & Statistics</a></li>
+<li><a href="/about/contact-us">Contact Us & Directions</a></li>
+<li class="dropdown"><a href="/about/people">People</a><ul class="people ">
+<li><a href="/about/people/all-faculty">All Faculty</a></li>
+<li><a href="/about/people/department-faculty">Department Faculty</a></li>
+<li><a href="/about/people/affiliate-faculty">Affiliate Faculty</a></li>
+<li><a href="/about/people/adjunct-faculty">Adjunct Faculty</a></li>
+<li><a href="/about/people/postdocs">Postdocs</a></li>
+<li><a href="/about/people/emeritus-faculty">Emeritus Faculty</a></li>
+<li class="dropdown"><a href="/about/people/staff">Staff</a><ul class="staff ">
+<li><a href="/about/people/staff/office-department-head">Office of the Department Head</a></li>
+<li><a href="/about/people/staff/communications-engagement-team">Communications &amp; Engagement Team</a></li>
+<li><a href="/about/people/staff/undergraduate-advising-office">Undergraduate Advising Office</a></li>
+<li><a href="/about/people/staff/graduate-advising-office">Graduate Advising Office</a></li>
+<li><a href="/about/people/staff/instructional-development-team">Instructional Development Team</a></li>
+<li><a href="/about/people/staff/business-office">Business Office</a></li>
+<li><a href="/about/people/staff/faculty-support-contacts">Faculty Support Contacts</a></li>
+<li><a href="/about/people/staff/facilities-shipping-and-receiving">Facilities, Shipping and Receiving</a></li>
+</ul>
+</li>
+<li><a href="/about/people/graduating-phd-students">Graduating PhD Students</a></li>
+<li><a href="/about/people/recent-phd-alumni">Recent PhD Alumni</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/positions">Open Positions</a><ul class="positions ">
+<li><a href="/about/positions/faculty-positions">Faculty Positions</a></li>
+<li><a href="/about/positions/postdoctoral">Postdoctoral Positions</a></li>
+<li><a href="/about/positions/staff-positions">Staff Positions</a></li>
+<li><a href="/about/positions/choose-illinois-computer-science">Choose Illinois Computer Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/calendar">Calendar</a><ul class="calendar ">
+<li><a href="/about/calendar/all">All Events</a></li>
+<li><a href="/about/calendar/corporate">Corporate Events</a></li>
+<li><a href="/about/calendar/department">Department Events</a></li>
+<li><a href="/about/calendar/graduate">Graduate Events</a></li>
+<li><a href="/about/calendar/outreach">Outreach Events</a></li>
+<li><a href="/about/calendar/speakers">Speakers</a></li>
+<li><a href="/about/calendar/student-groups">Student Group Events</a></li>
+<li><a href="/about/calendar/undergraduate">Undergraduate Events</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards">Awards</a><ul class="awards ">
+<li><a href="/about/awards/celebration">Celebration of Excellence</a></li>
+<li class="dropdown"><a href="/about/awards/faculty-awards">Faculty Awards</a><ul class="faculty-awards ">
+<li><a href="/about/awards/faculty-awards/chairs-and-professorships">Chairs and Professorships</a></li>
+<li><a href="/about/awards/faculty-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/faculty-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards/undergraduate-scholarships-awards">Undergraduate Scholarships &amp; Awards</a><ul class="undergraduate-scholarships-awards ">
+<li><a href="/about/awards/undergraduate-scholarships-awards/shieh-li-scholarship">Ruey-Feng Shieh Li Family Scholarship</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/graduate-fellowships-awards">Graduate Fellowships &amp; Awards</a></li>
+<li class="dropdown"><a href="/about/awards/alumni-awards">Alumni Awards</a><ul class="alumni-awards ">
+<li><a href="/about/awards/alumni-awards/alumni-awards-past-recipients">Alumni Awards Past Recipients</a></li>
+<li><a href="/about/awards/alumni-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/alumni-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/staff-awards">Staff Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/history-timeline">History Timeline</a></li>
+<li><a href="/about/accreditation">Accreditation</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/admissions" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Admissions</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-admissions">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/admissions">Admissions</a></h2>
+<ul class="admissions ">
+<li class="dropdown"><a href="/admissions/undergraduate">Undergraduate Admissions</a><ul class="undergraduate ">
+<li><a href="https://admissions.illinois.edu/apply">Apply Now</a></li>
+<li><a href="/academics/undergraduate/degree-program-options">Degree & Program Options</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/dates">Application Deadlines</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/process">Applications Process & Requirements</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+<li><a href="https://www.housing.illinois.edu">Housing</a></li>
+<li><a href="/about-us/accreditation">Accreditation</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/admissions/graduate">Graduate Admissions</a><ul class="graduate ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+<li class="dropdown"><a href="/admissions/graduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/admissions/graduate/degree-program-options/professional-master-computer-science-mcs-program">Professional Master of Computer Science (MCS) Program</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-deadlines">Application Deadlines</a></li>
+<li class="dropdown"><a href="/admissions/graduate/applications-process-requirements">Applications Process &amp; Requirements</a><ul class="applications-process-requirements ">
+<li><a href="/admissions/graduate/applications-process-requirements/additional-required-application-materials">Additional Required Application Materials for International Students</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/application-fee-waivers">Application Fee Waivers</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/data-structures-proficiency-exam">Data Structures Proficiency Exam</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-checklist">Application Checklist</a></li>
+<li class="dropdown"><a href="/admissions/graduate/faqs">FAQs</a><ul class="faqs ">
+<li><a href="/admissions/graduate/faqs/ican-faqs">iCAN FAQs</a></li>
+<li><a href="/admissions/graduate/faqs/online-mcs-faqs">Online MCS FAQs</a></li>
+</ul>
+</li>
+<li><a href="https://choose.illinois.edu/apply/">Check Application Status</a></li>
+</ul>
+</li>
+<li><a href="/admissions/impact-illinois-cs-degree">Impact of an Illinois CS Degree</a></li>
+<li><a href="/admissions/financial-aid">Financial Aid</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/academics" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Academics</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-academics">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/academics">Academics</a></h2>
+<ul class="academics ">
+<li class="dropdown"><a href="/academics/undergraduate">Undergraduate Academics</a><ul class="undergraduate ">
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/academics/undergraduate/degree-program-options/bs-computer-science">B.S. in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-mathematics-computer-science">B.S. in Mathematics &amp; Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-statistics-computer-science">B.S. in Statistics &amp; Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs">CS + X Degree Programs</a><ul class="cs-x-degree-programs ">
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-advertising">Computer Science + Advertising</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-animal-sciences">Computer Science + Animal Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-anthropology">Computer Science + Anthropology</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-astronomy">Computer Science + Astronomy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-chemistry">Computer Science + Chemistry</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-crop-sciences">Computer Science + Crop Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-economics">Computer Science + Economics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-geography">Computer Science + Geography &amp; Geographic Information Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-linguistics">Computer Science + Linguistics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-music">Computer Science + Music</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-philosophy">Computer Science + Philosophy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/cs-x-degree-requirements">CS + X Degree Requirements &amp; Planning Forms</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-undergraduate-degree-options-faq">CS Undergraduate Degree Options FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/registration">Registration</a><ul class="registration ">
+<li><a href="/academics/undergraduate/registration/cs-course-restrictions-enrollment-caps">CS Course Restrictions &amp; Enrollment Caps</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/policies-and-procedures">Policies and Procedures</a></li>
+<li><a href="/academics/undergraduate/undergraduate-advising">Undergraduate Advising</a></li>
+<li><a href="/academics/undergraduate/cs-student-opportunity-series-cs-sos">CS Student Opportunity Series (CS SOS)</a></li>
+<li><a href="/academics/undergraduate/undergraduate-forms">Undergraduate Forms</a></li>
+<li><a href="/academics/undergraduate/honors">Honors</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate">Graduate Academics</a><ul class="graduate ">
+<li class="dropdown"><a href="/academics/graduate/phd-program">PhD Program</a><ul class="phd-program ">
+<li><a href="/academics/graduate/phd-program/final-exam-thesis-defense">Final Exam (Thesis Defense)</a></li>
+<li><a href="/academics/graduate/phd-program/guidelines-forming-phd-committee">Guidelines for Forming Ph.D. Committee</a></li>
+<li><a href="/academics/graduate/phd-program/phd-ms-thesis-format-review-guidelines">Ph.D. / M.S. Thesis Format Review Guidelines</a></li>
+<li><a href="/academics/graduate/phd-program/phd-program-study-process">PhD Program of Study Process</a></li>
+<li><a href="/academics/graduate/phd-program/phd-requirements">PhD Requirements</a></li>
+<li><a href="/academics/graduate/phd-program/phd-time-limits-milestones">PhD Time Limits &amp; Milestones</a></li>
+<li><a href="/academics/graduate/phd-program/preliminary-exam">Preliminary Exam</a></li>
+<li><a href="/academics/graduate/phd-program/qualifying-exam">Qualifying Exam</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/ms-program">MS Program</a></li>
+<li><a href="/academics/graduate/ms-bioinformatics-program">MS in Bioinformatics Program</a></li>
+<li class="dropdown"><a href="/academics/graduate/professional-mcs">Professional Master of Computer Science</a><ul class="professional-mcs ">
+<li><a href="/academics/graduate/professional-mcs/campus-master-computer-science">On-Campus Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science">Online Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science-data-science">Online Master of Computer Science in Data Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/fifth-year-masters-programs">Fifth Year Master's Programs</a><ul class="fifth-year-masters-programs ">
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-mcs-program">5-year BS-MCS Program</a></li>
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-ms-program">5-year BS-MS Program</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">Illinois Computing Accelerator for Non-Specialists (iCAN)</a><ul class="ican ">
+<li><a href="/academics/graduate/ican/application-process">iCAN Application Process</a></li>
+<li><a href="/academics/graduate/ican/curriculum">iCAN Curriculum</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources">Graduate Forms &amp; Advising Resources</a><ul class="graduate-forms-advising-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/epi-exam-requirements">EPI Exam Requirements</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-advising-contacts">Graduate Advising Contacts</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-student-annual-evaluation-process">Graduate Student Annual Evaluation Process</a></li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources">New Graduate Student Resources</a><ul class="new-graduate-student-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/mcs-campus">MCS On-Campus General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/ms-general">MS General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/phd-general">PhD General Advising for Registration</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/official-forms">Official Forms</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/academics/courses">Courses</a></li>
+<li><a href="/academics/honor-code">Honor Code</a></li>
+<li><a href="https://cs.illinois.edu/student-life/student-resources">Student Resources</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/student-life" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Student Life</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-student-life">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41390_8405" data-pageid="41390" data-tileid="8405" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=55621);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Salesforce's CodeT5 System Can Understand and Generate Code</h2>
+			<div class="description"></div>
+			<p><a href="/news/salesforces-codet5-system-can-understand-and-generate-code" class="button" title="Salesforce's CodeT5 System Can Understand and Generate Code">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 7, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/student-life">Student Life</a></h2>
+<ul class="student-life ">
+<li><a href="/student-life/overview-cs-student-life">Overview of CS Student Life</a></li>
+<li><a href="/student-life/student-organizations">Student Organizations</a></li>
+<li><a href="/student-life/department-college-and-campus-events">Department, College, and Campus Events</a></li>
+<li><a href="/student-life/student-resources">Student Resources</a></li>
+<li><a href="/student-life/career-services">Career Services</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/research" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Research</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-research">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Explore visionary research conducted by world-renowned faculty.</h2>
+<p><a class="orange button" href="/research/areas">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/research">Research</a></h2>
+<ul class="research ">
+<li class="dropdown"><a href="/research/areas">Research Areas</a><ul class="areas ">
+<li><a href="/research/areas/architecture-compilers-and-parallel-computing">Architecture, Compilers, and Parallel Computing</a></li>
+<li><a href="/research/areas/artificial-intelligence">Artificial Intelligence</a></li>
+<li><a href="/research/areas/bioinformatics-and-computational-biology">Bioinformatics and Computational Biology</a></li>
+<li><a href="/research/areas/computers-and-education">Computers and Education</a></li>
+<li><a href="/research/areas/data-and-information-systems">Data and Information Systems</a></li>
+<li><a href="/research/areas/interactive-computing">Interactive Computing</a></li>
+<li><a href="/research/areas/programming-languages-formal-methods-and-software-engineering">Programming Languages, Formal Methods, and Software Engineering</a></li>
+<li><a href="/research/areas/scientific-computing">Scientific Computing</a></li>
+<li><a href="/research/areas/security-and-privacy">Security and Privacy</a></li>
+<li><a href="/research/areas/systems-and-networking">Systems and Networking</a></li>
+<li><a href="/research/areas/theory-and-algorithms">Theory and Algorithms</a></li>
+</ul>
+</li>
+<li><a href="/research/technical-conferences-workshops">Technical Conferences &amp; Workshops</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+<li><a href="/corporate#research">Corporate Partners</a></li>
+<li><a href="https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=3146">Illinois CS Research Overview</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/broadening-participation-computing" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Broadening Participation</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-broadening-participation-computing">
+<section class="tile w50 white-box py-5 marketing">
+<p class="mb-0"><img src="//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=16163&s=375" class="image" alt="" width="375" /></p>
+<p style="padding: 10px 15px 0px 15px;">New certificate program for college graduates who want a deeper understanding of computers, algorithms, and programming.</p>
+<p><a class="orange button" href="/ican">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/broadening-participation-computing">Broadening Participation</a></h2>
+<ul class="broadening-participation-computing ">
+<li><a href="https://drive.google.com/file/d/12vDswb1i-mEXaXgVt7FOhtqYs7b8F_1p/view">BPC Departmental Plan</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs">BPC Programs & Activities for Students</a><ul class="programs ">
+<li><a href="/broadening-participation-computing/programs/csambassadors">CS Student Ambassador/Research Scholars (CS STARS)</a></li>
+<li><a href="/broadening-participation-computing/programs/cskickstart">Illinois CS Kickstart</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs/ai4all">AI4ALL</a><ul class="ai4all ">
+<li><a href="http://go.cs.illinois.edu/DiscoverAI">Apply Now</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">iCAN</a><ul class="ican ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+</ul>
+</li>
+<li><a href="http://cs.illinois.edu/research/summer-research-experience-undergraduates">Summer Research Experience for Undergraduates</a></li>
+</ul>
+</li>
+<li><a href="/broadening-participation-computing/resources">BPC Resources</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/cross-cutting">Cross-Cutting Educational Activities</a><ul class="cross-cutting ">
+<li><a href="/broadening-participation-computing/cross-cutting/conferences-workshops">BPC Conferences & Workshops</a></li>
+<li><a href="/broadening-participation-computing/cross-cutting/ca-training">Course Assistant Training</a></li>
+<li><a href="https://cs.illinois.edu/news/featured-lectures#equity-justice">Equity & Justice in Computing Seminar Series</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/broadening-participation-computing/k-12">K-12 Outreach & Resources</a><ul class="k-12 ">
+<li><a href="/broadening-participation-computing/k-12/k-12-outreach">K-12 Outreach Programs</a></li>
+<li><a href="/broadening-participation-computing/k-12/k-12-resources">K-12 Resources</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/student-life/student-organizations">Student Organizations</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/news" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>News</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-news">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41391_5367" data-pageid="41391" data-tileid="5367" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=51204);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging</h2>
+			<div class="description"><p>The Defense Advanced Research Projects Agency (DARPA) has awarded $5.8 million to a team, led by Illinois CS's <a href="/about/people/faculty/zaher">Tarek Abdelzaher</a>, that will work to characterize how different foreign populations respond to influence campaigns as a first step towards development of effective countermeasures.</p></div>
+			<p><a href="/news/abdelzaher-leading-DARPA-effort-understand-how-people-respond-influence-messaging" class="button" title="Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 8, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/news">News</a></h2>
+<ul class="news ">
+<li><a href="/news">Department News</a></li>
+<li><a href="/news/features">Feature Stories</a></li>
+<li><a href="/news/covid-19-projects">COVID-19 Projects</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/news/media-coverage">Media Coverage</a></li>
+<li><a href="/news/e-news">E-News</a></li>
+<li><a href="/news/impact-report-publications">Impact Report &amp; Publications</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/give" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Give</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-give">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Help ensure that Illinois continues to set a global standard for CS research and education.</h2>
+<p><a class="orange button" href="/give/give-now">Make a Gift</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/give">Give</a></h2>
+<ul class="give ">
+<li><a href="/give/give-now">Give Now</a></li>
+<li><a href="/give/ways-give">Ways to Give</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/give/computer-science-visionary-scholarship-donors">Computer Science Visionary Scholarship Donors</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+</ul>
+</div>
+</nav>
+
+				</div>
+			</header>
+
+			<div id="content">
+				<main>
+					<div  id="hero" class="container-fluid">
+						<div class="row maxwidth1140">
+							<div class="col">
+								<div>
+									<nav id="breadcrumbs"><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/about/people">People</a></li><li><a href="/about/people/all-faculty">All Faculty</a></li></ul></nav>
+									<h1>Ravishankar K Iyer
+</h1>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					
+
+					<div id="content_inner" class="container-fluid">
+						<div class="tile-list">
+							<section class="tile w100 white-box   py-5 " id="tile6806" data-tileid="6806" >
+	<div class="lower  maxwidth1140   " id="lower6806">
+		<div class="row">
+			<div class="col-md column1      " >
+				<div>	<div class="directory-profile maxwidth800" id="article_[postid]">
+		<figure class="image align-right ">
+			<img alt="Ravishankar K Iyer" title="Ravishankar K Iyer" src="//ws.engr.illinois.edu/directory/viewphoto.aspx?id=4991&s=300&type=portrait" />
+			<figcaption>Ravishankar K Iyer</figcaption>
+		</figure>
+
+		<!--<h2>Ravishankar K Iyer</h2>-->
+		<div class="roles">
+			
+			<div><div class="role cat5 notprimary">
+<div class="title"><strong>Professor, Electrical and Computer Engineering</strong></div>
+<!--<div class="groups"></div>-->
+<div class="phone">(217) 333-9732</div>
+<div class="email"><a href="mailto:rkiyer@illinois.edu">rkiyer@illinois.edu</a></div>
+<div class="office">255 Coordinated Science Lab</div>
+</div>
+</div>
+		</div>
+
+		<h2>For more information</h2>
+<ul>
+<li><a href="http://depend.csl.illinois.edu/">Ravishankar K. Iyer's home page</a></li>
+</ul>
+
+		
+		<h2>Education</h2>
+<ul>
+<li>Ph.D., Electrical Engineering, University of Queensland, 1977</li>
+<li>BE     Electrical Engineering      University of Queensland    1973</li>
+</ul>
+
+		<h2>Biography</h2>
+<p>Ravishankar K. Iyer is George and Ann Fisher Distinguished Professor of Engineering at the University of Illinois at Urbana-Champaign. He holds joint appointments in the Departments of Electrical and Computer Engineering and Computer Science, in the Coordinated Science Laboratory (CSL), the National Center for Supercomputing Applications, the Carle Illinois College of Medicine, and the Carl R. Woese Institute for Genomic Biology. He is also faculty Research Affiliate at the Mayo Clinic, and Yeoh Ghin Seng Distinguished Visiting Professor of the National University Health System, Singapore.</p><p>Professor Iyer leads the DEPEND Group at CSL, with a multidisciplinary focus on systems and software that combine deep measurement driven analytics and machine learning with applications in two important domains: i) trust (that spans resilience and the security of critical infrastructures) and ii) health (that spans computational genomics and health analytics focused on personalized medicine). The Depend Group has developed a rich AI analytics framework that has been deployed on real-world applications in collaborations with industry, health providers, and government agencies including NSF, NIH, and DoD. Iyer directs the Illinois/Mayo NSF Center for Computational Biotechnology and Genomic Medicine (CCBGM). </p><p>Professor Iyer is a Fellow of the American Association for the Advancement of Science (AAAS), the Institute of Electrical and Electronics Engineers (IEEE), and the Association for Computing Machinery (ACM). He has received several awards, including the IEEE Emanuel R. Piore Award, and the 2011 Outstanding Contributions award by the Association of Computing Machinery. Professor Iyer is also the recipient of the degree of Doctor Honoris Causa from Toulouse Sabatier University in France.</p>
+
+		<h2>Academic Positions</h2>
+<ul>
+<li>Professor, Carle Illinois College of Medicine</li>
+<li>Adjunct Professor, School of Computer Science and Engineering, University of New South Wales, 2018 - present</li>
+<li>Yeoh Ghim Seng Visiting Professor, National University Health System, Singapore, 2017-present</li>
+<li>Research Affiliate, Mayo Clinic, May 2016-present</li>
+<li>Founder and Chief Scientist, Armored Computing, Inc.</li>
+<li>Carl R. Woese Institute for Genomic Biology, Faculty in Computing Genomes for Reproductive Health Research Theme, 2015 - present</li>
+<li>NCSA CyberSecurity Division Faculty Advisor, 2015 - present</li>
+<li>NCSA Affiliate Faculty - 2015, present</li>
+<li>Chief Scientist, Information Trust Institute 2004, present</li>
+<li>Interim Vice Chancellor for Research, University of Illinois, 2008-2011</li>
+<li>Director, Coordinated Science Laboratory, University of Illinois, 2000-2008</li>
+<li>Director, Motorola Center for Communication, 2000-2008</li>
+<li>George and Ann Fisher Distinguished Professor of Electrical and Computer Engineering, University of Illinois, 1998-present</li>
+<li>Acting Director, Coordinated Science Laboratory, University of Illinois, August 1995-May 1996</li>
+<li>Professor, Electrical and Computer Engineering, University of Illinois, 1989-present, 50%</li>
+<li>Research Professor, Coordinated Science Laboratory, University of Illinois, 1989-present, 50%</li>
+<li>Professor, Computer Science, University of Illinois, 1989-present,(by courtesy), 0%</li>
+<li>Co-Director, Center for Reliable and High-Performance Computing, University of Illinois, 1989-present</li>
+<li>Co-Director, Illinois Computer Laboratory for Aerospace Systems and Software (ICLASS), National Aeronautics and Space Administration (NASA) Center for Excellence in Aerospace Computing, 1985-1998</li>
+<li>Director and Principal Investigator, Multi-University DARPA Project on Design for Dependability, 1994-1998</li>
+<li>Associate Professor, Electrical and Computer Engineering, University of Illinois, August 1985-1989</li>
+<li>Research Associate Professor, Coordinated Science Laboratory, University of Illinois, August 1985-1989</li>
+<li>Associate Professor, Computer Science, University of Illinois, August 1985-1989</li>
+<li>Assistant Professor, Electrical and Computer Engineering, University of Illinois, August 1983-August 1985</li>
+<li>Research Assistant Professor, Coordinated Science Laboratory, University of Illinois, August 1983-August 1985</li>
+<li>Acting Assistant Professor and Research Associate, Department of Electrical Engineering, Stanford University, April 1980-August 1983</li>
+</ul>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<h2>Research Interests</h2>
+<ul>
+<li>Reliable and secure networks and systems, Measurement and modeling, dependability and security validation and benchmarking, data analytics, computing for genomics research, machine learning, artificial intelligence, computer systems, measurement driven analytics and machine learning, AI and health, trustworthiness of AI systems and algorithms. </li>
+</ul>
+
+		
+		
+		<div class="extProfileAREA">
+			<h2>Research Areas</h2>
+<ul>
+<li><a href="https://cs.illinois.edu/research/areas/security-and-privacy">Security and Privacy</a></li>
+<li><a href="http://cs.illinois.edu/research/areas/systems-and-networking">Systems and Networking</a></li>
+</ul>
+
+		</div>
+		
+		
+		
+		
+		<h2>Books Edited or Co-Edited (Original Editions)</h2>
+<ul>
+<li>R. K. Iyer, M. Morganti, W. K. Fuchs and V. Gligor, Eds., Dependable Computing for Critical Applications 5, Dependable Computing and Fault-Tolerant Systems, vol. 10, IEEE Computer Society Press, 1998.</li>
+</ul>
+
+		
+		<h2>Chapters in Books</h2>
+<ul>
+<li>K. Chung, P. Tang, Z. Zhu, X. Li, Z. T. Kalbarczyk, T. Kesavadas, R. K. Iyer. "Machine Learning in the Hands of a Malicious Adversary: A Near Future If Not Reality." in Game Theory and Machine Learning for Cyber Security. C. A. Kamhoua, C. D. Kiekintveld, F. Fang, Q. Zhu, Eds. Wiley-IEEE Press, 2020, in review.
+
+</li>
+<li>C. Di Martino, Z. Kalbarczyk, R. Iyer, &#8220;Measuring the Resiliency of Extreme-Scale Computing Environments,&#8221; Principles of Performance and Reliability Modeling and Evaluation: Essays in Honor of Kishor Trivedi on His 70th Birthday, L. Fiondella, A. Puliafito, Eds., Springer International Publishing AG Switzerland, pp. 609&#8211;655, 2016.</li>
+<li>R.K. Iyer, N. Nakka, W. Gu, and  Z. Kalbarczyk, "Fault Injection,"Encyclopedia of Software Engineering, 2010.</li>
+<li>K. Pattabiraman, N. Nakka, Z. Kalbarczyk, R. Iyer, "Discovering Application-Level Insider Attacks Using Symbolic Execution,"&#157; Emerging Challenges for Security, Privacy and Trust, D. Gritzalis. J. Lopez, Eds., Springer, New York, NY, pp. 63-75, 2009.</li>
+<li><a href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-047023055X.html">R.K. Iyer, Z. Kalbarczyk and W. Gu, "Benchmarking the Operating System Against Faults Impacting Operating System Functions," Dependability Benchmarking for Computer Systems, K.Kanoun and L. Spainhower, Wiley, 2008.</a></li>
+<li><a href="http://www.springerlink.com/content/l6v62q4j536p5561/?p=a6388eea83a542028a82fbb6685a0f7f&pi=7">R.K. Iyer, P Dabrowski, N Nakka and Z Kalbarczyk, "Reconfigurable Tamper-resistant Hardware Support Against Insider Threats: The Trusted ILLIAC Approach," Insider Attack and Cyber Security: Beyond the Hacker (Advances in Information Security), S. Stolfo, S. Bellovin, S. Hershkop, A. Keromytis, S. Sinclair and S. Smith, Springer, 2008.</a></li>
+<li>R. K. Iyer, "Measurement-Based Analysis of Networked System Availability," Performance Evaluation - Stories and Perspectives, G. Kotsis, Ed., vol. 175 in the series OCG Schriftenreihe, Austrian Computer Society, December 2003.</li>
+<li>R. K. Iyer, "Hardware and Software Fault Tolerance," Encyclopedia of Electrical Engineering, John Wiley and Sons, 2001.</li>
+<li>R. K. Iyer, "Computer Equipment Testing," Encyclopedia of Electrical Engineering, John Wiley and Sons, 2001.</li>
+</ul>
+
+		
+		<h2>Selected Articles in Journals</h2>
+<ul>
+<li><a href="https://doi.org/10.1093/neuros/nyab101">Paul M. Arnold, Andrew G. Webb,&#160;Ravishankar K. Iyer (2021). Commentary: Smoking is an independent risk factor for 90-day readmission and reoperation following posterior cervical decompression and fusion.&#160;<em>Neurosurgery.&#160;</em><a href="https://doi.org/10.1093/neuros/nyab101">https://doi.org/10.1093/neuros/nyab101</a>
+</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0168827820304578?via%3Dihub">Krishnakant Saboo, Amirhossein Shamsaddini, Mihir V. Iyer, Chang Hu, Andrew Fagan, Edith A. Gavis, Melanie B. White, Michael Fuchs, Douglas M. Heuman, Masoumeh Sikaroodi, Ravishankar K. Iyer, Patrick M. Gillevet, Jasmohan S. Bajaj (2020).&nbsp;Sex is associated with differences in gut microbial composition and function in hepatic encephalopathy. <em>J Hepatol</em>, <em>S0168-8278</em>(20)30457-8.&nbsp;<a href="https://doi.org/10.1016/j.jhep.2020.06.046">https://doi.org/10.1016/j.jhep.2020.06.046</a>&nbsp;
+</a></li>
+<li><a href="https://doi.org/10.1109/mc.2019.2915045">Hui Lin, Homa Alemzadeh, Zbigniew Kalbarczyk, Ravishankar Iyer.&nbsp;(2019) Challenges and Opportunities in Detection of Safety-Critical Cyber-Physical Attacks. &nbsp;<em>IEEE Computer.&nbsp;</em><a href="https://doi.org/10.1109/mc.2019.2915045">https://doi.org/10.1109/mc.2019.2915045</a>
+</a></li>
+<li><a href="https://doi.org/10.1038/s41598-019-38793-3">Yogatheesan Varatharajah, Vijay K. Ramanan, Ravishankar Iyer, Prashanthi Vemuri&nbsp;(2019). Predicting Short-term MCI-to-AD Progression Using Imaging, CSF, Genetic Factors, Cognitive Resilience, and Demographics. <em>Scientific Reports, 9</em>, 2235. <a href="https://doi.org/10.1038/s41598-019-38793-3">https://doi.org/10.1038/s41598-019-38793-3</a>
+</a></li>
+<li><a href="https://doi.org/10.1016/j.yamp.2019.08.003">Ravishankar K. Iyer, Arjun P. Athreya, Liewei Wang, Richard M. Weinshilboum (2019). Artificial Intelligence and Pharmacogenomics; A timely synergy for individualizing medicine. <em>Advances in Molecular Pathology, Volume 2</em>(1), 111-118. <a href="https://doi.org/10.1016/j.yamp.2019.08.003">https://doi.org/10.1016/j.yamp.2019.08.003</a>
+</a></li>
+<li><a href="https://doi.org/10.1186/s12859-019-3169-7">Jacob R. Heldenbrand, Saurabh Baheti, Matthew A. Bockol, Travis M. Drucker, Steven N. Hart, Matthew E. Hudson, Ravishankar K. Iyer, Michael T. Kalmbach, Katherine I. Kendig, Eric W. Klee, Nathan R. Mattson, Eric D. Wieben, Mathieu Wiepert, Derek E. Wildman, Liudmila S. Mainzer&nbsp;(2019). Correction to: Recommendations for performance optimizations when using GATK3.8 and GATK4. <em>BMC Bioinformatics, 20</em>(1), 722. <a href="https://doi.org/10.1186/s12859-019-3169-7">https://doi.org/10.1186/s12859-019-3169-7</a>&nbsp;
+</a></li>
+<li><a href="https://doi.org/10.1186/s12859-019-3169-7">Jacob R. Heldenbrand, Saurabh Baheti, Matthew A. Bockol, Travis M. Drucker, Steven N. Hart, Matthew E. Hudson, Ravishankar K. Iyer, Michael Kalmbach, Katherine I Kendig, Eric W. Klee, Nathan R Mattson, Eric D. Wieben, Mathieu Wiepert, Derek E. Wildman, Liudmila S. Mainzer (2019). Recommendations for performance optimizations when using GATK3.8 and GATK4. <em>BMC Bioinformatics, 20</em>(1), 557:1-557:9.&nbsp; <a href="https://doi.org/10.1186/s12859-019-3169-7">https://doi.org/10.1186/s12859-019-3169-7</a> &nbsp;
+</a></li>
+<li><a href="https://doi.org/10.1038/s41598-019-53925-5">Krishnakant V. Saboo, Yogatheesan Varatharajah, Brent M. Berry, Vaclav Kremen, Michael R. Sperling, Kathryn A. Davis, Barbara C. Jobst, Robert E. Gross, Bradley Lega, Sameer A. Sheth, Gregory A. Worrell, Ravishankar K. Iyer, Michal T. Kucewicz (2019). Unsupervised machine-learning classification of electrophysiologically active electrodes during human cognitive task performance. <em>Scientific Reports, 9</em>(1). <a href="https://doi.org/10.1038/s41598-019-53925-5">https://doi.org/10.1038/s41598-019-53925-5</a>
+</a></li>
+<li><a href="https://doi.org/10.1002/cpt.1482">Arjun P. Athreya, Drew Neavin, Tania Carrillo-Roa, Michelle Skime, Joanna Biernacka, Mark A. Frye, A. John Rush, Liewei Wang, Elisabeth B. Binder, Ravishankar K. Iyer, Richard M. Weinshilboum, William V. Bobo&nbsp;(2019). Pharmacogenomics-Driven Prediction of Antidepressant Treatment Outcomes: A Machine Learning Approach with Multi-Trial Replication. <em>American Society for Clinical Pharmacology &amp; Therapeutics (ASCPT)</em>. <a href="https://doi.org/10.1002/cpt.1482">https://doi.org/10.1002/cpt.1482</a>
+</a></li>
+<li><a href="https://doi.org/10.2217/pgs-2019-0119">Arjun Athreya, Ravishankar Iyer, Liewei Wang, Richard M. Weinshilboum, William V. Bobo (2019). Integration of machine learning and pharmacogenomic biomarkers for predicting response to antidepressant treatment: can computational intelligence be used to augment clinical assessments?. <em>Pharmacogenomics, 20. </em><a href="https://doi.org/10.2217/pgs-2019-0119">https://doi.org/10.2217/pgs-2019-0119</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/TSG.2018.2870362">Hui Lin, Zbigniew Kalbarczyk, Ravishankar Iyer&nbsp;(2019). RAINCOAT: Randomization of Network Communication in Power Grid Cyber Infrastructure to Mislead Attackers. <em>IEEE Transactions on Smart Grid, 10</em>(5), 4893-4906. <a href="https://doi.org/10.1109/TSG.2018.2870362">https://doi.org/10.1109/TSG.2018.2870362</a>
+</a></li>
+<li><a href="https://doi.org/10.1523/ENEURO.0214-18.2018">Michal T. Kucewicz, Krishnakant Saboo, Brent M. Berry, Vaclav Kremen, Laura R. Miller, Fatemeh Khadjevand, Cory S. Inman, Paul Wanda, Michael R. Sperling, Richard Gorniak, Kathryn A. Davis, Barbara C. Jobst, Bradley Lega, Sameer A. Sheth, Daniel S. Rizzuto, Ravishankar K. Iyer, Michael J. Kahana, Gregory A. Worrell&nbsp;(2019). Human Verbal Memory Encoding is Hierarchically Distributed in a Continuous Processing Stream. <em>eNeuro, 6</em>(1). <a href="https://doi.org/10.1523/ENEURO.0214-18.2018">https://doi.org/10.1523/ENEURO.0214-18.2018</a>
+</a></li>
+<li><a href="https://doi.org/10.1038/s41598-019-38793-3">Yogatheesan Varatharajah, Vijay K. Ramanan, Ravishankar Iyer, Prashanthi Vemuri&nbsp;(2019). Predicting Short-term MCI-to-AD Progression Using Imaging, CSF, Genetic Factors, Cognitive Resilience, and Demographics. <em>Scientific Reports, 9</em>(1), <a href="https://doi.org/10.1038/s41598-019-38793-3">https://doi.org/10.1038/s41598-019-38793-3</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/TC.2018.2875733">Subho Sankar Banerjee, Mohamed El-Hadedy, Jong Bin Lim, Zbigniew T. Kalbarczyk, Deming Chen, Steven S. Lumetta, Ravishankar K. Iyer&nbsp;(2019). ASAP: Accelerated Short-Read Alignment on Programmable Hardware. <em>IEEE Transactions on Computers, 68</em>(3), 331-346. <a href="https://doi.org/10.1109/TC.2018.2875733">https://doi.org/10.1109/TC.2018.2875733</a>
+</a></li>
+<li><a href="https://doi.org/10.1186/s12859-018-2539-x">Zachary Stephens, Chen Wang, Ravishankar K. Iyer, Jean-Pierre A. Kocher&nbsp;(2018). Detection and visualization of complex structural variants from long reads. <em>BMC Bioinformatics, 19-S</em>(20), 67-77. <a href="https://doi.org/10.1186/s12859-018-2539-x">https://doi.org/10.1186/s12859-018-2539-x</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/MCI.2018.2840660">Arjun Athreya, Ravishankar Iyer, Drew Neavin, Liewei Wang, Richard Weinshilboum, Rima Kaddiurah-Daouk, John Rush, Mark Frye, William Bobo (2018). Augmentation of Physician Assessments with Multi-Omics Enhances Predictability of Drug Response: A Case Study of Major Depressive Disorder. <em>IEEE Computational Intelligence Magazine, 13</em>(3), 20-31. <a href="https://doi.org/10.1109/MCI.2018.2840660">https://doi.org/10.1109/MCI.2018.2840660</a>
+</a></li>
+<li><a href="https://doi.org/10.1038/s41398-017-0056-8">Duan Liu, Balmiki Ray, Drew R. Neavin, Jiabin Zhang, Arjun P. Athreya, Joanna M. Biernacka, William V. Bobo, Daniel K. Hall-Flavin, Michelle K. Skime, Hongjie Zhu, Gregory D. Jenkins, Anthony Batzler, Krishna R. Kalari, Felix Boakye-Agyeman, Wayne R. Matson, Swati S. Bhasin, Taisei Mushiroda, Yusuke Nakamura, Michiaki Kubo, Ravishankar K. Iyer, Liewei Wang, Mark A. Frye, Rima Kaddurah-Daouk, Richard M. Weinshilboum&nbsp;(2018). Beta-defensin 1, aryl hydrocarbon receptor and plasma kynurenine in major depressive disorder: metabolomics-informed genomics. <em>Translational Psychiatry, 8</em>(1), 10. <a href="https://doi.org/10.1038/s41398-017-0056-8">https://doi.org/10.1038/s41398-017-0056-8</a>
+</a></li>
+<li><a href="https://doi.org/10.1101/497925">Yogatheesan Varatharajah, Sujeeth Baradwaj, Atilla Kiraly, Diego Ardila, Ravishankar Iyer, Shravya Shetty, Kai Kohlhoff&nbsp;(2018). Predicting Brain Age Using Structural Neuroimaging and Deep Learning, <em>bioRxiv</em>, <a href="https://doi.org/10.1101/497925">https://doi.org/10.1101/497925</a>
+</a></li>
+<li><a href="https://arxiv.org/abs/1809.00258">Yogatheesan Varatharaj, Brent M. Berry, Sanmi Koyejo, Ravishankar K. Iyer (2018). A Contextual-bandit-based Approach for Informed Decision-making in Clinical Trials. <em>ArXiv, abs/1809.00258</em>. <a href="https://arxiv.org/abs/1809.00258v1">https://arxiv.org/abs/1809.00258v1</a>
+</a></li>
+<li><a href="https://doi.org/10.1088/1741-2552/aac960">Yogatheesan Varatharajah, Brent Berry, Jan Cimbalnik, Vaclav Kremen, Jamie Van Gompei, Matt Stead, Benjamin Brinkmann, Ravishankar Iyer, Gregory Worrell (2018). Integrating Artificial Intelligence with Real-time Intracranial EEG Monitoring to Automate Interictal Identification of Seizure Onset Zones in Focal Epilepsy. <em>Journal of Neural Engineering, 15</em>(4). <a href="https://doi.org/10.1088/1741-2552/aac960">https://doi.org/10.1088/1741-2552/aac960</a>
+</a></li>
+<li><a href="https://doi.org/10.1186/s12859-018-2539-x">Zachary Stephens, Chen Wang, Ravishankar K. Iyer, Jean-Pierre Kocher&nbsp;(2018). Detection and visualization of complex structural variants from long reads. <em>IEEE BIBM International Conference on Bioinformatics &amp; Biomedicine (BIBM), 19</em>(20). <a href="https://doi.org/10.1186/s12859-018-2539-x">https://doi.org/10.1186/s12859-018-2539-x</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/TSG.2016.2593021">Hui Lin, Chen Chen, Jianhui Wang, Junjian Qi, Dong Jin, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer (2018). Self-Healing Attack-Resilient PMU Network for Power System Operation. <em>IEEE Transactions on Smart Grid, 9</em>(3), 1551-1565. <a href="https://doi.org/10.1109/TSG.2016.2593021">https://doi.org/10.1109/TSG.2016.2593021</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/tnb.2018.2851997">Arjun P. Athreya, Alan J. Gaglio, Junmei Cairns, Krishna R. Kalari, Richard M. Weinshilboum, Liewei Wang, Zbigniew T Kalbarczyk, Ravishankar K Iyer (2018). Machine Learning Helps Identify New Drug Mechanisms in Triple-Negative Breast Cancer. <em>IEEE Transactions on Nanobioscience, 17</em>(3), 251-259. <a href="https://doi.org/10.1109/tnb.2018.2851997">https://doi.org/10.1109/tnb.2018.2851997</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/MCI.2018.2840660">Arjun P. Athreya, Drew Neavin, Mark A. Frye, Liewei Wang, Richard M. Weinshilboum, William V. Bobo, Ravishankar K.&nbsp;Iyer (2018). Augmentation of Physician Assessments with Multi-Omics Enhances Predictability of Drug Response: A Case Study of Major Depressive Disorder. <em>IEEE Computational Intelligence Magazine, 13</em>(3). <a href="https://doi.org/10.1109/MCI.2018.2840660">https://doi.org/10.1109/MCI.2018.2840660</a>
+</a></li>
+<li><a href=" https://doi.org/10.1109/TIFS.2017.2676721">Rui Tan, Hoang Hai Nguyen, Eddy. Y. S. Foo, David K. Y. Yau, Zbigniew Kalbarczyk; Ravishankar K. Iyer, Hoay Beng Gooi (2017). Modeling and Mitigating Impact of False Data Injection Attacks on Automatic Generation Control. <em>IEEE Transactions on Information Forensics and Security, 12</em>(7), 1609-1624. <a href="https://doi.org/10.1109/TIFS.2017.2676721">https://doi.org/10.1109/TIFS.2017.2676721</a>
+</a></li>
+<li><a href="https://doi.org/10.1145/3140607.3050759">Zachary J. Estrada, Read Sprabery, Lok Yan, Zhongzhi Yu, Roy Campbell, Zbigniew Kalbarczyk, Ravishankar K. Iyer&nbsp;(2017). Using OS Design Patterns to Provide Reliability and Security as-a-Service for VM-based Clouds. <em>ACM SIGPLAN Notices, 52</em>(7), 157-170. <a href="https://doi.org/10.1145/3140607.3050759">https://doi.org/10.1145/3140607.3050759</a>
+</a></li>
+<li><a href="https://doi.org/10.1155/2017/6702919  ">Xiao Li, Homa Alemzadeh, Daniel Chen, Zbigniew Kalbarczyk, Ravishankar K. Iyer, Thenkurussi Kesavadas&nbsp;(2017). Surgeon Training in Telerobotic Surgery via a Hardware-in-the-Loop Simulator. <em>Journal of Healthcare Engineering, 2017, </em>1-13. <a href="https://doi.org/10.1155/2017/6702919">https://doi.org/10.1155/2017/6702919</a> &nbsp;
+</a></li>
+<li><a href="https://doi.org/10.1109/TDSC.2017.2737537  ">Saurabh Jha, Valerio Formicola, Catello Di Martino, Mark Dalton, William T. Kramer, Zbigniew Kalbarczyk, Ravishankar&nbsp;Iyer (2017). Resiliency of HPC Interconnects: A Case Study of Interconnect Failures and Recovery in Blue Waters. <em>IEEE Transactions on Dependable and Secure Computing, 15</em>(6), 915-930. <a href="https://doi.org/10.1109/TDSC.2017.2737537">https://doi.org/10.1109/TDSC.2017.2737537</a> &nbsp;
+</a></li>
+<li><a href="https://doi.org/10.18632/oncotarget.16109 ">Arjun P. Athreya, Krishna R. Kalari, Junmei Cairns, Alan J. Gaglio, Quin F. Wills, Nifang Niu, Richard Weinshilboum, Ravishankar K. Iyer, Liewei Wang&nbsp;(2017). Model-based unsupervised learning informs metformin-induced cell-migration inhibition through an AMPK-independent mechanism in breast cancer. <em>Oncotarget</em>, 2017(8), 27199-27215. <a href="https://doi.org/10.18632/oncotarget.16109">https://doi.org/10.18632/oncotarget.16109</a> &nbsp;
+</a></li>
+<li><a href="https://doi.org/10.1109/BIBM.2017.8217647">Zachary D. Stephens, Ravishankar K. Iyer, Chen Wang, Jean-Pierre A. Kocher (2017). Unraveling complex local genomic rearrangements from long-read data. <em>2017 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</em>, 181-187. <a href="https://doi.org/10.1109/BIBM.2017.8217647">https://doi.org/10.1109/BIBM.2017.8217647</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/TR.2016.2635033">Catello Di Martino, Santonu Sarkar, Rajeshwari Ganesan, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer&nbsp;(2017). Analysis and Diagnosis of SLA Violations in a Production SaaS Cloud. <em>IEEE Transactions on Reliability</em>, <em>66</em>(1), 54-75. <a href="https://doi.org/10.1109/TR.2016.2635033">https://doi.org/10.1109/TR.2016.2635033</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/TPDS.2016.2575829">Cuong Pham, Long Wang, Byung Chul Tak, Salman Baset, Chunqiang Tang, Zbigniew Kalbarczyk, Ravishankar K. Iyer&nbsp;(2016). Failure Diagnosis for Distributed Systems using Targeted Fault Injection. <em>IEEE Transactions on Parallel and Distributed Systems, 28</em>(2), 503-516. <a href="https://doi.org/10.1109/TPDS.2016.2575829">https://doi.org/10.1109/TPDS.2016.2575829</a>
+</a></li>
+<li><a href="https://doi.org/10.1371/journal.pone.0167047">Zachary D. Stephens, Matthew E. Hudson, Liudmila S. Mainzer, Morgan Taschuk, Matthew R. Weber, Ravishankar K. Iyer&nbsp;(2016). Simulating Next-Generation Sequencing Datasets from Empirical Mutation and Sequencing Models. <em>PLOS ONE, 11</em>(11). <a href="https://doi.org/10.1371/journal.pone.0167047">https://doi.org/10.1371/journal.pone.0167047</a>
+</a></li>
+<li><a href="https://doi.org/10.1142/S0129065716500465">Yogatheesan Varatharajah, Ravishankar K. Iyer, Brent M. Berry, Gregory A. Worrell, Benjamin H. Brinkmann&nbsp;(2017). Seizure Forecasting and the Preictal State in Canine Epilepsy. <em>International Journal of Neural System, 27</em>(1). <a href="https://doi.org/10.1142/S0129065716500465">https://doi.org/10.1142/S0129065716500465</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/TSG.2016.2593021 ">Hui Lin, Chen Chen, Jianhui Wang, Junjian Qi, Dong Jin, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer&nbsp;(2016). Self-Healing Attack-Resilient PMU Network for Power System Operation. <em>IEEE Transactions on Smart Grid, 9</em>(3), 1551-1565. <a href="https://doi.org/10.1109/TSG.2016.2593021">https://doi.org/10.1109/TSG.2016.2593021</a>&nbsp;
+</a></li>
+<li><a href="https://doi.org/10.1109/TSG.2016.2547742">Hui Lin, Adam Slagell, Zbigniew T. Kalbarczyk, Peter W. Sauer, Ravishankar K. Iyer&nbsp;(2016). Runtime Semantic Security Analysis to Detect and Mitigate Control-Related Attacks in Power Grids. <em>IEEE Transactions on Smart Grid, 9</em>(1), 163-198. <a href="https://doi.org/10.1109/TSG.2016.2547742">https://doi.org/10.1109/TSG.2016.2547742</a>
+</a></li>
+<li><a href="https://doi.org/10.1371/journal.pone.0151470">Homa Alemzadeh, Jaishankar Raman, Nancy Leveson, Zbigniew Kalbarczyk, Ravishankar K. Iyer&nbsp;(2016). Adverse Events in Robotic Surgery: A Retrospective Study of 14 Years of FDA Data. <em>PLOS ONE</em>, <em>11</em>(4). <a href="https://doi.org/10.1371/journal.pone.0151470">https://doi.org/10.1371/journal.pone.0151470</a>
+</a></li>
+<li><a href="https://homa-alem.github.io/papers/MedicalCPS_2015.pdf">Homa Alemzadeh, Daniel Chen, Zbigniew Kalbarczyk, Ravishankar K. Iyer, Xiao Li, Thenkurussi Kesavadas, Jaishankar Raman&nbsp;(2015). &nbsp;A Software Framework for Simulation of Safety Hazards in Robotic Surgical Systems. <em>SIGBED Review, Special Issue on Medical Cyber Physical Systems workshop (MedicalCPS&#39;15), 12</em>(4).&nbsp;
+</a></li>
+<li><a href="https://doi.org/10.1371/journal.pbio.1002195">Zachary D. Stephens, Skylar Y. Lee, Faraz Faghri, Roy H. Campbell, Chengxiang Zhai, Miles J. Efron, Ravishankar Iyer, Michael C. Schatz, Saurabh Sinha, Gene E.&nbsp;Robinson (2015). Big Data: Astronomical or Genomical?. <em>PLOS Biology</em>, <em>13</em>(7). <a href="https://doi.org/10.1371/journal.pbio.1002195">https://doi.org/10.1371/journal.pbio.1002195</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/TDSC.2014.2327967">Long Wang, Zbigniew Kalbarczyk, Ravishankar K. Iyer, Arun Iyengar&nbsp;(2015). VM-&mu;Checkpoint: Design, Modeling, and Assessment of Lightweight In-Memory VM Checkpointing. <em>IEEE Transactions on Dependable and Secure Computing, 12</em>(2), 243&ndash;255. <a href="https://doi.org/10.1109/TDSC.2014.2327967">https://doi.org/10.1109/TDSC.2014.2327967</a>
+</a></li>
+<li><a href="http://dx.doi.org/10.12694/scpe.v16i1.1061">Zachary J. Estrada, Fei Deng, Zachary Stephens, Cuong Pham, Zbigniew Kalbarczyk, Ravishankar K. Iyer&nbsp;(2015). Performance Comparison and Tuning of Virtual Machines For Sequence Alignment Software.<em> Scalable Computing: Practice and Experience. 16</em>(1), 71-84.&nbsp;<a href="http://dx.doi.org/10.12694/scpe.v16i1.1061">http://dx.doi.org/10.12694/scpe.v16i1.1061</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/MSP.2014.87">Cuong Manh Pham, Zachary J. Estrada, Phuong Cao, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer (2014). Building Reliable and Secure Virtual Machines Using Architectural Invariants. <em>IEEE Security &amp; Privacy, 12</em>(5), 82-85.&nbsp;<a href="https://doi.org/10.1109/MSP.2014.87">https://doi.org/10.1109/MSP.2014.87</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/TC.2012.219">Karthik Pattabiraman, Nithin M. Nakka, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer (2013). SymPLFIED: Symbolic Program-Level Fault Injection and Error Detection Framework.<em> &nbsp;IEEE Transactions on Computers, 62</em>(11), 2292-2307.&nbsp;<a href="https://doi.org/10.1109/TC.2012.219">https://doi.org/10.1109/TC.2012.219</a>
+</a></li>
+<li><a href="http://dx.doi.org/10.1109/MSP.2013.49">Homa Alemzadeh, Ravishankar K. Iyer, Zbigniew Kalbarczyk, Jaishankar Raman (2013). Analysis of Safety-Critical Computer Failures in Medical Devices. <em>IEEE Security &amp; Privacy Magazine, 11</em>(4), 14-26.&nbsp;<a href="http://dx.doi.org/10.1109/MSP.2013.49">http://dx.doi.org/10.1109/MSP.2013.49</a>
+</a></li>
+<li><a href=" https://doi.org/10.1007/978-3-642-21931-3_37">Keun Soo Yim, David Hreczany, Ravishankar K. Iyer (2011). HTAF: Hybrid Testing Automation Framework to Leverage Local and Global Computing Resources. In: Murgante B., Gervasi O., Iglesias A., Taniar D., Apduhan B.O. (eds) Computational Science and Its Applications - ICCSA 2011. ICCSA 2011. <em>Lecture Notes in Computer Science, 6784</em>. Springer, Berlin, Heidelberg.&nbsp;<a href="https://doi.org/10.1007/978-3-642-21931-3_37">https://doi.org/10.1007/978-3-642-21931-3_37</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/TDSC.2009.23">Karthik Pattabiraman, Zbigniew Kalbarczyk, Ravishankar K. Iyer (2011). Automated Derivation of Application-Aware Error Detectors Using Static Analysis: The Trusted Illiac Approach. <em>IEEE Transactions on Dependable and Secure Computing,&nbsp;8</em>(1), 44-57.&nbsp;https://doi.org/10.1109/TDSC.2009.23
+</a></li>
+<li><a href="http://dx.doi.org/10.1109/TDSC.2010.19">Karthik Pattabiraman, Giacinto Paulo Saggese, Daniel Chen, Zbigniew Kalbarczyk,&nbsp;Ravishankar Iyer (2011).&nbsp;Automated Derivation of Application-aware Error Detectors using Dynamic Analysis, <em>IEEE Transactions on Dependable and Secure Computing, 8</em>(5),&nbsp;640-655.&nbsp;<a href="http://dx.doi.org/10.1109/TDSC.2010.19">http://dx.doi.org/10.1109/TDSC.2010.19</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/DSN.2010.5544287">Keun&nbsp;S. Yim, Zbigniew&nbsp;Kalbarczyk, Ravishankar&nbsp;K. Iyer (2010). Measurement-Based Analysis of Fault and Error Sensitivities of Dynamic Memory. <em>2010 IEEE/IFIP</em> <em>International Conference on Dependable Systems and Networks, DSN 2010,</em>&nbsp;431&ndash;436.&nbsp;<a href="https://doi.org/10.1109/DSN.2010.5544287">https://doi.org/10.1109/DSN.2010.5544287</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/DSN.2009.5270283">Jean&nbsp;Arlat, Cristian&nbsp;Constantinescu, Ravishankar&nbsp;K. Iyer, Johan&nbsp;Karlsson, Michael&nbsp;Nicola&iuml;dis (2009).&nbsp;Third Workshop on Dependable and Secure Nanocomputing. 2009&nbsp;<em>IEEE/IFIP International Conference on Dependable Systems and Networks, </em>596-597.&nbsp;<a href="https://doi.org/10.1109/DSN.2009.5270283">https://doi.org/10.1109/DSN.2009.5270283</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/DSN.2009.5270290">Nikhil&nbsp;Pandit, Zbigniew&nbsp;Kalbarczyk, Ravishankar&nbsp;K. Iyer (2009). Effectiveness of Machine Checks for Error Diagnostics. <em>2009 IEEE/IFIP</em> <em>International Conference on Dependable Systems and Networks, </em>578&ndash;583.&nbsp;<a href="https://doi.org/10.1109/DSN.2009.5270290">https://doi.org/10.1109/DSN.2009.5270290</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/DSN.2009.5270291">Galen&nbsp;Lyle, Shelley&nbsp;Chen, Karthik&nbsp;Pattabiraman, Zbigniew&nbsp;Kalbarczyk, Ravishankar&nbsp;Iyer (2009). An End-to-End Approach for the Automatic Derivation of Application-Aware Error Detectors. <em>2009 IEEE/IFIP</em> <em>International Conference on Dependable Systems and Networks, </em>584&ndash;589.&nbsp;<a href="https://doi.org/10.1109/DSN.2009.5270291">https://doi.org/10.1109/DSN.2009.5270291</a>
+</a></li>
+<li><a href="http://dx.doi.org/10.1109/PRDC.2008.35">Daniel&nbsp;Chen, Gabriela&nbsp;Jacques-Silva, Zbigniew&nbsp;Kalbarczyk, Ravishankar&nbsp;K. Iyer, B. G. Mealey (2008).&nbsp;Error Behavior Comparison of Multiple Computing Systems: A Case Study Using Linux on Pentium, Solaris on SPARC, and AIX on POWER. <em>14th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC)</em>, 339&ndash;346.&nbsp;<a href="http://dx.doi.org/10.1109/PRDC.2008.35">http://dx.doi.org/10.1109/PRDC.2008.35</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/TR.2007.909758">Long Wang, Zbigniew Kalbarczyk, Weining Gu, Ravishankar K. Iyer (2007). Reliability MicroKernel: Providing Application-Aware Reliability in the OS. <em>IEEE Transactions on Reliability, 56</em>(4), 597-614.&nbsp;<a href="https://doi.org/10.1109/TR.2007.909758">https://doi.org/10.1109/TR.2007.909758</a>
+</a></li>
+<li><a href="http://dx.doi.org/10.1109/TMC.2007.250670">Claudio Basile, Zbigniew Kalbarczyk, Ravishankar K. Iyer (2007).&nbsp;Inner-Circle Consistency for Wireless Ad Hoc Networks. <em>IEEE Transactions on Mobile Computing, 6</em>(1), 39-55.&nbsp;<a href="http://dx.doi.org/10.1109/TMC.2007.250670">http://dx.doi.org/10.1109/TMC.2007.250670</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/MSP.2007.23">Ravishankar K. Iyer, Zbigniew Kalbarczyk, Karthik Pattabiraman, William Healey, Wen-mei W. Hwu, Peter Klemperer, Reza Farivar (2007). Toward Application-Aware Security and Reliability. <em>IEEE Security &amp; Privacy, 5</em>(1), 57-62.&nbsp;<a href="https://doi.org/10.1109/MSP.2007.23">https://doi.org/10.1109/MSP.2007.23</a>&nbsp;
+</a></li>
+<li><a href="https://doi.org/10.1109/TPDS.2006.56">Claudio&nbsp;Basile, Zbigniew&nbsp;Kalbarczyk, Ravishankar K. Iyer (2006). Active Replication of Multithreaded Applications. <em>IEEE Transactions on Parallel and Distributed Systems, 17</em>(5), 448-465.&nbsp;<a href="https://doi.org/10.1109/TPDS.2006.56">https://doi.org/10.1109/TPDS.2006.56</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/TDSC.2005.10">Ravishankar K. Iyer&nbsp;(2006). Editorial: State of the Journal Address.&nbsp;<em>IEEE Transactions on Dependable and Secure Computing, 2</em>(1), 1-1. <a href="https://doi.org/10.1109/TDSC.2005.10">https://doi.org/10.1109/TDSC.2005.10</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/JPROC.2005.862473">Shuo&nbsp;Chen, Jun&nbsp;Xu, Zibigniew&nbsp;Kalbarczyk, Ravishankar K. Iyer (2005). Security Vulnerabilities: From Analysis to Detection and Masking Techniques. <em>Proceedings of the IEEE, 94</em>(2), 407-418.&nbsp;<a href="https://doi.org/10.1109/JPROC.2005.862473">https://doi.org/10.1109/JPROC.2005.862473</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/MM.2005.119">Ravishankar K. Iyer, Nithin M.&nbsp;Nakka, Zibigniew&nbsp;Kalbarczyk, Subhasish&nbsp;Mitra (2005). Recent Advances and New Avenues in Hardware-Level Reliability Support. <em>IEEE Micro, Special Issue on Reliability-Aware Microarchitecture, 25</em>(6), 18-29.&nbsp;<a href="https://doi.org/10.1109/MM.2005.119">https://doi.org/10.1109/MM.2005.119</a>
+</a></li>
+<li><a href="http://dx.doi.org/10.1109/MM.2005.104">G.P. Saggese, Nicholas J. Wang, Zbigniew&nbsp;Kalbarczyk, Sanjay&nbsp;Patel, Ravishankar K. Iyer&nbsp;(2005). An Experimental Study of Soft Errors in Microprocessors, <em>IEEE Micro, Special Issue on Reliability-Aware Microarchitecture, 25</em>(6), 30-39.&nbsp;<a href="http://dx.doi.org/10.1109/MM.2005.104">http://dx.doi.org/10.1109/MM.2005.104</a>
+</a></li>
+<li><a href="https://doi.ieeecomputersociety.org/10.1109/MIC.2005.31">Zbigniew&nbsp;Kalbarczyk, Ravishankar K. Iyer, Long&nbsp;Wang (2005). Application Fault Tolerance with Armor Middleware. <em>IEEE Internet Computing, 9</em>(2), 28-37.&nbsp;<a href="https://doi.ieeecomputersociety.org/10.1109/MIC.2005.31">https://doi.ieeecomputersociety.org/10.1109/MIC.2005.31</a>
+</a></li>
+<li><a href="https://doi.org/10.1109/TDSC.2005.10">Ravishankar K. Iyer (2005). Editorial: State of the Journal Address. <em>IEEE Transactions on Dependable and Secure Computing, 2</em>(1), 1-1.&nbsp;<a href="https://doi.org/10.1109/TDSC.2005.10">https://doi.org/10.1109/TDSC.2005.10</a>
+</a></li>
+<li>K. Whisnant, R. K. Iyer, Z. T. Kalbarczyk, P. H. Jones, D. A. Rennels, and R. Some, "The Effects of an ARMOR-based SIFT Environment on the Performance and Dependability of User Applications," IEEE Transactions on Software Engineering, vol. 30, no. 4, pp. 257-277, April 2004.
+</li>
+<li>K. Whisnant, Z. Kalbarczyk, and R.K. Iyer, "A System Model for Dynamically Reconfigurable Software," IBM Systems Journal, Special Issue on Autonomic Computing, vol. 42, no. 1, pp. 45-59, April 2003.</li>
+<li>B. Floering, Z. Kalbarczyk, and R. K. Iyer, "An Adaptive Architecture for Monitoring and Failure Analysis of High-Speed Networks," IEEE Transactions on Computers, Special Issue on Embedded Fault-Tolerant Computing Systems, October 2000</li>
+<li>S. Bagchi, Z. Kalbarczyk, R. K. Iyer, and Y. Levendel, "Design and Evaluation of Preemptive Control Signature (PECOS) Checking for Distributed Applications," IEEE Transactions on Computers, Special Issue on Embedded Fault-Tolerant Computing Systems, October 2000</li>
+<li>S. Bagchi, B. Srinivasan, K. Whisnant, Z. Kalbarczyk, and R. K. Iyer, "Hierarchical Error Detection in a Software-Implemented Fault Tolerance (SIFT) Environment," IEEE Transactions on Knowledge and Data Engineering, vol. 12, no. 2, pp. 203-224, March/April 2000.</li>
+<li>I. Lee and R. K. Iyer, "Diagnosing Rediscovered Software Problems Using Symptoms," IEEE Transactions on Software Engineering, vol. 26, no. 1, pp. 113-127, January 2000.</li>
+</ul>
+
+		<h2>Articles in Conference Proceedings</h2>
+<ul>
+<li><a href="https://dl.acm.org/doi/pdf/10.5555/3433701.3433787">Saurabh Jha , Shengkun Cui, Subho Banerjee, Tianyin Xu, Jeremy Enos, Mike Showerman, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer (2020). Live Forensics for HPC Systems: A Case Study on Distributed Storage Systems. Proceedings of the International Conference for High-Performance Computing, Networking, Storage and Analysis (SC 2020). (Best Paper Award & Best Student Paper Finalist).&#160;<a href="https://dl.acm.org/doi/pdf/10.5555/3433701.3433787">https://dl.acm.org/doi/pdf/10.5555/3433701.3433787</a>
+</a></li>
+<li><a href="https://www.usenix.org/conference/nsdi20/presentation/jha">Subho S Banerjee, Saurabh Jha , Zbigniew Kalbarczyk, Ravishankar K. Iyer (2020). Inductive Bias-driven Reinforcement Learning For Efficient Schedules in Heterogeneous Clusters. Thirty-seventh International Conference on Machine Learning (ICML 2020).
+
+</a></li>
+<li><a href="https://www.usenix.org/conference/nsdi20/presentation/jha">Jha, S., Patke, A., Brandt, J., Gentile, A., Lim, B., Showerman, M., Bauer, G., Kaplan, L., Kalbarczyk, Z., Kramer, W., & Iyer, R. (2020). Measuring congestion in high-performance datacenter interconnects. In Proceedings of the 17th USENIX Symposium on Networked Systems Design and Implementation, NSDI 2020 (pp. 37-57). (Proceedings of the 17th USENIX Symposium on Networked Systems Design and Implementation, NSDI 2020). USENIX Association.</a></li>
+<li><a href="https://ieeexplore.ieee.org/document/9153410">Kumar, R., Jha, S., Mahgoub, A., Kalyanam, R., Harrell, S., Song, X. C., Kalbarczyk, Z., Kramer, W., Iyer, R., & Bagchi, S. (2020). The Mystery of the Failing Jobs: Insights from Operational Data from Two University-Wide Computing Systems. In Proceedings - 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, DSN 2020 (pp. 158-171). [9153410] (Proceedings - 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, DSN 2020). Institute of Electrical and Electronics Engineers Inc.. https://doi.org/10.1109/DSN48063.2020.00034</a></li>
+<li>Guanpeng Li, Yiran Li, Saurabh Jha , T. Tsai, S. K. S. Hari, M. B. Sullivan, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer (2020). AV-FUZZER: Finding safety violations in autonomous driving systems. Proceedings of the IEEE International Conference on Software Reliability Engineering (ISSRE'20) (Best Paper Award 2020)</li>
+<li><a href="https://ieeexplore.ieee.org/document/9153375">Saurabh Jha, Shengkun Cui, Subho S. Banerjee, James Cyriac, Timothy Tsai, Zbigeniew Kalbarczyk, Ravishankar K. Iyer. (2020) ML-driven Malware that Targets AV Safety. Proceedings of the 2020 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2020). :113-124. doi: 10.1109/DSN48063.2020.00030 (Best Paper Award)</a></li>
+<li><a href="https://ieeexplore.ieee.org/document/9176668">Varatharajah Y, Berry B, Joseph B, Balzekas I, Kremen V, Brinkmann B, Worrell G, Iyer R. Electrophysiological Correlates of Brain Health Help Diagnose Epilepsy and Lateralize Seizure Focus. Annu Int Conf IEEE Eng Med Biol Soc. 2020 Jul;2020:3460-3464. doi: 10.1109/EMBC44109.2020.9176668. PubMed PMID: 33018748.</a></li>
+<li><a href="https://dl.acm.org/doi/10.1145/3409963.3410492">Chen, J., Banerjee, S. S., Kalbarczyk, Z. T., & Iyer, R. K. (2020). Machine learning for load balancing in the Linux kernel. In APSys 2020 - Proceedings of the 2020 ACM SIGOPS Asia-Pacific Workshop on Systems (pp. 67-74). (APSys 2020 - Proceedings of the 2020 ACM SIGOPS Asia-Pacific Workshop on Systems). Association for Computing Machinery. https://doi.org/10.1145/3409963.3410492</a></li>
+<li><a href="https://www.usenix.org/conference/osdi20/presentation/qiu">Qiu, H., Banerjee, S. S., Jha, S., Kalbarczyk, Z. T., & Iyer, R. K. (2020). FIRM: An Intelligent Fine-grained Resource Management Framework for SLO-Oriented Microservices. In 14th USENIX Symposium on Operating Systems Design and Implementation (OSDI 20) USENIX Association. https://www.usenix.org/conference/osdi20/presentation/qiu</a></li>
+<li><a href="https://ieeexplore.ieee.org/document/9098511">Krishnakant Saboo, Chang Hu, Yogatheesan Varatharajah, Ravishankar K Iyer, &#195;&#162;&#226;&#8218;&#172;&#197;&#8220;Predicting longitudinal cognitive scores using baseline imaging and clinical variables,&#195;&#162;&#226;&#8218;&#172;&#194;&#157; Proceedings of the 2020 IEEE 17th International Symposium on Biomedical Imaging (ISBI). 2020; :1326-1330. doi: 10.1109/ISBI45749.2020.9098511.</a></li>
+<li><a href="https://ieeexplore.ieee.org/document/9070292">Jha, S., Patke, A., Brandt, J., Gentile, A., Showerman, M., Roman, E., Kalbarczyk, Z. T., Kramer, B., & Iyer, R. K. (2019). A study of network congestion in two supercomputing high-speed interconnects. In Proceedings - 2019 IEEE Symposium on High-Performance Interconnects, HOTI 2019 (pp. 45-48). [9070292] (Proceedings - 2019 IEEE Symposium on High-Performance Interconnects, HOTI 2019). Institute of Electrical and Electronics Engineers Inc.. https://doi.org/10.1109/HOTI.2019.00024 (Best Student Paper Finalist)</a></li>
+<li><a href="https://ieeexplore.ieee.org/abstract/document/8717057">Saboo KV, Varatharajah Y, Berry BM, Sperling MR, Gorniak R, Davis KA, Jobst BC, Gross RE, Lega B, Smith SA, Kahana MJ, Kucewicz MT, Worrell GA, Iyer RK. A Computationally Efficient Model for Predicting Successful Memory Encoding Using Machine-Learning-based EEG Channel Selection. Proceedings 2019 9th International IEEE/EMBS Conference on Neural Engineering (NER). 2019 May; :323. doi: 10.1109/NER.2019.8717057.</a></li>
+<li>Yogatheesan Varatharaj, Krishnakant Saboo, Ravi K. Iyer, Scott Przybelski, Christopher Schwarz, Ronald Petersen, Clifford R. Jack, Prashanthi Vemuri, "A Joint Model for Predicting Structural and Functional Brain Health in Elderly Individuals", EEE BIBM 2019, November 18-21.</li>
+<li><a href="https://www.usenix.org/conference/raid2019/presentation/chung">Keywhan Chung, Ziao Li, Peicheng, Tang, Zbigniew Kalbarczpk, Ravi Iyer, Thenkurussi Kesavadas, "Smart Malware that Uses Leaked Control Data of Robotic Applications: The Case of Raven-II Surgical Robots", RAID 2019, September 23-25. &nbsp;
+</a></li>
+<li><a href="https://www.youtube.com/watch?v=01qavxHAbdY&feature=youtu.be">Artificial-Intelligence-Augmented Psychiatry with Pharmacogenomics: Towards Individualization of Antidepressant Selection in Patients with Major Depressive Disorder, American Society for Clinical Pharmacology and Therapeutics, Presidential Trainee Award to the Lead Student Author A. Athreya. 2019. </a></li>
+<li>Saurabh Jha, Michale Showerman, Jeremy Enos, Zbigniew Kalbarczyk, William Kramer, Ravishankar K. Iyer, "Kaleidoscope: Understanding and Diagnosing Filesystem Issues at Scale," SIAM Conference on Computational Science and Engineering (CSE19).</li>
+<li><a href="https://www.youtube.com/watch?v=E92_2XYLW5g">Factor Graphs Identify Sex-Specific Antidepressant Response Profiles: Citalopram/Escitalopram as Molecular Probes for Subgroups of Major Depressive Disorder Patients. American Society for Clinical Pharmacology and Therapeutics, Presidential Trainee Award to Lead Student Author A. Athreya. 2018.</a></li>
+<li>Keywhan Chung, Xiao Li, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer, Thenkurussi Kesavadas, "Fault-Injection on a Haptic Rendering Algorithm in the Raven Surgical Robot." in Workshop on Security and Dependability of Critical Embedded Real-Time Systems, IEEE, 2018. </li>
+<li>Key-whan Chung, Phuong Cao, Yuming Wu, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer, Alexander Withers:
+TRACTION: an infrastructure for trusted alert sharing and collaborative mitigation. HotSoS 2019: 27:1-27:2</li>
+<li>Keywhan Chung, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer, "Availability Attacks on Computing Systems through Alteration of Environmental Control: Smart Malware Approach." in Proceedings of the International Conference on Cyber-Physical Systems (ICCPS), IEEE/ACM, 2019,  ICCPS 2019: 1-12.</li>
+<li>Saurabh Jha, Subho Banerjee, Timothy Tsai, Siva Kumar Sastry Hari, Michael Sullivan, Zbigniew Kalbarczyk, Steve Keckler, Ravishankar K. Iyer, "ML-based Fault Injection for Autonomous Vehicles: A Case for Bayesian Fault Injection," Accepted 49th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN19), June 2019.</li>
+<li><a href="https://www.usenix.org/conference/nsdi19/presentation/cao">Phuong M. Cao, Yuming Wu, Subho S. Banerjee, Justin Azoff, Alex Withers, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer (2019), "CAUDIT: Continuous Auditing of SSH Servers To Mitigate Brute-Force Attacks", 16th USENIX Symposium on Networked Systems Design and Implementation (NDSI'19), February 26-28</a></li>
+<li><a href="http://ssbaner2.cs.illinois.edu/publications/asplos2019/Paper.pdf">Subho S. Banerjee, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer, (2019), "AcMC&#194;&#178;: Accelerated Markov Chain Monte Carlo for Probabilistic Models", to appear at the 24th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'19), April 13-17th</a></li>
+<li>Keywhan Chung, Xiao Li, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer, Thenkurussi Kesavadas, (2018), ""Fault-Injection on a Haptic Rendering Algorithm in the Raven Surgical Robot", Proceedings of the 3rd Workshop on Security and Dependability of Critical Embedded Real-Time Systems, June 25
+</li>
+<li><a href="https://research.nvidia.com/publication/2018-11_Kayotee%3A-A-Fault">Saurabh Jha, Timothy Tsai, Siva Kumar Sastry Hari, Michael Sullivan, Zbigniew Kalbarczyk, Stephen W. Keckler, Ravishankar Iyer, (2018), "Kayotee: A Fault Injection-based System to Assess the Safety and Reliability of Autonomous Vehicles to Faults and Errors", 3rd IEEE International Workshop on Automotive Reliability & Test (ART 2018), November 1-2</a></li>
+<li>Hui Lin, Zbigniew Kalbarczyk, Ravishankar K. Iyer, "Impact of Malicious SCADA Commands on Power Grids' Dynamic Responses", 2018 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), 2018, doi: 10.1109/SmartGridComm.2018.8587462</li>
+<li>Keywhan Chung, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer, "Indirect Cyber Attacks by Perturbation of Environment Control: A Data Driven Attack Model: Poster", Proceedings of the 5th Annual Symposium and Bootcamp on Hot Topics in the Science of Security (HoTSos'18), no. 21, 2018, doi: 10.1145/3190619.3191681</li>
+<li>Saurabh Jha, Subho S. Banerjee, James Cyriac, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer, "AVFI: Fault Injection for Autonomous Vehicles", Proceedings of the 48th Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W 2018), pp. 55-56. doi: 10.1109/DSN-W.2018.00027</li>
+<li>Saurabh Jha, Jim Brandt, Ann Gentile, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer, "Characterizing Supercomputer Traffic Networks Through Link-Level Analysis", Proceedings of the 2018 IEEE International Conference on Cluster Computing (CLUSTER 2018), September 10-13, doi: 10.1109/CLUSTER.2018.00072</li>
+<li>Subho S. Banerjee, Arjun P. Athreya, Zbigniew Kalbarczyk, Steven Lumetta, Ravishankar K. Iyer, "A ML-based Runtime System for Executing Dataflow Graphs on Heterogeneous Processors", Proceedings of the ACM Symposium on Cloud Computing, 2018. doi: 10.1145/3267809.3275474</li>
+<li><a href="http://delivery.acm.org/10.1145/3240000/3233582/p47-stephens.pdf?ip=192.17.100.97&id=3233582&acc=ACTIVE%20SERVICE&key=AAE16B9BF97F192F%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1550688288_d4c30d314fc5b0a78a3535365d3f9c67">Zachary D. Stephens, Ravishankar K. Iyer, "Measuring the Mappability Spectrum of Reference Genome Assemblies", Proceedings of the 2018 ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics, doi: 10.1145/3233547.3233582</a></li>
+<li>A.P. Athreya, D. Neavin, M. Frye, M. Skime, R. Kaddurah-Daouk, A. Rush, W. Matson, R.K. Iyer, W. Bobo, L. Wang, R.M. Weinshilboum, &#8220;Factor Graphs Identify Sex-Specific Antidepressant Response Profiles: Citalopram/Escitalopram as Molecular Probes for Subgroups of Major Depressive Disorder Patients,&#8221; to appear in Proceedings of 2018 Annual Meeting of American Society of Clinical Pharmacology and Therapeutics. </li>
+<li>Subho S. Banerjee, Saurabh Jha, James Cyriac, Zbigniew T. Kalbarczyk, and Ravishankar K. Iyer, (2018) "Hands Off the Wheel in Autonomous Vehicles? A Systems Perspective on over a Million Miles of Field Data", DSN 2018.</li>
+<li>Varatharajah Yogatheesan, Chong Min Jin, Saboo Krishnakant, Berry Brent, Brinkmann Benjamin, Worrell Gregory, and Iyer Ravishankar. "EEG-GRAPH: A Factor Graph Based Model for Capturing Spatial, Temporal, and Observational Relationships in Electroencephalograms" To appear in Advances in Neural Information Processing Systems. 2017.</li>
+<li>Subho S. Banerjee, Mohamed el-Hadedy, Jong B. Lim, Daniel Chen, Zbigniew T. Kalbarczyk, Deming Chen and Ravishankar K. Iyer, &#8220;ASAP: Accelerated Short Read Alignment on Programmable Hardware,&#8221; FPGA 2017.</li>
+<li>Yogatheesan Varatharajah, Brent Michael Berry, Zbigniew Kalbarczyk, Benjamin Brinkmann, Gregory A. Worrell, Ravishankar Iyer, &#8220;Inter-Ictal Seizure Onset Zone Localization Using Unsupervised Clustering and Bayesian Filtering,&#8221; 8th International IEEE EMBS Neural Engineering Conference, Shanghai, China, May 25-28, 2017.</li>
+<li>B. Lim, D. Chen, Y. An, Z. Kalbarczyk, R. Iyer, &#8220;Attack-Induced, Common-Mode Failures on Industrial PLCs,&#8221; 22nd IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2017), Christchurch, New Zealand, January 22-25, 2017</li>
+<li>Sprabery, Read & J. Estrada, Zachary & Kalbarczyk, Zbigniew & Iyer, Ravishankar & B. Bobba, Rakesh & Campbell, Roy. (2017). Trustworthy Services Built on Event-Based Probing for Layered Defense. 215-225. 10.1109/IC2E.2017.36. </li>
+<li>J. Estrada, Zachary & Sprabery, Read & Yan, Lok & Yu, Zhongzhi & Campbell, Roy & Kalbarczyk, Zbigniew & Iyer, Ravishankar. (2017). Using OS Design Patterns to Provide Reliability and Security as-a-Service for VM-based Clouds. 13th ACM SIGPLAN/SIGOPS International Conference 157-170. 10.1145/3050748.3050759. </li>
+<li>Formicola, Valerio & Jha, Saurabh & Chen, Daniel & Deng, Fei & Bonnie, Amanda & Mason, Mike & Brandt, Jim & Gentile, Ann & Kaplan, Larry & Repik, Jason & Enos, Jeremy & Showerman, Mike & Greiner, Annette & Kalbarczyk, Zbigniew & Iyer, Ravishankar & Kramer, Bill. (2017). Understanding Fault Scenarios and Impacts through Fault Injection Experiments in Cielo. Cray User Group. </li>
+<li>P. Athreya, Arjun & Armstrong, Don & Gundling, William & Wildman, Derek & T. Kalbarczyk, Zbigniew & Iyer, Ravishankar. (2017). Prediction of adenocarcinoma development using game theory. Conference proceedings: ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Conference. 2017. 1668-1671. 10.1109/EMBC.2017.8037161. </li>
+<li>Jha, Saurabh & Brandt, Jim & Gentile, Ann & Bauer, Gregory & Enos, Jeremy & Showerman, Michael & Kaplan, Larry & Bode, Brett & Greiner, Annette & Bonnie, Amanda & Mason, Mike & Iyer, Ravishankar & Kramer, William & Kalbarczyk, Zbigniew. (2017). Holistic Measurement-Driven System Assessment. 10.1109/CLUSTER.2017.124. </li>
+<li>P. Athreya, Arjun & S. Banerjee, Subho & Neavin, Drew & Kaddurah-Daouk, Rima & Rush, Augustus & A. Frye, Mark & Wang, Liewei & Weinshilboum, Richard & Bobo, William & Iyer, Ravishankar. (2017). Data-driven longitudinal modeling and prediction of symptom dynamics in major depressive disorder: Integrating factor graphs and learning methods. 1-9. 10.1109/CIBCB.2017.8058559. </li>
+<li>S. S. Banerjee, M. Aly, C. Y. Tan, Z. Kalbarczyk, R. K. Iyer, S. Lumetta, &#8220;On Accelerating Pair-HMM Computations in Programmable Hardware,&#8221; International Conference on Field-Programmable Logic and Applications (FPL), Ghent, September 4 - 8, 2017</li>
+<li>D. Stephens, Zachary & Iyer, Ravishankar & Wang, Chen & A. Kocher, Jean-Pierre. (2017). Unraveling complex local genomic rearrangements from long-read data. 181-187. 10.1109/BIBM.2017.8217647. </li>
+<li>Chen, Shuo & McCutchen, Matt & Cao, Phuong & Qadeer, Shaz & Iyer, Ravishankar. (2017). SVAuth &#8211; A Single-Sign-On Integration Solution with Runtime Verification. 349-358. 10.1007/978-3-319-67531-2_21. </li>
+<li>Arjun P. Athreya, Drew Neavin, Mark A. Frye, Michelle Skime, A. John Rush, Wayne R. Matson, Liewei Wang, Rima Kaddurah-Daouk, Ravishankar K. Iyer, Richard M. Weinshilboum and William V. Bobo, "Prediction of Clinical Outcome After 4 and 8 Weeks of Citalopram/Escitalopram Therapy for Major Depression: A Data-Driven Machine Learning Approach," to appear in the proceedings of the 2017 Annual Meeting of the Society of Biological Psychiatry.</li>
+<li>Keywhan Chung, Valerio Formicola, Alexander Withers, Adam Slagell, Zbigniew T. Kalbarczyk and Ravishankar K. Iyer, &#226;&#8364;&#339;Attacking Supercomputers through Targeted Alteration of Environmental Control: A Data-Driven Case Study,&#226;&#8364;&#157; in Proceedings of the Communications and Network Security (CNS). IEEE, 2016.</li>
+<li>X. Li, H. Alemzadeh, D. Chen, Z. Kalbarczyk, R. Iyer, T. Kesavadas, &#8220;A Hardware-in-the-Loop Simulator for Safety Training in Robotic Surgery,&#8221; Proceedings of the 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2016, Daejeon, Korea, Oct. 9&#8211;14, 2016.</li>
+<li>S. S. Banerjee, A. P. Athreya, L. S. Mainzer, C. V. Jongeneel, W.-M. Hwu, Z. T. Kalbarczyk, R. K. Iyer, &#8220;Efficient and Scalable Workflows for Genomic Analyses,&#8221; Proceedings of the 7th International Workshop on Data-Intensive Distributed Computing (DIDC'16), in conjunction with the 25th International ACM Symposium on High Performance Parallel and Distributed Computing (HPDC'16), Kyoto, Japan, pp. 27&#8211;36, June 1, 2016.</li>
+<li>Zachary J. Estrada, Read Sprabery, Lok Yan, Zhongzhi Yu, Roy Campbell, Zbigniew Kalbarczyk, Ravishankar K. Iyer, &#8220;Using OS Design Patterns to Provide Reliability- and Security-as-a-Service for VM-based Clouds,&#8221; 13th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments (VEE&#8217;17); co-located with ASPLOS 2017, Xi&#8217;an, China, April 8th-9th, 2017.</li>
+<li>U. Ghosh, X. Dong, R. Tan, Z. Kalbarczyk, D. K. Y. Yau, R. K. Iyer, &#8220;A Simulation Study on Smart Grid Resilience Under Software-Defined Networking Controller Failures,&#8221; Proceedings of the 2nd ACM International Workshop on Cyber-Physical System Security, CPSS'16, Xi&#8217;ian, China, pp. 52&#8211;58, May 30, 2016.</li>
+<li>A. P. Athreya, D. Neavin, W. V. Bobo, M. A. Frye, M. Skime, R. Kaddurah-Daouk, A. J. Rush, W. Matson, R. K. Iyer, L. Wang and R. M. Weinshilboum, "Data-Driven Learning Analysis Identifies Gender Differences In Metabolomic Treatment Response Of Citalopram / Escitalopram In Major Depressive Disorder", Annual Meeting of American Society for Clinical Pharmacology and Therapeutics (ASCPT), March 2017. 2017 Presidential Trainee Award and 2017 Jason Morrow Award</li>
+<li>A. P. Athreya, A. Gaglio, J. Cairns, K. Kalari, R. Weinshilboum, L.Wang, Z. Kalbarczyk, and R. K. Iyer, "Unsupervised Single-Cell Analysis in Triple-Negative Breast Cancer: A Case Study", IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Dec 2016.</li>
+<li>A.P. Athreya, K-Y.Ngiam, Z. Luo, E.S.Tai, Z. Kalbarczyk and R.K. Iyer, "Towards Longitudinal Analysis of a Population&#8217;s Electronic Health Records using Factor Graphs", IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT), Dec 2016. Best Paper Award</li>
+<li>H. Alemzadeh, D. Chen, X. Li, T. Kesavadas, Z. Kalbarczyk, R. K. Iyer, &#8220;Targeted Attacks on Teleoperated Surgical Robots: Dynamic Model-Based Detection and Mitigation,&#8221; Proceedings of the 46th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, DSN 2016, Toulouse, France, June 28&#8211;July 1, 2016</li>
+<li>V. Badrinath Krishna, K. Lee, G. A. Weaver, R. K. Iyer, W. H. Sanders, &#8220;F-DETA: A Framework for Detecting Electricity Theft Attacks in Smart Grids,&#8221; Proceedings of the 46th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, DSN 2016, Toulouse, France, June 28&#8211;July 1, 2016.</li>
+<li>Z. Hong, Z. Kalbarczyk, R.K.Iyer, "A Data-Driven Approach to Soil Moisture Collection and Prediction," SmartComp 2016, May 18-20, St. Louis, Missouri, 2016.</li>
+<li>H. Lin, H. Alemzadeh, D. Chen, Z. Kalbarczyk, R. K. Iyer, &#226;&#8364;&#339;Safety-Critical Cyber-Physical Attacks: Analysis, Detection, and Mitigation,&#226;&#8364;&#157; Proceedings of the 2016 Symposium and Bootcamp on the Science of Security, HotSoS 2016, Pittsburgh, PA, USA, pp. 82&#226;&#8364;&#8220;89, Apr. 19&#226;&#8364;&#8220;21, 2016.</li>
+<li>R. Tan, H. H. Nguyen, E. Y. S. Foo, X. Dong, D. K. Y. Yau, Z. Kalbarczyk, R. K. Iyer, H. B. Gooi, &#226;&#8364;&#339;Optimal False Data Injection Attack Against Automatic Generation Control in Power Grids,&#226;&#8364;&#157; 2016 ACM/IEEE 7th International Conference on Cyber-Physical Systems (ICCPS), Vienna, Austria, pp. 1&#226;&#8364;&#8220;10, Apr. 11&#226;&#8364;&#8220;14, 2016.</li>
+<li>S. Jha, V. Formicola, Z. Kalbarczyk, C. Di Martino, W. Kramer, R. Iyer, &#8220;Understanding Gemini Interconnect Failovers on Blue Waters: Methodology and Tools,&#8221; Cray User Group, 2016.</li>
+<li>Z. D. Stephens, M. E. Hudson, L. S. Mainzer, M. Taschuk, M. R. Weber, R. K. Iyer, &#8220;Simulating Next-Generation Sequencing Datasets from Empirical Mutation and Sequencing Models,&#8221; GLBIO/CCBC Great Lakes Bioinformatics and the Canadian Computational Biology Conference 2016, Canadian Computational Biology Conference 2016, GLBIO/CCBC 2016, Toronto, Ontario, Canada, May 16&#8211;19, 2016.</li>
+<li>P. Cao, E. Badger, Z. Kalbarczyk, R. Iyer, &#8220;A Framework for Generation, Replay, and Analysis of Real-World Attack Variants,&#8221; 2016 Symposium and Bootcamp on the Science of Security, HotSoS 2016, Pittsburgh, PA, USA, Apr. 19&#8211;21, 2016.</li>
+<li>K. Chung, C. A. Kamhoua, K. A. Kwiat, Z. T. Kalbarczyk, R. K. Iyer, &#8220;Game Theory with Learning for Cyber Security Monitoring,&#8221; IEEE High Assurance Systems Engineering Symposium, HASE 2016, Orlando, FL, USA, Jan. 7&#8211;9, 2016.</li>
+<li>X. Dong, H. Lin, R. Tan, R. K. Iyer, Z. Kalbarczyk, &#8220;Software-Defined Networking for Smart Grid Resilience: Opportunities and Challenges,&#8221; 10th ACM Symposium on Information, Computer and Communications Security, Asia CCS '15, 1st ACM Workshop on Cyber-Physical System Security, pp. 61&#8211;68, 2015.</li>
+<li>H. Alemzadeh, D. Chen, A. Lewis, Z. Kalbarczyk, J. Raman, N. Leveson, R. Iyer, &#8220;Systems-Theoretic Safety Assessment of Robotic Telesurgical Systems,&#8221; Proceedings of the 34th International Conference on Computer Safety, Reliability, and Security, SAFECOMP 2015, Delft, The Netherlands, pp. 213&#8211;227, Sep. 22&#8211;25, 2015.</li>
+<li>Z. J. Estrada, C. Pham, F. Deng, L. Yan, Z. Kalbarczyk, R. K. Iyer, &#8220;Dynamic VM Dependability Monitoring Using Hypervisor Probes,&#8221; 2015 11th European Dependable Computing Conference (EDCC), pp. 61&#8211;72, Sep. 7&#8211;11, 2015.</li>
+<li>G. Wang, Z. J. Estrada, C. Pham, Z. Kalbarczyk, R. K. Iyer, &#8220;Hypervisor Introspection: A Technique for Evading Passive Virtual Machine Monitoring,&#8221; 9th USENIX Workshop on Offensive Technologies, WOOT '15, Washington, D.C., USA, Aug. 10&#8211;11, 2015.</li>
+<li>J. Abraham, R. Iyer, D. Gizopoulos, D. Alexandrescu, Y. Zorian, &#8220;The Future of Fault Tolerant Computing,&#8221; 2015 IEEE 21st International On-Line Testing Symposium, Halkidiki, Greece, pp. 108&#8211;109, July 6&#8211;8, 2015.</li>
+<li>C. Di Martino, S. Jha, W. Kramer, Z. Kalbarczyk, R. K. Iyer, &#8220;LogDiver: A Tool for Measuring Resilience of Extreme-Scale Systems and Applications,&#8221; Proceedings of the 5th Workshop on Fault Tolerance for HPC at eXtreme Scale, FTXS '15, Portland, OR, USA, pp.11&#8211;18, June 15&#8211;19, 2015.</li>
+<li>P. Cao, E. C. Badger, Z. T. Kalbarczyk, R. K. Iyer, A. Withers, A. J. Slagell, &#8220;Towards an Unified Security Testbed and Security Analytics Framework,&#8221; 2015 Symposium and Bootcamp on the Science of Security, HotSoS 2015, Urbana, IL, USA, art. no. 24, Apr. 21&#8211;22, 2015.</li>
+<li>P. Cao, E. Badger, Z. Kalbarczyk, R. Iyer, A. Slagell, &#8220;Preemptive Intrusion Detection: Theoretical Framework and Real-World Measurements,&#8221; 2015 Symposium and Bootcamp on the Science of Security, HotSoS 2015, Urbana, IL, USA, art. no. 5, Apr. 21&#8211;22, 2015.</li>
+<li>H. Alemzadeh, Z. Kalbarczyk, R. K. Iyer., T. Kesavadas, S. Small, J. Raman, &#8220;Simulation-Based Training for Safety Incidents: Lessons from Analysis of Adverse Events in Robotic Surgical Systems,&#8221; Abstract in the American College of Surgeons&#8217; 8th Annual Meeting of the Consortium of ACS-Accredited Education Institutes, Mar. 2015.</li>
+<li>H. Alemzadeh, D. Chen, X. Li, T. Kesavadas, Z. T. Kalbarczyk, R. K. Iyer, &#8220;Targeted Attacks on Teleoperated Surgical Robots: Dynamic Model-Based Detection and Mitigation,&#8221; 46th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, DSN 2016, Toulouse, France, June 28&#8211;July 1, 2016.</li>
+<li>V. Badrinath Krishna, K. Lee, G. A. Weaver, R. K. Iyer, W. H. Sanders, &#8220;F-DETA: A Framework for Detecting Electricity Theft Attacks in Smart Grids,&#8221; 46th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, DSN 2016, Toulouse, France, June 28&#8211;July 1, 2016.</li>
+<li>V. Badrinath Krishna, R. K. Iyer, W. H. Sanders, &#8220;ARIMA-Based Modeling and Validation of Consumption Readings in Power Grids,&#8221; Proceedings of the 10th International Conference on Critical Information Infrastructures Security, CRITIS 2015, Oct. 5&#8211;7, 2015. (CIPRNet Young CRITIS Award).</li>
+<li>C. Di Martino, Z. Kalbarczyk, W. Kramer, R. Iyer, &#8220;Measuring and Understanding Extreme-Scale Application Resilience: A Field Study of 5,000,000 HPC Application Runs,&#8221; 2015 45th IEEE/IFIP International Conference on Dependable Systems and Networks, DSN 2015, Rio de Janeiro, Brazil, pp. 25&#8211;36, June 22&#8211;25, 2015. (Chosen as one of top three papers).</li>
+<li>Catello Di Martino, Daniel Chen, Geetika Goel, Rajeshwari Ganesan, Zbigniew Kalbarczyk and Ravishankar Iyer. Analysis and Diagnosis SLA Violations in a Production SaaS Cloud. Proceedings of the 25th IEEE International Symposium on Software Reliability Engineering, Nov 3-6 2014, Naples, Italy</li>
+<li>Catello Di Martino, Zbigniew Kalbarczyk, William Kramer, Ravishankar Iyer. Measuring and understanding application resiliency at extreme scale: a study of 5,000,000 application runs. To appear in the 45th international conference on dependable systems and networks. June 23-27 2015, Rio de Janeiro, Brazil</li>
+<li>Zachary J. Estrada, Fei Deng, Zachary Stephens, Cuong Pham, Zbigniew T. Kalbarczyk, and Ravishankar K. Iyer, &#8220;Performance comparison of and tuning of virtual machines for sequence alignment software,&#8221; Scalable Computing: Practice and Experience, vol. 16, no. 1, 2015.</li>
+<li>Xinshu Dong, Hui Lin, Rui Tan, Ravishankar K. Iyer and Zbigniew T. Kalbarczyk, &#8220;Software-Defined Networking for Smart Grid Resilience: Opportunities and Challenges.&#8221;  Coordinated Science Laboratory technical report UILU-ENG-15-2203, University of Illinois at Urbana-Champaign, February 2015.</li>
+<li>H. Alemzadeh, D. Chen, Z. Kalbarczyk, R. K. Iyer, X. Li, T. Kesavadas, J. Raman, &#8220;A Software Framework for Simulation of Safety Hazards in Robotic Surgical Systems,&#8221; SIGBED Review, Special Issue on Medical Cyber Physical Systems workshop (MedicalCPS'15), CPS Week, Seattle, WA, Apr. 2015, vol. 12, no. 4, Nov. 2015.</li>
+<li>Phuong Cao, Hongyang Li, Klara Nahrstedt, Zbigniew Kalbarczyk, Ravishankar Iyer, and Adam J. Slagell. 2014. Personalized password guessing: a new security threat. In Proceedings of the 2014 Symposium and Bootcamp on the Science of Security (HotSoS '14). ACM, New York, NY, USA, , Article 22 , 2 pages. DOI=10.1145/2600176.2600198 </li>
+<li>Cuong Pham; Estrada, Z.; Phuong Cao; Kalbarczyk, Z.; Iyer, R.K., "Reliability and Security Monitoring of Virtual Machines Using Hardware Architectural Invariants," Dependable Systems and Networks (DSN), 2014 44th Annual IEEE/IFIP International Conference on , vol., no., pp.13,24, 23-26 June 2014 . (Best Paper Award and William C. Carter Award).</li>
+<li>Q. Li, H. Alemzadeh, Z. Kalbarczyk, R. K. Iyer, &#8220;A Fault-Tolerant Hardware Architecture for Robust Wearable Heart Rate Monitoring,&#8221; Proceedings of the 9th International Conference on Pervasive Computing Technologies for Healthcare, Pervasive Health&#8217;2015, Istanbul, Turkey, May 20&#8211;23, 2015.</li>
+<li>Phuong Cao, Key-whan Chung, Zbigniew Kalbarczyk, Ravishankar Iyer, and Adam J. Slagell. 2014. Preemptive intrusion detection. In Proceedings of the 2014 Symposium and Bootcamp on the Science of Security (HotSoS '14). ACM, New York, NY, USA, , Article 21 , 2 pages. </li>
+<li>Zachary J. Estrada, Zachary Stephens, Cuong Pham, Zbigniew T. Kalbarczyk, and Ravishankar K. Iyer, &#8220;A performance evaluation of sequence alignment software in virtualized environments,&#8221;in the 1st Int&#8217;l Workshop on Cloud for Bio (C4Bio), in conjunction with the 14th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing.  IEEE, 2014, pp. 730-737.</li>
+<li>Hui Lin, Adam Slagell, Zbigniew Kalbarczyk, and Ravishankar K. Iyer. 2014. Semantic Security Analysis of SCADA Networks to Detect Malicious Control Commands in Power Grids (Poster). In Proceedings of the 7th International Conference on Security of Information and Networks (SIN '14). ACM, New York, NY, USA, , Pages 492 , 4 pages. DOI=10.1145/2659651.2659746</li>
+<li>Homa Alemzadeh, Raymond Hoagland, Zbigniew T. Kalbarczyk, and Ravishankar K. Iyer, Automated Classification of Computer-based Medical Device Recalls, In Proc. of the 27th IEEE International Symposium on Computer-Based Medical Systems (CBMS), New York, NY, May 2014.</li>
+<li>G. Wang, Z. Estrada, C. Pham, Z. Kalbarczyk, R. Iyer, &#8220;Hypervisor Introspection: Exploiting Timing Side-Channels against VM Monitoring,&#8221; the 44th International Conference on Dependable Systems and Networks (DSN) 2014, Fast Abstract, Atlanta, USA</li>
+<li>R. Ramamurthy, Z. Estrada, C. Pham, Z. Kalbarczyk, R. Iyer, &#8220;Designing a Performance Isolation Benchmark for Virtualized Systems,&#8221; the 44th International Conference on Dependable Systems and Networks (DSN) 2014, Fast Abstract, Atlanta, USA</li>
+<li>Kuan-Yu Tseng, Dao Lu, Zbigniew T. Kalbarczyk, and Ravishankar K. Iyer, &#8220;AHEMS: Asynchronous Hardware-Enforced Memory Safety,&#8221; Digital System Design (DSD), 2014 17th Euromicro Conference on , vol., no., pp.183,190, 27-29 Aug. 2014.</li>
+<li>Z. J. Estrada, Z. Stephens, C. Pham, Z. Kalbarczyk, and R. K. Iyer, &#8220;A Performance Evaluation of Sequence Alignment Software in Virtualized Environments,&#8221; To appear in The 1st Int'l Workshop on Cloud for Bio (C4Bio), in conjunction with the 14th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing.</li>
+<li>H. Alemzadeh, J. Raman, N. Leveson, R. K. Iyer, &#8220;Safety Implications of Cardiothoracic Robotic Surgery: Analysis of Adverse Event Reports of da Vinci Surgical Systems,&#8221; Submitted to the Annals of Thoracic Surgery.  
+Selected as J. Maxwell Chamberlain Memorial Paper for the Adult Cardiac Surgery in the 50th Annual Meeting of the Society of Thoracic Surgeons (STS), Jan. 2014.
+</li>
+<li>Catello Di Martino, Zbigniew Kalbarczyk, Ravishankar K. Iyer, Geetika Goel, Santonu Sarkar, Rajeshwari Ganesan, &#8220;Characterization of Operational Failures from a Business Data Processing SaaS Platform,&#8221; Companion Proceedings of the 36th International Conference on Software Engineering, ICSE 2014, Hyderabad, India, pp. 195&#8211;204, May 31&#8211;June 7, 2014. </li>
+<li>C. Pham, Z. Kalbarczyk, R. Iyer, V. Dogaru, R. Wagle, C. Venkatramani, &#8220;An Evaluation of Zookeeper For High Availability in System S,&#8221; In Proceedings of the 5th International Conference on Performance Engineering (ICPE) 2014, Dublin, Ireland</li>
+<li>Hui Lin, Adam J. Slagell, Zbigniew Kalbarczyk, Peter W. Sauer, Ravishankar K. Iyer: Semantic security analysis of SCADA networks to detect malicious control commands in power grids. SEGS@CCS 2013: 29-34</li>
+<li>H. Alemzadeh, J. Raman, N. Leveson, R. K. Iyer, &#8220;Safety Implications of Robotic Surgery: A Study of 13 Years FDA Data on da Vinci Surgical Systems,&#8221; To be submitted to the Journal of American Medical Association (JAMA). CSL Technical Report, UILU-ENG-13-2208, Nov. 2013.  Featured in The Wall Street Journal, &#8220;Report Raises Concerns on Robotic Surgery Device&#8221;, Nov. 8, 2013.</li>
+<li>C. Pham, Q. Li, Z. Estrada, Z. Kalbarczyk, R. Iyer, &#8220;A Simulation Framework to Evaluate Virtual CPU Scheduling Algorithms, &#8221; In proceedings of The First International Workshop on Resource Management of Cloud Computing (CCRM) 2013 Workshop, Philadelphia, USA</li>
+<li>Keun Soo Yim, Zbigniew Kalbarczyk, Ravishankar K. Iyer: Pluggable Watchdog: Transparent Failure Detection for MPI Programs. IPDPS 2013: 489-500</li>
+<li>C. Pham, Z. Estrada, P. Cao, Z. Kalbarczyk, R. Iyer, &#8220;HyperTap: Security and Reliability Monitoring for Virtual Machines, &#8221; To appear in the 44th international conference on Dependable Systems and Networks (DSN 2014). Atlanta,GA, USA. </li>
+<li>C. Di Martino, F. Baccanico, W. Kramer, J. Fullop, Z. Kalbarczyk, R. Iyer.  Lessons Learned From the Failure Analysis of a Petascale System: the Case of Blue Waters. . To appear in the 44th international conference on Dependable Systems and Networks (DSN 2014). Atlanta,GA, USA. </li>
+<li>H. Lin, A. Slagell, C. Di Martino, Z. Kalbarczyk, and R.K. Iyer, &#8220;Adapting bro into scada: building a speci&#64257;cation-based intrusion detection system for the dnp3 protocol,&#8221; In Proc. of 8th Annual Cyber Security and Information Intelligence Research Workshop (CSIIRW 2012), Oak Ridge, TN, USA, Jan. 8&#8211;10, 2013.</li>
+<li>H. Alemzadeh, C. Di Martino, Z. Jin, Z. Kalbarczyk, and R.K. Iyer, "Towards Resiliency in Embedded Medical Monitoring Devices," Workshop on Open Resilient Human-aware Cyber-Physical Systems, in conjunction with DSN 2012.</li>
+<li>C. Pham; P. Cao; Z. Kalbarczyk and R.K. Iyer, "Toward a high availability cloud: Techniques and challenges," 2012 IEEE/IFIP 42nd International Conference on Dependable Systems and Networks Workshops (DSN-W), vol., no., pp.1-6, 25-28 June, 2012.</li>
+<li>K.S. Yim, V. Sidea, Z. Kalbarczyk, D. Chen, R.K. Iyer, "A fault-tolerant programmable voter for software-based N-modular redundancy",  Aerospace Conference, 2012 IEEE, On page(s): 1 - 20 </li>
+<li>K-Y Tseng, D. Chen, Z. Kalbarczyk, R.K. Iyer: Characterization of the error resiliency of power grid substation devices. Proceedings of the International Conference on Dependable Systems and Networks DSN 2012: 1-8, 2012</li>
+<li>A. Pecchia, D. Cotroneo, Z. Kalbarczyk, R. K. Iyer, &#8220;Improving Log-Based Field Failure Data Analysis of Multi Nodes Computing Systems,&#8221; to appear in Proceedings of the International Conference on Dependable Systems and Networks, DSN2011, Hong Kong, 2011.</li>
+<li>A. Sharma, Z. Kalbarczyk, R. Iyer, J. Barlow, &#8221;Analysis of Security Data from a Large Computing Organization,&#8221; to appear in Proceedings of the International Conference on Dependable Systems and Networks, DSN2011, Hong Kong, 2011</li>
+<li>C.Pham, D. Chen, Z. Kalbarczyk, R.K. Iyer, R. Sarkar, and R. Hosn, &#8220;CloudVal: A Framework for Validation of Virtualization Environment in Cloud Infrastructure,&#8221; to appear in Proceedings of the International Conference on Dependable Systems and Networks, DSN2011, Hong Kong, 2011.</li>
+<li>G. Jacques-Silva, Z. Kalbarczyk, B. Gedik, H. Andrade, K.-L. Wu, and R. K. Iyer, &#8220;Modeling Stream Processing Applications for Dependability Evaluation,&#8221; to appear in Proceedings of the International Conference on Dependable Systems and Networks, DSN2011, Hong Kong, 2011. (William C. Carter Award for Best Paper).</li>
+<li>K.S. Yim, C. Pham, M. Saleheen, Z. Kalbarczyk, and R.K. Iyer, "Hauberk: Lightweight Silent Data Corruption Error Detector for GPGPU," to appear in Proceedings of the IEEE International Parallel and Distributed Processing Symposium, IPDPS, Anchorage, AK, 2011</li>
+<li>K.S. Yim, D. Hreczany, and R.K. Iyer, &#8226;	"HTAF: Hybrid Testing Automation Framework to Leverage Local and Global Computing Resources," in Proceedings of the 11th International Conference on Computational Science and Applications (ICCSA 2011) Santander, Spain, June 20-23, 2011.</li>
+<li>H. Alemzadeh, M. U. Saleheen, Z. Jin, Z. Kalbarczyk, and R. K. Iyer, &#8220;RMED: A Reconfigurable Architecture for Embedded Medical Monitoring,&#8221; In Proceedings of the Fifth IEEE-NIH Life Science Systems and Applications Workshop (LiSSA&#8217;11), pp. 212-215, April 2011, Bethesda, MD.</li>
+<li>A. Sharma, Z. Kalbarczyk, R. Iyer, J. Barlow, &#8222;Analysis of Credential Stealing Attacks in an Open Networked Environment,&#8221; Int&#8217;l Conference on Network and System Security, NSS 2010, Melbourne, Australia, September 2010.</li>
+<li>M. U. Saleheen, H. Alemzadeh, A. M. Cheriyan, Z. T. Kalbarczyk, and R. K. Iyer, &#8220;An Efficient Embedded Hardware for High Accuracy Detection of Epileptic Seizures,&#8221; In Proceedings of 3rd International Conference on Biomedical Engineering and Informatics (BMEI'10), pp. 1889-1896, October 2010, China.</li>
+<li>L. Wang, Z. Kalbarczyk, R. K. Iyer, A. Iyengar, &#8220;Checkpointing Virtual Machines against Transient Errors,&#8221; Proc. of On-Line Testing Symposium, Corfu, Greece, July 2010.</li>
+<li>A.M. Cheriyan, A.O. Jarvi, Z. Kalbarczyk, T.M. Gallagher, R.K. Iyer, K.L. Watkin, "Pervasive embedded systems for detection of traumatic brain injury," Proc. ICME, 1704-1707,New York, NY, 2009.</li>
+<li>K. Pattabiraman, N. Nakka, Z. Kalbarczyk, R.K. Iyer, "Discovering Application-Level Insider Attacks Using Symbolic Execution," Proc. 24th IFIP International Information Security Conference, SEC, pp. 63-75, Brisbane, Aus,  2009.</li>
+<li>P. Dabrowski, W. Healey, K. Pattabiraman, S. Chen, Z. Kalbarczyk, and R. Iyer, &#226;&#8364;&#339;Hardware Implementation of Information Flow Signatures Derived via Program Analysis,&#226;&#8364;&#157; 2nd Workshop on Dependable & Secure Nanocomputing, organized in conjunction with Conference on Dependable Systems and Networks, DSN08, Anchorage, AK, 2008.</li>
+<li>P. Klemperer, S. Chen, K. Pattabiraman, Z. Kalbarczyk, and R. K. Iyer, FPGA Hardware Implementation of Statically-derived Application-aware Error Detectors, 1st Workshop on Dependable and Secure NanoComputing, (WDSN), Edinburgh, UK, June 2007, (co-located with DSN 2007).</li>
+<li>C.Pham, P. Cao, Z. Kalbarczyk, R.K. Iyer, &#8220;Toward a High Availability Cloud: Techniques and Challenges,&#8221; to appear in Proceedings of the International Conference on Dependable Systems and Networks, DSN2012, Boston, 2012.</li>
+<li>A. Pecchia, D. Cotroneo, Z. Kalbarczyk, R. K. Iyer, &#8220;Improving Log-Based Field Failure Data Analysis of Multi Nodes Computing Systems,&#8221; in Proceedings of the International Conference on Dependable Systems and Networks, DSN2011, Hong Kong, 2011.</li>
+<li>A. Sharma, Z. Kalbarczyk, R. Iyer, J. Barlow, &#8221;Analysis of Security Data from a Large Computing Organization,&#8221; Proceedings of the International Conference on Dependable Systems and Networks, DSN2011, Hong Kong, 2011</li>
+<li>C.Pham, D. Chen, Z. Kalbarczyk, R.K. Iyer, R. Sarkar, and R. Hosn, &#8220;CloudVal: A Framework for Validation of Virtualization Environment in Cloud Infrastructure,&#8221; Proceedings of the International Conference on Dependable Systems and Networks, DSN2011, Hong Kong, 2011.</li>
+<li>G. Jacques-Silva, Z. Kalbarczyk, B. Gedik, H. Andrade, K.-L. Wu, and R. K. Iyer, &#8220;Modeling Stream Processing Applications for Dependability Evaluation,&#8221;  Proceedings of the International Conference on Dependable Systems and Networks, DSN2011, Hong Kong, 2011. (William C. Carter Award for Best Paper).</li>
+<li>K.S. Yim, Z.T. Kalbarczyk, and R.K. Iyer, "Measurement-based Analysis of Fault and Error Sensitivities of Dynamic Memory," International Conference on Dependable Systems and Networks (DSN), Chicago, USA, pp. 431-436. 2010.</li>
+<li>G. Lyle, S. Chen, K. Pattabiraman, Z. Kalbarczyk, and R.K. Iyer, "An End-to-end Approach for the Automatic Derivation of Application-Aware Error Detectors, "International Conference on Dependable Systems and Networks (DSN), Estoril, Portugal, 2009.</li>
+<li>D. Chen, G. Jacques-Silva, Z. Kalbarczyk, R.K. Iyer, and B.G. Mealey, "Error Behavior Comparison of Multiple Computing Systems: A Case Study Using Linux on Pentium, Solaris on SPARC, and AIX on POWER," In Procedings of the IEEE Pacific Rim International Symposium on Dependable Computing (PRDC), pp. 339-346, Taipei, Taiwan, 2008.</li>
+<li>C. Basile, Z. Kalbarczyk, R. K. Iyer, &#8220;Inner-Circle Consistency for Wireless Ad Hoc Networks,&#8221; IEEE Trans. Mob. Comput., vol. 6, 1, pp. 39-55, 2007.</li>
+<li>M. Ka&#226;niche, L. Romano, Z. Kalbarczyk, R. K. Iyer, R. M. Karcich, &#8220;A Hierarchical Approach for Dependability Analysis of a Commercial Cache-Based RAID Storage Architecture,&#8221; Proc. Twenty-Eighth Annual International Symposium on Fault-Tolerant Computing, pp. 6-15, 2007.</li>
+<li>Wang, L., Kalbarczyk, Z., and Iyer, R. K. 2008. Formalizing System Behavior for Evaluating a System Hang Detector. In Proceedings of the 2008 Symposium on Reliable Distributed Systems (October 06 - 08, 2008). SRDS. IEEE Computer Society, Washington, DC, 269-278. DOI= http://dx.doi.org/10.1109/SRDS.2008.11</li>
+<li>Nikhil Pandit, Zbigniew Kalbarczyk, Ravishankar K. Iyer: Effectiveness of machine checks for error diagnostics. DSN 2009: 578-583</li>
+<li>Jean Arlat, Cristian Constantinescu, Ravishankar K. Iyer, Johan Karlsson, Michael Nicolaidis: Third workshop on dependable and secure nanocomputing. DSN 2009: 596-597</li>
+<li>Keun Soo Yim, Zbigniew Kalbarczyk, Ravishankar K. Iyer: Quantitative Analysis of Long-Latency Failures in System Software. PRDC 2009: 23-30</li>
+<li>Karthik Pattabiraman, Nithin Nakka, Zbigniew Kalbarczyk, Ravishankar K. Iyer: Discovering Application-Level Insider Attacks Using Symbolic Execution. SEC 2009: 63-75</li>
+<li>Karthik Pattabiraman, Nithin Nakka, Zbigniew Kalbarczyk, Ravishankar K. Iyer: SymPLFIED: Symbolic program-level fault injection and error detection framework. DSN 2008: 472-481 - Winner William Carter Best Paper Award</li>
+<li>Jean Arlat, Cristian Constantinescu, Ravishankar K. Iyer, Michael Nicolaidis: Second workshop on dependable and secure nanocomputing. DSN 2008: 546-547</li>
+<li>Subhasish Mitra, Ravishankar K. Iyer, Kishor S. Trivedi, James W. Tschanz: Reliable system design: models, metrics and design techniques. ICCAD 2008: 3</li>
+<li>Daniel Chen, Gabriela Jacques-Silva, Zbigniew Kalbarczyk, Ravishankar K. Iyer, Bruce G. Mealey: Error Behavior Comparison of Multiple Computing Systems: A Case Study Using Linux on Pentium, Solaris on SPARC, and AIX on POWER. PRDC 2008: 339-34</li>
+<li>Long Wang, Zbigniew Kalbarczyk, Ravishankar K. Iyer: Formalizing System Behavior for Evaluating a System Hang Detector. SRDS 2008: 269-278</li>
+<li>Nithin Nakka, Karthik Pattabiraman, Ravishankar K. Iyer: Processor-Level Selective Replication. DSN 2007: 544-553</li>
+<li>Marcello Cinque, Domenico Cotroneo, Zbigniew Kalbarczyk, Ravishankar K. Iyer: How Do Mobile Phones Fail? A Failure Data Analysis of Symbian OS Smart Phones. DSN 2007: 585-594</li>
+<li>Jean Arlat, Ravishankar K. Iyer, Michael Nicolaidis: Workshop on Dependable and Secure Nanocomputing. DSN 2007: 809-810</li>
+<li>Ravishankar K. Iyer: TRUSTED ILLIAC: A Configurable Hardware Framework for a Trusted Computing Base. HASE 2007: 3</li>
+<li>Karthik Pattabiraman, Zbigniew Kalbarczyk, Ravishankar K. Iyer: Automated Derivation of Application-aware Error Detectors using Static Analysis. IOLTS 2007: 211-216</li>
+<li>Ravishankar K. Iyer: Security vulnerabilities: from measurements to design. ASIACCS 2006: 15</li>
+<li>Claudio Basile, Meeta Gupta, Zbigniew Kalbarczyk, Ravi K. Iyer: An Approach for Detecting and Distinguishing Errors versus Attacks in Sensor Networks. DSN 2006: 473-484</li>
+<li>Karthik Pattabiraman, Giacinto Paolo Saggese, Daniel Chen, Zbigniew Kalbarczyk, Ravishankar K. Iyer: Dynamic Derivation of Application-Specific Error Detectors and their Implementation in Hardware. EDCC 2006: 97-108</li>
+</ul>
+
+		
+		<h2>Invited Lectures</h2>
+<ul>
+<li>Keynote at the 22nd IEEE Pacific Rim International Symposium on Dependable Computing (PRDC2017), "Achieving Resilience in Newer Application Domains." January 22, 2017, Christchurch, New Zealand.</li>
+</ul>
+
+		
+		<h2>Patents</h2>
+<ul>
+<li>Ravishankar K. Iyer, Haotian Chen, Yogatheesan Varatharajah. (2020). A Multi-stage Prognostic Pipeline for Tracking and Predicting Disease Escalation. This application was filed on December 2, 2020 and assigned serial number 63/120,715.</li>
+<li>Ravishankar K. Iyer, Arjun P. Athreya, Richard M. Weinshilboum, Leiwei Wang, William V. Bobo, ANALYTICS AND MACHINE LEARNING FRAMEWORK FOR ACTIONABLE INTELLIGENCE FROM CLINICAL AND OMICS DATA.&#8221;  This application was filed on Dec 15, 2017 and assigned serial number 62/599,054 </li>
+<li>Berry, Michael & Varatharajah, Yogatheesan & K&#345;emen, V&#225;clav & Iyer, Ravishankar & Brinkmann, Benjamin & Sieck, Gary & worrell, gregory. (2017). Unsupervised pathological brain identification method and apparatus using electrophysiologic biomarkers.. &#8220;Seizure Onset Zone Localization&#8221;, This application was filed May 25, 2018, assigned serial number 62/511,239.</li>
+</ul>
+
+		
+		
+		
+		<h2>Journal Editorships</h2>
+<ul>
+<li>Inaugural Editor-In-Chief, IEEE Transactions on Dependable and Secure Computing, 2003-2008</li>
+</ul>
+
+		
+		
+		
+		
+		<h2>Professional Societies</h2>
+<ul>
+<li>AAAS, Fellow</li>
+<li>IEEE, Fellow</li>
+<li>ACM, Fellow</li>
+</ul>
+
+		
+		
+		
+		
+		
+		
+		<h2>Honors</h2>
+<ul>
+<li>Paul Sabatier University/ LAAS Medal  (June 2011)</li>
+<li>Doctor Honoris Causa, Paul Sabatier University, Toulouse, France (June 2011)</li>
+<li>ACM SIGSAC Outstanding Contributions Award  (2011)</li>
+<li>IEEE Computer Society Golden Core Member (2008)</li>
+<li>Fellow of the American Association for the Advancement of Science (AAAS) (2005)</li>
+<li>IEEE Emanuel R. Piore Award  (2001)</li>
+<li>American Institute of Aeronautics and Astronautics (AIAA), Information Systems Award and Medal (1993)</li>
+<li>Humboldt Foundation Senior Distinguished US Scientist Award "in recognition of scientific achievement in research and teaching," (1991)</li>
+</ul>
+
+		<h2>Teaching Honors</h2>
+<ul>
+<li>University of Illinois List of teachers rated excellent by their students, Fall 2014, ECE 313</li>
+</ul>
+
+		<h2>Research Honors</h2>
+<ul>
+<li>IEEE Computer Society Meritorious Service Award for outstanding performance as the Founding Editor-in-Chief of IEEE Transactions on Dependable and Secure Computing, 2004-2007,  awarded 2008</li>
+<li>College of Engineering 1994, 1996 and 2001 List for Advising Excellence Award, University of Illinois</li>
+<li>Fellow, American Academy for the Advancement of Science (AAAS), 2005</li>
+<li>IBM Faculty Award, 1998, 2003, 2006, 2008, 2010, 2014</li>
+<li>AIAA Distinguished Service Award, 1997</li>
+<li>Best Paper Award for "FAMAS: Fault Modeling via Adaptive Simulation," H. Jin, R.K. Iyer, M.C. Hsueh, and M. Covington, 10th International Conference on VLSI Design, 1997.</li>
+<li>Best Paper Award for "Analyze-NOW--An Environment for Collection and Analysis of Failures in a Network of Workstations," A. Thakur and R. K. Iyer, International Symposium on Software Reliability Engineering, 1996.</li>
+<li>IEEE Computer Society 1995 commemorative volume highlighting the best papers of the past 25 years in fault-tolerant computing: "A Statistical Load Dependency Model for CPU Errors at SLAC," R. K. Iyer and D. J. Rossetti (1982) and "Simulation of Software Behavior under Hardware Faults," K. Goswami and R. K. Iyer (1993).</li>
+<li>Information Systems Award and Medal "for fundamental and pioneering contributions toward the design, evaluation and validation of dependable aerospace computing systems", American Institute for Aeronautics and Astronautics (AIAA), 1993</li>
+<li>Associate Fellow, American Institute for Aeronautics and Astronautics (AIAA), 1992</li>
+<li>Humboldt Foundation Senior US Scientist Award for Excellence in Research and Teaching, 1991</li>
+<li>Senior Humboldt Award, 1991</li>
+<li>Fellow, Association for Computing Machinery (ACM)</li>
+<li>Fellow, IEEE, 1990</li>
+<li>Distinguished Visitor of the IEEE Computer Society, 1989-present</li>
+<li>Keynote Address, International Conference on Computing Systems and Information Technology, Sydney, Australia, August 1989</li>
+<li>Outstanding Contribution Award, 19th International Symposium on Fault-Tolerant Computing, June 1989</li>
+<li>Keynote Speaker, International Workshop on Fault-Tolerant Computing, Melbourne, Australia, July, 1985</li>
+<li>Member, Sigma Xi Honor Society, 1980</li>
+<li>CSIRO (Commonwealth Scientific and Industrial Research Organization), Australia, Postdoctoral Research Award, 1978; five/six awards encompassing mathematics, science, and engineering</li>
+<li>Royal Norwegian Council for Scientific and Industrial Research Fellowship, 1977 (for work at the Norwegian Institute of Technology, Trondheim; ten awards encompassing science and engineering)</li>
+<li>International prize and plaque for a graduate research paper, IEEE Student Paper Contest, 1977 (two prizes awarded internationally)</li>
+</ul>
+
+		
+		
+		
+		<h2>Courses Taught - Last Four Years</h2>
+<ul><li>CS 498 - Data Science & Analytics</li>
+<li>CS 536 - Fault-Tolerant Dig Syst Design</li>
+<li>ECE 313 - Probability with Engrg Applic</li>
+<li>ECE 314 - Probability in Engineering Lab</li>
+<li>ECE 498 - Data Science & Analytics</li>
+<li>ECE 542 - Fault-Tolerant Dig Syst Design</li>
+<li>ECE 598 - Dependable AI Systems</li>
+</ul>
+	</div>
+
+
+</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile w110 white-box   py-5 " id="tile7058" data-tileid="7058" >
+	<div class="lower     " id="lower7058">
+		<div class="row">
+			<div class="col-md column1      " >
+				<h2 class="text-center">Related News</h2>
+<div id="faculty-news" class="tile-list"><section class="tile news w25 platinum-box" id="page16739" data-pageid="16739" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=12050);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/phd-students-win-highly-competitive-fellowships-from-industry">PhD Students Win Highly Competitive Fellowships from Industry</a></h2>
+				<p class="first"><a href="/news">News</a> | July 28, 2020</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile news w25 platinum-box" id="page5947" data-pageid="5947" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=10005);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/how-machine-learning-crafting-precision-medicine">How Machine Learning Is Crafting Precision Medicine</a></h2>
+				<p class="first"><a href="/news">News</a> | March 6, 2019</p>
+			</div>
+		</div>
+	</div>
+</section>
+</div>
+<p>&nbsp;</p>
+<p class="text-center"><a class="button orange loader" href="#" data-target="faculty-news" data-template="81" data-bookid="81" data-return="4" data-filter-field="netid" data-filter-value="rkiyer">Load more news</a></p>
+			</div>
+		</div>
+	</div>
+</section>
+
+						</div>
+					</div>
+				</main>
+			</div>
+
+			<footer>
+							<div class="container-fluid maxwidth1140">
+				<div class="row pt-5 pb-3">
+					<div class="col-lg-5 mb-5">
+						<div class="campus_wordmark"><a href="http://illinois.edu/"><img src="https://ws.engr.illinois.edu/images/uiuc-footer-wordmark.png" alt="University of Illinois Urbana Champaign"></a></div>
+					</div>
+
+					<div class="col-lg-7 mb-4 socials">
+						<a href="https://www.facebook.com/CSatIllinois/"><i class="fab fa-facebook-f"></i><span class="sr-only">Facebook</span></a>
+						<a href="https://twitter.com/IllinoisCS"><i class="fab fa-twitter"></i><span class="sr-only">Twitter</span></a>
+						<a href="https://www.youtube.com/user/IllinoisCS"><i class="fab fa-youtube"></i><span class="sr-only">YouTube</span></a>
+						<a href="https://www.linkedin.com/school/illinoiscs"><i class="fab fa-linkedin-in"></i><span class="sr-only">LinkedIn</span></a>
+						<a href="https://www.instagram.com/illinoiscs/"><i class="fab fa-instagram"></i><span class="sr-only">Instagram</span></a>
+						<div class="w-100 d-block d-lg-none"></div>
+						<a href="/about/contact-us" class="button">Contact Us</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="container-fluid maxwidth1140">
+				<div class="row pb-5 justify-content-between">
+					<div class="col-md pr-xl-5 mb-5 college_container">
+
+						<div class="contact">
+							<p><span class="fs150x"><a href="https://cs.illinois.edu">Thomas M. Siebel Center for Computer Science</a></span><br />
+                                                       201 North Goodwin Avenue MC 258<br />
+                                                        Urbana, IL 61801-2302<br />
+                                                         ph: 217-333-3426 (general) | 217-333-4428 (advising) <br />
+                                                         fax: 217-333-3501</p>
+                                                        <p> General email: <a href="mailto:admin@cs.illinois.edu">admin@cs.illinois.edu</a><br />
+                                                         Graduate Advising: <a href="mailto:academic@cs.illinois.edu">academic@cs.illinois.edu</a><br />
+                                                         Undergraduate Advising: <a href="mailto:undergrad@cs.illinois.edu">undergrad@cs.illinois.edu</a><br />
+                                                          Webmaster: <a href="mailto:grainger-marcom@illinois.edu?subject=CS Request">grainger-marcom@illinois.edu</a></p>
+							<p><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a><br />
+							<a href="https://illinois.edu">University of Illinois</a></p>
+
+						</div>
+					</div>
+
+
+					<div class="col-md pr-xl-5 my-5 concentrations">
+                                 	
+					</div>
+				</div>
+			</div>
+
+				<div class="container-fluid" id="legal">
+					<div class="row justify-content-md-center align-items-center py-4">
+
+						<div class="col-md-auto">
+							<div><button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Preferences</button></div>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Copyright &copy; 2021 University of Illinois Board of Trustees</p>
+						</div>
+
+						<div class="col-md-auto">
+							<p><a href="https://grainger.illinois.edu/cookie-policy">Cookie Policy</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy</a></p>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Powered by <a href="https://my.engr.illinois.edu/sitemanager/editpage.asp?id=11846">SiteManager</a> | <a href="mailto:grainger-marcom@illinois.edu">Contact Webmaster</a></p>
+						</div>
+					</div>
+				</div>
+
+				<div id="gototop" class="hidden">
+					<a href="#"><i class="fa fa-chevron-up"></i><span class="sr-only">Go to top</span></a>
+				</div>
+			</footer>
+		</div>
+
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+		<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax-video.min.js"></script>
+		<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+		<script src="https://cdn.datatables.net/responsive/2.2.5/js/dataTables.responsive.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.0/circle-progress.min.js'></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/twbs-pagination/1.4.2/jquery.twbsPagination.min.js'></script>
+		<script src="https://ws.engr.illinois.edu/sitemanager/genscripts.js?v=2.660.676"></script>
+		<script src="/js/scripts.js?v=0.27"></script>
+
+		<script async="async" src="https://enroll.illinois.edu/ping"></script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-9571262-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-9571262-1');
+</script>
+
+		
+	</body>
+</html>
+
+

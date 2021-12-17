@@ -1,0 +1,1653 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Klara Nahrstedt
+ | Computer Science | UIUC</title>
+		<link rel="shortcut icon" type="image/x-icon" href="//ws.engr.illinois.edu/images/favicon.ico">
+
+		<meta name="description" content="Klara Nahrstedt
+">
+		<meta name="author" content="Grainger Engineering Office of Marketing and Communications">
+
+		<!-- meta tags for mobile devices -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">  
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+				<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="26be7d61-2017-4ea7-8a8b-8f1704889763"></script>
+		<script type="text/javascript"> function OptanonWrapper() { } </script>
+
+		<meta property="og:type" content="article" />
+<meta property="og:title" content="Klara Nahrstedt
+" />
+<meta property="og:description" content="Klara Nahrstedt
+" />
+<meta property="og:url" content="https://cs.illinois.edu/about/people/all-faculty/*" />
+<meta property="og:image" content="https://ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=12050" />
+
+
+		<!-- fonts -->
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i,900,900i%7cBarlow+Condensed%7cPlayfair+Display%7cMontserrat:400,500,600,700,800%7cFjalla+One%7cLexend+Exa%7cMontserrat+Alternates:400,700">
+		<script src="https://kit.fontawesome.com/64a62210ef.js"></script>
+
+		<!-- stylesheets -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.5/css/responsive.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://ws.engr.illinois.edu/sitemanager/gensite.css?v=2.671.281">
+		<link rel="stylesheet" type="text/css" href="/css/styles.css?v=0.19">
+
+				<!-- Global site tag (gtag.js) - Google Ads: 1011414001 -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1011414001"></script>
+		<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-1011414001'); </script> 
+		<!-- Event snippet for Outbound Google Ads click conversions -->
+		<script> function gtag_report_conversion(url) {var callback = function () {if (typeof(url) != 'undefined') {window.location = url;}};gtag('event', 'conversion', {'send_to': 'AW-1011414001/YNxnCM-1kfMBEPHno-ID','event_callback': callback});return false;} </script>
+		
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	</head>
+
+	<body class="site prod about people all-faculty klara  isattop theme_dagobah" data-sidebar="" data-sidebarskip="[sidebarskip]" data-sidebarinclude="[sidebarinclude]">
+		<div id="page">
+			
+			<header>
+				<div id="skiptocontent"><a href="#content">skip to main content</a></div>
+
+				<div class="container-fluid campus">
+					<div class="row mx-auto maxwidth1140">
+						<div class="col p-0">
+							<a href="http://illinois.edu/"><span>University of Illinois Urbana-Champaign</span></a>
+						</div>
+						<div id="featurelinks" class="col p-0 text-right">
+							<ul>
+	<li><a href="/alumni">Alumni</a></li>
+	<li><a href="/corporate">Corporate</a></li>
+       <li><a href="/about/people">People</a></li>
+	<li><a href="https://my.cs.illinois.edu">My.CS</a></li>
+</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="container-fluid site">
+					<div class="row wordmark d-flex flex-nowrap align-items-center">
+						<div class="d-flex flex-fill pr-3">
+							<div class="blocki"><a href="https://illinois.edu">University of Illinois at Urbana-Champaign</a></div>
+							<div class="site_identification">
+								<div class="parent_name"><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a></div>
+								<div class="site_name"><a href="/"><span>Computer Science</span></a></div>
+							</div>
+						</div>
+
+						<div class="d-flex align-items-center">
+							<div id="header-search-container" class="d-none d-lg-block site-search">
+								<form class="form-inline" method="get" action="/search" id="search-form">
+									<div class="input-group">
+										<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="header-search-go-button">
+										<div class="input-group-append">
+											<a href="/search" onclick="$('#header-search-container form').submit(); return false;" class="input-group-text" id="header-search-go-button"><i class="far fa-search"></i><span class="sr-only">Search</span></a>
+										</div>
+									</div>
+								</form>	
+							</div>
+
+							<div id="mainnav-toggler-container">
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainnav" aria-controls="mainnav" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="icon"></span> <span class="label sr-only">Menu</span>
+								</button>
+							</div>
+						</div>
+					</div>
+					<nav class="navbar navbar-expand-lg p-0">
+<div class="collapse navbar-collapse" id="mainnav">
+<form class="d-block d-lg-none" method="get" action="/search" id="mobile-search-form">
+<div class="form-row p-3">
+<div class="col">
+<div class="input-group">
+<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="mobile-search-go-button">
+<div class="input-group-append">
+<a href="/search" onclick="$('#mobile-search-form').submit(); return false;" class="input-group-text" id="mobile-search-go-button"><i class="far fa-search" aria-hidden="true"></i><span class="sr-only">Search</span></a>
+</div>
+</div>
+</div>
+</div>
+</form>
+<ul class="navbar-nav w-100">
+<li class="dropdown mega twocol nav-item">
+<a href="/about" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>About</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-about">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/about">About</a></h2>
+<ul class="about ">
+<li><a href="/about/cs-cares">CS CARES Committee</a></li>
+<li><a href="/about/values">Values & Code of Conduct</a></li>
+<li><a href="/about/statistics">Rankings & Statistics</a></li>
+<li><a href="/about/contact-us">Contact Us & Directions</a></li>
+<li class="dropdown"><a href="/about/people">People</a><ul class="people ">
+<li><a href="/about/people/all-faculty">All Faculty</a></li>
+<li><a href="/about/people/department-faculty">Department Faculty</a></li>
+<li><a href="/about/people/affiliate-faculty">Affiliate Faculty</a></li>
+<li><a href="/about/people/adjunct-faculty">Adjunct Faculty</a></li>
+<li><a href="/about/people/postdocs">Postdocs</a></li>
+<li><a href="/about/people/emeritus-faculty">Emeritus Faculty</a></li>
+<li class="dropdown"><a href="/about/people/staff">Staff</a><ul class="staff ">
+<li><a href="/about/people/staff/office-department-head">Office of the Department Head</a></li>
+<li><a href="/about/people/staff/communications-engagement-team">Communications &amp; Engagement Team</a></li>
+<li><a href="/about/people/staff/undergraduate-advising-office">Undergraduate Advising Office</a></li>
+<li><a href="/about/people/staff/graduate-advising-office">Graduate Advising Office</a></li>
+<li><a href="/about/people/staff/instructional-development-team">Instructional Development Team</a></li>
+<li><a href="/about/people/staff/business-office">Business Office</a></li>
+<li><a href="/about/people/staff/faculty-support-contacts">Faculty Support Contacts</a></li>
+<li><a href="/about/people/staff/facilities-shipping-and-receiving">Facilities, Shipping and Receiving</a></li>
+</ul>
+</li>
+<li><a href="/about/people/graduating-phd-students">Graduating PhD Students</a></li>
+<li><a href="/about/people/recent-phd-alumni">Recent PhD Alumni</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/positions">Open Positions</a><ul class="positions ">
+<li><a href="/about/positions/faculty-positions">Faculty Positions</a></li>
+<li><a href="/about/positions/postdoctoral">Postdoctoral Positions</a></li>
+<li><a href="/about/positions/staff-positions">Staff Positions</a></li>
+<li><a href="/about/positions/choose-illinois-computer-science">Choose Illinois Computer Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/calendar">Calendar</a><ul class="calendar ">
+<li><a href="/about/calendar/all">All Events</a></li>
+<li><a href="/about/calendar/corporate">Corporate Events</a></li>
+<li><a href="/about/calendar/department">Department Events</a></li>
+<li><a href="/about/calendar/graduate">Graduate Events</a></li>
+<li><a href="/about/calendar/outreach">Outreach Events</a></li>
+<li><a href="/about/calendar/speakers">Speakers</a></li>
+<li><a href="/about/calendar/student-groups">Student Group Events</a></li>
+<li><a href="/about/calendar/undergraduate">Undergraduate Events</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards">Awards</a><ul class="awards ">
+<li><a href="/about/awards/celebration">Celebration of Excellence</a></li>
+<li class="dropdown"><a href="/about/awards/faculty-awards">Faculty Awards</a><ul class="faculty-awards ">
+<li><a href="/about/awards/faculty-awards/chairs-and-professorships">Chairs and Professorships</a></li>
+<li><a href="/about/awards/faculty-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/faculty-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards/undergraduate-scholarships-awards">Undergraduate Scholarships &amp; Awards</a><ul class="undergraduate-scholarships-awards ">
+<li><a href="/about/awards/undergraduate-scholarships-awards/shieh-li-scholarship">Ruey-Feng Shieh Li Family Scholarship</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/graduate-fellowships-awards">Graduate Fellowships &amp; Awards</a></li>
+<li class="dropdown"><a href="/about/awards/alumni-awards">Alumni Awards</a><ul class="alumni-awards ">
+<li><a href="/about/awards/alumni-awards/alumni-awards-past-recipients">Alumni Awards Past Recipients</a></li>
+<li><a href="/about/awards/alumni-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/alumni-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/staff-awards">Staff Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/history-timeline">History Timeline</a></li>
+<li><a href="/about/accreditation">Accreditation</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/admissions" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Admissions</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-admissions">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/admissions">Admissions</a></h2>
+<ul class="admissions ">
+<li class="dropdown"><a href="/admissions/undergraduate">Undergraduate Admissions</a><ul class="undergraduate ">
+<li><a href="https://admissions.illinois.edu/apply">Apply Now</a></li>
+<li><a href="/academics/undergraduate/degree-program-options">Degree & Program Options</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/dates">Application Deadlines</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/process">Applications Process & Requirements</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+<li><a href="https://www.housing.illinois.edu">Housing</a></li>
+<li><a href="/about-us/accreditation">Accreditation</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/admissions/graduate">Graduate Admissions</a><ul class="graduate ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+<li class="dropdown"><a href="/admissions/graduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/admissions/graduate/degree-program-options/professional-master-computer-science-mcs-program">Professional Master of Computer Science (MCS) Program</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-deadlines">Application Deadlines</a></li>
+<li class="dropdown"><a href="/admissions/graduate/applications-process-requirements">Applications Process &amp; Requirements</a><ul class="applications-process-requirements ">
+<li><a href="/admissions/graduate/applications-process-requirements/additional-required-application-materials">Additional Required Application Materials for International Students</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/application-fee-waivers">Application Fee Waivers</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/data-structures-proficiency-exam">Data Structures Proficiency Exam</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-checklist">Application Checklist</a></li>
+<li class="dropdown"><a href="/admissions/graduate/faqs">FAQs</a><ul class="faqs ">
+<li><a href="/admissions/graduate/faqs/ican-faqs">iCAN FAQs</a></li>
+<li><a href="/admissions/graduate/faqs/online-mcs-faqs">Online MCS FAQs</a></li>
+</ul>
+</li>
+<li><a href="https://choose.illinois.edu/apply/">Check Application Status</a></li>
+</ul>
+</li>
+<li><a href="/admissions/impact-illinois-cs-degree">Impact of an Illinois CS Degree</a></li>
+<li><a href="/admissions/financial-aid">Financial Aid</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/academics" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Academics</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-academics">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/academics">Academics</a></h2>
+<ul class="academics ">
+<li class="dropdown"><a href="/academics/undergraduate">Undergraduate Academics</a><ul class="undergraduate ">
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/academics/undergraduate/degree-program-options/bs-computer-science">B.S. in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-mathematics-computer-science">B.S. in Mathematics &amp; Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-statistics-computer-science">B.S. in Statistics &amp; Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs">CS + X Degree Programs</a><ul class="cs-x-degree-programs ">
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-advertising">Computer Science + Advertising</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-animal-sciences">Computer Science + Animal Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-anthropology">Computer Science + Anthropology</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-astronomy">Computer Science + Astronomy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-chemistry">Computer Science + Chemistry</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-crop-sciences">Computer Science + Crop Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-economics">Computer Science + Economics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-geography">Computer Science + Geography &amp; Geographic Information Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-linguistics">Computer Science + Linguistics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-music">Computer Science + Music</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-philosophy">Computer Science + Philosophy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/cs-x-degree-requirements">CS + X Degree Requirements &amp; Planning Forms</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-undergraduate-degree-options-faq">CS Undergraduate Degree Options FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/registration">Registration</a><ul class="registration ">
+<li><a href="/academics/undergraduate/registration/cs-course-restrictions-enrollment-caps">CS Course Restrictions &amp; Enrollment Caps</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/policies-and-procedures">Policies and Procedures</a></li>
+<li><a href="/academics/undergraduate/undergraduate-advising">Undergraduate Advising</a></li>
+<li><a href="/academics/undergraduate/cs-student-opportunity-series-cs-sos">CS Student Opportunity Series (CS SOS)</a></li>
+<li><a href="/academics/undergraduate/undergraduate-forms">Undergraduate Forms</a></li>
+<li><a href="/academics/undergraduate/honors">Honors</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate">Graduate Academics</a><ul class="graduate ">
+<li class="dropdown"><a href="/academics/graduate/phd-program">PhD Program</a><ul class="phd-program ">
+<li><a href="/academics/graduate/phd-program/final-exam-thesis-defense">Final Exam (Thesis Defense)</a></li>
+<li><a href="/academics/graduate/phd-program/guidelines-forming-phd-committee">Guidelines for Forming Ph.D. Committee</a></li>
+<li><a href="/academics/graduate/phd-program/phd-ms-thesis-format-review-guidelines">Ph.D. / M.S. Thesis Format Review Guidelines</a></li>
+<li><a href="/academics/graduate/phd-program/phd-program-study-process">PhD Program of Study Process</a></li>
+<li><a href="/academics/graduate/phd-program/phd-requirements">PhD Requirements</a></li>
+<li><a href="/academics/graduate/phd-program/phd-time-limits-milestones">PhD Time Limits &amp; Milestones</a></li>
+<li><a href="/academics/graduate/phd-program/preliminary-exam">Preliminary Exam</a></li>
+<li><a href="/academics/graduate/phd-program/qualifying-exam">Qualifying Exam</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/ms-program">MS Program</a></li>
+<li><a href="/academics/graduate/ms-bioinformatics-program">MS in Bioinformatics Program</a></li>
+<li class="dropdown"><a href="/academics/graduate/professional-mcs">Professional Master of Computer Science</a><ul class="professional-mcs ">
+<li><a href="/academics/graduate/professional-mcs/campus-master-computer-science">On-Campus Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science">Online Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science-data-science">Online Master of Computer Science in Data Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/fifth-year-masters-programs">Fifth Year Master's Programs</a><ul class="fifth-year-masters-programs ">
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-mcs-program">5-year BS-MCS Program</a></li>
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-ms-program">5-year BS-MS Program</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">Illinois Computing Accelerator for Non-Specialists (iCAN)</a><ul class="ican ">
+<li><a href="/academics/graduate/ican/application-process">iCAN Application Process</a></li>
+<li><a href="/academics/graduate/ican/curriculum">iCAN Curriculum</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources">Graduate Forms &amp; Advising Resources</a><ul class="graduate-forms-advising-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/epi-exam-requirements">EPI Exam Requirements</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-advising-contacts">Graduate Advising Contacts</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-student-annual-evaluation-process">Graduate Student Annual Evaluation Process</a></li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources">New Graduate Student Resources</a><ul class="new-graduate-student-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/mcs-campus">MCS On-Campus General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/ms-general">MS General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/phd-general">PhD General Advising for Registration</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/official-forms">Official Forms</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/academics/courses">Courses</a></li>
+<li><a href="/academics/honor-code">Honor Code</a></li>
+<li><a href="https://cs.illinois.edu/student-life/student-resources">Student Resources</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/student-life" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Student Life</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-student-life">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41390_8405" data-pageid="41390" data-tileid="8405" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=55621);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Salesforce's CodeT5 System Can Understand and Generate Code</h2>
+			<div class="description"></div>
+			<p><a href="/news/salesforces-codet5-system-can-understand-and-generate-code" class="button" title="Salesforce's CodeT5 System Can Understand and Generate Code">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 7, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/student-life">Student Life</a></h2>
+<ul class="student-life ">
+<li><a href="/student-life/overview-cs-student-life">Overview of CS Student Life</a></li>
+<li><a href="/student-life/student-organizations">Student Organizations</a></li>
+<li><a href="/student-life/department-college-and-campus-events">Department, College, and Campus Events</a></li>
+<li><a href="/student-life/student-resources">Student Resources</a></li>
+<li><a href="/student-life/career-services">Career Services</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/research" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Research</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-research">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Explore visionary research conducted by world-renowned faculty.</h2>
+<p><a class="orange button" href="/research/areas">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/research">Research</a></h2>
+<ul class="research ">
+<li class="dropdown"><a href="/research/areas">Research Areas</a><ul class="areas ">
+<li><a href="/research/areas/architecture-compilers-and-parallel-computing">Architecture, Compilers, and Parallel Computing</a></li>
+<li><a href="/research/areas/artificial-intelligence">Artificial Intelligence</a></li>
+<li><a href="/research/areas/bioinformatics-and-computational-biology">Bioinformatics and Computational Biology</a></li>
+<li><a href="/research/areas/computers-and-education">Computers and Education</a></li>
+<li><a href="/research/areas/data-and-information-systems">Data and Information Systems</a></li>
+<li><a href="/research/areas/interactive-computing">Interactive Computing</a></li>
+<li><a href="/research/areas/programming-languages-formal-methods-and-software-engineering">Programming Languages, Formal Methods, and Software Engineering</a></li>
+<li><a href="/research/areas/scientific-computing">Scientific Computing</a></li>
+<li><a href="/research/areas/security-and-privacy">Security and Privacy</a></li>
+<li><a href="/research/areas/systems-and-networking">Systems and Networking</a></li>
+<li><a href="/research/areas/theory-and-algorithms">Theory and Algorithms</a></li>
+</ul>
+</li>
+<li><a href="/research/technical-conferences-workshops">Technical Conferences &amp; Workshops</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+<li><a href="/corporate#research">Corporate Partners</a></li>
+<li><a href="https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=3146">Illinois CS Research Overview</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/broadening-participation-computing" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Broadening Participation</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-broadening-participation-computing">
+<section class="tile w50 white-box py-5 marketing">
+<p class="mb-0"><img src="//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=16163&s=375" class="image" alt="" width="375" /></p>
+<p style="padding: 10px 15px 0px 15px;">New certificate program for college graduates who want a deeper understanding of computers, algorithms, and programming.</p>
+<p><a class="orange button" href="/ican">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/broadening-participation-computing">Broadening Participation</a></h2>
+<ul class="broadening-participation-computing ">
+<li><a href="https://drive.google.com/file/d/12vDswb1i-mEXaXgVt7FOhtqYs7b8F_1p/view">BPC Departmental Plan</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs">BPC Programs & Activities for Students</a><ul class="programs ">
+<li><a href="/broadening-participation-computing/programs/csambassadors">CS Student Ambassador/Research Scholars (CS STARS)</a></li>
+<li><a href="/broadening-participation-computing/programs/cskickstart">Illinois CS Kickstart</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs/ai4all">AI4ALL</a><ul class="ai4all ">
+<li><a href="http://go.cs.illinois.edu/DiscoverAI">Apply Now</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">iCAN</a><ul class="ican ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+</ul>
+</li>
+<li><a href="http://cs.illinois.edu/research/summer-research-experience-undergraduates">Summer Research Experience for Undergraduates</a></li>
+</ul>
+</li>
+<li><a href="/broadening-participation-computing/resources">BPC Resources</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/cross-cutting">Cross-Cutting Educational Activities</a><ul class="cross-cutting ">
+<li><a href="/broadening-participation-computing/cross-cutting/conferences-workshops">BPC Conferences & Workshops</a></li>
+<li><a href="/broadening-participation-computing/cross-cutting/ca-training">Course Assistant Training</a></li>
+<li><a href="https://cs.illinois.edu/news/featured-lectures#equity-justice">Equity & Justice in Computing Seminar Series</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/broadening-participation-computing/k-12">K-12 Outreach & Resources</a><ul class="k-12 ">
+<li><a href="/broadening-participation-computing/k-12/k-12-outreach">K-12 Outreach Programs</a></li>
+<li><a href="/broadening-participation-computing/k-12/k-12-resources">K-12 Resources</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/student-life/student-organizations">Student Organizations</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/news" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>News</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-news">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41391_5367" data-pageid="41391" data-tileid="5367" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=51204);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging</h2>
+			<div class="description"><p>The Defense Advanced Research Projects Agency (DARPA) has awarded $5.8 million to a team, led by Illinois CS's <a href="/about/people/faculty/zaher">Tarek Abdelzaher</a>, that will work to characterize how different foreign populations respond to influence campaigns as a first step towards development of effective countermeasures.</p></div>
+			<p><a href="/news/abdelzaher-leading-DARPA-effort-understand-how-people-respond-influence-messaging" class="button" title="Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 8, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/news">News</a></h2>
+<ul class="news ">
+<li><a href="/news">Department News</a></li>
+<li><a href="/news/features">Feature Stories</a></li>
+<li><a href="/news/covid-19-projects">COVID-19 Projects</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/news/media-coverage">Media Coverage</a></li>
+<li><a href="/news/e-news">E-News</a></li>
+<li><a href="/news/impact-report-publications">Impact Report &amp; Publications</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/give" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Give</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-give">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Help ensure that Illinois continues to set a global standard for CS research and education.</h2>
+<p><a class="orange button" href="/give/give-now">Make a Gift</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/give">Give</a></h2>
+<ul class="give ">
+<li><a href="/give/give-now">Give Now</a></li>
+<li><a href="/give/ways-give">Ways to Give</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/give/computer-science-visionary-scholarship-donors">Computer Science Visionary Scholarship Donors</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+</ul>
+</div>
+</nav>
+
+				</div>
+			</header>
+
+			<div id="content">
+				<main>
+					<div  id="hero" class="container-fluid">
+						<div class="row maxwidth1140">
+							<div class="col">
+								<div>
+									<nav id="breadcrumbs"><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/about/people">People</a></li><li><a href="/about/people/all-faculty">All Faculty</a></li></ul></nav>
+									<h1>Klara Nahrstedt
+</h1>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					
+
+					<div id="content_inner" class="container-fluid">
+						<div class="tile-list">
+							<section class="tile w100 white-box   py-5 " id="tile6806" data-tileid="6806" >
+	<div class="lower  maxwidth1140   " id="lower6806">
+		<div class="row">
+			<div class="col-md column1      " >
+				<div>	<div class="directory-profile maxwidth800" id="article_[postid]">
+		<figure class="image align-right ">
+			<img alt="Klara Nahrstedt" title="Klara Nahrstedt" src="//ws.engr.illinois.edu/directory/viewphoto.aspx?id=4964&s=300&type=portrait" />
+			<figcaption>Klara Nahrstedt</figcaption>
+		</figure>
+
+		<!--<h2>Klara Nahrstedt</h2>-->
+		<div class="roles">
+			
+			<div><div class="role cat15 notprimary">
+<div class="title"><strong>Grainger Distinguished Chair in Engineering</strong></div>
+<!--<div class="groups"></div>-->
+<div class="phone">(217) 244-6624</div>
+<div class="email"><a href="mailto:klara@illinois.edu">klara@illinois.edu</a></div>
+<div class="office">3104 Siebel Center for Comp Sci</div>
+</div>
+</div>
+		</div>
+
+		<h2>For more information</h2>
+<ul>
+<li><a href="http://monet.cs.illinois.edu/people/klara/">Klara Nahrstedt's home page</a></li>
+</ul>
+
+		
+		<h2>Education</h2>
+<ul>
+<li>Ph.D., Computer and Information Science, University of Pennsylvania, 1995</li>
+</ul>
+
+		<h2>Biography</h2>
+<p>Klara Nahrstedt is the Grainger Distinguished Chair of Engineering Professor in the Department of Computer Science at the University of Illinois at Urbana-Champaign and is the Director of the Coordinated Science Laboratory. Her research interests are directed toward trustworthy multimedia distributed systems and networking, quality of service (QoS) and resource management in Internet and mobile systems, real-time security in wireless networks for trustworthy power grids, edge-cloud systems, cyber-physical system security for electric vehicles, health systems,  3D tele-immersive systems, and advanced edge-cloud-based cyber-infrastructures for scientific instruments. She is the recipient of the IEEE Communication Society Leonard Abraham Award for Research Achievements, the 2008 University Scholar Award, the 2009 Humboldt Research Award, the 2012 IEEE Computer Society Technical Achievement Award, and the 2014 ACM Special Interest Group on Multimedia (SIGMM) Technical Achievement Award, 2018 Robert Piloty Prize, and 2019, 2019 Tau Beta Pi Daniel C. Drucker Eminent Award in the College of Engineering, and 2020 Grainger Distinguished Chair in Engineering. She has been the editor-in-chief of the ACM/Springer Multimedia Systems journal; associate editor of the ACM Transactions on Multimedia Computing, Communications and Applications; associate editor of the IEEE Transactions on Multimedia; associate editor of the IEEE Transactions on Information Forensics & Security; associate editor of IEEE Multimedia Magazine; general co-chair of ACM Multimedia 2006;  IEEE PerCom 2009,  ACM/IEEE IOTDI 2019, and IEEE Smartgridcomm 2020. She was the elected chair of the ACM SIGMM between 2007 and 2013. Nahrstedt received her Diploma in mathematics  from Humboldt University, Berlin, Germany, in 1985. In 1995, she received her Ph.D. from the Department of Computer and Information Science at the University of Pennsylvania. She is  ACM Fellow, IEEE Fellow, AAAS Fellow and member of the Leopoldina German National Academy of Sciences.</p>
+
+		<h2>Academic Positions</h2>
+<ul>
+<li>Director, Coordinated Science Laboratory, College of Engineering, University of Illinois at Urbana-Champaign, 2015-present</li>
+<li>Full Professor, Department of Computer Science, University of Illinois at Urbana-Champaign, 2005-Present</li>
+</ul>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		<h2>Resident Instruction</h2>
+<ul>
+<li>CS538 Advanced Network Systems - PhD and MS students</li>
+<li>CS591fsn Graduate Seminar: Theoretical Foundations in Systems and Networks</li>
+<li>CS591kn Graduate Seminar Topics: Multimedia Security, Tele-immersive Systems, Multimedia Peer-to-Peer Systems, QoS Management in Distributed Systems, Special Topics on Group Communication in Cooperative Spaces, Introduction to Quantum Computing for Computer Scientists and Engineers</li>
+<li>CS241 Introduction to Operating Systems - sophomore undergraduate students</li>
+<li>CS425 Distributed Systems Design -&nbsp;senior undergraduate and first year graduate students</li>
+<li>CS423 Operating Systems Design (kernel programming) - senior undergraduate and first year graduate students (revised the course and introduced kernel programming assignments)</li>
+<li>CS598kn Advanced Topics in Multimedia Systems - PhD students</li>
+<li>CS414 Multimedia Systems -&nbsp;senior undergraduates and first year graduate students</li>
+</ul>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<h2>Research Interests</h2>
+<ul>
+<li>Tele-health, trustworthy algorithms and protocols for health-based services; mobile trustworthy services for tele-health; wearable cameras in tele-health,  reduction of visual content in health-based scenarios</li>
+<li>Multimedia Security, Quality of Security,  watermarking, ownership and protection of ownership, privacy-preserving protocols for cyber-physical systems </li>
+<li>Smart Grid, Real-time security for CPS - real-time authentication protocols for smart grids, real-time encryption, key-management for Electric Vehicles,  key management for generation and transmission networks, trustworthy protocols for critical cyber-infrastructures such as Oil and Gas. </li>
+<li>Cloud computing, edge computing -  cyber-infrastructures for scientific instruments, real-time cloud computing, micro-services and real-time control of micro-services,  edge-cloud infrastructure;  real-time micro-service placement in edge-cloud infrastructure for multi-modal data;</li>
+<li>Quality of Experience for advanced multimedia applications - QoE for Video 360, QoE metrics and measurement methodologies.</li>
+<li>3D Teleimmersion - telepresence systems with advanced multi-camera systems, advanced distribution systems and immersive delivery and display, teleimmersive environments, teleimmersive applications such as cyber-physiotherapy; multi-view content distribution protocols and algorithms; Video 360 systems; AR/VR systems.</li>
+<li>Semantic Translation between 3D teleimmersive applications and  distributed systems, QoS Brokerage in distributed systems, QoS compilation for real-time multi-modal applications. </li>
+<li>MIddleware platforms for multi-modal applications - QoS-aware service composition,  semantic translation between applications and and networks; content distribution protocols, </li>
+<li>Real-Time Resource Management for Multimedia Systems - QoS-aware Resource Management in wired and wireless networks,  Soft Real-time Scheduling, Energy-aware Multimedia Operating Systems and Network Protocols, </li>
+<li>QoS Routing - distributed QoS routing, hierarchical QoS routing, low-latency routing </li>
+<li>Network Quality of Service Management, Integration of Guaranteed and Best Effort Services for Audio/Video/DATA Traffic,  Real-Time Network Streaming and Distribution Protocols of Multi-Modal Content. </li>
+</ul>
+
+		
+		
+		<div class="extProfileAREA">
+			<h2>Research Areas</h2>
+<ul>
+<li><a href="https://cs.illinois.edu/research/areas/interactive-computing">Interactive Computing</a></li>
+<li><a href="https://cs.illinois.edu/research/areas/security-and-privacy">Security and Privacy</a></li>
+<li><a href="http://cs.illinois.edu/research/areas/systems-and-networking">Systems and Networking</a></li>
+</ul>
+
+		</div>
+		
+		
+		<h2>Books Authored or Co-Authored (Original Editions)</h2>
+<ul>
+<li>Klara Nahrstedt, <em>QoS in Wireless Networks over Unlicensed Spectrum</em>,  Morgan & Claypool Publishers, January 2012.</li>
+<li>Ralf Steinmetz and Klara Nahrstedt, <em>Multimedia Applications</em>, Springer Verlag, 2004.</li>
+<li>(!) Ralf Steinmetz and Klara Nahrstedt, <em>Multimedia Systems</em>, Springer Verlag, 2004.</li>
+<li>Ralf Steinmetz and Klara Nahrstedt, <em>Media Coding and Content Processing (Volume 1)</em>, Prentice Hall 2002.</li>
+<li>Ralf Steinmetz and Klara Nahrstedt, <em>Multimedia:  Computing, Communications and Applications</em>, Prentice Hall, July 1995.</li>
+</ul>
+
+		
+		
+		
+		<h2>Chapters in Books</h2>
+<ul>
+<li>Cheng-Hsin Hsu, Hua-Jun Hong, Tarek Elgamal, Klara Nahrstedt, Nalini Venkatasubramanian, "Multimedia Fog Computing: Minions in the Cloud and Crowd", ACM Books (ACM and Morgan&Claypool Publishers), Editor: Shih-Fu Chang,  Frontiers of Multimedia Research, Part III Multimedia Communication and Systems, Chapter 10, 2018</li>
+<li><a href="https://sites.google.com/site/mediasynchronization/book">Zixia Huang, Klara Nahrstedt, Ralf Steinmetz, "Evolution of Temporal Multimedia Synchronization Principles", Editors (Mario Montagud, Jack Jansen, Pablo Cesar) of Book 'MediaSync: Handbook on Multimedia Synchronization', Springer Verlag, 2017</a></li>
+<li>Rini Kaushik Klara Nahrstedt, "Energy-Conservation in Large Scale Data-Intensive Hadoop Compute Clusters", in <em>Green IT: Technologies and Applications</em>, Jae Kim, Myung Lee (Editors), Springer Verlag, 1st edition, 2011, XVI.</li>
+</ul>
+
+		
+		<h2>Selected Articles in Journals</h2>
+<ul>
+<li>Ghada Elbez, Hubert Keller, Atul Bohara, Klara Nahrstedt, Veit Hagenmeyer, &#8220;Detection of DoS Attacks using ARFIMA Modeling of GOOSE Communication in IEC 61850 Substations&#8221;, MPDI Publisher, Energies Journal, Section: Smart Grids and Microgrids (Impact Factor 2.702), special Issue: Cybersecurity in Smart-grids, Accepted September 2020.</li>
+<li><a href="https://dl.acm.org/doi/10.1145/3427384.3427388">Klara Nahrstedt, Zhe Yang, Tuo Yu, Patrick Su, Robert Kaufman, Ishan Shah, Steve Konstanty, Mark McCollum, John Dallesasse, "Senselet: Distributed Sensing Infrastructure for Improving Process Control and Safety in Academic Cleanroom Environments", <em> ACM SIGMOBILE GetMobile: Mobile Computing and Communications Review Magazine </em>,  2020, Vol. 24, No. 2, September 2020,  DOI: 10.1145/3427384.3427388</a></li>
+<li><a href="https://dl.acm.org/citation.cfm?doid=3361560.3351278">Tuo Yu, Klara Nahrstedt, "ShoesHacker: Indoor Corridor Map and User Location Leakage Through Force Sensors in Smart Shoes", <em> ACM PACM on Interactive, Mobile, Wearable and Ubiquitous Technologies </em>,  Volume: 3, Issue: 3, September 2019, DOI: 10.1145/3351278</a></li>
+<li><a href="https://ieeexplore.ieee.org/document/8894398">Haiming Jin, Baoxiang He, Lu Su, Klara Nahrstedt, Xinbing Wang, "Data-Driven Pricing for Sensing Effort Elicitation in mobile Crowd Sensing Systems", <em>  IEEE/ACM Transactions on Networking </em>, Vol. 26, Issue 6, pp. 2208-2221, December 2019, DOI: 10.1109/TNET.2019.2938453 . </a></li>
+<li><a href="https://ieeexplore.ieee.org/document/8695872">Tuo Yu, Haiming Jin, Klara Nahrstedt, "Mobile Devices based Eavesdropping of Handwriting",  <em> IEEE Transactions on Mobile Computing </em>, April 23, 2019, DOI: 10.1109/TMC.2019.2912747</a></li>
+<li><a href="https://ieeexplore.ieee.org/document/8643410">Michael Zink , Ramesh Sitaram, Klara Nahrstedt, "Scalable 360&#176; Video Stream Delivery: Challenges, Solutions and Opportunities", <em> Proceedings of the IEEE </em>, Volume: 107, Issue: 4, April 2019, <strong>DOI:</strong><a href="https://doi.org/10.1109/JPROC.2019.2894817" target="_blank">10.1109/JPROC.2019.2894817</a>.</a></li>
+<li><a href="https://dl.acm.org/citation.cfm?id=3314418">Tuo Yu, Haiming Jin, Klara Nahrstedt, "ShoesLoc: In-Shoe Force Sensor-Based Indoor Walking Path Tracking", <em> ACM PACM on Interactive, Mobile, Wearable and Ubiquitous Technologies </em>, Volume: 3, Issue: 1,  March 2019,  DOI: 10.1145/3314418</a></li>
+<li><a href="https://ieeexplore.ieee.org/document/8438556"> Haiming, Jin, Lu Su, Houping X, Klara Nahrstedt, "Incentive Mechanism for Privacy-Aware Data Aggregation in Mobile Crowd Sensing Systems",  <em>  ACM/IEEE Transactions on Networking </em>, Volume 26, Issue 5, October 2018, DOI: 10.1109/TNET.2018.2840098</a></li>
+<li><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8453021">Haiming Jin, Lu Su, Danyang Chen, Hongpeng Guo, Klara Nahrstedt, Jinhui Xu, "Thanos: Incentive Mechanism with Quality Awareness for Mobile Crowd Sensing",  <em> IEEE Transactions on Mobile Computing </em>, PP(99):1-1, August 2018, DOI: 10.1109/TMC.2018.2868106</a></li>
+<li><a href="https://ieeexplore.ieee.org/document/7404052"> Hongyang Li, Gyorgy Dan, Klara Nahrstedt, "Portunes+: privacy preserving fast authentication for dynamic electric vehicle charging", <em> IEEE Transactions on Smart Grid </em>, February 2016, Volume: PP, Issue 99; DOI: 10.1109/TSG.2016.2522379</a></li>
+<li>Suleyman Uludag, King-Shan Lui, Wenyu Ren, Klara Nahrstedt, "Secure and Scalable Data Collection with Time Minimization in the Smart Grid", <em> IEEE Transactions on Smart Grid </em>, Vol. 7, No. 1, January 2016, DOI: 10.1109/TSG.2015.2404534 </li>
+<li>Shannon Chen, Zhenhuan Gao, Klara Nahrstedt, Indranil Gupta, "3DTI Amphitheater: Towards 3DTI Broadcasting", <em> ACM Transactions on Multimedia (TOMM) </em>, Vol.11, No.2s, Article 47, February 2015 (DOI: DOI: 10.1145/2700297)</li>
+<li>Long Vu,  Phuong Nguyen, Klara Nahrstedt, Bjorn Richerzahen, "Characterizing and Modeling People Movement from Mobile Phone Sensing Traces Pervasive and Mobile Computing", <em> Elsevier Pervasive and Mobile Computing Journal </em>, 17, 2015.</li>
+<li>Zixia Huang, Klara Nahrstedt, Ralf Steinmetz, "Evolution of Temporal Multimedia Synchronization Principles: A Historical Viewpoint, <em> ACM Transactions on Multimedia Computing, Communications, and Applications (TOMCCAP) </em>, Vol. 9, Issue 1s, 20th SIGMM Anniversary Special Issue, October 2013. </li>
+<li>Shu Shi, Klara Nahrstedt,  Roy Campbell "A Real-Time Remote Rendering System for Interactive Mobile Graphics", <em> ACM Transactions on Multimedia Computing, Communications, and Applications (TOMCCAP) </em>, Vol. 8, Issue 3s, September 2012</li>
+<li>Wanmin Wu, Ahsah Arefin, Gregorij Kurillo, Pooja Agarwal, Klara Nahrstedt, Ruzena Bajcsy,  "CZLoD: A Psychophysical Approach for Real-Time Processing of 3D Tele-immersive Video", <em> ACM Transactions on Multimedia Computing, Communications and Applications (TOMCCAP) </em>, Volume 8, Issue 3s, September 2012</li>
+<li>Wanmin Wu, Ahsan Arefin, Gregorij Kurillo, Pooja Agarwal, Klara Nahrstedt, Ruzena Bajcsy,  "Color-plus-depth level-of-detail in 3D teleimmersive video: Psychophysical approach", <em> ACM Transactions on Multimedia Computing, Communications and Applications (TOMCCAP) </em>, Vol. 8, Issue 3s, 2012 (ACM Computing Reviews Notable Computing Books and Articles of 2012).</li>
+<li><a href="http://dx.doi.org/10.1016/j.pmcj.2011.07.004">Long Vu, Quang Do, Klara Nahrstedt, "Jyotish: Constructive Approach for Context Predictions of People Movement from Joint WiFii/Bluetooth Trace",  <em> Elsevier Pervasive and Mobile Computing Journal </em>, Volume 7, Issue 6, December 2011, Pages 690-704.</a></li>
+<li>Ram Vasudevan, Gregorij Kurillo, Edgar Lobaton, Ruzena Bajcsy, Klara Nahrstedt, "High Quality Visualization for Geographically Distributed 3D Teleimmersive Applications", IEEE Transactions on Multimedia 2011, Vol 13, Issue 3, March 2011, DOI: 10.1109/TMM.2011.2123871</li>
+<li>Hoang Viet Nguyen, Raoul Rivas, Klara Nahrstedt, "iDSRT: Intergrated Dynamic Soft-Real-Time Architecture for Critical Infrastructure Data Delivery over WLAN", Springer Journal Mobile Networks and Applications (MONET), vol. 15, no., 4, 2010</li>
+<li>(!) Zhenyu Yang, Wanmin Wu, Klara Nahrstedt, Gregorij Kurillo and Ruzena Bajcsy, "Enabling Multi-party 3D Tele-immersive Environments with ViewCast", ACM Transactions on Multimedia Computing, Communications, and Applications (TOMCCAP), 2010, Vol. 6, Issue 2, March 2010.</li>
+<li>Long Vu, Klara Nahrstedt, Indranil Gupta, "Understanding Overlay Characteristics of a Large-scale Peer-to-Peer IPTV System", ACM TOMCCAP, Vol. 6, Issue 4, November 2009 </li>
+<li>Wenbo He, Ying Huang, Klara Nahrstedt,  Whay Lee, "SMOCK: A Scalable Method of Cryptographic Key Management for Mission-critical Wireless Ad Hoc Networks", IEEE Transactions on Information Forensics and Security, Vol. 4, No. 1, March 2009, pp. 140-150.</li>
+<li>Wanghong Yuan, Klara Nahrstedt, "Energy-Efficient CPU Scheduling for Multimedia Applications",<em> ACM Transactions on Computer Systems</em>, volume 24, number 3, August 2006.</li>
+<li>Yuan Xue, Baochun Li, Klara Nahrstedt, "Optimal Resource Allocation in Wireless Ad Hoc Networks: A price-based Approach",<em> IEEE Transactions on Mobile Computing</em>, volume 5, number 4, July-August 2006, pages 347-364.</li>
+<li>(!) Wanghong Yuan, Klara Nahrstedt, Sarita Adve, Robin Kravets, Doug Jones, "GRACE: A Cross-Layer Adaptation Framework for Mobile Multimedia Devices", <em>IEEE Trans. on Mobile Computing</em>, volume 5, issue 7, July 2006, re-appeared in <em>IEEE Distributed Systems Online</em>, volume 7, number 6, June 2006.</li>
+<li>Xiaohui Gu, Klara Nahrstedt, "Distributed Multimedia Service Composition with Statistical QoS Assurances", <em> IEEE Transactions on Multimedia</em>, volume 8, number 1, 2006, pages 141-151.</li>
+<li>Klara Nahrstedt, Bin Yu, Jin Liang, Yi Cui, "Hourglass Multimedia Content and Service Composition Framework for Smart Room Environments",<em> Elsevier Pervasive and Mobile Computing Journal, volume</em> 1, number 1, March 2005, pages 43-75.</li>
+<li>Samarth Shah, Kai Chen, Klara Nahrstedt, "Dynamic Bandwidth Management in Single-hop Ad hoc Wireless Networks",<em> ACM/Kluwer MONET (Mobile Networks and Applications Journal)</em>, Special Issue on Algorithmic Solutions for Wireless, Mobile, Ad Hoc and Sensor Networks, volume 10, number 1, February 2005.</li>
+<li>Yuan Xue, Kai Chen, Klara Nahrstedt, "Achieving Proportional Delay Differentiation in Wireless LAN via Cross-Layer Scheduling",<em> Wireless Communication and Mobile Computing Journal,</em> Wiley Publisher, Special Issue on "Emerging WLAN Technologies and Applications," volume 4, number 8, pages 849-866, November 2004.</li>
+<li>Jingwen Jin, Klara Nahrstedt, "QoS Specification Languages for Distributed Multimedia Applications: A Survey and Taxonomy",<em> IEEE Multimedia Magazine</em>, volume 11, number 3, July-September 2004, pages 74-87.&#194;&#160;</li>
+<li>Xiaohui Gu, Ira Greenberg, Alan Messer, Dejan Milojicic, Klara Nahrstedt, "Adaptive Offloading Inference for Pervasive Computing",<em>  IEEE Pervasive Computing Magazine</em>, volume 3, number 3, July 2004, pages 66-73.</li>
+<li>King Shan Lui, Klara Nahrstedt, Shigang Chen, "Routing with Topology Aggregation in Bandwidth-Delay Sensitive Networks",<em> IEEE Transactions on Networking (TON)</em>, February 2004, volume 12, number 1, pages 17-29.</li>
+<li>(!) Yi Cui, Baochun Li, Klara Nahrstedt, "oStream: Asynchronous Streaming Multicast in Application-Layer Overlay Networks",<em> IEEE Journal on Selected Areas of Communication (JSAC)</em>, January 2004, volume 22, number 1, pages 191-196.</li>
+<li>(!) Manuel Roman, Chris Hess, Renato Cerquerira, Anand Ranganathan, Roy Campbell, Klara Nahrstedt, "A Middleware Infrastructure for Active Spaces", <em> IEEE Pervasive Computing Magazine</em>, October-December 2002, volume 1, number 4, pages 74-83.</li>
+<li>Hao-hua Chu, Lintian Qiao, Klara Nahrstedt, "A Secure Multicast Protocol with Copyright Protection",<em> ACM Computer Communication Review Journal</em>, April 2002, volume 32, number 2, pages 42-60.</li>
+<li>Kai Chen, Samarth Shah, Klara Nahrstedt, "Cross-Layer Design for Data Accessibility in Mobile Ad-hoc Networks",<em> Wireless Personal Communications Journal</em>, Kluwer Academic Publisher, Special Issue on Multimedia Network Protocols and Enabling Radio Technologies, July 2001, volume 21, number 1, pages 49-76.</li>
+<li>Dongyan Xu, Klara Nahrstedt, Dao Wichadakul, "QoS and Contention-Aware Multi-Resource Reservation",<em> Cluster Computing Journal,</em> Kluwer Academic Publisher, volume 4, number 2, April 2001, pages 95-108.</li>
+<li>Sergio Servetto, Klara Nahrstedt, "Broadcast Quality Video over IP",<em> IEEE Transactions on Multimedia</em>, volume 3, number 1, Mar. 2001, pages 162-173.</li>
+<li>Shigang Chen, Klara Nahrstedt, Yuval Shavitt, "A QoS-Aware Multicast Routing Protocol",<em> IEEE Journal on Selected Areas in Communication</em>, volume 18, number 12, December 2000, pages 2580-2592.</li>
+<li>Sergio Servetto, Kannan Ramchandran, Vinay Vaishampayan, Klara Nahrstedt, "Multiple Description Wavelet Based Image Coding'',<em> IEEE Transactions on Image Processing</em>, volume 9, number 5, May 2000, pages 813-826.</li>
+<li>(!)Baochun Li, Klara Nahrstedt, "A Control-based Middleware Framework for Quality of Service Adaptation",<em> IEEE Journal on Selected Areas of Communication</em>, volume 17, number 9, September 1999, pages 1632-1650. (IEEE Communications Society Leonard G. Abraham Prize).</li>
+<li>Shigang Chen, Klara Nahrstedt, "Distributed Quality-of Service Routing in Ad Hoc Networks'',<em> IEEE Journal on Selected Areas in Communication</em>, volume 17, number 8, August 1999, pages 1-18.</li>
+<li>Christopher Busch, Klara Nahrstedt, Ioannis Pitas, "Image Security", (Guest Editors Introduction), <em>IEEE Computer Graphics and Applications</em>, Special Issue on Multimedia Security, volume 19, number 1, January/February 1999, pages 16-17.</li>
+<li>(!) Shigang Chen, Klara Nahrstedt, "An Overview of Quality of Service Routing for the Next Generation High-Speed Networks: Problems and Solutions",<em> IEEE Network</em>, Special Issue on Transmission and Distribution of Digital Video, volume 12, number 6, November-December 1998, pages 64-79. (IEEE Communication Society Award for Best Tutorial Paper).</li>
+<li>Lintian Qiao, Klara Nahrstedt, "Watermarking Schemes and Protocols for Protecting Rightful Ownership and Customer's Right", <em>Journal of Visual Communication and Image Representation</em>, Academic Press, volume 9, number 3, September 1998, pages 194-210.</li>
+<li>Lintian Qiao, Klara Nahrstedt, "Comparison of MPEG Encryption Algorithms," <em>Int'l J. on Computers & Graphics</em>, Special Issue: "Data Security in Image Communication and Network", volume 22, number 3, published bimonthly by Permagon Publisher, 1998, pages 437-448.</li>
+<li>Klara Nahrstedt and Jonathan Smith, "Design, Implementation and Experiences with the OMEGA End-point Architecture",<em> IEEE Journal on Selected Areas in Communication</em>, volume 17, number 7, September 1996, pages 1263-1279.</li>
+<li>Klara Nahrstedt, Jonathan Smith, "The QoS Broker",<em> IEEE Multimedia</em>, volume 2, number 1, Spring 1995, pages 53-67. (Translated and reprinted in<em> Nikkei Electronics</em>, (10) 9, pages 646, September 1995, Japan).</li>
+</ul>
+
+		<h2>Articles in Conference Proceedings</h2>
+<ul>
+<li>Tianyuan Liu, Hongpeng Guo, Claudiu Danilov, Klara Nahrstedt, "A Privacy-preserving Data Collection and Processing Framework for Third-party UAV Services", 19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), Guangzhou, China, December 29, 2020 - January 1, 2021.</li>
+<li>Bo Chen, Ahmed Ali-Eldin, Klara Nahrstedt, Prashant Shenoy, "Real-time Spatio-Temporal Action Localization in 360 Videos", IEEE International Symposium on Multimedia (ISM 2020), December 2020 </li>
+<li>Jounsup Park, Mingyuan Wu, Eric Lee, Bo Chen, Klara Nahrstedt, Michael Zink, Ramesh Sitaraman, "SEAWARE: Semantic-Aware View Prediction System for 360-degree Video Streaming", IEEE International Symposium on Multimedia (ISM 2020), December 2020 (virtual), (acceptance rate 29%), best paper award. </li>
+<li>Atul Bohara, Jordi Ros-Giralt, Ghada Elbez, Alfonso Valdes, Klara Nahrstedt, William Sanders, "ED4GAP: Efficient Detection for GOOSE-Based Poisoning Attacks on IEC 61850 Substations", IEEE SmartGridComm 2020 (virtual), November 2020. Nominated for best student paper award 1 out of four (4 nominated out of 70 papers). </li>
+<li><a href="https://www.youtube.com/watch?v=LirmYGTzEPI">Jounsup Park, Mingyuan Wu, Eric Lee, Klara Nahrstedt, Yash Shah, Arielle Rosenthal, John Murray, Kevin Spiteri, Michael Zink, Ramesh Sitaraman, "Video 360 Content Navigation for Mobile HMD Devices", ACM Multimedia, October 13-15, 2020 (virtual demonstration). </a></li>
+<li><a href="https://arxiv.org/abs/2005.06043">Tarek Elgamal, Klara Nahrstedt, "Serdab: An IoT Framework for Partitioning Neural Networks Computation across Multiple Enclaves", 20th IEEE/ACM International Symposium on Cluster, Cloud, and Internet Computing (CCGrid 2020), Melbourne, Australia, May 2020 (postponed to 2021 due to COVID-19). </a></li>
+<li><a href="https://dl.acm.org/doi/10.1145/3360774.3360776">Tuo Yu, Klara Nahrstedt, "MMLoc: Multi-Mode Indoor Localization System based on Smart Access Points", 16th EIA International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous 2019), Houston, TX, November 2019, doi.org/10.1145/3360774.3360776</a></li>
+<li><a href="https://dl.acm.org/doi/10.1145/3343031.3351021">(!) Jounsup Park, Klara Nahrstedt, "Navigation Graph for Tiled Media Streaming", ACM 27th International Conference on Multimedia 2019, pp. 447-455, October 2019, doi.org/10.1145/3343031.3351021</a></li>
+<li>Wenyu Ren, Tuo Yu, Tim Yardley, Klara Nahrstedt, "CAPTAR: Causal-Polytree-based Anomaly Reasoning for SCADA Networks", IEEE SmartGridComm 2019, Beijing, China, October 2019.</li>
+<li>Tuo Yu, Klara Nahrstedt, "ShoesHacker: Indoor Corridor Map and User Location Leakage Through Force Sensors in Smart Shoes", ACM PACM on Interactive, Mobile, Indoor Walking Path tracking (IMWUT 2019, presented at UBICOM 2019, London, UK, September 2019. </li>
+<li>Tuo Yu, Haiming Jin and Klara Nahrstedt, "ShoesLoc: In-Shoe Force Sensor-Based Indoor Walking Path Tracking," ACM PACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol. 3(1), 2019, presented at UBICOM 2019, London, UK, September 2019. </li>
+<li>Zhe Yang, Phuong Nguyen, Haiming Jin, Klara Nahrstedt, "MIRAS: Model-based Reinforcement Learning for Microservice Resource Allocation over Scientific Workflows", IEEE International Conference on Distributed Computing Systems (ICDCS 2019), July 2019, Dallas, TX; DOI: 10.1109/ICDCS.2019.00021</li>
+<li>Bo Chen, Zhisheng Yan, Haiming Jin, Klara Nahrstedt, "Event-driven Stitching for Tile-based 360 Video Live", ACM MMSys 2019, Amherst, MA, USA, June 2019 (acceptance rate 40%) </li>
+<li>Haiming Jin, Hongpeng Guo, Lu Su, Klara Nahrstedt,  Xinbing Wang, "Dynamic Task Pricing in Multi-Requester Mobile Crowd Sensing with Markov Correlated Equilibrium", IEEE INFOCOM 2019, Paris, France, April 29- May 2, 2019, 1464 submissions, of which 288 papers were accepted after a thorough review process (acceptance rate 19.7%).</li>
+<li>Tarek Elgamal, Atul Sandur, Klara Nahrstedt, Gul Agha, "Costless: Optimizing Cost of Serverless Computing through  Function Fusion and Placement." ACM Symposium on Edge Computing (SEC'18), October 25-27, 2018, Seattle, WA. </li>
+<li>Anh Nguyen, Zhisheng Yan, Klara Nahrstedt, "Your Attention is Unique: Detecting 360-Degree Video Saliency in Head-Mounted Display for Head Movement Prediction", ACM Multimedia 2018, October, 2018, Seoul, South Korea.</li>
+<li>Wenyu Ren, Tim Yardley, Klara Nahrstedt, "EDMAND: Edge-Based Multi-Level Anomaly Detection for SCADA Networks" IEEE SmartGridComm 2018, Aalborg, Denmark, October  29-31, 2018</li>
+<li>Haiming Jin, Hongpeng Gao, Klara Nahrstedt, "Squadron: Incentivizing Quality-Aware Mission-Driven Crowd Sensing", Fusion 2018, Cambridge, England, July 2018.</li>
+<li>Tarek Elgamal, Atul Sandur, Phuong Elgamal, Klara Nahrstedt, Gul Agha, "DROPLET: Distributed Operator placement for IoT Applications Spanning Edge and Cloud Resources", 2018 IEEE International Conference on Cloud Computing (IEEE CLOUD 2018), July 2-7, 2018, San Francisco, CA (Nomination for best paper award)</li>
+<li>Tianyuan Liu, Adam Bates, Klara Nahrstedt, "AliDrone: Enabling Trustworthy Proof-of-Alibi for Commercial Drone Compliance", 8th IEEE International Conference on Distributed Computing Systems (ICDCS), Vienna, Austria, July 2-5, 2018. (submitted 378, accepted 78, acceptance rate 20%)</li>
+<li>Wenyu Ren, Tim Yardley, Klara Nahrstedt, "ISAAC: Intelligent Synchrophasor Data Real-Time Compression Framework for WAMS", IEEE International Conference on Smart Grid Communications (SmartGridComm): Data Management and Grid Analytics - S5. Data Management and Grid Analytics,  Dresden, Germany, October 2017</li>
+<li>Yuan Tian, Suraj Raghuraman, Thiru Annaswamy, Aleksander Borresen, Klara Nahrstedt, Balakrishnan Prabhakaran, "H-TIME: Haptic-enabled Tele-Immersive Musculoskeletal Examination", ACM Multimedia 2017, Mountain View, CA October 2017 ; (acceptance rate 7.5% - full papers presented as oral presentations), <strong>Best Paper Award</strong></li>
+<li>Tarek Elgamal, Klara Nahrstedt, "Multicamera Summarization of Rehabilitation Sessions in Home Environment", ACM Multimedia 2017, San Francisco, CA October 2017 ; (acceptance rate 28% - full papers presented as posters)</li>
+<li>Phuong Nguyen, Klara Nahrstedt, "MONAD: Self-adaptive Micro-service Infrastructure for Heterogeneous Scientific Workflows", 14th IEEE International Conference on Autonomous Computing (ICAC 2017), July 17-21, 2017, Columbus, Ohio.(acceptance rate 20%)</li>
+<li>Haiming Jin, Lu Su, Klara Nahrstedt, Theseus: Incentivizing Truth Discovery in Mobile Crowd Sensing Systems ACM MobiHoc 2017, July 10-14, Chennai, India (acceptance rate 17%)</li>
+<li>Phuong Nguyen, Steven Konstanty, Todd Nicholson, Thomas O'Brien, Aaron Schwartz-Duval, Timothy Spila, Klara Nahrstedt, Roy Campbell, Indranil Gupta, Michael Chan, Kenton McHenry and Normand Paquin, "4CeeD: Real-Time Data Acquisition and Analysis Framework for Material-related Cyber-Physical Environments", IEEE/ACM 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing. Madrid, Spain, May 14-17, 2017 (acceptance rate 23%);<strong> Best Paper Award</strong></li>
+<li>Haiming Jin, Lu Su, Klara Nahrstedt, "CENTURION: Incentivizing Multi-Requester Mobile Crowd Sensing", IEEE INFOCOM 2017, Atlanta, GA, May 2017 (acceptance rate 20.93%)</li>
+<li>Wenyu Ren, King-Shan Lui, Klara Nahrstedt, "OLAF: Operation-Level Traffic Analyzer Framework for Smart Grid" IEEE SmartGridComm 2016, Australia, October 2016</li>
+<li>Tuo Yu, Haiming Jin, Klara Nahrstedt, "WritingHacker: Audio-based Eavesdropping of Handwriting via Mobile Devices" UbiComp 2016, Heidelberg, September 12-16, 2016</li>
+<li>Phuong Nguyen, Klara Nahrstedt, "Resource Management for Elastic Publish Subscribe Systems: A Performance Modeling-based Approach", IEEE International Conference on Cloud Computing (CLOUD 2016), San Francisco, CA, acceptance rate 16.7%</li>
+<li>Haiming Jin, Lu Su, Houping Xiao, Klara Nahrstedt, "INCEPTION: Incentivizing Privacy-Preserving Data Aggregation for Mobile Crowd Sensing Systems," the 17th ACM Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc 2016), Paderborn, Germany, July, 2016. (acceptance rate 18.7%)</li>
+<li>Haiming Jin, Lu Su, Bolin Ding, Klara Nahrstedt, Nikita Borisov, "Enabling Privacy-Preserving Incentives for Mobile Crowd Sensing Systems", IEEE ICDCS 2016, Nara Japan. (acceptance rate: 68 out of 386).</li>
+<li>Klara Nahrstedt, Siting Chang, "Placement of Energy Sources for Electric Transportation in Smart Cities", IEEE SMARTCOMP 2016, St. Louis, MO, May 2016.</li>
+<li>Rhaban Hark, Dominik Stingl, Nils Richerzhagen, Klara Nahrstedt, Ralf Steinmetz, "DistTM: Collaborative Traffic Matrix Estimation in Distributed SDN Control Planes", IFIP Networking 2016</li>
+<li>Chien-Nan Chen, Klara Nahrstedt, "Metadata-Based Activity Analysis in 3D Tele-Immersion", IEEE BigMM (International Conference on Multimedia Big Data), 2016, Taipei, Taiwan, April 20-22, 2016</li>
+<li>Phuong Ngyuen, Aleksander Slominski (IBM), Vinod Muthusamy (IBM), Vatche Ishakian (IBM), Klara Nahrstedt, "Process Trace Clustering: A Heterogeneous Information Network Approach", SDM 2016 (96 paper accepted out of 371 submissions, 25.8% acceptance rate), 16th SIAM International Conference on Data Mining, May 5-7, 2016, Miami, FL.</li>
+<li>Hongyang Li, Gyorgy Dan, Klara Nahrstedt, "Lynx: Authenticated Anonymous Real-Time Reporting of Electric Vehicle Information", IEEE SmartGridComm &#226;&#8364;&#8482;15 Symposium - Security and Privacy, November 2015, Miami, FL. (18% acceptance rate)</li>
+<li>Haiming Jin, Lu Su, Klara Nahrstedt, &ldquo;Quality of Information Aware Incentive Mechanisms for Mobile Crowd Sensing Systems&rdquo;, ACM MobiHoc 2015 (acceptance 14%)</li>
+<li>Hongyang Li, Gyorgy Da, Klara Nahrstedt, "Proactive key dissemination-based fast authentication for in-motion inductive EV charging", IEEE ICC, SAC - Communications for the Smart Grid, June 2015, London, Great Britain. (acceptance rate 38%). </li>
+<li>Siting Chang, Hongyang Li, Klara Nahrstedt, "Charging Facility Planning for Electric Vehicles", IEEE International Electric Vehicle Conference (IEVC), Venice, Italy, December 2014. </li>
+<li>Hongyang Li, Gyorgy Dan, and Klara Nahrstedt, "Portunes: Privacy-Preserving Fast Authentication for Dynamic Electric Vehicle Charging", in Proc. of 5th IEEE International Conference on Smart Grid Communications (SmartGridComm 2014), 2014</li>
+<li>Haiming Jin, King-Shan Lui, Suleyman Uludag, Klara Nahrstedt, "Secure Data Collection in Constrained Tree-Based Smart Grid Environments", IEEE SmartGridComm'14 Symposium - Communications and Networks Track, Italy, 2014</li>
+<li>Haiming Jin, He Huang, Lu Su, Klara Nahrstedt, "Cost-minimizing Mobile Access point Deployment in Workflow-based Mobile Sensor Networks", 22nd IEEE International Conference on Network Protocols (IEEE ICNP 2014). </li>
+<li>Dongjing He, Muhammad Naveed, Carl Gunter, Klara Nahrstedt, "Prevalence of Security Concerns in Communication and Storage in Android mHealth Apps", AMIA 2014 Annual Symposium, November 2014, Washington, DC. </li>
+<li>Suleyman Uludag, Peter Sauer, Klara Nahrstedt, Tim Yardley, "Towards Designing and Developing Curriculum for the Challenges of the Smart Grid Education", IEEE Frontiers in Education Conference (Full Paper) , (FIE 2014), October 22-25, 2014, Madrid, Spain</li>
+<li>Tim Yardley, Suleyman Uludag, Klara Nahrstedt, Peter Sauer, "Developing a Smart Grid Cybersecurity Education Platform and a Preliminary Assessment of its First Application", IEEE Frontiers in Education Conference (FIE 2014), (Full Paper), October 22-25, 2014, Madrid, Spain.</li>
+<li>Debessay Kassa, Klara Nahrstedt, "SCDA: SLA-aware Cloud Datacenter Architecture for Efficient Content Storage and Retrieval", IEEE International Conference on Cloud Computing (CLOUD 2014), Anchorage, Alaska, June, 2014. (acceptance rate 18%)</li>
+<li>Chien-nan Chen, Klara Nahrstedt, and Indranil Gupta, "Amphitheater: A Manageable 3DTI Environment with Hierarchical Stream Prioritization", <em>ACM Multimedia Systems Conference (MMSys)</em>, Singapore, March 2014.</li>
+<li>Rehana Tabassum, Klara Nahrstedt, Edmond Rogers, and Michael Rawson, "SCAPACH: Scalable Password-Changing Protocol for Smart Grid Device Authentication", <em>IEEE ICCN 2013</em>, Nassau, Bahamas, July 2013.</li>
+<li>Chien-nan Chen and Klara Nahrstedt, "Impact of Morphing-based Frame Synthesis on Bandwidth Optimization for 3DTI Video", <em>IEEE International Symposium on Multimedia (ISM)</em>, Anaheim, CA, 2013.</li>
+<li>Xiaoyong Zhou, Soteris Demetriou, Dongjing He, Muhammad Naveed, Xiaorui Pan, Xiaofeng Wang, Carl Gunter and Klara Nahrstedt, "Identity, Location, Disease, and More: Inferring Secrets from Android Public Resources", <em>ACM CCS 2013.</em></li>
+<li>Md Ahsan Arefin, Raoul Rivas, Rehana Tabassum, and Klara Nahrstedt, "OpenSession: SDN-based Cross-layer Multi-stream Management Protocol for 3D Teleimmersion", <em>IEEE 21st International Conference on Network Protocols (ICNP 2013)</em>, Gottingen, Germany, October 2013.</li>
+<li>Gyorgy Dan, King-Shan Lui, Rehana Tabassum, Quanyan Zhu, and Klara Nahrstedt, "SELINDA: A Secure, Scalable and Light-Weight Data Collection Protocol for Smart Grids", <em>IEEE SmartGridComm 2013, Smart Grid Cyber Security and Privacy Symposium</em>, Vancouver, Canada, October 2013.</li>
+<li>Thadpong Pongthawornkamol, Klara Nahrstedt, and Guijun Wang, "Reliability and Timeliness Analysis of Fault-tolerant Distributed Publish-Subscribe Systems", <em>USENIX 10th ICAC 2013, International Conference on Autonomic Computing</em>, San Jose, June 2013.</li>
+<li>Pengye Xia and Klara Nahrstedt, "Object-level Bandwidth Adaptation Framework for 3D Tele-immersive System", <em>IEEE ICME 2013,</em>&nbsp;San Jose, CA.</li>
+<li>Chien-nan Chen and Klara Nahrstedt, "Activity-based Synthesized Frame Generation in 3DTI Video", <em>IEEE ICME 2013,</em>&nbsp; San Jose, CA.</li>
+<li>MD Ahsan Arefin, Raoul Rivas and Klara Nahrstedt, "Prioritized Evolutionary Optimization in Open Session Management for 3D Tele-immersion", ACM Multimedia Systems Conference (MMSys), Oslo, Norway, (acceptance rate 27%).</li>
+<li>Debessay&nbsp;Kassa and Klara Nahrstedt, "Hincent: Quick Content Distribution With Priorities and High Incentives", <em>10th Annual IEEE Consumer Communications and Networking Conference (CCNC2013), </em>Las Vegas, NV, January 2013.</li>
+<li>Pengye Xia, Klara Nahrstedt, and Matthew Alan Jurik, "TEEVE-Remote: A Novel User-Interaction Solution for 3D Tele-immersive System" <em>ISM 2012,&nbsp;pages</em> 378-379.</li>
+<li>Rini Kaushik and&nbsp;Klara Nahrstedt, &ldquo;A Cyber-Physical, Data-Centric Cooling Energy Costs Reduction Approach for Big Data Analytics Cloud&rdquo;, <em>ACM Supercomputing</em>, Salt Lake City, UT,&nbsp;November 2012.</li>
+<li>Anjali Sridhar,&nbsp;Klara Nahrstedt, and Long Vu, &ldquo;Sangam - Efficient Cellular-WiFi Group Framework for File Sharing Service&rdquo;, <em>IEEE MILCOM 2012</em>, Orlando, Florida, October29 - November 1, 2012.</li>
+<li>Debessay Kassa,&nbsp;Yunlong Gao, and Klara Nahrstedt,&nbsp;"Impact of Cloudlets on Interactive Mobile Cloud Applications," <em>IEEE 16th Enterprise Distributed Object Computing Conference (EDOC 2012)</em>, Beijing, China, September 2012.</li>
+<li>Zixia Huang, Ahsan Arefin, Pooja Agarwal, Klara Nahrstedt and Wanmin Wu, "Towards the Understanding of Human Perceptual Quality in Tele-immersive Shared Activity", <em>ACM Multimedia Systems (MMSys)</em>,&nbsp;February 2012.</li>
+<li>Md Arefin Ahsan ,  Zixia Huang, Klara Nahrstedt, and Pooja Agarwal, &ldquo;4D TeleCast: Towards Large Scale Multi-site and Multi-view Dissemination of 3DTI Content&rdquo;, <em>IEEE ICDCS 2012</em>, Makau, China.</li>
+<li>Zixia Huang and Klara Nahrstedt, "Perception-based playout scheduling for high-quality real-time interactive multimedia",&nbsp;<em>IEEE International Conference on Computer Communications (INFOCOM) miniconference</em>, March 2012.</li>
+<li>Shu Shi, Cheng-Hsin Hsu, Klara Nahrstedt, and&nbsp;Roy Campbell, &ldquo;Using Graphics Rendering Contexts to Enhance the Real-Time Video Coding for Mobile Cloud Gaming:, <em>ACM Multimedia 2011</em>, Scottsdale, AZ, November 2011.</li>
+<li>Wanmin Wu, Md Ahsah Arefin, Gregorij Kurillo, Pooja Agarwal, Klara Nahrstedt, and Ruzena Bajcsy, &ldquo;Color-plus-Depth Level-of-Details in 3D Teleimmersive Video", <em>ACM Multimedia 2011</em>, Scottsdale, AZ, November 2011 (Best Student Paper).</li>
+<li>Debessay Kassa, Klara Nahrstedt, and Guijun Wang &ldquo;Analytical Models of Short-Message Reliability in Mobile Wireless Networks&rdquo;, <em>ACM MSWiM&rsquo;2011</em>, Orlando, FL, October 2011.</li>
+<li>Shameem Ahmed, Guijun Wang, and Klara Nahrstedt, &ldquo;Topology-Aware Optimal Task Allocation for Mission-Critical Environment &ndash; A Decentralized Approach&rdquo;, <em>IEEE MILCOM 2011</em> (Track 2 &ndash; Network Protocols and Performance), Baltimore, MD, October 2011.</li>
+<li>Kurchi Subhra Hazra, and Klara Nahrstedt, &ldquo;Group Formation and Communication in Mobile Wireless Environments&rdquo;, <em>IEEE MILCOM 2011</em> (Track 4 &ndash; Middleware Services and Applications), Baltimore, MD, October 2011.</li>
+<li>Hoang Ngyuen, Thadpong Pongthawornkamol, and Klara Nahrstedt, &ldquo;Alibi Framework for Identifying Reactive Jamming Nodes in Wireless LAN&rdquo;, <em>IEEE Globecom 2011</em>, Houston, TX December 2011 (acceptance rate 1070/2923, 32%).</li>
+<li>Shu Shi, Klara Nahrstedt, and Roy Campbell , &ldquo;Distortion over Latency: Novel Metric for Measuring Interactive Performance in Remote Rendering Systems&rdquo;, <em>IEEE ICME 2011</em>, Barcelona, Spain, July 11-15, 2011.</li>
+<li>Klara Nahrstedt, Zheng Zeng, Ying Huang, Long Vu, and Anjali Sridhar, &ldquo;Readiness of 802.11 Infrastructure for Mobile Learning Communities&rdquo;, <em>AACE Ed-Media 2011</em>, Lisbon, Portugal, June 2011.</li>
+<li>Anjali Sridhar, Ying Huang, Michael Ford, Craig McIntyre, Ohm Patel, Samuel Retika, Ang Pan, B. Gass, W. Jang, M.K. Kang, Y.P. Malimas, A. Rachwalski, Alex Loeb, Klara Nahrstedt, and Lawrence Angrave, &ldquo;Mobile Illinois Clicker (Mi-Clicker): Next Generation Educational Tool for Mobile Learning Communities&rdquo;, <em>AACE Ed-Media 2011</em>, Lisbon, Portugal, June 2011 (Poster and Demo Presentation).; the paper was selected for Pecha Kucha presentation. Anjali also was the Pecha Kucha Award Winner.</li>
+<li>Long Vu, Quang Do, and&nbsp;Klara Nahrstedt, &rdquo;Jyotish: A Novel Framework for Constructing Predictive Model of People Movement from Joint Wifi/Bluetooth Trace&rdquo;, <em>IEEE Percom 2011</em>, Seattle, WA, March 2011 (Mark Weiser Best Paper Award) (acceptance rate 13%).</li>
+<li>Zixia Huang, Wanmin Wu, Klara Nahrstedt, Raoul Rivas and Md Ahsan Arefin, "SyncCast: Synchronized Dissemination in Multi-site Interactive 3D Tele-immersion",&nbsp;<em>ACM Multimedia Systems Conference (MMSYS)</em>, San Jose, CA, February 2011 (acceptance rate&nbsp;15/41, 37%).</li>
+<li>Rini T. Kaushik, Milind A. Bhandarkar, and Klara Nahrstedt "Evaluation and Analysis of GreenHDFS: A Self-Adaptive, Energy-Conserving Variant of the Hadoop Distributed File System" <em>CloudCom 2010</em>, pages&nbsp;274-287.</li>
+<li>Hoang Nguyen and Klara Nahrstedt, &ldquo;Identifying Insider-based Jammers in Multi-channel Wireless Networks&rdquo;, <em>Proceedings of IEEE GLOBECOM 2010</em>, Miami, Florida, December 6-10, 2010.</li>
+<li>Pooja Agarwal, R. Rivas, W. Wu, and&nbsp;K. Nahrstedt, &ldquo;Bundle of Streams: Concept and Evaluation in Distributed Interactive Multimedia Environments&rdquo;, <em>IEEE International Symposium on Multimedia (ISM 2010)</em>, Taiwan, December 2010.</li>
+<li>Md Ahsan  Arefin, W. Wu, R. Rivas, Zixia Huang, S. Shi, P. Agarwal, and&nbsp;K. Nahrstedt, &ldquo;I'm the Jedi! - A Case Study of User Experience in 3D Tele-Immersive Gaming&rdquo;, <em>IEEE International Symposium on Multimedia (ISM 2010)</em>, Taiwan, December 2010.</li>
+<li>Md Ahsan  Arefin, K. Nahrstedt, R. Rivas, J. Han, and Zixia  Huang, &ldquo;DIAMOND: Correlation-based Anomaly Monitoring Daemon for DIME&rdquo;, <em>IEEE International Symposium on Multimedia (ISM 2010)</em>, Taiwan, December 2010.</li>
+<li>Long Vu and&nbsp;Klara Nahrstedt, &ldquo;'Exploiting Opportunistic Ad hoc Connections for Improving Data Download of Cellular Users&rdquo;, <em>IEEE Globecom 2010 Workshop on Pervasive Group Communications</em>, Florida, 2010. (acceptance rate 12/28&nbsp;43%).</li>
+<li>Shu Shi, Mahsa Kamali, Klara Nahrstedt, John Hart, and Roy Campbell &ldquo;A High-Quality Low-Delay Remote Rendering System for 3D Video&rdquo;, <em>ACM Multimedia 2010</em>, Florence, Italy, October 2010.</li>
+<li>Long Vu and&nbsp;Klara Nahrstedt, &ldquo;Joint Bluetooth/Wifi Scanning Framework for Characterizing and Leveraging People Movement in University Campus&rdquo;,  <em>ACM MSWiM&rsquo;10 12th ACM International Conference on Modeling, Analysis and Simulation</em> , Turgutreis, Turkey, October 17-21, 2010.</li>
+<li>Long Vu, Rahul Malik, Qiyan Wang, Klara Nahrstedt, "An Adaptive Content Distribution Protocol for Dynamic Peer-to-Peer Coalition Networks", <em>ACM International Conference on Pervasive Systems (ICPS)</em>, Berlin, Germany, July 2010, <em>ADAMUS 2010 Workshop (4th International Workshop on Adaptive and Dependable Mobile Ubiquitous Systems</em>), Berlin, July, 2010.</li>
+<li>Zixia Huang, Wanmin Wu, Klara Nahrstedt, Md Ahsan Arefin, and&nbsp;Raoul Rivas, &ldquo;TSync: A New Synchronization Framework for Multi-Site 3D Tele-immersion&rdquo;, <em>ACM NOSSDAV</em>, Amsterdam, Netherlands, June 2010.</li>
+<li>Wucherl Yoo, Won Jeon, Shu, Shi, Roy Campbell, and Klara Nahrstedt, &ldquo;Real-time Parallel Remote Rendering for Mobile Devices using Graphics Processing Units&rdquo;, <em>IEEE ICME 2010</em>, Singapore, June 2010.</li>
+<li>Ishan Vaishnavi, Md Ahsan Arefin, Raoul Rivas, Klara Nahrstedt, and&nbsp;Dick Bulterman, &ldquo;Eureka: A Methodology for Measuring Bandwidth Usage of Networked Games, Environments and Applications&rdquo;, <em>IEEE ICME 2010</em>, Singapore, June 2010.</li>
+<li>Ying Huang, Yan Gao, and Klara Nahrstedt, &ldquo;Relay Placement for Reliable Base Station Connectivity in Polymorphous Networks", <em>7th IEEE Communications Society Conference on Sensor, Mesh and Ad Hoc Communications and Networks (SECON 2010)</em> (acceptance rate 63/300,&nbsp;23%).</li>
+<li>Thadpong Pongthawornkamol, Klara Nahrstedt, and Guijun Wang, "Probabilistic QoS Modeling for Reliability/Timeliness Prediction in Distributed Content-based Publish/Subscribe Systems over Best-effort Networks", <em>IEEE International Conference on Autonomic Computing and Communications</em>, Washington, DC, June 2010 (acceptance rate 26%).</li>
+<li>Raoul Rivas, Md Ahsan Arefin, and Klara Nahrstedt, &ldquo;Janus: A Cross-Layer Soft Real-Time Architecture for Virtualization&rdquo;, <em>International Workshop on Virtualization Technologies in Distributed Computing (VTDC) in conjunction with IEEE 19th International Symposium on High Performance Distributed Computing (HPDC)</em>, Chicago, IL, June 2010.</li>
+<li>(!*) R. Bobba, K. Rogers, Q. Wang, H. Khurana, K. Nahrstedt, and T. Overbye, "Detecting False Data Injection  attacks on DC State Estimation" (Extended Abstract), 1st Workshop on Secure Control Systems  (SCS)</em>, Stockholm, Sweden, April 2010.</li>
+<li>Wenbo He, Ying Huang, Klara Nahrstedt and Bo Wu, "Message Propagation in Ad-Hoc-Based Proximity Mobile Social Networks", <em>6th International Workshop on Mobile Peer-to-Peer Computing (MP2P10) i</em>n conjunction with&#194;&#160;8th Annual IEEE International Conference on Pervasive Computing and Communications (Percom 2010), Mannheim, Germany, March 29 - April 2, 2010. (acceptance rate 12%).</li>
+<li>Thadpong Pongthawornkamol, Shameem Ahmed, Akira Uchiyama, and Klara Nahrstedt, "Zero-knowledge Real-time Indoor Tracking via Outdoor Wireless Directional Antennas", <em>IEEE Pervasive Computing and Networking (Percom10)</em>, Mannheim, Germany, March 2010 (acceptance rate 12%).</li>
+<li>Ramanarayan Vasudevan, Edgar Lobaton, Gregorij Kurillo, Tony Bernardin, Bernd Hamann, Ruzena Bajcsy, and Klara Nahrstedt,&#194;&#160;"A Methodology for Remote Virtual Interaction in Teleimmersive Environments",  <em>1st ACM International Conference on Multimedia Systems (MMSys)</em>, Phoenix, AZ, February 2010 (acceptance rate 42%).</li>
+<li>Qiyan Wang, Long Vu, Himanshu Khurana, and Klara Nahrstedt, "Identifying Malicious Nodes in Network-Coding-Based Peer-to-Peer Streaming Networks" <em>IEEE INFOCOM 2010</em>, Mini-Conference, 2010 (acceptance rate 18%).</li>
+<li>Hoang Nguyen, Raoul Rivas, and Klara Nahrstedt, "iDSRT: Integrated Dynamic Soft Real-time Architecture for Critical Infrastructure Data Delivery over WLAN",&#194;&#160;<em>6th International ICST Conference on Heterogeneous Networking for Quality, Reliability, Security and Robustness (QShine)</em>, Spain, November 2009 (acceptance rate 48%).</li>
+<li>Shameem Ahmed, Thadpong Pongthawornkamol, Klara Nahrstedt, Matthew Caesar, and Guijun Wang, "Topology-aware Optimal Task Allocation for Publish/Subscribe-based Mission Critical Environment", <em>MILCOM 2009</em>,  San Diego,  CA, October 2009.</li>
+<li>Hoang  Ngyuen, Thadpong Pongthawornkamol, and Klara Nahrstedt,&#194;&#160;"A Novel Approach to Identify Insider-based Jamming Attackers in Multi-channel Wireless Networks",  <em>MILCOM 2009</em>, San Diego, CA, October 2009.</li>
+<li>Chandrasekar Ramachandran, Rahul Malik, Klara Nahrstedt, and Jiawei Han, "VideoMule: A Consensus Learning Approach to Multi-Label Classification from Noisy User-Generated Videos", <em>ACM Multimedia 2009</em>, Beijing, China, October 2009&#194;&#160;(acceptance rate 58/204, 28%).</li>
+<li>Wanmin Wu, Raoul Rivas, Md Ahsan Arefin, Shu Shi, Renata Sheppard, Klara Nahrstedt, and Roy Campbell, "MobileTI: A Portable Tele-Immersive System", <em>ACM Multimedia 2009</em>, Beijing, China, October 2009 (acceptance rate 13/43, 30%).</li>
+<li>Shu Shi, Won Jeon, Klara Nahrstedt, and Roy Campbell, "Real-Time Remote Rendering of 3D Video on Mobile Devices", <em>ACM Multimedia 2009</em>, Beijing, China, October 2009 (acceptance rate 10/56,&#194;&#160;18%).</li>
+<li>Wanmin Wu, Md Ahsan&#194;&#160;Arefin, Raoul Rivas, and&#194;&#160;Klara Nahrstedt, "Quality of Experience in Distributed Multimedia Environments: Towards a Theoretical Framework", <em>ACM Multimedia 2009</em>, Beijing, China, October 2009 (acceptance rate 16%).</li>
+<li>Andrew Kryczka, Ahsan Arefin, Klara Nahrstedt, "AvCloak: A Tool for Black Box Latency Measurements in Video Conferencing Applications", IEEE ISM 2013, Anaheim, California, USA.</li>
+<li>Ying Huang, Klara Nahrstedt, and Wenbo He, "ChainFarm: A Novel Authentication Protocol for High-rate Any Source Probabilistic Broadcast",&#194;&#160;&#194;&#160;<em>IEEE MASS 2009</em>, October 12-15, 2009 (acceptance rate 62/245, 25%).</li>
+<li>Rahul Malik, Wanmin Wu, and Klara Nahrstedt, "Modeling the Tele-Immersive System Using Stochastic Activity Network", <em>IEEE International Conference on Multimedia and Expo (ICME09)</em>, (Nomination for Best Paper), Cancun, Mexico.</li>
+<li>Rahul Malik, Sangkyum Kim, Xin Jin, Chandrasekar Ramachandran, Jiawei Han, Indranil Gupta, and Klara Nahrstedt, &#226;&#8364;&#339;MLT-Index: An Index Structure for Fast and Scalable Similarity Search in High Dimensions", <em>21st International Conference on Scientific and Statistical Database Management&#194;&#160;(SSDBM09)</em>, New Orleans, LA, 2009.</li>
+<li>Qiyan Wang, Ying Huang, Himanshu Khurana, and&nbsp;Klara Nahrstedt, "Time Valid One-Time Signature for Time-Critical Multicast Data Authentication",<em> IEEE INFOCOM 2009</em>, Rio de Janeiro, Brazil, 2009 (acceptance rate 282/1435, 20%).</li>
+<li>Thadpong Pongthawornkamol and&nbsp;Klara Nahrstedt, "HybridCast: A Hybrid Probabilistic/Deterministic Approach for Adjustable Broadcast Reliability  in Mobile Wireless Ad Hoc Networks",<em> IEEE International Conference on Communications&nbsp;(ICC 2009),</em>  AHSN, Dresden, Germany, June 14-18, 2009&nbsp;(acceptance rate 35%).</li>
+<li>Suleyman Uludag, Ziyneti Uludag, Klara Nahrstedt, King-Shan Lui, and Fred Baker, "A Laplace Transform-based Method to Stochastic Path Finding,"<em> IEEE International Conference on Communications (ICC 2009)</em>, QoS and Modelling Symposium (CQRM), Dresden, Germany, June 14-18, 2009 (acceptance rate 35%).</li>
+<li>Vanish Talwar, Klara Nahrstedt, and&nbsp;Dejan Milojicic, "Modeling Remote Desktop Systems in Utility Environments with Application to QoS Management",<em> IFIP/IEEE International Symposium on Integrated Network Management (IM 2009)</em>, Hofstra University, Long Island, NY, June 1-4, 2009 (acceptance rate 33%).</li>
+<li>Debessay Fesehaye Kassa, Klara Nahrstedt, "Hincent: Quick Content Distribution With Priorities and High Incentives", 10th Annual IEEE Consumer Communications and Networking Conference (CCNC'2013), Las Vegas, USA, January, 2013.</li>
+<li>Wanmin Wu, Zhenyu Yang, and Klara Nahrstedt, "Dynamic Overlay Multicast in Multi-Stream/Multi-Site 3D Collaborative Systems", <em>ACM NOSSDAV 2009</em>,  NC, June 2009&#194;&#160;(acceptance rate 22/71, 31%).</li>
+<li>Wenbo He, Hoang Ngyuen, Xue Liu, and Klara Nahrstedt,&#194;&#160;"A Cluster-based Protocol to Enforce Integrity and Preserve Privacy in Data Aggregation", <em>Workshop on Cyber-Physical Systems (WCPS)</em>, in connection with IEEE ICDCS 2009, Montreal, Canada, June 2009 (acceptance rate 16%).</li>
+<li>Md Ahsan Arefin, Yusuf Sarwar, Indranil Gupta, and Klara Nahrstedt, "Q-Tree: A Multi-Attribute Based Range Query Solution for Tele-Immersive Framework", <em>IEEE ICDCS 2009</em>, Montreal, Canada, June 2009.</li>
+<li>Ying Huang, Wenbo He, and Klara Nahrstedt, "Optimizing File Retrieval in Delay-Tolerant Content Distribution Community", <em>IEEE ICDCS 2009</em>, Montreal, Canada, June 2009.</li>
+<li>Rahul Malik, Klara Nahrstedt, and Jennifer C. Hou, "Tele-Immersion for Wireless Networks", <em>ICST 2nd International Conference on Immersive Telecommunications (IMMERSCOM09)</em>, Berkeley, CA, May 2009.</li>
+<li>Rivas Raoul, Wanmin Wu, and Klara Nahrstedt, "Unified Time Service for Virtualized Tele-Immersive Environments", <em>PCS 2009</em>, Chicago, IL, May 2009.</li>
+<li>Albert Sidelnik, Jui Sung, Wanmin Wu, Maria Jesus Garzaran, Wen-Mei Hwu, Klara Nahrstedt, David Padua, and Sanjay Patel, "Optimization of Tele-Immersion Codes", <em>2nd Workshop on General Purpose Computing on Graphics Processing Units (GPGPU)</em>, associated with ASPLOS 2009, 2009 (acceptance rate 40%).</li>
+<li>Muyuan Wang and&nbsp;Klara Nahrstedt, "Social Structure Based Routing Intermittendly Connected Network Using Contact Information",<em> MILCOM 2008</em>, San Diego, CA, November 2008.</li>
+<li>Wenbo He, Xue Liu, Hoang  Ngyuen, Klara Nahrstedt, and Tarek Abdelzaher, "iPDA: An Integrity-Protecting Private Data Aggregation Scheme for Wireless Sensor Networks",<em> MILCOM 2008</em>, San Diego, CA, November 2008.</li>
+<li>Ying Huang, Wenbo He, Klara Nahrstedt, and Whay Lee, "CORPS: Event-Driven Mobility Model for First Responders in Incident Scene",<em> MILCOM 2008,</em> San Diego, CA, November 2008.</li>
+<li>William Conner and Klara Nahrstedt, "Protecting SIP Proxy Servers Ringing-based Denial-of-Service Attacks", <em>IEEE ISM 2008</em>, Berkeley, CA (acceptance rate 24%).</li>
+<li>Wanmin Wu, Zhenyu Yang, and Klara Nahrstedt, "Implementing a Distributed 3D Tele-Immersive System",  <em>IEEE International Symposium on Multimedia (ISM 2008)</em>, Berkeley, CA,&nbsp;December 2008 (acceptance rate 24%).</li>
+<li>Renata Sheppard, Mahsa Kamali, Raoul Rivas, Morihiko Tamai, Zhenyu Yang, Wanmin Wu, and Klara Nahrstedt, "Advancing Interactive Collaborative Mediums through Tele-Immersive Dance (TED): a Symbiotic Creativity and Design Environment&nbsp;for Art and Computer Science",<em> ACM Multimedia 2008 </em>(Long Art Paper), Vancouver, Canada, October 2008 (acceptance rate 17%).</li>
+<li>Shu Shi, Klara Nahrstedt, and Roy Campbell, "View-Dependent real-time 3D Video Compression for Mobile Device",<em> ACM Multimedia 2008</em> (Short Paper), System and Networking Track, Vancouver, Canada, October 2008 (acceptance rate 19%).</li>
+<li>Long Vu, Klara Nahrstedt, and Matthias Hollick, "Exploiting Schelling Behavior for Improving Data Accessibility in Mobile Peer-to-Peer Networks",<em> ACM MobiQuitous 2008</em>, Dublin, Ireland, July 2008.</li>
+<li>Chia-Chen Lin, Klara Nahrstedt, Chung-Juei Jung, "An Image Copy Detection Scheme Based on Edge Features,"<em> IEEE ICME</em>, Hanover, Germany, June 2008.</li>
+<li>Morihiko Tamai, Wanmin Wu, Klara Nahrstedt, and Keiichi Yasumoto, "A View Control Interface for 3D Tele-immersive Environments", <em>IEEE International Conference on Multimedia and Expo (ICME) 2008</em>, Hanover, Germany, June 2008.</li>
+<li>Morihiko Tamai, Keiichi Yasumoto, and Klara Nahrstedt, "Transcasting: Cost-Efficient Video  Multicast for Heterogeneous Mobile Terminals",<em> 16th IEEE/IFIP IWQoS 2008</em>, University of Twente, Enschede, Netherlands, June 2008&#194;&#160;(acceptance rate 36%).</li>
+<li>Ying Huang, Wenbo He, Klara Nahrstedt, and Whay Lee, "DoS Resistent Broadcast Authentication With Low End-to-end Delay",<em> 2nd IEEE International Workshop on Mission-Critical Networking (MCN'08)</em>,  associated with<em> INFOCOM 2008</em>, Phoenix, AZ (acceptance rate 15/53, 28%).</li>
+<li>Wanmin Wu, Zhenyu Yang and Klara Nahrstedt, "A study of visual context representation and control for remote sport learning tasks", <em>World Conference on Educational Multimedia, Hypermedia and Telecommunications (ED-MEDIA)</em>, Vienna, Austria, June/July 2008.</li>
+<li>Wanmin Wu, Zhenyu Yang, Klara Nahrstedt, and Indranil Gupta, "Towards Multisite Collaboration in 3D Tele-immersive Environments",<em>  IEEE International Conference on Distributed Computer Systems (ICDCS)</em>, Beijing, China, June 2008 (acceptance rate 16%).</li>
+<li>Ying Huang, Wenbo He,&nbsp;Klara Nahrstedt, and Whay Lee, "Incident Scene Mobility Analysis", <em>IEEE International Conference on Technologies for Homeland Security</em>, Boston, MA, May 2008.</li>
+<li>Klara Nahrstedt, Ruzena Bajcsy, Lisa Wymore, Renata Sheppard, and Katherine Mezur, "Computational Model  of Human Creativity in Dance Choreography",<em> AAAI Spring Symposium Series, Creative Intelligent Systems</em>, Stanford University, March 2008 (acceptance rate 24%).</li>
+<li>Roger Chen and Klara Nahrstedt, "Empirical Study of 3D Video Source Coding for Auto-stereoscopic Displays",<em> ACM Multimedia</em>, Augsburg, Germany, September 2007.</li>
+<li>Wanmin Wu, Z. Yang, K. Nahrstedt, G. Kurillo, and R. Bajcsy, "Towards Multi-Site Collaboration in Tele-Immersive Environments",<em> ACM Multimedia</em>, Augsburg, Germany, September 2007. </li>
+<li>Z. Yang, W. Wu, K. Nahrstedt, G. Kurrilo, and R. Bajcsy, "ViewCast: View Dissemination and Management for Multi-party 3D Tele-immersive Environments",<em> ACM Multimedia</em>, Augsburg, Germany, September 2007 (long paper acceptance rate 16%).</li>
+<li>J. Jin and K. Nahrstedt, "Large-Scale QoS-Aware Service-Oriented Networking with a Clustering-Based Approach", <em>IEEE International Conference on Computer Communication and Networking</em>, Honolulu, Hawaii, August 2007 (acceptance rate 29%).</li>
+<li>H. Ngyuen, K. Nahrstedt, "Attack Containment Framework for Large-Scale Critical Infrastructures," <em>IEEE International Conference on Computer Communication and Networking,</em> Honolulu, Hawaii, August 2007, Best paper award nomination - in top 5 best papers  (acceptance rate 29%).</li>
+<li>Thadpong Pongthawornkamol, Klara Nahrstedt, and Guijun Wang, "The Analysis of Publish/Subscribe Systems over Mobile Wireless Ad Hoc Networks",<em> ACM MobiQuitous 2007</em>, Philadelphia, PA, August 2007 (acceptance rate 23%).</li>
+<li>Long Vu, Indranil Gupta, Jin Liang, and Klara Nahrstedt,&#194;&#160;"Measurement and Modeling of a Large-scale overlay for Multimedia Streaming", QShine 2007, Vancouver, Canada, 2007.</li>
+<li>Klara Nahrstedt, R. Bajcsy, L. Wymore, G. Kurillo, K. Mezur, R. Sheppard, Z. Yang, and W. Wu, "Symbiosis of Tele-Immersive Environments with Creative Choreography", <em>ACM Workshop on Supporting Creative Acts Beyond Dissemination,</em> associated with <em>6th ACM Creativity and Cognition Conference</em>, Washington, DC, June 2007.</li>
+<li>Muyuan Wang, Klara Nahrstedt, "A portable scene-aware view management system for video-conferencing", <em>IEEE ICME'07,</em>&#194;&#160;Beijing, China, 2007.</li>
+<li>Yuan Xue, Hoang Ngyuen, Klara Nahrstedt, "CA-AQM: Channel-Aware Active Queue Management for Wireless Networks", <em>IEEE International Conference on Communications (ICC)</em>, 2007 (acceptance rate 39%).</li>
+<li>Ying Huang, Wenbo He, Klara Nahrstedt, and Whay C. Lee, "Requirements and System Architecture Design Consideration for First Responder Systems",<em> IEEE Conference on Technologies for Homeland Security Conference</em>, Waltham, MA, May 2007.</li>
+<li>Wenbo He, Ying Huang, Klara Nahrstedt, and Whay Lee, "SMOCK: Scalable Key Management Scheme for First Responder Systems",<em> IEEE Pervasive Computing and Communication (PerCom) 2007</em>, (20/208, 10%).</li>
+<li>Wenbo He, Xue Liu, Hoang Ngyuen, Klara Nahrstedt, and Tarek Abdelzaher, "PDA:Privacy-preserving Data Aggregation in Wireless Sensor Networks",<em> IEEE INFOCOM 2007</em> (acceptance rate 252/1400, 18%).</li>
+<li>Jin Liang, Xiaohui Gu, and Klara Nahrstedt, "Self-Configuring Information Management for Large-Scale Service Overlays",<em> IEEE INFOCOM 2007</em> (acceptance rate 252/1400, 18%).</li>
+<li>Zhenuy Yang, Bin Yu, Wanmin Wu, Ross Danikov, Klara Nahrstedt, and Ruzena Bajcsy, "Study of Collaborative Dancing in Tele-Immersive Environment", <em>IEEE International Symposium on Multimedia (ISM) 2006</em>, San Diego, CA, December 2006.</li>
+<li>Wenbo He, Hoang Nguyen, and Klara Nahrstedt, "Experimental Validation of Middleware-based QoS Control in 802.11 Wireless Networks",<em> 3rd International Conference on Broadband Communications, Networks, and Systems (BROADNETS'06),</em> San Jose, CA, October 2006 (Invited Paper),</li>
+<li>Bin Yu, Cha Zhang, Yong Rui, and Klara Nahrstedt, "A Three-Layer Virtual Director Model for  Supporting Automated Multi-site Distributed Education",<em> IEEE ICME 2006</em>, Toronto, Canada, July 2006.</li>
+<li>Won Jeon, Klara Nahrstedt, "QoS-aware Object Replication in Overlay Networks",<em> IEEE Globecom 2006,</em> San Francisco, CA, November 2006 (acceptance rate 66%).</li>
+<li>Zhenuy Yang, Klara Nahrstedt, Bin Yu, and Ruzena Bajcsy, "A Multi-stream Adaptation framework for Bandwidth Management in 3D Teleimmersion", <em>ACM NOSSDAV 2006</em>, New Port, RI, May 2006 (acceptance rate 31%).</li>
+<li>Jin Liang, Bin Yu, Zhenuy Yang, and Klara Nahrstedt, "A Framework for Future Internet  Based TV Broadcasting", <em>Workshop on Internet Protocol TV (IPTV) services over World Wide Web</em>, associated with <em>ACM WWW 2006</em>, Edinburgh, Scotland, May 2006, (acceptance rate 75/667, 11%).</li>
+<li>Li Xiao and Klara Nahrstedt, "Minimum User-Interference Routing in Service Composition",<em> IEEE INFOCOM 2006</em>, Barcelona, Spain, April 2002&#194;&#160;(acceptance rate 18%).</li>
+<li>Jin Liang and Klara Nahrstedt, "RandPeer: Membership Management for QoS Sensitive Peer-to-Peer Applications",<em> IEEE INFOCOM 2006</em>, Barcelona, Spain, April 2006. (acceptance rate 18%).</li>
+<li>Michael Treaster, William Conner, Indranil Gupta, and Klara Nahrstedt, "Using Contagion Theory For Adaptive, Distributed Alert Propagation", <em>IEEE 5th International Symposium on Network Computing and Applications (NCA)</em>, Cambridge, MA, July 2006 (acceptance under 35%).</li>
+<li>Won Jeon, Kyungtae Kang, Roy Campbell, Klara Nahrstedt, "Simulation Framework and Performance Analysis of Multimedia Broadcasting Service over Wireless Networks", IEEE ICDCS 2009, Montreal, Canada, June 2009 (16% acceptance rate).</li>
+<li>William Conner, Tarek Abdelzaher, and Klara Nahrstedt, "Using Data Aggregation to Prevent Traffic Analysis in Wireless Sensor Networks", <em>International Conference on Distributed Computing in Sensor Systems </em>(Applications track) (acceptance rate 27%), also published in Springer Lecture Notes in Computer Science, volume 4026/2006, pages 202-217, Editors: Phillip B. Gibbons, Tarek Abdelzaher, and James Aspnes.</li>
+<li>William Conner, Arun Iyengar, Thomas Mikalsen, Isabelle Rouvellou, and Klara Nahrstedt. "A trust management framework for service-oriented environments." Eighteenth International World Wide Web Conference (WWW), 2009</li>
+<li>William Conner and Klara Nahrstedt, "Preventing DoS attacks in  peer-to-peer media streaming systems",<em> SPIE/ACM Multimedia Computing and Networking (MMCN 2006)</em>, San Jose, CA, January 2006 (acceptance rate 30%).</li>
+<li>Jin Liang and Klara Nahrstedt, "DagStream: Locality Aware and Failure Resilient Peer-to-Peer Streaming",<em> SPIE/ACM Multimedia Computing and Networking (MMCN 2006)</em>, San Jose, CA, January 2006 (acceptance rate 30%).</li>
+<li>Zhenyu Yang, Yi Cui, Bin Yu, Zahid Anwar, Robert Bocchino, Nadir Kiyanckar, Klara Nahrstedt, Roy Campbell, and William Yurcik, "Real-Time 3D Video Compression for Tele-immersive Environments",<em> SPIE/ACM Multimedia Computing and Networking (MMCN 2006)</em>, San Jose, CA, January 2006 (acceptance rate 30%).</li>
+<li>Wenbo He and Klara Nahrstedt, "An Integrated Solution to Delay and Security Support in Wireless Ad Hoc Networks",<em> IEEE Wireless Communications and Networking Conference,</em> Las Vegas, NV, April 2006.</li>
+<li>Wenbo He and Klara Nahrstedt, "Impact of Upper layer Adaptation on End-to-end Delay Management in Wireless Ad Hoc Networks",<em> IEEE RTAS 2006</em>, San Jose, CA.</li>
+<li>E-yong Kim,  Li Xiao and Klara Nahrstedt, "Identity-based Registry for Secure Inter-domain Routing", <em>ACM Symposium on Information, Computer and Communications Security</em>, Taipei, Taiwan, 2006 (acceptance rate 32/186, 17%).</li>
+<li>Zhenyu Yang, Klara Nahrstedt, and Ruzena Bajcsy "TEEVE: The Next Generation Architecture for Tele-Immersive Environments", <em>IEEE International Symposium on Multimedia (ISM)</em>, UC Irvine, CA, December 2005.</li>
+<li>Jin Liang Steven Ko, Indranil Gupta, and Klara Nahrstedt, "MON: On-demand Overlays for Distributed System Management", <em>USENIX 2nd Workshop on Real, Large Distributed Systems (WORLDS) 2005</em>, San Francisco, CA, December 2005 (acceptance rate 12/28, 43%).</li>
+<li>Renata Sheppard, Mahsa Kamali, Raoul Rivas, Morihiko Tamai, Zhenyu Yang, Wanmin Wu, Klara Nahrstedt, "Tele-Immersive Dance (TED): Evolution in Progress", ACM Multimedia 2008 (Long Art Paper), Vancouver, Canada, October 2008, 17% acceptance rate</li>
+<li>Samarth Shah and Klara Nahrstedt, "Guaranteeing Throughput for Real-time Traffic in Multi-hop IEEE 802.11 Wireless Networks", <em>IEEE International Conference on Military Communication (MilCom 2005)</em>, Atlantic City, NJ, October &#194;&#160;2005.</li>
+<li>Yuan Xue, Yi Cui, and Klara Nahrstedt, "A Utility-based Distributed Maximum Lifetime Routing Algorithm for Wireless Networks", <em>2nd International Conference on Quality of Service in Heterogeneous Wired/Wireless Networks (QShine 2005)</em>, Orlando, FL, August 2005.</li>
+<li>Jin Liang, Zhenyu Yang, Bin Yu, Yi Cui, Klara Nahrstedt, Sang-Hack Jung, Art Yeap and Ruzena Bajcsy, "Experience with Multi-Camera Tele-Immersive Environment",<em> NSF Experience Workshops on Pervasive Computing and Cluster Computing</em> (invited), Urbana, IL, July 2005.</li>
+<li>Zhenyu Yang and Klara Nahrstedt, "A Bandwidth Management Framework for Wireless Camera Array", <em>ACM NOSSDAV 2005</em>, Skamania, WA, June 12-14, 2005 (acceptance rate 38%).</li>
+<li>Kai Chen, Zhenyu Yang, Christian Wagener, and Klara Nahrstedt, "Market Models and Pricing Mechanisms in a Multihop Wireless Hotspot Network",<em> ACM/IEEE MobiQuitous 2005</em>, San Diego, CA, July 2005 (acceptance rate 35%).</li>
+<li>Wenbo He and Klara Nahrstedt, "A Feedback Control Scheme for Resource Allocation in Wireless Multi-hop Ad Hoc Networks",<em> ACM/IEEE MobiQuitous 2005</em>, San Diego, CA, July 17-21, 2005 (acceptance rate 35%).</li>
+<li>Keiichi Yasumoto and&nbsp;Klara Nahrstedt, "Ravitas: Realistic Voice Chat Framework for Cooperative Virtual Spaces", <em>ICME 2005</em>: pages 1046-1049.</li>
+<li>Xiaohui Gu, Klara Nahrstedt, and Philip Yu, "Optimal Component Composition for Scalable Stream Processing", <em>IEEE International Conference on Distributed Computing Systems</em>, Columbus, OH, June, 2005 (acceptance rate 77/540, 14%).</li>
+<li>Bin Yu and Klara Nahrstedt, "IPOD: Interactive Production on Demand", <em>SPIE/ACM Multimedia Computing and Networking (MMCN'05)</em>, San Jose, CA, January 2005 (acceptance rate 16/100, 16%).</li>
+<li>Jin Liang and Klara Nahrstedt, "Service Composition for Advanced Multimedia Applications",<em> SPIE/ACM Multimedia Computing and Networking (MMCN'05)</em>, San Jose, CA, January 2005 (acceptance rate 16/100, 16%).</li>
+<li>Vanish Talwar, Bikash Agarwalla, Sujoy Basu, Raj Kumar, and Klara Nahrstedt "Architecture for Resource Allocation Services supporting Interactive Remote Desktop Sessions in Utility Grids",<em> Middleware for Grid Computing (MGC) 2004,</em> workshop in conjunction with <em>IFIP/ACM/USENIX Middleware 2004</em>, Toronto, Canada, 2004 (acceptance rate 15/48 = 31%).</li>
+<li>Chui Sian Ong, Yuan Xue, and Klara Nahrstedt, "A Middleware for Service Adaptation in Differentiated 802.11 Wireless Networks",<em> Workshop on Coordinated QoS in Distributed Systems (COQODS)</em>, in conjunction with <em>IEEE International Conference on Networks (ICON)</em>, Singapore, November 2004.</li>
+<li>Klara Nahrstedt and Wolf-Tilo Balke, "A Taxonomy for Multimedia Service Composition",<em> ACM Multimedia 2004</em>, invited to Brave New Topics Session, New York, NY, October 2004.</li>
+<li>Wanghong Yuan and Klara Nahrstedt, "Practical Voltage Scaling for Mobile  Multimedia Devices",<em> ACM Multimedia</em>, New York, NY, October 2004, (acceptance rate 17%).</li>
+<li>Jingwen Jin and Klara Nahrstedt, "On Exploring Performance Optimizations in Web Service Composition", <em>ACM/IFIP/USENIX International Middleware Conference (Middleware'04)</em>, Toronto, Canada, October, 2004 (acceptance rate 25/181, 14%).</li>
+<li>William Conner and Klara Nahrstedt. "Securing peer-to-peer media streaming systems from selfish and malicious behavior." Fourth Middleware Doctoral Symposium (MDS), 2007.</li>
+<li>Samarth Shah, Klara Nahrstedt, "Channel-Aware Throughput Fairness in Multi-Cell Wireless LANs", <em>VTC'F04 Wireless Personal Communication Systems</em>, Los Angeles, CA, September 2004 (acceptance rate 35%).</li>
+<li>Yi Cui, Baochun Li, Klara Nahrstedt, "On Achieving Optimized Capacity Utilization in Application Overlay Networks with Multiple Competing Sessions",<em> ACM Symposium on Parallel Algorithms and Architectures (SPAA'04)</em>, Barcelona, Spain, June 2004.</li>
+<li>Yi Cui, Yuan Xue, and&#194;&#160;Klara Nahrstedt, "Optimal Distributed Multicast Routing: Theory and Applications",<em> 6th Workshop on Mathematical performance Modeling and Analysis (MAMA 2004),</em> in conjunction with<em>  SIGMETRICS-PERFORMANCE 2004</em>, New York, NY, June 2004.</li>
+<li>Xiaohui Gu, Klara Nahrstedt, Rong Chang, and Zon-Yin Shae, "An Overlay Based QoS-Aware Voice-Over-IP Conferencing System", <em>IEEE International Conference on Multimedia and Expo (ICME2004),</em> Taipei, Taiwan, June 27-30, 2004 (acceptance rate 30%).</li>
+<li>Yi Cui, Yuan Xue, and Klara Nahrstedt, "Max-min Overlay Multicast: Rate Allocation and Tree Construction,"  <em>IEEE/IFIP Int'l Workshop on Quality of Service (IWQoS 2004)</em>, Montreal, Canada, June 2004 (acceptance rate 30/154, 19%).</li>
+<li>Xiaohui Gu, Klara Nahrstedt, "An Integrated Peer-to-Peer Service Composition Framework",<em> IEEE High Performance Distributed Computing (HPDC-13)</em>, Honolulu, Hawaii, June 2004 (acceptance rate 24/153, 15%).</li>
+<li>Yuan Xue, Kai Chen, and Klara Nahrstedt, "Proportional Delay Differentiation  in Wireless LAN",  <em>IEEE International Conference on Communications (ICC 2004)</em>, Paris, France, June 2004 (acceptance rate 864/3000, 29%).</li>
+<li>Jingwen Jin, Klara Nahrstedt, "QoS Service Routing in One-to-One and One-to-Many Scenarios in Next Generation Service-Oriented Networks",  <em>IEEE International Performance, Computing, and Communications Conference (IPCCC 2004)</em>, Phoenix, AZ, April 2004 (acceptance rate 28%).</li>
+<li>Jingwen Jin and Klara Nahrstedt, "Source-based QoS Service Routing in Distributed Service Networks", <em>IEEE International Conference on Communications (ICC 2004)</em>, Paris, France, June 2004 (acceptance rate 864/3000, 29%).</li>
+<li>Jingwen Jin and Klara Nahrstedt, "Hybrid Multicasting in Large-Scale Service Networks",<em> 13th World Wide Web Conference (WWW 2004 Poster Session)</em>, New York, NY, May 2004 (acceptance rate 15%).</li>
+<li>Vanish Talwar, Bikash Agarwalla, Sujoy Basu, Raj Kumar, and Klara Nahrstedt, "A Resource Allocation Architecture with support for Interactive Sessions in Utility Grids", (Poster Paper), <em>IEEE International Symposium on Cluster Computing and Grids (CCGrid 2004)</em>, Chicago, IL, April 2004 (acceptance rate 28%).</li>
+<li>Jin Liang, Klara Nahrstedt, and Yuanyuan Zhou, "Adaptive Multi-Resource Prediction in a Distributed Resource Sharing Environment", <em>4th IEEE/ACM Symposium on Cluster Computing and Grids (CCGrid'04)</em>, Chicago, IL, April 2004 (acceptance rate 38/138, 28%).</li>
+<li>Jin Liang, Klara Nahrstedt, "Supporting QoS in a Non-dedicated opportunistic environment", <em>4th International Workshop on Global and Peer-to-Peer Computing (GP2PC 2004)</em>, in conjunction with <em>CCGRID 2004</em>, Chicago, April 2004 (acceptance rate 17/47, 36%).</li>
+<li>Raquel Hill, Jun Wang, and Klara Nahrstedt, "Quantifying Non-Functional Requirements: A process-oriented Approach", <em>12th IEEE International Conference on Requirements Engineering</em>, Kyoto, Japan, September 2004 (acceptance rate 27/100, 27%).</li>
+<li>Li Xiao, Jun Wang, and Klara Nahrstedt, "Reliability Models and Evaluation of Internal BGP Networks",<em> IEEE INFOCOM 2004</em>, Hong-Kong, China, March 2004 (acceptance rate 18%).</li>
+<li>Kai Chen, Klara Nahrstedt, "Limitation of equation-based congestion control in mobile ad-hoc networks",<em> IEEE Workshop on Wireless Ad Hoc Networks (WWAN 2004),</em> workshop associated with ICDCS 2004, Tokyo, Japan, March 2004 (acceptance rate 21/42, 50%).</li>
+<li>Kai Chen and Klara Nahrstedt, "iPass: an Incentive Compatible Auction Scheme to Enable Packet Forwarding Service in MANET", <em>IEEE International Conference on Distributed Computing Systems (ICDCS 2004)</em>, Tokyo, Japan, March 2004 (acceptance rate 84/475, 18%).</li>
+<li>Samarth Shah, Kai Chen, and Klara Nahrstedt, "Price-based Channel Time Allocation in Wireless LANs",<em> IEEE Mobile Distributed Computing (MDC 2004)</em>, workshop associated with ICDCS 2004, Tokyo, Japan, March 2004 (acceptance rate 50%).</li>
+<li>Kai Chen, Klara Nahrstedt, and Nitin Vaidya, "The Utility of Explicit Rate-Based Flow Control in Mobile Ad Hoc Networks", <em>IEEE Wireless Communications and Networking Conference (WCNC 2004)</em>, March 2004  (acceptance rate 470/1100, 43%).</li>
+<li>Wanghong Yuan and Klara Nahrstedt, "Process Group Management in Cross-layer Adaptation",<em> SPIE/ACM Multimedia Computing and Networking (MMCN 2004)</em>, San Jose, California, January 2004 (acceptance rate 25%).</li>
+<li>Samarth Shah, Kai Chen, and Klara Nahrstedt, "Available Bandwidth Estimation in IEEE 802.11-based Wireless Networks (Extended Abstract)",<em>  Proceedings of 1st ISMA/CAIDA Workshop on Bandwidth Estimation (Best 2003)</em>, San Diego, CA, December 2003.</li>
+<li>King Sha Lui, Jun Wang, Klara Nahrstedt, "A Receiver-initiated Method for QoS Multicast Routing with Heterogeneous Receivers", <em>IEEE Globecom 2003</em>, San Francisco, CA, December 2003 (acceptance rate 36%).</li>
+<li>Anupama Mahajan, Klara Nahrstedt, and Brian Bailey, "A System to Remotely Control the Display of Applications in a Multi-display Environment", <em>AACE E-Learn 2003, </em>Phoenix, Arizona, November 2003.</li>
+<li>Bin Yu, Wei-Ying Ma, Klara Nahrstedt,  and Hong-Jiang Zhang, "Video Summarization based on User Log Enhanced Link Analysis",<em>  ACM Multimedia 2003,</em> San Francisco, November 2003 (acceptance rate less than 17%).</li>
+<li>Li Xiao, Jun Wang, and Klara Nahrstedt, "Reliability-aware IBGP Route Reflection Topology Design", <em>11th IEEE International Conference on Network Protocols</em>, Atlanta, GA, November 2003 (acceptance rate 13%).</li>
+<li>Wanghong Yuan and Klara Nahrstedt, "Real-Time Scheduling and Dynamic Voltage Scaling for Mobile Multimedia Systems",<em> 19th ACM Symposium on Operating Systems Principles (SOSP 2003), </em>2003,&#194;&#160;Bolton Landing (Lake George), NY, October 2003&#194;&#160;(acceptance rate 17%).</li>
+<li>Chui Sian Ong, Klara Nahrstedt, and Wanghong Yuan, "Quality of Protection for Mobile Multimedia Applications",  <em>IEEE International Conference on Multimedia and Expo (ICME)</em>, Baltimore, MD, August 2003.</li>
+<li>Wanghong Yuan, Klara Nahrstedt, "Buffering Approach for Energy Saving in Video Sensors", <em>IEEE International Conference on Multimedia and Expo (ICME)</em>, Baltimore, MD, August 2003.</li>
+<li>Yuan Xue, Baochun Li, Klara Nahrstedt, "Price-based Resource Allocation in Wireless Ad Hoc Networks," <em>IEEE/IFIP International Workshop on Quality of Service (IWQoS)</em>, Monterey, CA, June 2003 (acceptance rate 27/88, 30%).</li>
+<li>Yi Cui, Klara Nahrstedt, "Layered Peer-to-Peer Streaming",<em> IEEE Network and Operating System Support for Digital Audio and Video (NOSSDAV)</em>, Monterey, CA, June 2003 (acceptance rate 18/60, 30%).</li>
+<li>Jingwen Jin, Klara Nahrstedt, "Large Scale Service Overlay Networking with Distance-Based Clustering", <em>IFIP/ACM Middleware 2003</em>, Rio de Janero, Brazil, June 2003 (acceptance rate 16%).</li>
+<li>Li Xiao, Jun Wang, Klara Nahrstedt, "Optimizing the IBGP Route Reflection Network", <em>IEEE International Conference on Communication (ICC)</em>, Anchorage, Alaska, May 2003 (acceptance rate 38%).</li>
+<li>King-Shan Lui, Way Lee, and Klara Nahrstedt, "Link Layer Multi-Priority Frame Forwarding", <em>IEEE International Conference on Communication (ICC), </em>Anchorage, Alaska, May 2003 (acceptance rate 38%).</li>
+<li>Kai Chen, Klara Nahrstedt, "Towards Setting TCP's Congestion Window Limit in MANET", <em>IEEE International Conference on Communication (ICC)</em>, Anchorage, Alaska, May 2003, (acceptance rate 38%).</li>
+<li>Jun Wang, King-Shan Lui, Li Xiao, Klara Nahrstedt, "Bandwidth Sensitive Routing in DiffServ Networks with Heterogeneous Bandwidth Requirements", <em>IEEE International Conference on Communication (ICC)</em>, Anchorage, Alaska, May 2003, (acceptance rate 38%).</li>
+<li>Jingwen Jin, Klara Nahrstedt, "On Construction of Service Multicast Trees", <em>IEEE International Conference on Communication (ICC)</em>, Anchorage, Alaska, May 2003 (acceptance rate 38%).</li>
+<li>Jingwen Jin, Klara Nahrstedt, "Resource- and Quality-Aware Application-Level Service Multicast", <em>9th IEEE International Workshop on Future Trends of Distributed Computing Systems</em>, San Juan, Puerto Rico, May 2003.</li>
+<li>Xiaohui Gu, Klara Nahrstedt, Rong N. Chang, and Christopher Ward, "QoS-Assured Service Composition in Managed Service overlay Networks", <em>IEEE International Conference on Distributed Computing Systems (ICDCS)</em>, Providence, Rhode Island, May 2003 (acceptance rate 18%).</li>
+<li>Yuan Xue, Klara Nahrstedt, "Fault Tolerant Routing in Mobile Ad-Hoc Networks",<em> IEEE Wireless Communications and Networking Conference (WCNC 2003)</em>, New Orleans. Louisiana, March 2003 (acceptance rate 52%).</li>
+<li>Wanghong Yuan, Klara Nahrstedt, "ReCalendar: calendaring and Scheduling Applications with CPU and Energy Resource Guarantees for Mobile Devices", <em>IEEE International Conference on Pervasive Computing and Communications (PerCom)</em>, Forth Worth, TX, March 2003 (acceptance rate 42/170 full papers, 30%).</li>
+<li>Xiaohui Gu, Klara Nahrstedt, Alan Messer, Ira Greenberg, and Dejan Milojicic, "Dynamic Offloading Service for Pervasive Application Delivery", <em>IEEE International Conference on Pervasive Computing and Communications (PerCom), </em>Forth Worth, TX, March 2003 (acceptance rate 42/170 full papers, 30%).</li>
+<li>Samarth Shah, Kai Chen, and Klara Nahrstedt, "Dynamic Bandwidth Management in Wireless LANs", <em>IEEE International Conference on Pervasive Computing and Communications (PerCom),</em> Forth Worth, TX, March 2003 (acceptance rate 42/170 full papers,  30%).</li>
+<li>Wanghong Yuan, Klara Nahrstedt, Sarita Adve, Doug Jones, and Robin Kravets, "Design and Evaluation of a Cross-layer Adaptation Framework for Mobile Multimedia Systems",<em> SPIE/ACM Multimedia Computing and Networking Conference (MMCN 2003)</em>, January 2003, Santa Clara, CA (acceptance rate 20/47, 43%).</li>
+<li>Yi Cui and Klara Nahrstedt, "Proxy-based Asynchronous Multicast for Efficient On-Demand Media Distribution",<em> SPIE/ACM Multimedia Computing and Networking Conference (MMCN) 2003</em>, January 2003, Santa Clara, CA (acceptance rate 23%).</li>
+<li>Bin Yu, Klara Nahrstedt, "A Real-time Software Solution for Re-synchronizing Filtered HDTV MPEG2 Transport Stream",<em> 4th IEEE International Symposium on Multimedia Software Engineering (MSE) 2002</em>, December 2002, New Port Beach, CA.</li>
+<li>Klara Nahrstedt, Julius Bajcsy, "Internet-based Distance Learning in Slovakia",<em> AACE E-Learn 2002</em>, October 2002, Montreal, Canada, pages 1973-1976.</li>
+<li>Won Jeon, Kyong-Joon Park, Klara Nahrstedt, and A. Basar, "Robust Delay Estimation for Internet Multimedia Applications",<em> Interactive Distributed Multimedia Systems/Protocols for Multimedia Systems (iDMS/PROMS) 2002</em>, Coimbra, Portugal, November 2002 (acceptance rate 30/112, 27%).</li>
+<li>Won Jeon, Kyung-Joon Park, and Klara Nahrstedt, "Robust Playout Mechanisms for Internet Audio Applications", <em>IEEE Local Computer Networks (LCN) 2002</em> (acceptance rate 41%).</li>
+<li>Duangdao Wichadakul, Xiaohui Gu, and Klara Nahrstedt, "A Programming Framework for Quality-Aware Ubiquitous Multimedia Applications",<em> ACM Multimedia 2002</em>, France, December 2002 (acceptance rate 19%).</li>
+<li>Li Xiao, King-Shan Lui, Jun Wang, and Klara Nahrstedt, "QoS Extension to BGP," <em>IEEE International Conference on Network Protocols (ICNP) 2002</em>, Paris, France, October 2002 (acceptance rate 32/217, 15%).</li>
+<li>Jingwen Jin, Klara Nahrstedt, "mc-SPF: An Application-Level Multicast Service Path Finding Protocol for Multimedia Applications,"<em> IEEE ICME 2002</em>, Lausanne, Switzerland, August 2002.</li>
+<li>Bin Yu, Klara Nahrstedt, "A Compressed-Domain Visual Information Embedding Algorithm for MPEG-2 HDTV Streams",<em> IEEE ICME 2002</em>, Lausanne, Switzerland, August 2002.</li>
+<li>Won Jeon, Klara Nahrstedt, "Peer-to-Peer Multimedia Streaming and Caching Service", <em>IEEE International Conference on Multimedia and Expo (ICME)</em>, Lausanne, Switzerland, August 2002.</li>
+<li>Xiaohui Gu, Klara Nahrstedt, "A Scalable QoS-aware Service Aggregation Model for Peer-to-Peer Computing Grids",<em> IEEE High Performance Distributed Computing Conference 2002</em>, Edinsburgh, UK, pages 73-82 (acceptance rate 18%).</li>
+<li>Xiaohui Gu, Klara Nahrstedt, "Dynamic QoS-aware Multimedia Service Configuration in Ubiquitous Computing Environments", <em>IEEE International Conference on Distributed Computing Systems (ICDCS)</em>, Vienna, Austria, July 2002, pages 311-318 (acceptance rate 61/331, 18%).</li>
+<li>S. Adve, A. Harris, C. Hughes, D. Jones, R. Kravets, K. Nahrstedt, D. Sachs, R. Sasanka, J. Srinivasan and W. Yuan, "The Illinois GRACE Project: Global Resource Adaptation through CoopEration,"<em> Workshop on Self-Healing, Adaptive and self-MANaged Systems (SHAMAN02)</em>, New York, NY, June 2002.</li>
+<li>Wanghong Yuan, Klara Nahrstedt, "Integration of Dynamic Voltage Scaling and Soft Real-time Scheduling for Open Mobile Systems",<em> IEEE Network and Operating System Support for Digital Audio and Video (NOSSDAV)</em>, June 2002, pages 105-114 (acceptance rate 18/58, 31%).</li>
+<li>Duangdao Wichadakul, Klara Nahrstedt, "A Translation System for Enabling Flexible and Efficient Deployment of QoS-aware Applications in Ubiquitous Environments",<em> IFIP/ACM Working Conference on Component Deployment 2002</em>,  Berlin, Germany, June 2002, pages 210-221.</li>
+<li>Samarth Shah, Klara Nahrstedt, "Predictive Location-based QoS Routing in Mobile Ad-Hoc Networks", <em>IEEE International Conference on Communications (ICC)</em>, New York, April 2002, volume 2, pages 1022-1027 (acceptance rate 42%).</li>
+<li>Li Xiao, Jun Wang, and Klara Nahrstedt, "Extended Ticket-based Routing," <em>IEEE International Conference on Communications (ICC) 2002</em>, New York, April 2002, volume 2, pages 2222-2226 (acceptance rate 42%).</li>
+<li>Jun Wang, Klara Nahrstedt, "Hop-by-Hop Routing Algorithms for Premium Class Traffic in Diffserv Networks",<em> IEEE INFOCOM 2002</em>, New York, NY, June 2002, pages 705-714 (acceptance rate 10%).</li>
+<li>Kai Chen, Klara Nahrstedt, "Effective Location-guided Tree Construction Algorithms for Small Group Multicast in MANET",<em> IEEE INFOCOM 2002</em>, New York, NY, June 2002, pages 1180-1189 (acceptance rate 10%).</li>
+<li>Dongyan Xu, Klara Nahrstedt, "Finding Service Paths In a Media Service Proxy Network,"<em> SPIE Electronic Imaging - Multimedia Computing and Networking (MMCN),</em> San Jose, CA, January 2002, pages 171-185 (acceptance rate 22%).</li>
+<li>Kai Chen, Klara Nahrstedt, "An Integrated Data Lookup and Replication Scheme in Mobile Ad-Hoc Networks",<em> SPIE Electronic Imaging - Optoelectronic and Wireless Data Management, Processing, Storage and Retrieval</em>, volume 4534, November 2001, pages 1-8.</li>
+<li>Wanghong Yuan, and Klara Nahrstedt, "A Middleware Framework Coordinating Processor/Power resource Management for Multimedia Applications",<em> IEEE Globecom</em>, San Antonio, Texas, November 2001, pages 1984-1988 (acceptance rate 47%).</li>
+<li>Yuan Xue, Baochun Li, and Klara Nahrstedt, "A Scalable Location Management Scheme in Mobile Ad-hoc Networks",<em> IEEE Conference on Local Area Networks (LCN)</em>, Tampa, Florida, November 2001, pages 102-112 (acceptance rate 49%).</li>
+<li>Duangdao Wichadakul, Klara Nahrstedt, Xiaohui Gu, and Dongyan Xu, "2KQ+: An Integrated Approach to QoS Compilation and Reconfigurable, Component-based Run-time Middleware for the Unified QoS Management",&#194;&#160;<em>IFIP/ACM International Conference on Distributed Systems Platforms and Open Distributed Processing (Middleware 2001)</em>, Heidelberg, Germany, November 2001, pages 373-394 (acceptance rate 18%).</li>
+<li>Xiaohui Gu, Klara Nahrstedt, "An Event-driven, User-centric, QoS-aware Middleware Framework for Ubiquitous Multimedia Applications",<em> ACM Multimedia Middleware Workshop</em>, associated with ACM Multimedia, Ottawa, Canada, October 2001 (acceptance rate 19%).</li>
+<li>Wanghong Yuan, Klara Nahrstedt, and Xiaohui Gu, "Coordinating Energy-aware Adaptation of Multimedia Applications and Hardware Resource",<em> ACM Multimedia Middleware Workshop,</em> associated with ACM Multimedia, Ottawa, Canada, October 2001 (acceptance rate 19%).</li>
+<li>Yi Cui, Klara Nahrstedt, "Supporting QoS for Ubiquitous Multimedia Service Delivery",<em> ACM Multimedia Doctorial Symposium</em>, associated with ACM Multimedia, Ottawa, Canada, October 2001 (acceptance rate 19%).</li>
+<li>Baochun Li, Dongyan Xu, and Klara Nahrstedt, "Towards Integrated Runtime Solutions in QoS-aware Middleware",<em> ACM Multimedia Middleware Workshop</em>, associated with ACM Multimedia, Ottawa, Canada, October 2001 (acceptance rate 19%).</li>
+<li>Vanish Talwar, Suman Nath, and Klara Nahrstedt, "RSVP-SQoS: A Secure RSVP Protocol", <em>IEEE International Conference on Multimedia and Expo (ICME)</em>, Tokyo, Japan, August 2001 (electronic proceedings, link: FP2:QoSII) pages 17-20.</li>
+<li>King-Shan Lui, Klara Nahrstedt, and Whay Lee, "Modeling and Simulation of the Spanning Tree Alternate Routing Bridge",<em> OPNETWORK</em>, August 2001.</li>
+<li>Yi Cui, Klara Nahrstedt, "SMART: A Scalable Middleware Solution for Ubiquitous Multimedia Service Delivery", <em>IEEE International Conference on Multimedia and Expo (ICME),</em> Tokyo, Japan, August 2001 (electronic proceedings, link: Session SP7: Multimedia TechnologiesVII) pages 17-20.</li>
+<li>Xiaohui Gu, Klara Nahrstedt, "Visual Programming Environment for Ubiquitous Multimedia Services", <em>IEEE International Conference on Multimedia and Expo (ICME)</em>, Tokyo, Japan, August 2001, (electronic proceedings, link: Session FP2:QoSII) pages 13-16.</li>
+<li>Yi Cui, Klara Nahrstedt, "QoS-aware Dependency Management for Component-based Systems",<em> IEEE High-Performance Distributed Computing (HPDC)</em>, San Francisco, CA, July 2001, pages 127-138 (acceptance rate 18%).</li>
+<li>Baochun Li, Klara Nahrstedt, "Impact of Control Theory on QoS Adaptation in Distributed Middleware Systems", <em>American Control Conference</em>, Arlington, VA, June 2001.</li>
+<li>Jun Wang, Klara Nahrstedt, "A Solution to the NKR Problem in End-to-End Bandwidth Reservation", <em>IEEE International Conference on Communication (ICC)</em>, Helsinki, Finland, June 2001, (acceptance rate 436/1145, 38%).</li>
+<li>Jun Wang, Klara Nahrstedt, "Parallel IP Packet Forwarding for Tomorrow's IP Routers",<em>  IEEE Workshop on High Performance Switching and Routing</em>, Dallas, TX, May 2001, pages 353-357 (acceptance rate 80/160, 50%).</li>
+<li>John Qian, Susan Hinrichs, and Klara Nahrstedt, "ACLA: A Framework for Access Control List Analysis and Optimization", <em>IFIP International Conference in Communication and Multimedia Security</em>, Darmstadt, Germany, May 2001.</li>
+<li>Wanghong Yuan, Klara Nahrstedt, and Kihun Kim, "R-EDF: A Reservation-Based EDF Scheduling Algorithm for Multiple Multimedia Task Classes", <em>IEEE Real-Time Applications and Systems (RTAS)</em>, Taipei, Taiwan, May 2001 (acceptance rate 25%).</li>
+<li>Dongyan Xu, Klara Nahrstedt, "QoS-Aware Discovery of Wide-Area Distributed Services", <em>CCGrid 2001</em>, Brisbane, Australia, May 2001, pages 92-99 (acceptance rate 46/128, 36%).</li>
+<li>Arun Viswanathan, Klara Nahrstedt, Dongyan Xu, and Duangdao Wichadakul, "Impact of CPU Reservation on End-to-End Media Data Transmission", <em>IEEE International Performance, Computing and Communication Conference (IPCCC)</em>, Phoenix AZ, April 2001, pages 354-361 (acceptance rate 50%).</li>
+<li>Vanish Talwar, Klara Nahrstedt, "Securing RSVP for Multimedia Applications", <em>ACM Multimedia Security Workshop</em>, associated with ACM Multimedia, November 2000, Los Angeles, CA, (acceptance rate 36 out of 214, 17%).</li>
+<li>King-Shan Lui, Klara Nahrstedt, and Shigang Chen, "Hierarchical QoS Routing in Delay-Bandwidth Sensitive Networks", <em>IEEE Local Computer Networks (LCN)</em>, Tampa, FL, November 2000, pages 579-588 (acceptance rate 70/128, 55%).</li>
+<li>King-Shan Lui, Klara Nahrstedt, "Topology Aggregation and Routing in Bandwidth-Delay Sensitive Networks", <em>IEEE GLOBECOM '00</em>, San Francisco, CA, November 2000, pages 410-414 (acceptance rate 352/1035, 34%).</li>
+<li>Jun Wang and&#194;&#160;Klara Nahrstedt, "Design and Implementation of Diffserv Routers in OPNET", <em>OPNETWORK '00</em>, Washington, DC,&#194;&#160;August 2000 (acceptance rate 18%).</li>
+<li>Dongyan Xu, Dao Wichadakul, Klara Nahrstedt, "QoS and Contention-Aware Multi-Resource Reservation", <em>IEEE High Performance Distributed Computing Conference (HPDC)</em>, Pittsburgh, PA, August 2000, pages 3-10.</li>
+<li>Fabio Kon, Roy Campbell, Dennis Mickunas, and Klara Nahrstedt, "2K:  Distributed Component-based System", <em>IEEE High Performance Distributed Computing Conference (HPDC)</em>, Pittsburgh, PA, August 2000, pages 201-208.</li>
+<li>Dongyan Xu, Duangdao Wichadakul, and Klara Nahrstedt, "Resource-Aware Configuration of Ubiquitous Multimedia Services",  <em>IEEE International Conference on Multimedia and Expo (ICME)</em>, New York, NY, July 2000, pages 851-854 (acceptance rate 249/810, 30%).</li>
+<li>Klara Nahrstedt, Dao Wichadakul, and Dongyan Xu, "Distributed QoS Compilation and Runtime Instantiation", <em>8th IEEE/IFIP International Workshop on Quality of Service (IWQoS)</em>, Pittsburgh, PA, June 2000, pages 198-210 (acceptance rate 21/86, 24%).</li>
+<li>Baochun Li, Klara Nahrstedt, "QualProbes: Middleware QoS Profiling Services for Configuring Adaptive Applications", <em>IFIP/ACM International Conference on Distributed Systems Platforms and Open Distributed Processing (Middleware 2000)</em>, New York, NY, April&#194;&#160; 2000, pages 256-272 (acceptance rate 21/70, 30%).</li>
+<li>Dongyan Xu, Klara Nahrstedt, Duangdao Wichadakul, "MeGaDiP: A Wide Area Media Gateway Discovery Protocol", <em>IEEE International Performance, Computing, and Communications Conference (IPCCC)</em>, Phoenix, AZ, February 2000, pages 257-263 (acceptance rate 48%).</li>
+<li>Baochun Li, Won Jeon, Bill Kalter, Klara Nahrstedt, and Jun Seo, "Adaptive Middleware Architecture for a Distributed Omni-directional Visual Tracking System",<em> SPIE Electronic Imaging - Multimedia Computing and Networking (MMCN),</em> San Jose, CA, January 24-26, 2000, pages 101-112 (acceptance rate 17/60, 28%).</li>
+<li>Klara Nahrstedt, Duangdao Wichadakul, "QoS-aware Active Gateway for Multimedia Communication", <em>6th International Workshop on Interactive Distributed Multimedia Systems and Telecommunication Services, ENSICA</em>, Toulouse, France, October 1999, pages 31-44.</li>
+<li>Baochun Li, Klara Nahrstedt, "Optimal State Prediction for Feedback-Based QoS Adaptations", <em>7th IFIP/IEEE International Workshop on Quality of Service (IWQoS)</em>, London, England. May, 1999, pages 37-46 (acceptance rate 21%).</li>
+<li>Dongyan Xu, Dao Wichadakul, Klara Nahrstedt, "Multimedia Service Configuration and Reservation in Heterogeneous Environments", <em>IEEE International Conference on Distributed Computing Systems (ICDCS)</em>, April 2000, Taiwan, pages 512-519 (acceptance rate 76/187, 40%).</li>
+<li>Shigang Chen, Klara Nahrstedt, and Yuval Shavitt, "A QoS-Aware Multicast Routing Protocol",<em> IEEE INFOCOM 2000</em>, Israel, March 2000, pages 1594-1603 (acceptance rate 192/720, 26%).</li>
+<li>Dongyan Xu, Baochun Li, and Klara Nahrstedt, "QoS-Directed Error Control of Video Multicast in Wireless Networks",<em> IEEE 8th International Conference on Computer Communications and Networks (ICCCN),</em> Boston, MA October 1999, pages 257-262 (acceptance rate 44%).</li>
+<li>Sergio Servetto, Klara Nahrstedt, "Video Streaming over the Public Internet: Multiple Description Codes and Adaptive Transport Protocols",  <em>IEEE International Conference on Image Processing (ICIP)</em>, Japan, October 1999.</li>
+<li>Mukul Chawla, Yuxin Zhou, and Klara Nahrstedt, "QoS Translation and End-to-End  Signaling Protocols for RSVP over CBR/ATM", <em>OPNETWORK'99</em>, Washington, DC, August 1999.</li>
+<li>Baochun Li, Klara  Nahrstedt, "Dynamic Reconfiguration for Complex Multimedia Applications", <em>IEEE International Conference on Multimedia  and Computing Systems (ICMCS),</em> Florence, Italy, June 1999, pages 165-170 (acceptance rate 24%).</li>
+<li>Shigang Chen, Klara  Nahrstedt, "Hierarchical Scheduling for Multiple Classes of Applications in Connection-Oriented Integrated-Service Networks", <em>IEEE International Conference on Multimedia and Computing Systems (ICMCS)</em>, Florence, Italy, June 1999, pages 153-158 (acceptance rate 24%).</li>
+<li>Hao Hua Chu and&#194;&#160;Klara  Nahrstedt, "CPU Service Classes for Multimedia Applications", <em>IEEE International Conference on Multimedia and Computing Systems (ICMCS)</em>, Florence, Italy, June 1999, pages 296-301 (acceptance rate 24%).</li>
+<li>Ian Foster, Carl Kesselman, Craig Lee, Bob Lindell, Klara Nahrstedt, and Alain Roy, "A Distributed Resource Management Architecture that Supports Advance Reservations and Co-allocation",<em> 7th IFIP/IEEE International Workshop on Quality of Service (IWQoS)</em>,  London. England, May 1999, pages 27-36 (acceptance rate 21%).</li>
+<li>Shigang Chen, Klara Nahrstedt, "Routing by Distributed Recursive Computation and Information", <em>IEEE International Conference on Performance, Control, Computing and Communication (IPCCC),</em> February 1999, pages 393-403 (acceptance rate 54%).</li>
+<li>Hao Chu, Lintian Qiao, and Klara Nahrstedt, "A Secure Multicast Protocol with copyright Protection",<em> SPIE Multimedia Security Conference</em>, San Jose, CA, January 1999, pages 460-471.</li>
+<li>Lintian Qiao and&#194;&#160;Klara Nahrstedt, "Non-Invertible Watermarking Scheme for MPEG Audio",<em> SPIE Multimedia Security Conference,</em> San Jose, CA, January 1999, pages 194-202.</li>
+<li>Dongyan Xu, Baochun Li, Jane W.S.Liu, and Klara Nahrstedt, "Providing Seamless QoS for Multimedia Multicast in Real-Time Packet Cellular Networks",<em> SPIE 1998 Symposium on Voice, Video, and Data Communications</em>, Boston, MA, November 1998, pages 257-262.</li>
+<li>Baochun Li, Dongyan Xu, Klara Nahrstedt, and Jane W.S. Liu, "End-to-End QoS Support for Adaptive Applications Over the Internet",<em> SPIE 1998 Symposium on Voice, Video, and Data Communications</em>, Boston, MA, November 1998, pages 166-176.</li>
+<li>Shigang Chen, Klara Nahrstedt, "Distributed Routing with Imprecise State Information",<em> IEEE Seventh International Conference on Computer Communications and Networks (ICCCN),</em> Lafayette, LA, October 1998, pages 614-621.</li>
+<li>Shigang Chen, Klara Nahrstedt, "Distributed Quality-of-Service Routing in High-Speed Networks Based on Selective Probing",<em> 23rd Annual Conference on Local Computer Networks (LCN)</em>, Boston, MA, October 1998, pages 80-89.</li>
+<li>S. Servetto, Kannan  Ramchandran, V Vaishampayan, and Klara Nahrstedt, "Multiple Description Wavelet Based Image Coding", <em>IEEE International Conference on Image Processing (ICIP)</em>, October 1998, volume I out of III, pages 659-663.</li>
+<li>Klara  Nahrstedt, Shigang Chen, "Coexistence of QoS and  Best Effort Flows",<em> 10th IEEE Tyrrhenian International Workshop on Digital Communications</em>, Ischia (Napoli), Italy, September 1998, pages 175-188.</li>
+<li>Klara Nahrstedt, Lintian Qiao, "Non-Invertible Watermarking Methods for MPEG Video and Audio",<em> ACM Multimedia (Security Workshop)</em>, Bristol, England, September 1998, pages 93-98.</li>
+<li>Baochun Li, Klara Nahrstedt, "Adaptive QoS Middleware Framework for Complex Flexible Applications",  <em>NASA NREN QoS Workshop</em>, NASA AMES, CA, August 1998, pages 21-23.</li>
+<li>John Lin, Hao Chu, Klara Nahrstedt, "A Soft-Real-Time Scheduler in the Windows NT Environment", <em>2nd USENIX Windows NT Symposium</em>, Seattle, WA, August 1998, pages 149-156 (acceptance rate 40%).</li>
+<li>Shigang Chen and Klara Nahrstedt, "Distributed Quality-of-Service Routing with Imprecise State Information for the Next Generation Internet",<em> NASA NREN QoS Workshop</em>, NASA AMES, CA, August 1998, pages 33-36.</li>
+<li>Lintian Qiao, Klara  Nahrstedt, "Watermarking Methods for MPEG Encoded Video:  Towards Resolving Rightful Ownership", <em>IEEE International Conference on Multimedia Computing and Systems (ICMCS)</em>, Austin, TX, June 1998, pages 276-286 (acceptance rate 28/132, 21%).</li>
+<li>Shigang Chen, Klara  Nahrstedt, "On Finding an Optimal Route",<em> IEEE International Conference on Communications (ICC)</em>, Atlanta, GA, Jun. 1998, pages 874-879 (acceptance rate 352/550, 64%).</li>
+<li>Baochun Li, Klara  Nahrstedt, "An Open Task Control Model for Quality of  Service Adaptation", <em>14th International Conference on Advanced Science and Technology</em>, Chicago, IL, April 1998, pages 29-41.</li>
+<li>Miyazaki Yasuhiko, Klara Nahrstedt, "Dynamic Coordination of Movies according to Popularity Index and Resource Availability within a Hierarchical VOD system (Extended Abstract)", IEEE Region 10 Annual Conf., Speech and Image Technologies for Computing and Telecommunications, Queensland, Australia, Dec. 1997, pp. 199-203.</li>
+<li>Lintian Qiao, Klara Nahrstedt, Ivan Tam, "Is MPEG Encryption Using Random Lists instead of Zig Zag Order Secure?",<em> IEEE International Symposium on Consumer Electronics</em>, Singapore, December 1997, pages 226-229.</li>
+<li>Nalini Venkatasubriamanian, Klara Nahrstedt, "An Integrated Metric for Video QoS",<em> ACM Multimedia,</em> November 1997, Seattle, WA, pages 371-381.</li>
+<li>Sergio Servetto, Kannan  Ramchandran, Klara Nahrstedt, and Antonio Ortega, "Optimal Segmentation of a VBR Source for its Parallel Transmission over Multiple ATM Connections",<em> IEEE International Conference on Image Processing (ICIP)</em>, Santa Barbara, CA, October 1997, volume 2, pages 5-8 (acceptance rate 12% full papers).</li>
+<li>Lintian Qiao, Klara  Nahrstedt, "A New Algorithm for MPEG Video Encryption",<em> International Conference on Imaging Science, Systems, and Technology</em>, Las Vegas, NV, June 1997, pages 21-29 (acceptance rate 32%).</li>
+<li>Lintian Qiao, Klara Nahrstedt, "Lip Synchronization within an Adaptive VOD Systems",<em> SPIE Electronic Imaging - Multimedia Computing and Networking Conference (MMCN)</em>, San Jose, CA, February 1997, pages 170-181.</li>
+<li>Hao-Hua Chu, Klara Nahrstedt, "Dynamic Multi-Path Communication for Video Traffic", IEEE HICSS '97, Hawaii, Jan. 1997 pp. 695-705 (acceptance rate 4/11, 36%).</li>
+<li>Klara  Nahrstedt, Jonathan Smith, "New Algorithms for Admission Control and Scheduling to support Multimedia Feedback Remote Control Applications", IEEE Intl Conf. on Multimedia Computing and Systems (ICMCS), Hiroshima, Japan, Jun. 1996, pp. 532-539 (acceptance rate 43/189, 23%)</li>
+<li>Klara  Nahrstedt, Jonathan Smith, "An Application-Driven Approach to Multimedia Networks",<em> 18th IEEE Conferenc on Local Computer Networks (LCN)</em>, Minneapolis, MN, September 1993, pages 361-368.</li>
+<li>Klara  Nahrstedt, Jonathan Smith, "An Integrated Multimedia Architecture for High-Speed Networks",<em> IEEE Multimedia 92 Conference</em>, Monterey, CA, April 1992, pages 70-79. A brief 'extended abstract' of this paper was published in <em>ACM Computer Communication Review</em>, June 1992, pages 25-26.</li>
+</ul>
+
+		
+		<h2>Invited Lectures</h2>
+<ul>
+<li>"Senselet: IOT Infrastructure for Situational Awareness and Safety in Academic Cleanrooms"</li>
+<li>"360-Degree Video Delivery Systems: research Challenges and Solutions"</li>
+<li>"Anomaly Detection and Causal Reasoning about Attacks on SCADA Networks"</li>
+<li>"Anomaly Detection and Causal Reasoning about Attacks on SCADA Networks"</li>
+<li>"Navigation Graphs for Tiled Media Streaming"</li>
+<li>"Real-Time Micro-service Operating Infrastructure for Scientific Workflows"</li>
+<li>"Campus-Specific Cyber-Infrastructure Challenges and Solutions for Scientific Instruments, and their Workflows and Lab Environments"</li>
+<li>"Anomaly Detection and Causal Reasoning about Attacks on SCADA Networks"</li>
+<li>"Real-Time Micro-service Operating Infrastructure for Scientific Workflows"</li>
+<li>"Real-Time Micro-service Operating Infrastructure for Scientific Workflows"</li>
+<li>"Advanced Infrastructures for Scientific Instruments and Their Data Management Life-Cycles"</li>
+<li>"Real-Time Micro-service Operating Infrastructure for Scientific Workflows"</li>
+<li>Role of Mentors towards Successful Academic Career</li>
+<li>Real-Time Micro-service Operating Infrastructure for Scientific Workflows (Distinguished Lecture)</li>
+<li>Real-time and Trustworthy Edge-Cloud Microservice Operating Infrastructure for Scientific Workflows (Distinguished Lecture)</li>
+<li>Security and Privacy Considerations for Legacy and Future IoT Systems (Keynote)</li>
+<li>Adaptive and Distributed Operator Placement for Streaming Workflows in Edge-Cloud Environments (Invited  Talk)</li>
+<li>Distribution Systems for 3D Teleimmersive and Video 360 Content: Similarities and Differences (Invited Lecture)</li>
+<li>Real-Time Micro-service Operating Infrastructure for Scientific Workflows (Distinguished Lecture)</li>
+<li>Multi-Camera Content Delivery Systems: Challenges and Opportunities " (Keynote)</li>
+<li>"Towards Multi-View Live 360 Video Broadcasting", Distinguished Lecture Series</li>
+<li>"Challenges and Opportunities in Multimedia Systems"</li>
+<li>"Challenges and Opportunities of Multi-camera systems"</li>
+<li>"CC* Integration: BRACELET: Robust Cloudlet Infrastructure for Scientific Instruments' Lifetime Connectivity"</li>
+<li>"Exploring IoT Co-Dependencies in Electro-Mobility"</li>
+<li>"Future Technological Directions of Smart Communities - CCC View"</li>
+<li>"Security and Safety in Interdependent Cyber-Physical Systems"</li>
+<li>"Smart Services for Unstructured Health-Care Environments"</li>
+<li>"Resilient Data Collection in Oil and Gas Refinery Sensor Networks"</li>
+<li>"4CeeD DIBBs Challenges and Solutions"</li>
+<li>"4CeeD: Real-Time Data Acquisition and Analysis Framework for Material-related Cyber-Physical Environments"</li>
+<li>"4CeeD: Real-Time Data Acquisition and Analysis Framework for Materials and Semiconductor Fabrication Cyber-Physical Environments"</li>
+<li>Technological Challenges and Opportunities for Tele-Physiotherapy</li>
+<li>Trustworthy Cyber-Physical Infrastructure for Electrical Vehicles</li>
+<li>Towards Experience-Centric Evaluations of Tele-Immersive Environments</li>
+<li>Cybersecurity Challenges of Electric Vehicles in Interdependent Cyber-Physical Environments</li>
+<li>Trustworthy Cyber-Physical Infrastructure for Electrical Vehicles</li>
+<li>"Challenges and Lessons Learned from 3D Tele-Immersive Environments"</li>
+<li>CyPhy - 3D Teleimmersion for Home-Care Rehabilitation</li>
+<li>Joint Software-Defined Application-Network Control Plane for Next Generation Real-Time Applications</li>
+<li>SDN-Assisted Multi-Stream Management for Real-Time Applications, Invited Talk</li>
+<li>Electric Vehicles - Cyber-Physical Issues</li>
+<li>Joint Software-Defined Application-Network Control Plane for Next Generation Real-Time Applications</li>
+<li>Trustworthy Cyber-Physical Infrastructure for Electrical Vehicles</li>
+<li>Impact of Software Defined Networks on Next Generation Real-Time Applications</li>
+<li>SDN-Assisted Multi-Stream Management for Real-Time Applications</li>
+<li>Trustworthy Cyber-Physical Systems for Electro-Mobility</li>
+<li>"Electric Vehicles and Their Impact on Trustworthy Power Grid Informatics"</li>
+<li>Internet of Mobile Things: Challenges and Opportunities</li>
+<li>"Designing usable, secure, privacy-aware, and available IoT and wearable technologies for healthcare"</li>
+<li>From MBone and Web-based Multimedia to Experiential Multimedia Systems: Time Travel with WABAC Machine; Invited Talk</li>
+<li>"From Quality of Service to Quality of Experiences: Evaluation of Immersive Telepresence Environments"</li>
+<li>"How Close are we to True Tele-Physiotherapy and Remote Rehabilitation?"</li>
+<li>"3D Teleimmersion for Tele-Physiotherapy: Are we there yet?"</li>
+<li>"From Quality of Service to Quality of Experience: Evaluation of Immersive Telepresence Environments"</li>
+<li>"Human-Centric Control of 3D Video in Teleimmersive Environments"</li>
+<li>"SDN-Assisted Cross-Layer Multi-stream Management for 3DTI"</li>
+<li>"Open Session: SDN-Assisted Session Management for Interactive Teleimmersive Environments"</li>
+<li>Keynote Speaker</li>
+<li>"Communication Privacy - Anonymization Techniques"</li>
+<li>"Preparation for Academic Career"</li>
+<li>"Academic Job Negotiation"</li>
+<li>"Academic Interview Process"</li>
+<li>"Characterizing and Leveraging People Movement in Mobile Networks"</li>
+<li>"Open Educational Platform for Undergraduate Mobile Learning Communities"</li>
+<li>"Utilizing Mobile Phones in Characterizing and Leveraging People Movement"</li>
+<li>"Characterizing and Leveraging People Movement in Mobile Networks"</li>
+<li>"From QoS to QoE: Towards Experience-Centric Evaluation of Tele-Immersive Environments"</li>
+<li>"Multi-View Video Dissemination and Delivery: Challenges and Solutions"</li>
+<li>"Multi-View Video Dissemination and Delivery: Challenges and Solutions"</li>
+<li>"....." Talk at MAKI Retreat</li>
+<li>"Readiness of 802.11 Infrastructure for Mobile Learning Communities"</li>
+<li>"Hot Research Topics in Mobile Video"</li>
+<li>"Characterizing and Leveraging People Movement"</li>
+<li>"Sensing, Analyzing and Utilizing People Movement for Efficient Mobile Phone Content Distribution"</li>
+<li>Keynote Speaker</li>
+<li>"Characterizing and Leveraging People Movement"</li>
+<li>"Mobile Networking Solutions for First Responders"</li>
+<li>"New Synchronization Challenges for Multi-Site Tele-Immersive Environments"</li>
+<li>"Characterizing and Leveraging People Movement"</li>
+<li>"Recent Advances in Modeling of Mobility Patterns and QoS Management for Mobile Publish/Subscribe and Collaborative Systems"</li>
+<li>"3D Teleimmerisve Environments for Everybody (TEEVE)"</li>
+<li>"Characterizing and Leveraging People Movement on University Campus"</li>
+<li>"Characterizing and Leveraging People Movement"</li>
+<li>"New Synchronization Challenges for Multi-Site Interactive Cyber-Physical Environments"</li>
+<li>"Challenges of Mobile Multimedia Delivery in Mobile Learning Communities"</li>
+<li>"Mobile Learning Communities"</li>
+<li>"4D Tele-Vision"</li>
+<li>"3D Tele-Immersive Environments for Everybody (TEEVE)"</li>
+<li>"3D Tele-immersive Environments for Everybody (TEEVE)"</li>
+<li>"Characterizing and Leveraging People Movement"</li>
+<li>"Research Overview of Activities in Multimedia Operating and Networking Systems (MONET) Group"</li>
+<li>"Characterizing and Leveraging People Movement"</li>
+<li>"Characterizing and Leveraging People Movement"</li>
+<li>"Mobile Communities: The How, Good and Bad of Tracking Them"</li>
+<li>"Trustworthy Cyber Infrastructure for Power Grid (TCIPG)"</li>
+<li>"Adaptive Content Distribution for Dynamic Peer-to-Peer Coalition Networks"</li>
+<li>"Writing the Other Stuff"</li>
+<li>"Written Technical Communication (Part II)"</li>
+<li>"Excellence in Oral Presentation for Technical Speakers (Part I)"</li>
+<li>"Yellow Brick Road of Research"</li>
+<li>"Research Overview of MONET Group"</li>
+<li>"3D Tele-Immersive Environments for Everybody (TEEVE)</li>
+<li>"Mobile Networking Solutions for First Responders"</li>
+<li>Invited Talk</li>
+<li>"View-casting: View-based Multi-Source 3D Stream Dissemination and Control for Multi-Party Tele-immersive Environments"</li>
+<li>"Next Generation of Virtual Online Meeting Places"</li>
+<li>"Integrity and Privacy Issues in Advanced Wireless Metering Infrastructure"</li>
+<li>"Integrity and Privacy Issues in Advanced Wireless Metering Infrastructure"</li>
+<li>"View-Based Network Protocols for Multi-Party 3D Tele-Immersive Environments"</li>
+<li>"Research Challenges in Mobile Systems for First Responders"</li>
+<li>"Integrity and Privacy Issues in Advanced Wireless Metering Infrastructure"</li>
+<li>"Quality of Experience - Next Level of Quality for Digital Media Services"</li>
+<li>"ViewCast: View Dissemination and Management for Multi-party 3D Tele-immersive Environments"</li>
+<li>"ViewCast: View Dissemination and Management for Multi-party 3D Tele-immersive Environments"</li>
+<li>"QoS and QoP Tradeoffs in Mobile Ad Hoc Systems for First Responders Environments"</li>
+<li>"QoS Management in 802.11 Wireless Ad Hoc Networks"</li>
+<li>"ViewCast: View Dissemination and Management for Multi-party 3D Tele-immersive Environments"</li>
+<li>"Internet and Multimedia System Challenges in Next Generation Tele-Immersive Environment"</li>
+<li>"Real-Time Trust Issues in Resource-Constrained Mobile Ad Hoc Systems for Mission Critical Environments"</li>
+<li>"Integrated Quality of Service and Protection Issues in First Responder Systems"</li>
+<li>"Real-Time Resource Management and 3D Stream Dissemination for Tele-Immersive Systems"</li>
+<li>"Real-time Delivery and Jamming Containment in Wireless Substations"</li>
+<li>"Impact of Visual Context Representation and Control on Learning/Teaching of Physical Activities in Tele-Presence Environments"</li>
+<li>"Multi-Party 3D Tele-immersive Environments"</li>
+<li>"ViewCast: View Dissemination and Control for Multi-Party 3D Tele-immersive Environments"</li>
+<li>"Internet and Multimedia System Challenges in Tele-Immersive Systems"</li>
+<li>"Convergence of Network, Media and Social Interaction: Technical Challenges and Business Opportunities"</li>
+<li>"Internet and Multimedia System Challenges in Next Generation Tele-Immersive Environments"</li>
+<li>"Search for Solutions towards Future Internet(s)"</li>
+<li>"Integrated Security and Performance Considerations in First Responder Systems"</li>
+<li>"Power-aware Multimedia Resource Management"</li>
+<li>"Cross-Layer Adaptation for Quality-Aware and Energy-Efficient Next Generation Mobile Multimedia Devices"</li>
+<li>Keynote Speaker</li>
+<li>"TEEVE: Next Generation Architecture for Tele-immersive Environments"</li>
+<li>"Locality-aware and Failure-Resilient Peer-to-Peer Streaming for IPTV Applications"</li>
+<li>"Multimedia/QoS/Security Research in MONET/ITI"</li>
+<li>"MON: On-Demand Management for Large-Scale Overlay Networks"</li>
+<li>"Minimum User-perceived Interference Routing in Service Composition"</li>
+<li>"Video Sensors: Technological and Societal Challenges"</li>
+<li>"On-demand Overlay Networks"</li>
+<li>"Hourglass Multimedia Content and Service Composition Framework"</li>
+<li>"Next Generation of System Architectures for Tele-Immersive Environments"</li>
+<li>"Utility-based Optimization of Resource Allocation for Wireless Networks"</li>
+<li>"Pricing in Wireless Ad Hoc P2P Networks"</li>
+<li>"Cross-Layer Adaptation for Quality-Aware Energy-Efficient Next Generation Multimedia Mobile Devices"</li>
+<li>"QoS/QoP Support for Multimedia Delivery in Wireless Networks"</li>
+<li>"QoS Research in MONET"</li>
+<li>Dynamic Bandwidth Management in Single-Hop Ad Hoc Wireless Networks</li>
+<li>Cross-Layer Adaptation for Quality-Aware Energy-Efficient Next Generation Multimedia Mobile Devices</li>
+<li>Impact of Cross-Layer Design on QoS-aware Resource Management in MANET</li>
+<li>Cross-Layer Design for Data Accessibility in Mobile Ad Hoc Networks</li>
+<li>Can Cross-Layer Techniques Enhance the Performance of Tactical Military Networks?</li>
+<li>Cross-Layer Adaptation for Quality-Aware Energy-Efficient Next Generation Multimedia Mobile Devices</li>
+<li>Opportunities for Graduate Studies and Academic Visits in the Computer Science Department at University of Illinois at Urbana-Champaign</li>
+<li>QoS in Distributed Systems</li>
+<li>Dynamic Bandwidth Management for Single Hop Ad Hoc Wireless Networks</li>
+<li>Panel on Pervasive Infrastructure Deployment</li>
+<li>Challenges of Multimedia Services in Mobile Peer-to-Peer Systems</li>
+<li>Quality-Aware Service Composition and Routing Framework for Advanced Multimedia Services</li>
+<li>Future Networked Applications</li>
+<li>QoS Research in MONET Group</li>
+<li>Creation and Management of Advanced Multimedia Distributed Services</li>
+<li>Using Pricing Signal for Resource Allocation in Wireless Ad Hoc Networks</li>
+<li>Research Overview of Multimedia Operating and Networking Systems (MONET)</li>
+<li>"Quality-Aware Service Composition Framework for Advanced Multimedia Services,"</li>
+<li>Scalability Issues in BGP Networks</li>
+<li>Cross-Layer Adaptation for Quality-Aware Energy-Efficient Next Generation Multimedia Mobile Devices</li>
+<li>Challenges in QoS Routing</li>
+<li>QoS in Distributed Systems</li>
+<li>Overview of Wireless Research in MONET Group</li>
+<li>Bandwidth Management in Single Ad Hoc Networks</li>
+<li>Distributed QoS Compilation and Runtime Setup System</li>
+<li>QoS Routing</li>
+<li>Adaptive QoS framework and its Application to Visual Tracking</li>
+<li>QoS in Distributed Systems</li>
+<li>2kQ: Distributed QoS Compilation and Runtime Systems</li>
+<li>What Stands in the Way of really Advanced Use of the Internet?</li>
+<li>QoS Management in Ubiquitous Environments</li>
+<li>Distributed QoS Compilation and Runtime Setup System</li>
+<li>Multimedia Security</li>
+<li>QoS Compiler and Runtime Setup System</li>
+<li>QoS Compilation and Runtime System</li>
+<li>A Secure Multicast Protocol with Copyright Protection Information Protection Seminar</li>
+<li>Control-based Adaptive QoS Framework</li>
+<li>Multimedia Security</li>
+<li>Adaptive QoS Framework and its Application to Visual Tracking</li>
+<li>Dynamic Soft-Real-Time Scheduling Framework</li>
+<li>Research in End-to-End QoS: Approaches and Problem</li>
+<li>Dynamic Soft-Real-time Scheduling Framework</li>
+<li>To Overprovision or to Share via QoS-aware Resource Management</li>
+<li>Results from NSF Workshop on Online Instrumentation</li>
+<li>End-to-End Performance Measurements</li>
+<li>EPIQ: End-to-End QoS Management Framework</li>
+<li>Adaptive QoS Framework and its Application to Visual Tracking</li>
+<li>Coexistence of QoS and Best Effort Flows: Routing and Scheduling Analysis</li>
+<li>End-to-end QoS Brokerage and its Enforcement</li>
+<li>Multimedia Security and Copy-Right Protection</li>
+<li>Globus and Quality of Service</li>
+<li>QualMan: QoS-aware Resource Management for Distributed Multimedia Systems</li>
+<li>QoS-aware Resource Management</li>
+<li>Middleware Support for QoS Management</li>
+<li>QualMan: Provision of Time-variant QoS Management</li>
+<li>Time-Variant QoS Management</li>
+<li>Provision of End-to-End Quality of Service Guarantees in Multimedia Communication</li>
+<li>Time-Variant QoS Management</li>
+<li>Multimedia Computing and Communications Research</li>
+<li>QoS Management in Distributed Multimedia Systems</li>
+<li>Challenges in Multimedia Communication</li>
+<li>Design, Implementation and Experiences with OMEGA End-point Architecture</li>
+<li>The OMEGA Architecture - Design and Performance</li>
+<li>The Omega Architecture for Provision of Real-Time Guarantees in Networked Multimedia Applications</li>
+<li>Customized Network Services for Telerobotics Environment</li>
+<li>Experimental Analysis of AIX Real-Time Support for Delay Sensitive Multimedia Networked Applications</li>
+<li>Elements of End-to-End Delay</li>
+</ul>
+
+		<h2>Other Publications</h2>
+<ul>
+<li>Converge Magazine (online publication documenting technology in modern education) - December 2010 http://www.convergemag.com/classtech/Mobile-Quiz-Apps-Engage-College-Students.html Mobile Quiz Apps Engage College Students, by Tanya Roscorla</li>
+<li>Media Coverage of Jyotish paper : Long Vu, Quang Do and Klara Nahrstedt's paper "A Novel Framework for Constructing Predictive Model of People Movement from Joint WiFi/Bluetooth Trace" is reported in New Scientist Magazine (see both news report and editorial) and London Daily Mail (see news report). This paper was honored with PERCOM 2011 Mark Weiser best paper award.</li>
+<li>Wired.com - June 2009 http://www.wired.com/gadgetlab/tag/teeve/</li>
+<li>Mefeedia.com - June 2009 http://www.mefeedia.com/tags/research@intel_day_2009/rss2.xml</li>
+<li>ConnectedSocialMedia - June 2009 http://connectedsocialmedia.com/4495/teeve-tele-immersive-environment-for-everybody-raoul-rivas-intelresearch-day/</li>
+<li>Intel Press - June 2009 http://www.intel.com/pressroom/archive/releases/20090618corp_sm.htm?iid=pr1_releasepri_20090618sm</li>
+<li>NBC - June 2009 http://www.nbcbayarea.com/news/local/The-Future-of-Technology-Inc.html</li>
+<li>CNet.com - June 2009 http://news.cnet.com/2300-1001_3-10001076.html</li>
+<li>Ubergizmo.com - June 2009 http://gadget.blogdig.net/archives/articles/June2009/18/Intel_Research_Day_2009.html#9f99b55b74dfc5e111f7a59b4a920689</li>
+<li>WSJ - June 2009 http://blogs.wsj.com/digits/2009/06/18/sifting-for-news-at-intels-annual-research-day/</li>
+<li>Forbes June 2009 http://www.forbes.com/2009/06/18/intel-future-apple-technology-breakthoughs-moorestown.html</li>
+<li>'Wired.com' article, June 18, 2009, http://www.wired.com/gadgetlab/2009/06/3d-conferencing (Report from Intel event in Santa Clara, CA, June 18. 2009</li>
+<li>The News-Gazette, June 5, 2006, "Just like being there", Goal is immersive 3D video conferencing for the masses</li>
+<li>"TEEVE creates 3D interactions in cyberspace", Daily Illini, Mar. 3, 2006. Article about the TEEVE project.</li>
+<li>Interview with Paul Kramer - Associate Editor of A/V Pro Magazine - article about TEEVE will appear in February 2006</li>
+<li>"3D TV For You & Me," Computer Power User Magazine, Vol. 6, No. 4, Apr. 2006. http://www.computerpoweruser.com - Article about the TEEVE project.</li>
+<li>"3D video for the rest of us", TRN Research News Roundup, December 5, 2005,</li>
+<li><strong>News Articles</strong></li>
+<li>Bo Chen, Klara Nahrstedt, "FIS: Facial Information Segmentation for Video Redaction", IEEE MIPR 2019 (2nd International Conference on Multimedia Information Processing and Retrieval),  March 2019,  San Jose, CA. </li>
+<li>Phuong Nguyen, Tarek Elgamal, Steve Konstanty, Todd Nicholson, Stuart Turner, Patrick Su, Michael Chan, Klara Nahrstedt, Tim Spila, Kenton McHenry, John Dallesasse, Roy Campbell, "Bracelet: Edge-Cloud Microservice Infrastructure for Aging Scientific Instruments", IEEE International Conference on Computing, Networking, and Communications (ICNC) 2019, Hawaii, February 2019 DOI: 10.1109/ICCNC.2019.8685528</li>
+<li>Tuo Yu, Haiming Jin, Klara Nahrstedt. Audio based Handwriting Input for Tiny Mobile Devices.  IEEE 1st International Conference on Multimedia Information Processing and Retrieval (MIPR), 2018</li>
+<li>Tarek Elgamal, Shannon Chen, Klara Nahrstedt, "Physical Relationship Description for Cyber-Physical Multi-Modal Sensory Environments", IEEE International Symposium on Multimedia (ISM'2016), San Jose, CA, December 2016</li>
+<li>Klara Nahrstedt, Hongyuan Li, Siting Chang, Phuong Nguyen, Long Vu, "Internet of Mobile Things", IEEE International Symposium on Internet of Things Design and Implementation (IoTDI '16), Berlin, April 2016.</li>
+<li>Robin Kravets, Hilfi Alkaff, Andrew Campbell, Karrie Karahalios, and Klara Nahrstedt, "CrowdWatch: Enabling In-Network Crowdsourcing", ACM SIGCOMM Mobile Cloud Computing (MCC) Workshop, August 2013</li>
+<li>Raoul Rivas, Arefin Ahsan, Klara Nahrstedt, "Decima: Virtualized I/O Management in 3D Teleimmersive Networks", IEEE ICCCN 2013, Bahamas, July 2013.</li>
+<li>Klara Nahrstedt, "3D Teleimmersion for Remote Injury Assessment", Socially-Aware Media (SAM) workshop at ACM Multimedia 2012, Nara, Japan, November 2012.</li>
+<li>Rivas Raoul, Wanmin Wu, Klara Nahrstedt, "Unified Time Service for Virtualized Tele-Immersive Environments", PCS 2009, Chicago, IL, May 2009.</li>
+<li>Long Vu, Indranil Gupta, Jin Liang, Klara Nahrstedt, "Measurement and Modeling of a Large-scale overlay for Multimedia Streaming", QShine 2007, Vancouver, Canada.</li>
+<li>Wenbo He, Hoang Nguyen, Klara Nahrstedt, "Experimental Validation of Middleware-based QoS Control in 802.11 Wireless Networks", 3rd International Conference on Broadband Communications, Networks, and Systems (BROADNETS&#226;&#8364;&#8482;06), San Jose, CA, October 2006 (Invited Paper)</li>
+<li>R. Bajcsy, L. Wymore, K. Nahrstedt, K. Mezure, "Visual Privacy in the Collaborative Cyber-Infrastructure Environment: A Case Study of Public Dance Performance in Physical and Cyber-Space", Unblinking: New Perspectives on Visual Privacy in the 21st Century, A Cross-Disciplinary Symposium, UC Berkeley, 3-4 November 2006</li>
+<li>Jin Liang, Zhenyu Yang, Bin Yu, Yi Cui, Klara Nahrstedt, Sang-Hack Jung, Art Yeap and Ruzena Bajcsy, "Experience with Multi-Camera Tele-Immersive Environment", NSF Experience Workshops on Pervasive Computing and Cluster Computing (invited), Jul. 2005, Urbana, IL.</li>
+<li>Klara Nahrstedt, Wolf-Tilo Balke, "A Taxonomy for Multimedia Service Composition", ACM Multimedia 2004, invited to Brave New Topics Session, New York, NY, Oct. 2004.</li>
+<li>Chui Sian Ong, Yuan Xue, Klara Nahrstedt, "A Middleware for Service Adaptation in Differentiated 802.11 Wireless Networks", Workshop on Coordinated QoS in Distributed Systems (COQODS), in conjunction with IEEE Int&#226;&#8364;&#8482;l Conf. on Networks (ICON), Singapore, Nov. 2004</li>
+<li>Samarth Shah, Kai Chen, K. Nahrstedt, "Available Bandwidth Estimation in IEEE 802.11-based Wireless Networks (Extended Abstract)", Proceedings of 1st ISMA/CAIDA Workshop on Bandwidth Estimation (Best 2003), San Diego, CA, Dec. 2003</li>
+<li>Bin Yu, Klara Nahrstedt, "A Real-time Software Solution for Re-synchronizing Filtered HDTV MPEG2 Transport Stream", 4th IEEE International Symp. on Multimedia Software Engineering (MSE) 2002, Dec. 2002, New Port Beach, CA.</li>
+<li>Baochun Li, Klara Nahrstedt, "Impact of Control Theory on QoS Adaptation in Distributed Middleware Systems", American Control Conference, Arlington, VA, Jun. 2001.</li>
+<li>Vanish Talwar, Klara Nahrstedt, "Securing RSVP for Multimedia Applications", ACM Multimedia Security Workshop, associated with ACM Multimedia, Nov. 2000, Los Angeles, CA</li>
+<li>Jun Wang, Klara Nahrstedt, "Design and Implementation of Diffserv Routers in OPNET", OPNETWORK '00, Washington, Aug. 2000/Electronic Proceedings.</li>
+<li>Yuxin Zhou, Klara Nahrstedt, "OPNET Simulations of InfServ/ATM Edge Devices", Networks and Multimedia Track of the 2000 Applied Telecommunication Symposium, Washington, DC Apr. 2000, pp. 238-243.</li>
+<li>Klara Nahrstedt, Alex Chen, "Global Authentication Framework Preserving Privacy in Multimedia Mobile Environments", ACM Multimedia (Multimedia Security Workshop), Oct. 30, 1999, Orlando, FL</li>
+<li>Klara Nahrstedt, "To Overprovision or To Share via QoS-aware Resource Management", IEEE High Performances Distributed Computing (HPDC), Los Angeles, CA, Aug. 1999</li>
+<li>Dongyan Xu, Baochun Li, Jane W.S.Liu, Klara Nahrstedt, "Providing Seamless QoS for Multimedia Multicast in Real-Time Packet Cellular Networks", SPIE 1998 Symp. on Voice, Video, and Data Communications, Boston, MA, Nov. 1998</li>
+<li>Baochun Li, Dongyan Xu, Klara Nahrstedt, Jane W.S. Liu, "End-to-End QoS Support for Adaptive Applications Over the Internet", SPIE 1998 Symp. on Voice, Video, and Data Communications, Boston, MA, Nov. 1998, pp. 166-176.</li>
+<li>Klara Nahrstedt, Shigang Chen, "Coexistence of QoS and Best Effort Flows", 10th IEEE Tyrrhenian Int'l Workshop on Digital Communications, Ischia (Napoli), Italy, Sept. 1998, pp. 175-188.</li>
+<li>Klara Nahrstedt, Lintian Qiao, "Non-Invertible Watermarking Methods for MPEG Video and Audio", ACM Multimedia (Security Workshop), Bristol, England, Sept. 1998, pp. 93-98.</li>
+<li>Baochun Li, Klara Nahrstedt, "Adaptive QoS Middleware Framework for Complex Flexible Applications", NASA NREN QoS Workshop, NASA AMES, CA, Aug. 1998, pp. 21-23.</li>
+<li>Shigang Chen and Klara Nahrstedt, "Distributed Quality-of-Service Routing with Imprecise State Information for the Next Generation Internet", NASA NREN QoS Workshop, NASA AMES, CA, Aug. 1998, 33-36.</li>
+<li>Klara Nahrstedt, Lintian Qiao, "Multimedia Secure Gateway", Multimedia Security Workshop as part of the IEEE Int'l Conf. on Multimedia and Computing Systems, Austin, TX, Jun. 1998, pp. 1-8.</li>
+<li>Klara Nahrstedt, "Provision of End-to-End Quality of Service in Multimedia Telecommunications", Int'l Wireless and Telecommunications Symposium, Kuala Lumpur, Malaysia, May 1997, pp. 26-43.</li>
+<li><strong>Invited Papers</strong></li>
+<li>Zhenhuan Gao, Shannon Chen, Klara Nahrstedt, "OmniViewer: Enabling Multi-Modal 3D DASH", ACM Multimedia 2015, Brisbane, Australia, October 2015.</li>
+<li>Zhenhuan Gao, Shannon Chen, Klara Nahrstedt, "FreeViewer: An Intelligent Director for 3D Tele-Immersion System", ACM Multimedia 2014, Orlando, FL, November 2014.</li>
+<li>Pengye Xia, Klara Nahrstedt, "TEEVE Endpoint: Towards the Ease of 3D Tele-Immersive Application Development", ACM Multimedia 2013, Barcelona, Spain, October 2013 (technical Demonstration)</li>
+<li>Pengye Xia, Klara Nahrstedt, Matthew Alan Jurik "TEEVE-Remote: A Novel User-Interaction Solution for 3D Tele-immersion System", IEEE ISM 2012, Irvine, California, USA, December 10-12, 2012.</li>
+<li>Ahsan Arefin, Raoul Rivas, Zixia Huang, Shu Shi, Pooja Agarwal, Klara Nahrstedt, "Teleimmersive Environments for Gaming", ACM Multimedia 2011, Scottsdale, AZ, November 2011 (technical demonstration).</li>
+<li>Renata Sheppart, Mahsa Kamali, Morihiko Tamai, Raoul Rivas, Zhenyu Yang, Wanmin Wu, Klara Nahrstedt, "Tele-immersive Dance (TED): Evolution in Progress", ACM Multimedia 2008, Vancouver, BC, Canada, October 2008.</li>
+<li>R. Sheppard, M. Tamai, K. Nahrstedt, W. Wu, Z. Yang, "Wiiview: A View control interface for 3D tele-immersive environments", IEEE ICME 2008, Hannover, Germany, June 2008 (Video Program)</li>
+<li>Renata Sheppard, K. Nahrstedt, R. Bajcsy, L. Wymore, "Tele-Immersive Dance: A Human/Computer Creative Environment", AAAI 2008, Chicago, July 2008 (Video Program), nominated for most innovative video award ( three videos nominated out of 26 accepted videos).</li>
+<li>Renata Sheppard, W. Wu, Z. Yang, K. Nahrstedt, L. Wymore, G. Kurillo, R. Bajcsy, K. Mezur, "New Digital options in Geographically Distributed Dance Collaborations with TEEVE (Tele-immersive Environments for EVErybody)", ACM Multimedia, Sept. 2007, Augsburg, Germany (Video Program).</li>
+<li><strong>Video Demonstrations</strong></li>
+<li>Elisabeth Mynatt, Jennifer Clark, Greg Hager, Dan Lopresti, Greg Morrisett, Klara Nahrstedt, George Pappas, Shwetak Patel, Jennifer Rexford, Helen Wright, Ben Zorn, "A National Research Agenda for Intelligent Infrastructure", CCC White Paper, April 2017.</li>
+<li>Klara Nahrstedt, Christos G. Cassandras, Charlie Catlett, "City-Scale Intelligent Systems and Platforms", CCC White Paper, April 2017.</li>
+<li>Vasant G Honavar, Katherine Yelick, Klara Nahrstedt, Elizabeth Bradley, Jennifer Rexford, Elizabeth Mynatt and Mark D. Hill, "Advanced Cyberinfrastructure for Accelerating Science", CCC Response to NSF ACI Program Request for Research Directions, April 2017.</li>
+<li>Klara Nahrstedt, Daniel Lopresti, Ben Zorn, Ann W. Drobnis, Beth Mynatt, Shwetak Patel, Helen Wright, "Smart Communities Internet of Things", CCC White Paper, January 2016.</li>
+<li>Rajeev Alur, Emery Berger, Ann W. Drobnis, Limor Fix, Kevin Fu, Gregory D. Hager, Daniel Lopresti, Klara Nahrstedt, Elizabeth Mynatt, Shwetak Patel, Jennifer Rexford, John A. Stankovic, and Benjamin Zorn , "Systems Computing Challenges in the Internet of Things", CCC White Paper, September 2015.</li>
+<li> White Papers</li>
+<li><a href="https://arxiv.org/pdf/2006.01318.pdf">Tarek Elgamal, Shu Shi, Varun Gupta, Rittwik Jana, Klara Nahrstedt, "Semantically Encoded Video Analytics on Edge and Cloud", IEEE Workshop on Efficient Artificial Intelligence For Edge Computing,  IEEE International Conference on Distributed Computing Systems (ICDCS 2020), July 8-10, 2020, virtual</a></li>
+<li><a href="https://cred-c.org/publications/resilient-data-collection-protocol-network-processing-oil-and-gas-refinery-networks">Hongpeng Guo, King-Shan Lui, Tianyuan Liu, Klara Nahrstedt, "Resilient Collection Protocol for Oil and Gas Refinery Network with In-node Processing", IEEE  ICNC (International Conference on Computing, Networking and Communications),  CNC (International Workshop on Computing, Networking and Communications) 2018, Maui, Hawaii, March 2018.</a></li>
+<li>Siting Chang, Wenyu Ren, Klara Nahrstedt, "Dynamic Incentive Mechanism for Traffic Surveillance", IEEE Globecom 2015 Workshop on Networking and Collaboration Issues for Internet of Everything (ONIoE), December 2015, San Diego, CA.</li>
+<li>Ting-yu Wang, Haiming Jin, Klara Nahrstedt, "mAuditor: Mobile Auditing Framework for mHealth Applications," the 5th ACM MobiHoc Workshop on Pervasive Wireless Healthcare (MobileHealth 2015), Hangzhou, China, June, 2015.</li>
+<li>Suleyman Uludag, King-Shan Lui, Wenyu Ren, Klara Nahrstedt, "Practical and Secure Machine-to-Machine Data Collection Protocol in Smart Grid", Workshop on Security and Privacy in Machine-to-Machine Communications (M2MSec'14), 2014</li>
+<li>Zixia Huang, Klara Nahrstedt, Ke Liang, "Human-Centric Multi-Layer Synchronization Scheme with Inter-Sender Synchronization", 6th International Workshop on Quality of Multimedia Experience (QoMEX), full regular paper, Singapore 2014.</li>
+<li>Rehana Tabassum, Klara Nahrstedt, Edmond Rogers, Michael Rawson, "SCAPACH: Scalable Password-Changing Protocol for Smart grid Device Authentication", Workshop at IEEE ICCCN 2013, Bahamas, July 2013.</li>
+<li>Pooja Agarwal, Raoul Rivas, Wanmin Wu, Ahsan Arefin, Zixia Huang, Klara Nahrstedt, "SAS Kernel: Streaming as a Service Kernel for Correlated Multi-Streaming", in Proceedings of the 21th ACM NOSSDAV 2011, Vancouver, Canada, June 1-3, 2011.</li>
+<li>Long Vu, Klara Nahrstedt, "'Exploiting Opportunistic Ad hoc Connections for Improving Data Download of Cellular Users", IEEE Globecom 2010 Workshop on Pervasive Group Communications, Florida, 2010 (acceptance rate: 12/28 = 42.9%)</li>
+<li>Long Vu, Rahul Malik, Qiyan Wang, Klara Nahrstedt, "An Adaptive Content Distribution Protocol for Dynamic Peer-to-Peer Coalition Networks", ACM International Conference on Pervasive Systems (ICPS), 2010, Berlin, July 2010, ADAMUS 2010 Workshop (4th International workshop on Adaptive and Dependable Mobile Ubiquitous Systems), Berlin, July, 2010.</li>
+<li>Raoul Rivas, Ahsan Arefin, Klara Nahrstedt, "Janus: A Cross-Layer Soft Real-Time Architecture for Virtualization", International Workshop on Virtualization Technologies in Distributed Computing (VTDC) in conjunction with IEEE 19th International Symposium on High Performance Distributed Computing (HPDC), Chicago, IL, June 2010</li>
+<li>R. Bobba, K. Rogers, Q. Wang, H. Khurana, K. Nahrstedt, T. Overbye, "Detecting False Data Injection attacks on DC State Estimation" (Extended Abstract), 1st Workshop on Secure Control Systems SCS), April 2010, Stockholm, Sweden</li>
+<li>Wenbo He, Ying Huang, Klara Nahrstedt and Bo Wu, "Message Propagation in Ad-Hoc-Based Proximity Mobile Social Networks", Sixth International Workshop on Mobile Peer-to-Peer Computing (MP2P'10), in conjunction with The Eighth Annual IEEE International Conference on Pervasive Computing and Communications (PerCom 2010), Mannheim, Germany, March 29 - April 2, 2010</li>
+<li>Wanmin Wu, Zhenyu Yang, Klara Nahrstedt, "Dynamic Overlay Multicast in Multi-Stream/Multi-Site 3D Collaborative Systems", ACM NOSSDAV 2009, NC, June 2009. (22/71 = 31% acceptance rate)</li>
+<li>Wenbo He, Hoang Ngyuen, Xue Liu, Klara Nahrstedt, "A Cluster-based Protocol to Enforce Integrity and Preserve Privacy in Data Aggregation", Workshop on Cyber-Physical Systems (WCPS), in connection with IEEE ICDCS 2009, Montreal., Canada, June 2009.</li>
+<li>Albert Sidelnik, Jui Sung, Wanmin Wu, Maria Jesus Garzaran, Wen-Mei Hwu, Klara Nahrstedt, David Padua, Sanjay Patel, "Optimization of Tele-Immersion Codes", 2nd Workshop on General Purpose Computing on Graphics Processing Units (GPGPU), associated with ASPLOS'2009, 2009.</li>
+<li>Ansgar Scherp, Frank Nack, Klara Nahrstedt, Masashi Inoue, Andreas Girgensohn, Andreas Henrich, Philipp Sandhaus, Sabine Thieme, Michelle Zhou, "Interaction and User Experiences with Multimedia Technologies - Challenges and Future Topics", Workshop at ACM Multimedia 2008, Vancouver, Canada, October 2008.</li>
+<li>Morihiko Tamai, Keiichi Yasumoto, Klara Nahrstedt, "Transcasting: Cost-Efficient Video Multicast for Heterogeneous Mobile Terminals", 16th IEEE/IFIP IWQoS 2008, June 2-4, University of Twente, Enschede, Netherlands.</li>
+<li>Ying Huang, Wenbo He, Klara Nahrstedt, Whay Lee, "DoS Resistent Broadcast Authentication With Low End-to-end Delay", 2nd IEEE International Workshop on Mission-Critical Networking (MCN'08), associated with INFOCOM 2008, Phoenix, Arizona (53 papers submitted, 15 accepted, 28% acceptance rate)</li>
+<li>Klara Nahrstedt, R. Bajcsy, L. Wymore, G. Kurillo, K. Mezur, R. Sheppard, Z. Yang, W. Wu, "Symbiosis of Tele-Immersive Environments with Creative Choreography", ACM Workshop on Supporting Creative Acts Beyond Dissemination, associated with 6th ACM Creativity and Cognition Conf., Jun. 13, 2007, Washington, DC.</li>
+<li>Zhenuy Yang, Klara Nahrstedt, Bin Yu, Ruzena Bajcsy, "A Multi-stream Adaptation framework for Bandwidth Management in 3D Teleimmersion", ACM NOSSDAV 2006, May 2006, Newport, Rhode Island</li>
+<li>Jin Liang, Bin Yu, Zhenuy Yang, Klara Nahrstedt, "A Framework for Future Internet Based TV Broadcasting", Workshop on Internet Protocol TV (IPTV) services over World Wide Web, associated with ACM WWW 2006, May 2006, Edinburgh , Scotland</li>
+<li>Jin Liang Steven Ko, Indy Gupta, Klara Nahrstedt, "MON: On-demand Overlays for Distributed System Management", USENIX 2nd Workshop on Real, Large Distributed Systems (WORLDS) 2005, San Francisco, CA, Dec. 2005 (12 out of 28 submissions - 43%)</li>
+<li>Vibore Varhan, Daniel Grobe Sachs, Wanghong Yuan, Albert F. Harris, Sarita Adve, Douglas Jones, Robin Kravets, Klara Nahrstedt, "Integrating Fine-Grained Application Adaptation with Global Adaptation for Saving Energy" Second Int'l Power-Aware Real-Time Systems Workshop (PARC'05), Sept. 2005, New York Metropolitan Area, NJ</li>
+<li>Zhenyu Yang, Klara Nahrstedt, "A Bandwidth Management Framework for Wireless Camera Array", ACM NOSSDAV 2005, Skamania, Washington, Jun. 12-14, 2005</li>
+<li>Yi Cui, Yuan Xue, Klara Nahrstedt, "Max-min Overlay Multicast: Rate Allocation and Tree Construction", IEEE/IFIP Int'l Workshop on Quality of Service (IWQoS 2004), Montreal, Canada, Jun. 2004 (acceptance rate 30/154, 19%)</li>
+<li>Kai Chen, K. Nahrstedt, "Limitation of equation-based congestion control in mobile ad-hoc networks", IEEE Workshop on Wireless Ad Hoc Networks (WWAN 2004), workshop associated with ICDCS 2004, Tokyo, Japan, Mar. 2004 (acceptance rate 21/42, 50%)</li>
+<li>Yi Cui, Yuan Xue, Klara Nahrstedt, "Optimal Distributed Multicast Routing: Theory and Applications", 6th Workshop on MAthematical performance Modeling and Analysis (MAMA 2004), in conjunction with SIGMETRICS-PERFORMANCE 2004, Jun. 2004, New York, New York.</li>
+<li>Yuan Xue, Baochun Li, Klara Nahrstedt, "Price-based Resource Allocation in Wireless Ad Hoc Networks", IEEE/IFIP Int&#226;&#8364;&#8482;l Workshop on Quality of Service (IWQoS) 2003, Monterey, CA, Jun. 2003 (acceptance rate 27/88, 30%)</li>
+<li>Yi Cui, Klara Nahrstedt, "Layered Peer-to-Peer Streaming", IEEE Network and Operating System Support for Digital Audio and Video (NOSSDAV) 2003, Monterey, CA, Jun. 2003 (acceptance rate 18/60, 30%).</li>
+<li>Jingwen Jin, Klara Nahrstedt, "Resource- and Quality-Aware Application-Level Service Multicast", 9th IEEE Int'l Workshop on Future Trends of Distributed Computing Systems, May 2003, San Juan, Puerto Rico.</li>
+<li>Wanghong Yuan, Klara Nahrstedt, "Integration of Dynamic Voltage Scaling and Soft Real-time Scheduling for Open Mobile Systems", Workshop on Network and Operating System Support for Digital Audio and Video (NOSSDAV) 2002, Jun. 2002, pp. 105-114 (acceptance rate 18/58, 31%).</li>
+<li>S. Adve, A. Harris, C. Hughes, D. Jones, R. Kravets, K. Nahrstedt, D. Sachs, R. Sasanka, J. Srinivasan and W. Yuan, "The Illinois GRACE Project: Global Resource Adaptation through CoopEration", Workshop on Self-Healing, Adaptive and self-MANaged Systems (SHAMAN02), New York City, NY, Jun. 2002.</li>
+<li>Xiaohui Gu, Klara Nahrstedt, "An Event-driven, User-centric, QoS-aware Middleware Framework for Ubiquitous Multimedia Applications", ACM Multimedia Middleware Workshop, associated with ACM Multimedia, Ottawa, Canada, Oct. 2001.</li>
+<li>Wanghong Yuan, Klara Nahrstedt, Xiaohui Gu, "Coordinating Energy-aware Adaptation of Multimedia Applications and Hardware Resource", ACM Multimedia Middleware Workshop, associated with ACM Multimedia, Ottawa, Canada, Oct. 2001.</li>
+<li>Jun Wang, Klara Nahrstedt, "Parallel IP Packet Forwarding for Tomorrow's IP Routers", IEEE Workshop on High Performance Switching and Routing, Dallas, TX, May 2001, pp 353-357 (acceptance rate 80/160, 50%).</li>
+<li>Yi Cui, Klara Nahrstedt, "Supporting QoS for Ubiquitous Multimedia Service Delivery", ACM Multimedia Doctorial Symp., associated with ACM Multimedia, Ottawa, Canada, October 2001.</li>
+<li>Baochun Li, Dongyan Xu, Klara Nahrstedt, "Towards Integrated Runtime Solutions in QoS-aware Middleware", ACM Multimedia Middleware Workshop, associated with ACM Multimedia, Ottawa, Canada, Oct. 2001.</li>
+<li>Klara Nahrstedt, Duangdao Wichadakul, "QoS-aware Active Gateway for Multimedia Communication", 6th Int'l Workshop on Interactive Distributed Multimedia Systems and Telecommunication Services, ENSICA, Toulouse, France, Oct., 1999, pp. 31-44.</li>
+<li>Baochun Li, Klara Nahrstedt, "Optimal State Prediction for Feedback-Based QoS Adaptations", 7th IFIP/IEEE Int'l Workshop on Quality of Service (IWQoS), London, England. May, 1999, pp. 37-46 (acceptance rate 21%).</li>
+<li>Ian Foster, Carl Kesselman, Craig Lee, Bob Lindell, Klara Nahrstedt, Alain Roy, "A Distributed Resource Management Architecture that Supports Advance Reservations and Co-allocation", 7th IFIP/IEEE Int'l Workshop on Quality of Service (IWQoS), London. England, May 1999, pp. 27-36 (acceptance rate 21%).</li>
+<li>Baochun Li, Klara Nahrstedt, "A Control Theoretical Model for Quality of Service Adaptation", 6th IFIP Int'l Workshop on Quality of Service (IWQoS), Napa, CA, May 1998, pp. 145-153 (acceptance rate 21/125, 16%).</li>
+<li>Dragos Manolescu, Klara Nahrstedt, "Scalable Approach to Continuous Media Processing", 8th Int'l Workshop on Research Issues in Data Engineering: Continuous-Media Databases and Applications, Orlando, FL, Feb. 1998, pp. 84-91 (acceptance rate 18/39, 46%).</li>
+<li>David Hull, Arjun Shankar, Klara Nahrstedt, Jane W.S. Liu, "An End-to-End QoS Model and Management Architecture", IEEE Workshop on Middleware for Distributed Real-time Systems and Services, San Francisco, CA, Dec. 1997, pp. 82-89.</li>
+<li>Klara Nahrstedt, A. Hossain, S. Kang, "A Probe-based Algorithm for QoS Specification and Adaptation", 4th IFIP Int'l Workshop on Quality of Service (IWQoS), Paris, France, Mar. 1996, pp. 89-100.</li>
+<li>Klara Nahrstedt, Jonathan Smith, "QoS Negotiation in a Robotics Environment", IFIP Int'l Workshop on Distributed Multimedia Applications and QoS Verification, Montreal, Canada, Jun. 1994, pp. 156-161.</li>
+<li>Bjorn Richerzhagen, Juian Wulfheide, Heinz Koeppl, Andreas Mauthe, Klara Nahrstedt, Ralf Steinmetz, "Enabling Crowdsourced Live Event Coverage with Adaptive Collaborative Upload Strategies", IEEE WoWMoM 2016 (International Symposiun on World of Wireless, Mobile and Multimedia Networks, Coimbra, Portugal, June 21-24, 2016 (Work-In-Progress Paper)</li>
+<li>Wenyu Ren, Klara Nahrstedt, Tim Yardley, "Operation-Level Traffic Analyzer Framework for Smart Grid", HotSOS 2016 (3rd Annual Symposium and Bottcamp on the Science of Security (HotSoS), CMU, Pittsburgh, PA.</li>
+<li>Sabrina Schulte, Shannon Chen, Klara Nahrstedt, "Stevens' Power Law in 3D Teleimmersion - Towards Subjective Modeling of Multimodal Cyber Interaction", ACM Multimedia 2014, Orlando, Florida, Short Paper. </li>
+<li>Guliz Seray Tuncay, Kirill Varshavsky, Robin Kravets, Klara Nahrstedt, "SaveAlert: An Efficient and Scalable Sensor-driven Danger Detection System", Poster, ACM Mobicom 2014, September 2014.</li>
+<li>Phuong Cao, Adam Slagell, Hongyang Li, Zbigniew Kalbarczyk, Ravishankar Iyer, and Klara Nahrstedt, "Personalized Password Guessing: Model and Applications", HotSOS 2014, 2014 Symposium and Bootcamp on the Science of Security</li>
+<li>Shannon Chen, Pengye Xia, Klara Nahrstedt, "Activity-Aware Adaptive Compression: A Morphing-Based Frame Synthesis Application in 3DTI", ACM Multimedia 2013, contribution to Huwei Multimedia Challenge, Barcelona, Spain, October 2013. (winner of the Huwei/3D Life Grand Challenge 2013)</li>
+<li>Ahsan Arefin, Klara Nahrstedt, "Multi-stream Frame Rate Guarantee using Cross-Layer Synergy", IEEE ICNP 2013, Gottingen, Germany, October 2013.</li>
+<li>Hongyang Li, Gyorgy Dan, Klara Nahrstedt, "FADEC: Fast Authentication for Dynamic Electric Vehicle Charging", IEEE Conference on Communications and Network Security 2013 - Poster Session</li>
+<li>Aadhar Jain, Ahsan Arefin, Raoul Rivas, Klara Nahrstedt, "3D Teleimmersive Activity Classification Based on Application-System Metadata", ACM Multimedia 2013, Short Paper/Poster, Barcelona, Spain, October 2013.</li>
+<li>Debessay Kassa, Klara Nahrstedt, "SCDA: SLA-aware Cloud Datacenter Architecture for Efficient Content Storage and Retrieval", ACM HPDC 2013 (34 out of 131, 20 full papers and 14 posters = 25.9% acceptance rate)</li>
+<li>Zixia Huang, Ahsan Arefin, Pooja Agarwal, Klara Nahrstedt, Wanmin Wu, "Towards the Understanding of Human Perceptual Quality in Tele-immersive Shared Activity", ACM MMSys, 2012, North Caroline, USA, February 2012 (short paper).</li>
+<li>Rini Kaushik, Ludmila Cherkasova, Roy Campbell, Klara Nahrstedt, "Lightning: self-adaptive, energy-conserving, multi-zoned, commodity green cloud storage system." HPDC 2010: 332-335 (Best Poster Award) </li>
+<li>Qiyan Wang, Himanshu Khurana, Klara Nahrstedt, "Non-Interactive Multi-Level Key Establishment Scheme for Hierarchical Electric Power Grid", (Poster Session), ACM CCS 2009, Chicago, IL, November 2009</li>
+<li>Hoang Ngyuen, Klara Nahrstedt, "Alibi: A framework for identifying insider-based jamming attacks in multi-channel wireless networks", (Poster Session), ACM CCS 2009, Chicago, IL, November 2009</li>
+<li>Wenbo He, Ying Huang, Klara Nahrstedt, Whay C. Lee, "Mobi-Herald: Alert Propagation in Mobile Ad Hoc Networks", ACM Mobicom 2007 (Poster Session), Montreal, Canada, Sept. , 2007</li>
+<li>Wenbo He, Ying Huang, Klara Nahrstedt, "Privacy-preserving Data Aggregation in Wireless Sensor Network", Vodafone Symp. (attendance by Invitation only), Mar. 2007, Best poster presentation award.</li>
+<li>Long Vu, Jin Liang, Indranil Gupta, Klara Nahrstedt, "Measurement and Modeling of a Large-scale Overlay for Multimedia Streaming", IEEE High Performance Distributed Computing (HPDC) 2007 (Poster Session), Monterey, CA 2007</li>
+<li>Wenbo He, Ying Huang, Klara Nahrstedt, Whay Lee, "A Scalable Public Key Management Scheme in Wireless Ad Hoc Networks", Mobicom 2006 (Poster Session), Los Angeles, USA, Sept. 2006</li>
+<li>Albert F. Harris, Daniel Grobe Sachs, Vibhore Vardhan, Won Jeon, Sarita Adve, Douglas Jones, Robin Kravets, Klara Nahrstedt, "The Illinois GRACE Project: Energy-efficient Cross-Layer System Design", Short Abstract, Poster and Demonstration, Mobicom 2005 (Demo and Poster Session), Koln, Germany</li>
+<li>Jin Liang, Steven Ko, Indranil Gupta, Klara Nahrstedt, "MON: Management Overlay Networks for Distributed Systems", ACM SOSP 2005 (Poster), Brighton, United Kingdom, Oct. 2005.</li>
+<li>Vibhore Vardhan, Daniel Grobe Sachs, Wanghong Yuan, Albert F. Harris, Sarita V. Adve, Douglas L. Jones, Robin H. Kravets, and Klara Nahrstedt, &ldquo;GRACE: A Hierarchical Cross-Layer Adaptation Framework for Saving Energy&rdquo;, (Poster/Demo Session) ACM MobiSys, 2005</li>
+<li>Sarita Adve, Douglas Jones, Robin Kravets, Klara Nahrstedt, "GRACE: A Hierarchical Cross-Layer Adaptation Framework for Saving Energy", IBM Austin Conf. on Energy-Efficient Design (ACEED), Mar. 2005</li>
+<li>Jingwen Jin, Klara Nahrstedt, "Hybrid Multicasting in Large-Scale Service Networks", 13th World Wide Web Conf. (WWW 2004 Poster Session), New York, NY, May 2004</li>
+<li>Xiaohui Gu, Klara Nahrstedt, "QoS Programming and Compilation for Pervasive Computing", Int'l Conf. on Programming Languages and Interfaces (PLDI), Poster in Student Research Forum, Snowbird, Utah, Jun. 2001.</li>
+<li><strong>Conference Posters/Short Papers:</strong></li>
+<li><strong>Guest Editorials</strong>
+
+    A. Tripathi, L. Iftode, K. Nahrstedt. P. Nixon, "Guest Editorial,"<em> Pervasive and Mobile Computing,</em> Vol. 1, No. 2, Jul. 2005, pp. v-vi
+    K. Nahrstedt, P. McKinley, M. Singhal, "Introduction to the special issue on PerCom 2005,"<em> Pervasive and Mobile Computing</em>, Vol. 1, No. 4, Dec. 5, pp. 371-372
+    J. Lin, K. Nahrstedt, H. Zhang, "Guest Editorial on P2P Streaming Media,"<em> IEEE Trans. on Multimedia,</em> Fall 2007.
+</li>
+<li>Hoang Nguyen, Raoul Rivas, Klara Nahrstedt, "iDSRT: Integrated Dynamic Soft Real-Time Architecture for Critical Infrastructure Data Delivery over WLAN", Technical Report, Department of Computer Science, UIUC, May 2008</li>
+<li><strong>Available software since 2008: 
+
+</strong>iDSRT -- Integrated Dynamic Soft-real-time Scheduling Framework for critical infrastructure real time SCADA measurement devices</li>
+<li>Klara Nahrstedt, "Synchronization of Multimedia Presentation in Distributed Systems", DSL Technical Report, University of Pennsylvania, June 1991.</li>
+<li>Patent pending on View-Casting, Disclosure Made in Fall 2007.</li>
+<li><strong>Available Software since 2002: </strong>
+
+Power-Aware Soft-Real-Time Scheduling (Grace-OS), QCompiler, QoSTalk, Mobile Audio System, HDTV Mixing Services, MANET Bandwidth Management Service, MON.</li>
+<li><strong>Available Software since 1999: </strong>
+
+Dynamic Soft Real Time Scheduling (DSRT) used by Korean Advanced Institute of Science and Technology; Ege University, Computer Engineering Department, Turkey; Indian Institute of Technology Madras; Electrical Engineering Laboratory, Tsukuba Science City, Japan; Computer Science Laboratory, Korea University; BITS, Pilani, India; University Science and Technology of China; University of Texas at Arlington; Iowa State University; University of Pennsylvania, Philadelphia, PA; Argonne National Laboratory, Chicago, IL.</li>
+</ul>
+
+		
+		
+		
+		<h2>Reports</h2>
+<ul>
+<li><strong>Technical reports</strong> beginning in 1992 were made available on our department web page, http://www.cs.uiuc.edu.  Prof. Nahrstedt has approximately 25 technical reports published since 1992.</li>
+</ul>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<h2>Teaching Honors</h2>
+<ul>
+<li>List of Reachers Ranked as Excellent by Their Students, Fall 2018 (CS 598 KN Advanced Multimedia Systems)</li>
+<li>List of Teachers Ranked as Excellent by Their Students, Fall 2017 (CS 598 KN Advanced Multimedia Systems)</li>
+<li>List of Teachers Ranked as Excellent by Their Students, Fall 2014 (CS 538 Advanced Network Systems)</li>
+<li>List of Ranked Excellent Teachers - Ranked as Outstanding, Fall 2012 (CS 598 KN Advanced Topics in Multimedia Systems).</li>
+<li>College of Engineering Outstanding Advisers List, 2009 (undergraduate students nominate their advisers to this list, so it is prestigious to be nominated by the undergraduate students).</li>
+<li>Campus Award for Innovative Undergraduate Instruction, April 2000 (Development of Instructional Animations for Operating System Class, CS323, and Multimedia System Class, CS314) -- Honorably Mentioned.</li>
+</ul>
+
+		<h2>Research Honors</h2>
+<ul>
+<li>2019 AAAS  Fellow</li>
+<li>2019 Tau Beta Pi Daniel C. Drucker Eminent Award,  awarded by the Grainger College of Engineering, University of Illinois at Urbana-Champaign,</li>
+<li>2018 Robert Piloty Prize for Outstanding Research, awarded by the Technical University Darmstadt, Germany (first awardee outside of Germany).</li>
+<li>"10 Women to Know" by SIGMOBILE N2W organization - People's Choice Award, December 2015.</li>
+<li>2014 ACM SIGMM Award for Outstanding Technical Contributions to Multimedia Computing, Communications and Applications</li>
+<li>Member of German National Academy of Sciences, Leopoldina Society, 2014</li>
+<li>2013 ACM Fellow</li>
+<li>2012 IEEE Computer Society Technical Achievement Award 2012</li>
+<li>Humboldt Research Award, 2009-2012 (awarded by the Humboldt Foundation).</li>
+<li>University Scholar Award, 2008-2011 (award to honor and reward outstanding teachers and scholars university-wide).</li>
+<li>2008 IEEE Fellow</li>
+<li>Ralph and Catherine Fisher Professorship, 2002-2019.</li>
+<li>C. W. Gear Award, Department of Computer Science award for research and teaching achievements, May 1999.</li>
+<li>Junior Xerox Award for Faculty Research, College of Engineering award for research achievements, given to Assistant Professors, April 1998.</li>
+<li>NSF Career Award, for proposal on "Time-variant QoS Management," awarded by NSF, March 1996.</li>
+<li>Weierstrass Prize, for master thesis on "Runge-Kutta Algorithm for Algebro-Differential Equations," awarded by the Weierstrass Institute, Berlin, Germany 1985.</li>
+</ul>
+
+		<h2>Public Service Honors</h2>
+<ul>
+<li>Invited Member of NSF CISE Advisory Board  2019-2022</li>
+<li>Selected member of the 2015-2016 CIC Academic Leadership Program (only five members from UIUC are selected).</li>
+<li>Selected Member of CCC (Community Computing Consortium)  2014-2017</li>
+<li>Elected Member, ACM SGB (SIG Governing Board) Executive Committee, 6/2010-5/2012.</li>
+<li>IEEE Service Award, being General Chair of IEEE Pervasive Computing and Communication (PerCom) 2009, March 2009, Galveston, TX.</li>
+<li>Elected Chair of ACM SIG Multimedia, 7/2007-7/2009 and 7/2009-7/2013.</li>
+<li>ACM Service Award, General Chair, ACM 17th Workshop on Network and Operating System Support for Digital Audio and Video (NOSSDAV) 2007, June 2007, Urbana, IL.</li>
+<li>ACM Service Award, General Co-Chair ACM Multimedia 2006, November 2006, Santa Barbara, CA.</li>
+</ul>
+
+		
+		
+		<h2>Courses Taught - Last Four Years</h2>
+<ul><li>CS 537 - Advanced Topics in IoT</li>
+<li>CS 591 - Cyber-Infrastructure Seminar</li>
+<li>CS 598 - Advanced Multimedia Systems</li>
+</ul>
+	</div>
+
+
+</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile w110 white-box   py-5 " id="tile7058" data-tileid="7058" >
+	<div class="lower     " id="lower7058">
+		<div class="row">
+			<div class="col-md column1      " >
+				<h2 class="text-center">Related News</h2>
+<div id="faculty-news" class="tile-list"><section class="tile news w25 platinum-box" id="page40466" data-pageid="40466" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=12394);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/what-you-need-to-know-about-cybersecurity-expect-a-future-where-a-computer-doesnt-just-connect-you-but-can-also-be-a-weapon">What You Need to Know About Cybersecurity: 'Expect a Future Where a Computer Doesn't Just Connect You, but Can Also be a Weapon'</a></h2>
+				<p class="first"><a href="/news">News</a> | July 19, 2021</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile news w25 platinum-box" id="page38452" data-pageid="38452" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=51779);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/nahrstedt-team-sensing-edge-based-cyber-infrastructure-clean-labs">Nahrstedt and Team Create Sensing and Edge-Based Cyber-Infrastructure to Maintain Ultra-Clean Labs  </a></h2>
+				<p class="first"><a href="/news">News</a> | June 3, 2021</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile news w25 platinum-box" id="page33335" data-pageid="33335" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=45692);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/several-illinois-cs-research-projects-result-in-best-paper-awards">Several Illinois CS Research Projects Result in Best Paper Awards</a></h2>
+				<p class="first"><a href="/news">News</a> | March 15, 2021</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile news w25 platinum-box" id="page12475" data-pageid="12475" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=9946);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/cs-researchers-demonstrate-iot-privacy-concerns-shoeshacker">CS Researchers Demonstrate IoT Privacy Concerns with ShoesHacker</a></h2>
+				<p class="first"><a href="/news">News</a> | April 24, 2020</p>
+			</div>
+		</div>
+	</div>
+</section>
+</div>
+<p>&nbsp;</p>
+<p class="text-center"><a class="button orange loader" href="#" data-target="faculty-news" data-template="81" data-bookid="81" data-return="4" data-filter-field="netid" data-filter-value="klara">Load more news</a></p>
+			</div>
+		</div>
+	</div>
+</section>
+
+						</div>
+					</div>
+				</main>
+			</div>
+
+			<footer>
+							<div class="container-fluid maxwidth1140">
+				<div class="row pt-5 pb-3">
+					<div class="col-lg-5 mb-5">
+						<div class="campus_wordmark"><a href="http://illinois.edu/"><img src="https://ws.engr.illinois.edu/images/uiuc-footer-wordmark.png" alt="University of Illinois Urbana Champaign"></a></div>
+					</div>
+
+					<div class="col-lg-7 mb-4 socials">
+						<a href="https://www.facebook.com/CSatIllinois/"><i class="fab fa-facebook-f"></i><span class="sr-only">Facebook</span></a>
+						<a href="https://twitter.com/IllinoisCS"><i class="fab fa-twitter"></i><span class="sr-only">Twitter</span></a>
+						<a href="https://www.youtube.com/user/IllinoisCS"><i class="fab fa-youtube"></i><span class="sr-only">YouTube</span></a>
+						<a href="https://www.linkedin.com/school/illinoiscs"><i class="fab fa-linkedin-in"></i><span class="sr-only">LinkedIn</span></a>
+						<a href="https://www.instagram.com/illinoiscs/"><i class="fab fa-instagram"></i><span class="sr-only">Instagram</span></a>
+						<div class="w-100 d-block d-lg-none"></div>
+						<a href="/about/contact-us" class="button">Contact Us</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="container-fluid maxwidth1140">
+				<div class="row pb-5 justify-content-between">
+					<div class="col-md pr-xl-5 mb-5 college_container">
+
+						<div class="contact">
+							<p><span class="fs150x"><a href="https://cs.illinois.edu">Thomas M. Siebel Center for Computer Science</a></span><br />
+                                                       201 North Goodwin Avenue MC 258<br />
+                                                        Urbana, IL 61801-2302<br />
+                                                         ph: 217-333-3426 (general) | 217-333-4428 (advising) <br />
+                                                         fax: 217-333-3501</p>
+                                                        <p> General email: <a href="mailto:admin@cs.illinois.edu">admin@cs.illinois.edu</a><br />
+                                                         Graduate Advising: <a href="mailto:academic@cs.illinois.edu">academic@cs.illinois.edu</a><br />
+                                                         Undergraduate Advising: <a href="mailto:undergrad@cs.illinois.edu">undergrad@cs.illinois.edu</a><br />
+                                                          Webmaster: <a href="mailto:grainger-marcom@illinois.edu?subject=CS Request">grainger-marcom@illinois.edu</a></p>
+							<p><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a><br />
+							<a href="https://illinois.edu">University of Illinois</a></p>
+
+						</div>
+					</div>
+
+
+					<div class="col-md pr-xl-5 my-5 concentrations">
+                                 	
+					</div>
+				</div>
+			</div>
+
+				<div class="container-fluid" id="legal">
+					<div class="row justify-content-md-center align-items-center py-4">
+
+						<div class="col-md-auto">
+							<div><button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Preferences</button></div>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Copyright &copy; 2021 University of Illinois Board of Trustees</p>
+						</div>
+
+						<div class="col-md-auto">
+							<p><a href="https://grainger.illinois.edu/cookie-policy">Cookie Policy</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy</a></p>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Powered by <a href="https://my.engr.illinois.edu/sitemanager/editpage.asp?id=11846">SiteManager</a> | <a href="mailto:grainger-marcom@illinois.edu">Contact Webmaster</a></p>
+						</div>
+					</div>
+				</div>
+
+				<div id="gototop" class="hidden">
+					<a href="#"><i class="fa fa-chevron-up"></i><span class="sr-only">Go to top</span></a>
+				</div>
+			</footer>
+		</div>
+
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+		<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax-video.min.js"></script>
+		<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+		<script src="https://cdn.datatables.net/responsive/2.2.5/js/dataTables.responsive.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.0/circle-progress.min.js'></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/twbs-pagination/1.4.2/jquery.twbsPagination.min.js'></script>
+		<script src="https://ws.engr.illinois.edu/sitemanager/genscripts.js?v=2.660.676"></script>
+		<script src="/js/scripts.js?v=0.27"></script>
+
+		<script async="async" src="https://enroll.illinois.edu/ping"></script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-9571262-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-9571262-1');
+</script>
+
+		
+	</body>
+</html>
+
+

@@ -1,0 +1,1054 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Alex Kirlik
+ | Computer Science | UIUC</title>
+		<link rel="shortcut icon" type="image/x-icon" href="//ws.engr.illinois.edu/images/favicon.ico">
+
+		<meta name="description" content="Alex Kirlik
+">
+		<meta name="author" content="Grainger Engineering Office of Marketing and Communications">
+
+		<!-- meta tags for mobile devices -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">  
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+				<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="26be7d61-2017-4ea7-8a8b-8f1704889763"></script>
+		<script type="text/javascript"> function OptanonWrapper() { } </script>
+
+		<meta property="og:type" content="article" />
+<meta property="og:title" content="Alex Kirlik
+" />
+<meta property="og:description" content="Alex Kirlik
+" />
+<meta property="og:url" content="https://cs.illinois.edu/about/people/all-faculty/*" />
+<meta property="og:image" content="https://ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=12050" />
+
+
+		<!-- fonts -->
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i,900,900i%7cBarlow+Condensed%7cPlayfair+Display%7cMontserrat:400,500,600,700,800%7cFjalla+One%7cLexend+Exa%7cMontserrat+Alternates:400,700">
+		<script src="https://kit.fontawesome.com/64a62210ef.js"></script>
+
+		<!-- stylesheets -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.5/css/responsive.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://ws.engr.illinois.edu/sitemanager/gensite.css?v=2.671.281">
+		<link rel="stylesheet" type="text/css" href="/css/styles.css?v=0.19">
+
+				<!-- Global site tag (gtag.js) - Google Ads: 1011414001 -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1011414001"></script>
+		<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-1011414001'); </script> 
+		<!-- Event snippet for Outbound Google Ads click conversions -->
+		<script> function gtag_report_conversion(url) {var callback = function () {if (typeof(url) != 'undefined') {window.location = url;}};gtag('event', 'conversion', {'send_to': 'AW-1011414001/YNxnCM-1kfMBEPHno-ID','event_callback': callback});return false;} </script>
+		
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	</head>
+
+	<body class="site prod about people all-faculty kirlik  isattop theme_dagobah" data-sidebar="" data-sidebarskip="[sidebarskip]" data-sidebarinclude="[sidebarinclude]">
+		<div id="page">
+			
+			<header>
+				<div id="skiptocontent"><a href="#content">skip to main content</a></div>
+
+				<div class="container-fluid campus">
+					<div class="row mx-auto maxwidth1140">
+						<div class="col p-0">
+							<a href="http://illinois.edu/"><span>University of Illinois Urbana-Champaign</span></a>
+						</div>
+						<div id="featurelinks" class="col p-0 text-right">
+							<ul>
+	<li><a href="/alumni">Alumni</a></li>
+	<li><a href="/corporate">Corporate</a></li>
+       <li><a href="/about/people">People</a></li>
+	<li><a href="https://my.cs.illinois.edu">My.CS</a></li>
+</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="container-fluid site">
+					<div class="row wordmark d-flex flex-nowrap align-items-center">
+						<div class="d-flex flex-fill pr-3">
+							<div class="blocki"><a href="https://illinois.edu">University of Illinois at Urbana-Champaign</a></div>
+							<div class="site_identification">
+								<div class="parent_name"><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a></div>
+								<div class="site_name"><a href="/"><span>Computer Science</span></a></div>
+							</div>
+						</div>
+
+						<div class="d-flex align-items-center">
+							<div id="header-search-container" class="d-none d-lg-block site-search">
+								<form class="form-inline" method="get" action="/search" id="search-form">
+									<div class="input-group">
+										<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="header-search-go-button">
+										<div class="input-group-append">
+											<a href="/search" onclick="$('#header-search-container form').submit(); return false;" class="input-group-text" id="header-search-go-button"><i class="far fa-search"></i><span class="sr-only">Search</span></a>
+										</div>
+									</div>
+								</form>	
+							</div>
+
+							<div id="mainnav-toggler-container">
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainnav" aria-controls="mainnav" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="icon"></span> <span class="label sr-only">Menu</span>
+								</button>
+							</div>
+						</div>
+					</div>
+					<nav class="navbar navbar-expand-lg p-0">
+<div class="collapse navbar-collapse" id="mainnav">
+<form class="d-block d-lg-none" method="get" action="/search" id="mobile-search-form">
+<div class="form-row p-3">
+<div class="col">
+<div class="input-group">
+<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="mobile-search-go-button">
+<div class="input-group-append">
+<a href="/search" onclick="$('#mobile-search-form').submit(); return false;" class="input-group-text" id="mobile-search-go-button"><i class="far fa-search" aria-hidden="true"></i><span class="sr-only">Search</span></a>
+</div>
+</div>
+</div>
+</div>
+</form>
+<ul class="navbar-nav w-100">
+<li class="dropdown mega twocol nav-item">
+<a href="/about" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>About</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-about">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/about">About</a></h2>
+<ul class="about ">
+<li><a href="/about/cs-cares">CS CARES Committee</a></li>
+<li><a href="/about/values">Values & Code of Conduct</a></li>
+<li><a href="/about/statistics">Rankings & Statistics</a></li>
+<li><a href="/about/contact-us">Contact Us & Directions</a></li>
+<li class="dropdown"><a href="/about/people">People</a><ul class="people ">
+<li><a href="/about/people/all-faculty">All Faculty</a></li>
+<li><a href="/about/people/department-faculty">Department Faculty</a></li>
+<li><a href="/about/people/affiliate-faculty">Affiliate Faculty</a></li>
+<li><a href="/about/people/adjunct-faculty">Adjunct Faculty</a></li>
+<li><a href="/about/people/postdocs">Postdocs</a></li>
+<li><a href="/about/people/emeritus-faculty">Emeritus Faculty</a></li>
+<li class="dropdown"><a href="/about/people/staff">Staff</a><ul class="staff ">
+<li><a href="/about/people/staff/office-department-head">Office of the Department Head</a></li>
+<li><a href="/about/people/staff/communications-engagement-team">Communications &amp; Engagement Team</a></li>
+<li><a href="/about/people/staff/undergraduate-advising-office">Undergraduate Advising Office</a></li>
+<li><a href="/about/people/staff/graduate-advising-office">Graduate Advising Office</a></li>
+<li><a href="/about/people/staff/instructional-development-team">Instructional Development Team</a></li>
+<li><a href="/about/people/staff/business-office">Business Office</a></li>
+<li><a href="/about/people/staff/faculty-support-contacts">Faculty Support Contacts</a></li>
+<li><a href="/about/people/staff/facilities-shipping-and-receiving">Facilities, Shipping and Receiving</a></li>
+</ul>
+</li>
+<li><a href="/about/people/graduating-phd-students">Graduating PhD Students</a></li>
+<li><a href="/about/people/recent-phd-alumni">Recent PhD Alumni</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/positions">Open Positions</a><ul class="positions ">
+<li><a href="/about/positions/faculty-positions">Faculty Positions</a></li>
+<li><a href="/about/positions/postdoctoral">Postdoctoral Positions</a></li>
+<li><a href="/about/positions/staff-positions">Staff Positions</a></li>
+<li><a href="/about/positions/choose-illinois-computer-science">Choose Illinois Computer Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/calendar">Calendar</a><ul class="calendar ">
+<li><a href="/about/calendar/all">All Events</a></li>
+<li><a href="/about/calendar/corporate">Corporate Events</a></li>
+<li><a href="/about/calendar/department">Department Events</a></li>
+<li><a href="/about/calendar/graduate">Graduate Events</a></li>
+<li><a href="/about/calendar/outreach">Outreach Events</a></li>
+<li><a href="/about/calendar/speakers">Speakers</a></li>
+<li><a href="/about/calendar/student-groups">Student Group Events</a></li>
+<li><a href="/about/calendar/undergraduate">Undergraduate Events</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards">Awards</a><ul class="awards ">
+<li><a href="/about/awards/celebration">Celebration of Excellence</a></li>
+<li class="dropdown"><a href="/about/awards/faculty-awards">Faculty Awards</a><ul class="faculty-awards ">
+<li><a href="/about/awards/faculty-awards/chairs-and-professorships">Chairs and Professorships</a></li>
+<li><a href="/about/awards/faculty-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/faculty-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards/undergraduate-scholarships-awards">Undergraduate Scholarships &amp; Awards</a><ul class="undergraduate-scholarships-awards ">
+<li><a href="/about/awards/undergraduate-scholarships-awards/shieh-li-scholarship">Ruey-Feng Shieh Li Family Scholarship</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/graduate-fellowships-awards">Graduate Fellowships &amp; Awards</a></li>
+<li class="dropdown"><a href="/about/awards/alumni-awards">Alumni Awards</a><ul class="alumni-awards ">
+<li><a href="/about/awards/alumni-awards/alumni-awards-past-recipients">Alumni Awards Past Recipients</a></li>
+<li><a href="/about/awards/alumni-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/alumni-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/staff-awards">Staff Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/history-timeline">History Timeline</a></li>
+<li><a href="/about/accreditation">Accreditation</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/admissions" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Admissions</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-admissions">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/admissions">Admissions</a></h2>
+<ul class="admissions ">
+<li class="dropdown"><a href="/admissions/undergraduate">Undergraduate Admissions</a><ul class="undergraduate ">
+<li><a href="https://admissions.illinois.edu/apply">Apply Now</a></li>
+<li><a href="/academics/undergraduate/degree-program-options">Degree & Program Options</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/dates">Application Deadlines</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/process">Applications Process & Requirements</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+<li><a href="https://www.housing.illinois.edu">Housing</a></li>
+<li><a href="/about-us/accreditation">Accreditation</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/admissions/graduate">Graduate Admissions</a><ul class="graduate ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+<li class="dropdown"><a href="/admissions/graduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/admissions/graduate/degree-program-options/professional-master-computer-science-mcs-program">Professional Master of Computer Science (MCS) Program</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-deadlines">Application Deadlines</a></li>
+<li class="dropdown"><a href="/admissions/graduate/applications-process-requirements">Applications Process &amp; Requirements</a><ul class="applications-process-requirements ">
+<li><a href="/admissions/graduate/applications-process-requirements/additional-required-application-materials">Additional Required Application Materials for International Students</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/application-fee-waivers">Application Fee Waivers</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/data-structures-proficiency-exam">Data Structures Proficiency Exam</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-checklist">Application Checklist</a></li>
+<li class="dropdown"><a href="/admissions/graduate/faqs">FAQs</a><ul class="faqs ">
+<li><a href="/admissions/graduate/faqs/ican-faqs">iCAN FAQs</a></li>
+<li><a href="/admissions/graduate/faqs/online-mcs-faqs">Online MCS FAQs</a></li>
+</ul>
+</li>
+<li><a href="https://choose.illinois.edu/apply/">Check Application Status</a></li>
+</ul>
+</li>
+<li><a href="/admissions/impact-illinois-cs-degree">Impact of an Illinois CS Degree</a></li>
+<li><a href="/admissions/financial-aid">Financial Aid</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/academics" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Academics</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-academics">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/academics">Academics</a></h2>
+<ul class="academics ">
+<li class="dropdown"><a href="/academics/undergraduate">Undergraduate Academics</a><ul class="undergraduate ">
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/academics/undergraduate/degree-program-options/bs-computer-science">B.S. in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-mathematics-computer-science">B.S. in Mathematics &amp; Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-statistics-computer-science">B.S. in Statistics &amp; Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs">CS + X Degree Programs</a><ul class="cs-x-degree-programs ">
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-advertising">Computer Science + Advertising</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-animal-sciences">Computer Science + Animal Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-anthropology">Computer Science + Anthropology</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-astronomy">Computer Science + Astronomy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-chemistry">Computer Science + Chemistry</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-crop-sciences">Computer Science + Crop Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-economics">Computer Science + Economics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-geography">Computer Science + Geography &amp; Geographic Information Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-linguistics">Computer Science + Linguistics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-music">Computer Science + Music</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-philosophy">Computer Science + Philosophy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/cs-x-degree-requirements">CS + X Degree Requirements &amp; Planning Forms</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-undergraduate-degree-options-faq">CS Undergraduate Degree Options FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/registration">Registration</a><ul class="registration ">
+<li><a href="/academics/undergraduate/registration/cs-course-restrictions-enrollment-caps">CS Course Restrictions &amp; Enrollment Caps</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/policies-and-procedures">Policies and Procedures</a></li>
+<li><a href="/academics/undergraduate/undergraduate-advising">Undergraduate Advising</a></li>
+<li><a href="/academics/undergraduate/cs-student-opportunity-series-cs-sos">CS Student Opportunity Series (CS SOS)</a></li>
+<li><a href="/academics/undergraduate/undergraduate-forms">Undergraduate Forms</a></li>
+<li><a href="/academics/undergraduate/honors">Honors</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate">Graduate Academics</a><ul class="graduate ">
+<li class="dropdown"><a href="/academics/graduate/phd-program">PhD Program</a><ul class="phd-program ">
+<li><a href="/academics/graduate/phd-program/final-exam-thesis-defense">Final Exam (Thesis Defense)</a></li>
+<li><a href="/academics/graduate/phd-program/guidelines-forming-phd-committee">Guidelines for Forming Ph.D. Committee</a></li>
+<li><a href="/academics/graduate/phd-program/phd-ms-thesis-format-review-guidelines">Ph.D. / M.S. Thesis Format Review Guidelines</a></li>
+<li><a href="/academics/graduate/phd-program/phd-program-study-process">PhD Program of Study Process</a></li>
+<li><a href="/academics/graduate/phd-program/phd-requirements">PhD Requirements</a></li>
+<li><a href="/academics/graduate/phd-program/phd-time-limits-milestones">PhD Time Limits &amp; Milestones</a></li>
+<li><a href="/academics/graduate/phd-program/preliminary-exam">Preliminary Exam</a></li>
+<li><a href="/academics/graduate/phd-program/qualifying-exam">Qualifying Exam</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/ms-program">MS Program</a></li>
+<li><a href="/academics/graduate/ms-bioinformatics-program">MS in Bioinformatics Program</a></li>
+<li class="dropdown"><a href="/academics/graduate/professional-mcs">Professional Master of Computer Science</a><ul class="professional-mcs ">
+<li><a href="/academics/graduate/professional-mcs/campus-master-computer-science">On-Campus Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science">Online Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science-data-science">Online Master of Computer Science in Data Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/fifth-year-masters-programs">Fifth Year Master's Programs</a><ul class="fifth-year-masters-programs ">
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-mcs-program">5-year BS-MCS Program</a></li>
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-ms-program">5-year BS-MS Program</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">Illinois Computing Accelerator for Non-Specialists (iCAN)</a><ul class="ican ">
+<li><a href="/academics/graduate/ican/application-process">iCAN Application Process</a></li>
+<li><a href="/academics/graduate/ican/curriculum">iCAN Curriculum</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources">Graduate Forms &amp; Advising Resources</a><ul class="graduate-forms-advising-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/epi-exam-requirements">EPI Exam Requirements</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-advising-contacts">Graduate Advising Contacts</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-student-annual-evaluation-process">Graduate Student Annual Evaluation Process</a></li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources">New Graduate Student Resources</a><ul class="new-graduate-student-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/mcs-campus">MCS On-Campus General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/ms-general">MS General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/phd-general">PhD General Advising for Registration</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/official-forms">Official Forms</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/academics/courses">Courses</a></li>
+<li><a href="/academics/honor-code">Honor Code</a></li>
+<li><a href="https://cs.illinois.edu/student-life/student-resources">Student Resources</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/student-life" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Student Life</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-student-life">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41390_8405" data-pageid="41390" data-tileid="8405" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=55621);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Salesforce's CodeT5 System Can Understand and Generate Code</h2>
+			<div class="description"></div>
+			<p><a href="/news/salesforces-codet5-system-can-understand-and-generate-code" class="button" title="Salesforce's CodeT5 System Can Understand and Generate Code">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 7, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/student-life">Student Life</a></h2>
+<ul class="student-life ">
+<li><a href="/student-life/overview-cs-student-life">Overview of CS Student Life</a></li>
+<li><a href="/student-life/student-organizations">Student Organizations</a></li>
+<li><a href="/student-life/department-college-and-campus-events">Department, College, and Campus Events</a></li>
+<li><a href="/student-life/student-resources">Student Resources</a></li>
+<li><a href="/student-life/career-services">Career Services</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/research" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Research</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-research">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Explore visionary research conducted by world-renowned faculty.</h2>
+<p><a class="orange button" href="/research/areas">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/research">Research</a></h2>
+<ul class="research ">
+<li class="dropdown"><a href="/research/areas">Research Areas</a><ul class="areas ">
+<li><a href="/research/areas/architecture-compilers-and-parallel-computing">Architecture, Compilers, and Parallel Computing</a></li>
+<li><a href="/research/areas/artificial-intelligence">Artificial Intelligence</a></li>
+<li><a href="/research/areas/bioinformatics-and-computational-biology">Bioinformatics and Computational Biology</a></li>
+<li><a href="/research/areas/computers-and-education">Computers and Education</a></li>
+<li><a href="/research/areas/data-and-information-systems">Data and Information Systems</a></li>
+<li><a href="/research/areas/interactive-computing">Interactive Computing</a></li>
+<li><a href="/research/areas/programming-languages-formal-methods-and-software-engineering">Programming Languages, Formal Methods, and Software Engineering</a></li>
+<li><a href="/research/areas/scientific-computing">Scientific Computing</a></li>
+<li><a href="/research/areas/security-and-privacy">Security and Privacy</a></li>
+<li><a href="/research/areas/systems-and-networking">Systems and Networking</a></li>
+<li><a href="/research/areas/theory-and-algorithms">Theory and Algorithms</a></li>
+</ul>
+</li>
+<li><a href="/research/technical-conferences-workshops">Technical Conferences &amp; Workshops</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+<li><a href="/corporate#research">Corporate Partners</a></li>
+<li><a href="https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=3146">Illinois CS Research Overview</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/broadening-participation-computing" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Broadening Participation</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-broadening-participation-computing">
+<section class="tile w50 white-box py-5 marketing">
+<p class="mb-0"><img src="//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=16163&s=375" class="image" alt="" width="375" /></p>
+<p style="padding: 10px 15px 0px 15px;">New certificate program for college graduates who want a deeper understanding of computers, algorithms, and programming.</p>
+<p><a class="orange button" href="/ican">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/broadening-participation-computing">Broadening Participation</a></h2>
+<ul class="broadening-participation-computing ">
+<li><a href="https://drive.google.com/file/d/12vDswb1i-mEXaXgVt7FOhtqYs7b8F_1p/view">BPC Departmental Plan</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs">BPC Programs & Activities for Students</a><ul class="programs ">
+<li><a href="/broadening-participation-computing/programs/csambassadors">CS Student Ambassador/Research Scholars (CS STARS)</a></li>
+<li><a href="/broadening-participation-computing/programs/cskickstart">Illinois CS Kickstart</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs/ai4all">AI4ALL</a><ul class="ai4all ">
+<li><a href="http://go.cs.illinois.edu/DiscoverAI">Apply Now</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">iCAN</a><ul class="ican ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+</ul>
+</li>
+<li><a href="http://cs.illinois.edu/research/summer-research-experience-undergraduates">Summer Research Experience for Undergraduates</a></li>
+</ul>
+</li>
+<li><a href="/broadening-participation-computing/resources">BPC Resources</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/cross-cutting">Cross-Cutting Educational Activities</a><ul class="cross-cutting ">
+<li><a href="/broadening-participation-computing/cross-cutting/conferences-workshops">BPC Conferences & Workshops</a></li>
+<li><a href="/broadening-participation-computing/cross-cutting/ca-training">Course Assistant Training</a></li>
+<li><a href="https://cs.illinois.edu/news/featured-lectures#equity-justice">Equity & Justice in Computing Seminar Series</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/broadening-participation-computing/k-12">K-12 Outreach & Resources</a><ul class="k-12 ">
+<li><a href="/broadening-participation-computing/k-12/k-12-outreach">K-12 Outreach Programs</a></li>
+<li><a href="/broadening-participation-computing/k-12/k-12-resources">K-12 Resources</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/student-life/student-organizations">Student Organizations</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/news" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>News</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-news">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41391_5367" data-pageid="41391" data-tileid="5367" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=51204);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging</h2>
+			<div class="description"><p>The Defense Advanced Research Projects Agency (DARPA) has awarded $5.8 million to a team, led by Illinois CS's <a href="/about/people/faculty/zaher">Tarek Abdelzaher</a>, that will work to characterize how different foreign populations respond to influence campaigns as a first step towards development of effective countermeasures.</p></div>
+			<p><a href="/news/abdelzaher-leading-DARPA-effort-understand-how-people-respond-influence-messaging" class="button" title="Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 8, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/news">News</a></h2>
+<ul class="news ">
+<li><a href="/news">Department News</a></li>
+<li><a href="/news/features">Feature Stories</a></li>
+<li><a href="/news/covid-19-projects">COVID-19 Projects</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/news/media-coverage">Media Coverage</a></li>
+<li><a href="/news/e-news">E-News</a></li>
+<li><a href="/news/impact-report-publications">Impact Report &amp; Publications</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/give" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Give</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-give">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Help ensure that Illinois continues to set a global standard for CS research and education.</h2>
+<p><a class="orange button" href="/give/give-now">Make a Gift</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/give">Give</a></h2>
+<ul class="give ">
+<li><a href="/give/give-now">Give Now</a></li>
+<li><a href="/give/ways-give">Ways to Give</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/give/computer-science-visionary-scholarship-donors">Computer Science Visionary Scholarship Donors</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+</ul>
+</div>
+</nav>
+
+				</div>
+			</header>
+
+			<div id="content">
+				<main>
+					<div  id="hero" class="container-fluid">
+						<div class="row maxwidth1140">
+							<div class="col">
+								<div>
+									<nav id="breadcrumbs"><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/about/people">People</a></li><li><a href="/about/people/all-faculty">All Faculty</a></li></ul></nav>
+									<h1>Alex Kirlik
+</h1>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					
+
+					<div id="content_inner" class="container-fluid">
+						<div class="tile-list">
+							<section class="tile w100 white-box   py-5 " id="tile6806" data-tileid="6806" >
+	<div class="lower  maxwidth1140   " id="lower6806">
+		<div class="row">
+			<div class="col-md column1      " >
+				<div>	<div class="directory-profile maxwidth800" id="article_[postid]">
+		<figure class="image align-right ">
+			<img alt="Alex Kirlik" title="Alex Kirlik" src="//ws.engr.illinois.edu/directory/viewphoto.aspx?id=4962&s=300&type=portrait" />
+			<figcaption>Alex Kirlik</figcaption>
+		</figure>
+
+		<!--<h2>Alex Kirlik</h2>-->
+		<div class="roles">
+			
+			<div><div class="role cat15 primary">
+<div class="title"><strong>Professor</strong></div>
+<!--<div class="groups"></div>-->
+<div class="phone">(217) 244-8972</div>
+<div class="email"><a href="mailto:kirlik@illinois.edu">kirlik@illinois.edu</a></div>
+<div class="office">4220 Siebel Center for Comp Sci</div>
+</div>
+</div>
+		</div>
+
+		
+		
+		<h2>Education</h2>
+<ul>
+<li>Ph.D. Industrial & Systems Engineering, The Ohio State University, 1989.</li>
+</ul>
+
+		<h2>Biography</h2>
+<p>Alex Kirlik is Professor in the Department of Computer Science with additional appointments in the Department of Industrial & Enterprise Systems Engineering, the Department of Electrical and Computer Engineering, the Beckman Institute for Advanced Science and Technology, and the Information Trust Institute, the Coordinated Science Laboratory, the Intelligent Robotics Laboratory and the Illinois Informatics Institute. He previously served as acting head of Illinois's Human Factors program in the Institute of Aviation from 2006-2010.    Alex earned his B.S., M.S. and Ph.D. degrees in Industrial & Systems Engineering (Human-Machine Systems) at The Ohio State University. His Ph.D. thesis, "The organization of perception and action in complex control skills" earned the George Briggs Award from APA's Division of Applied Experimental and Engineering Psychologists, as the best dissertation of the year.  During his academic career, in addition to positions held with his home institutions at the University of Illinois (2002-date) and Georgia Tech (1989-2001), Alex has held visiting positions at Stanford University and NASA Ames Research Center (ASEE-NASA Stanford Summer Faculty Fellow, 1989, 1990), Yale University, Haskins Laboratory and the University of Connecticut (Visiting Scholar, 2001-02 academic year), Draper Laboratory, Cambridge, MA (Sabbatical Research, 2012-13 academic year), and the Liberty Mutual Research Institute for Safety (Visiting Scholar, summer 2015).</p>
+
+<p>Alex's research interests include human-computer interaction, human factors,  visual analytics to support judgment and decision making, human-robot interaction, social computing, human-automation interaction and decision support is sociotechnical systems such as aviation, space, intelligence analysis, severe weather forecasting, disaster and emergency response, healthcare and medicine, autonomous vehicles, education and so forth.</p>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		<h2>Teaching Statement</h2>
+<p>Alex's approach to teaching and mentoring students is naturally dependent of the level of instruction involved. Perhaps one notable aspect of his educational approach is that no crisp line can be drawn between his interests and activities in research and teaching. For example, he has advised 3 PhD dissertations on the development and evaluation of new techniques and technologies for teaching engineering design.</p>
+<p>His research and educational activities also dovetail in the realm of his graduate seminars, which are intensively group- and project-based, typically involving students in actual research projects to motivate and animate the course material. For example, in 2010 Alex seized on an opportunity afforded by a U.S. &#8220;Challenge.gov&#8221; Health and Human Services competition that required competing project teams to design a Facebook app that would be useful to people in the aftermath of natural disasters and emergencies. This project not only involved the students, working as a design team, to create a conceptual design for the app, but to also create a working software prototype and a video demo. The competition was open to any group who wanted to enter &#8211; it was not specifically targeted to the educational community or to educational institutions. The students&#8217; design earned  3rd place nationally:&#160;<a href="http://www.hhs.gov/news/press/2012pres/02/20120223b.html">www.hhs.gov/news/press/2012pres/02/20120223b.html</a></p>
+
+
+		
+		
+		
+		
+		
+		
+		
+		<h2>Research Statement</h2>
+<p>Alex Kirlik&#8217;s research program in human-computer interaction, human factors, and cognitive science & engineering has focused on understanding and supporting the cognition (judgment, decision making, prediction, problem solving and system control), of professionals working in technological workplaces, operational contexts and sociotechnical systems. His research contributing to commercial aviation safety in both airborne and ground operations has been supported by NASA for over 25 years.</p>
+
+<p>Recently, aspects of these lines of research have matured into NSF- and NASA-sponsored multidisciplinary projects, joint with collaborators in aerospace, mechanical and software engineering, to create and evaluate formal techniques and general principles for the design of safe and robust cyber-physical-human systems comprised of people and hardware and software automation: Engineering Safety-Critical Cyber-Physical-Human (CPH) Systems. The aim of this research, which is relevant to applications not solely in aviation but in contexts such as healthcare and highways, is to achieve levels of human-automation system performance, robustness and safety exceeding what would be achievable by either a human or automation acting alone. A 5-minute public video demo illustrating this work in an aviation context is available at:&#160;<a href="https://www.youtube.com/watch?v=gLZpFfXwGVQ#t=282">www.youtube.com/watch</a>.&#160;</p>
+
+<p>A second major thrust of Alex's research concerns support for judgment and decision making in high-stakes tasks. This line of research developed into an NSF-sponsored project to develop and evaluate quantitative models of judgment in technological systems (e.g., KIrlik, 2006, <em>Adaptive Perspectives on Human-Technology Interaction</em>, NY: Oxford; see: <a href="http://www.oup.com/us/companion.websites/9780195171822/" id="OUP" name="OUP" title="OUP">www.oup.com/us/companion.websites/9780195171822/</a>).</p>
+<p>. Recently, he and his multi-disciplinary team began a 3-year research project involving the design and use of domestic, aerial and ground robotics to support aging-in-place called ASPIRE: Automation Supporting Prolonged Independent Residence for the Elderly, sponsored by the National Robotics Initiative. &#160;A brief video showing progress to date, presented at the October, 2016 "Aging 2.0" conference in San Francisco can be viewed at:&#160;<a href="https://www.youtube.com/watch?v=YoUvRaTnA8c#action=share" "</a></p>
+
+<p>Also, Alex has co-edited (with J.D. Lee) the first authoritative handbook of its kind, <em>The Oxford Handbook of Cognitive Engineering, representing the contributions of more than 60 of the discipline&#8217;s most influential and accomplished researchers: <a href="https://global.oup.com/academic/product/the-oxford-handbook-of-cognitive-engineering-9780199757183?cc=us&lang<a>. He has been editor of the <em>Oxford Series in Human-Technology Interaction</em>&#160;for Oxford University Press for more than 10 years, a series that includes more than a dozen scholarly books and edited volumes by prominent researchers published to date: <a href= "https://global.oup.com/academic/content/series/h/human-technology-interaction-series-hti/?cc=us&lang=en&"  </a></p>
+<p>&#160;</p>
+<p>&#160;</p>
+
+		
+		
+		<h2>Undergraduate Research Opportunities</h2>
+<p>Alex often has paid or for-credit undergraduate research opportunities in both human-computer interaction and human factors.</p>
+
+		
+		
+		
+		<div class="extProfileAREA">
+			<h2>Research Areas</h2>
+<ul>
+<li><a href="https://cs.illinois.edu/research/areas/interactive-computing">Human-Computer Interaction</a></li>
+<li><a href="https://cs.illinois.edu/research/areas/interactive-computing">Visualization</a></li>
+</ul>
+
+		</div>
+		
+		
+		
+		
+		<h2>Books Edited or Co-Edited (Original Editions)</h2>
+<ul>
+<li>Lee, J.D. & Kirlik, A. (Eds.) The Oxford Handbook of Cognitive Engineering. New York: Oxford University Press, 2013.</li>
+<li>Vicente, K (Au), Kirlik, A. (Ed.). Human-Tech: Ethical and Scientific Foundations. New York, Oxford University Press, 2011.</li>
+<li>Kramer, A., Weigman, D. & Kirlik, A. (Eds.). Attention: From Theory to Practice. New York, Oxford University Press, 2007.</li>
+<li>Kirlik, A. (Ed). Adaptive Perspectives on Human-Technology Interaction: Methods and Models for Cognitive Engineering and Human-Computer Interaction. New York, Oxford University Press, 2006.</li>
+</ul>
+
+		
+		<h2>Chapters in Books</h2>
+<ul>
+<li>Kirlik, A. & Byrne, M.D. (2019). Computational models of expertise. (P. Ward et al., Eds.) The Oxford Handbook of Expertise. NY: Oxford University Press.</li>
+<li>Kirlik, A., Ackerman, K., Seefeldt, B., Xargay, E., Riddle, K., Talleur, D., Carbonari, R., Sha, L. & Hovakimyan N. (2017). Visualizing automation in aviation interfaces. In (J. Flach, P. Tsang, and M. Vidulich, Eds.), Advances in Aviation Psychology, Vol. 2. Routledge.</li>
+<li>Lee, J.D. & A. Kirlik (2013). Introduction to the handbook. In J.D. Lee & A. Kirlik, The Oxford Handbook of Cognitive Engineering. NY: Oxford University Press.</li>
+<li>Kirlik, A. (2013). Judgment analysis. In J.D. Lee & A. Kirlik, The Oxford Handbook of Cognitive Engineering. NY: Oxford University Press.</li>
+<li>Kirlik, A. (2012). An overview of human factors. In S.W.J Kozlowski (Ed.), The Oxford Handbook of Organizational Psychology. New York: Oxford University Press.</li>
+<li>Kirlik, A. & Bertel, S. (2011). Decision making under pressure and constraints: Bounded rationality. Wiley Encyclopedia of Operations Research and Management Science. NY: Wiley. </li>
+<li>Bertel, S. & Kirlik (2011). Fast and frugal heuristics. Wiley Encyclopedia of Operations Research and Management Science: NY: Wiley. </li>
+<li>Kirlik, A. (2011). Introduction. In K. Vicente & A. Kirlik, Human-Tech, (pp. 3-8). NY: Oxford University Press.</li>
+<li>Kirlik, A. (2011). The origins of human-tech. In K. Vicente & A. Kirlik, Human-Tech, (pp. 9-20). NY: Oxford University Press.</li>
+<li>Kirlik, A. (2011). A human-tech research agenda and approach. In K. Vicente & A. Kirlik, Human-Tech, (pp. 21-30). NY: Oxford University Press.</li>
+<li>Kirlik, A. (2011). Inventing possibilities: Understanding work systems and tasks. In K. Vicente & A. Kirlik, Human-Tech, (pp. 53-59). NY: Oxford University Press.</li>
+<li>Kirlik, A. (2011). Psychological distance: Manipulating an interface versus controlling a system. In K. Vicente & A. Kirlik, Human-Tech, (pp. 77-83). NY: Oxford University Press.</li>
+<li>Kirlik, A. (2011). Statistics for human-tech research. In K. Vicente & A. Kirlik, Human-Tech, (pp. 107-111). NY: Oxford University Press.</li>
+<li>Kirlik, A. (2011). Constructing the subject: Cognitive modeling. In K. Vicente & A. Kirlik, Human-Tech, (pp. 145-156). NY: Oxford University Press.</li>
+<li>Kirlik, A. (2011). Sociotechnical systems, risk, and error. In K. Vicente & A. Kirlik, Human-Tech, (pp. 191-195). NY: Oxford University Press.</li>
+<li>Kirlik, A. (2011). Nested systems: Economic, cultural and political dimensions. In K. Vicente & A. Kirlik, Human-Tech, (pp. 221-225). NY: Oxford University Press.</li>
+<li>Kirlik, A. and Storkerson, P. (2010). Naturalizing Peirce&#8217;s semiotics: Ecological psychology&#8217;s solution to the problem of creative abduction. In L. Magnani (Ed.), Model-Based Reasoning in Science and Technology: Studies in Computational Intelligence, 314, pp. 31-50. Berlin: Springer-Verlag.</li>
+<li>Kirlik, A. (2007). Ecological resources for modeling interactive behavior and embedded cognition. In W. Gray (Ed.), Integrated Models of Cognitive Systems (pp. 194-210). New York: Oxford University Press. </li>
+<li>Byrne, M., Kirlik, A. & M. D. Fleetwood (2007) Closing the loop on computational models of interactive human performance models in aviation. In D. Foyle & B. Hooey (Eds.), Human Performance Models in Aviation (pp. 77-104). Boca Raton: CRC Press. </li>
+<li>Foyle, D.C., Hooey, B.L., Byrne, M.D., Kirlik, A., Lebiere, C., Archer, R., Corker, K., Deutsch, S., Pew, R. W., Wickens, C.D. & McCarley, J. (2007). Human performance modeling: A virtual roundtable discussion. . In D. Foyle & B. Hooey (Eds.), Human Performance Models in Aviation (pp. 285-320). Boca Raton: CRC Press. </li>
+<li>Sternberg, R. J., Birney, D., Jarvin, L., Kirlik, A., Stemler, S. & E. Grigorenko (2006). From Molehill to mountain: The process of scaling up educational interventions. In R. J. Sternberg & M. Constas (Eds.), Translating Educational Theory and Research into Practice (pp. 205-222). Mahwah, NJ: Erlbaum. </li>
+<li>Kirlik, A. (2006). Cognitive engineering: Toward a workable concept of mind. In A. Kirlik (Ed.), Adaptive Perspectives on Human-Technology Interaction (pp. 3-9_NY: Oxford University Press. </li>
+<li>Kirlik, A. (2006). Abstracting situated action: Implications for cognitive modeling and interface design. In A. Kirlik (Ed.), Adaptive Perspectives on Human-Technology Interaction (pp. 212-226). New York: Oxford University Press.</li>
+<li>Degani, A., Shafto & A. Kirlik (2006). What makes vicarious functioning work? Exploring the geometry of human-automation interaction. In A. Kirlik (Ed.), Adaptive Perspectives on Human-Technology Interaction (pp. 179-196). NY: Oxford University Press. </li>
+<li>Bisantz, A., Kirlik, A., Gay, P., Walker, N. & Fisk, A.D. (2006). Knowledge versus execution in dynamic judgment tasks. In A. Kirlik (Ed.), Adaptive Perspectives on Human-Technology Interaction (pp. 29-42). NY: Oxford University Press. </li>
+<li>Byrne, M. & A. Kirlik (2006). Kilograms matter: Computational cognitive modeling of closed loop dynamic decision making in system control. In A. Kirlik (Ed.), Adaptive Perspectives on Human-Technology Interaction (pp. 267-286) NY: Oxford University Press</li>
+<li>Horrey, W. J., Wickens, C. D., & Stewart, T. & A. Kirlik (2006). Supporting situation assessment through attention guidance and diagnostic aiding: Benefits, costs, and the impact of automation on judgment skill. In A. Kirlik (Ed.), Adaptive Perspectives on Human-Technology Interaction (pp. 55-70). NY: Oxford U. Press. </li>
+<li>Rothrock, L. & A. Kirlik (2006). A technique for inferring fast and frugal heuristics from behavioral data in dynamic, interactive judgment tasks. In A. Kirlik (Ed.), Adaptive Perspectives on Human-Technology Interaction (pp. 131-148). NY: Oxford University Press. </li>
+<li>Kirlik, A. (2005). Work in progress: Reinventing intelligence for an invented world. In R. J. Sternberg and D. Preiss (Eds.), Intelligence and Technology: Impact of Tools on the Nature and Development of Human. Skills (pp. 105-134). Mahwah, NJ: Erlbaum. </li>
+<li>Kirlik, A. and Strauss, R., (2001). Medical information uncertainty and the older patient: Implications for human factors and cognitive aging research. In W. Rogers and A.D. Fisk, (Eds.) Human Factors Interventions for the Health Care of Older Adults. Mahwah: NJ: Lawrence Erlbaum Associates. </li>
+<li>Kirlik, A. (2001). On Gibson's review of Brunswik. In K. R. Hammond and T. Stewart, (Eds.), The Essential Brunswik: Beginnings, Explications, and Applications. NY: Oxford University Press. </li>
+<li>Kirlik, A. (2001). Human factors. In K. R. Hammond and T. Stewart, (Eds.) The Essential Brunswik: Beginnings, Explications, and Applications, 238-242. NY: Oxford University Press, 2001. </li>
+<li>Kirlik, A., (1998). Everyday life environments. In W. Bechtel and G. Graham, (Eds.). A Companion to Cognitive Science, Oxford: Blackwell, 1998.</li>
+<li>Kirlik, A., Fisk, A.D., Walker, N. and Rothrock, L. (1998). Feedback augmentation and part-task practice in training dynamic decision making skills. In J. Cannon-Bowers and E. Salas, (Eds.), Decision Making Under Stress: Implications for Individual and Team Training Washington, DC: American Psychological Association Press. </li>
+<li>Kirlik, A., and Bisantz, A., (1998). Cognition in human-machine systems: Experiential and environmental aspects of adaptation. In P. Hancock, (Ed.), Handbook of Perception and Cognition: Human Performance and Ergonomics. San Diego, CA: Academic Press. </li>
+<li>Fisk, A.D., and Kirlik, A. (1996). Practical relevance and cognitive aging research: Can theory develop without application? In W. Rogers, A.D. Fisk, and N. Walker (Eds.), Aging and Skilled Performance: Advances in Theory and Application. Hillsdale, NJ: Erlbaum. </li>
+<li>Kirlik, A., (1995) Requirements for psychological models to support design: Toward ecological task analysis. In J. Flach, P. Hancock, J. Caird, and K. J. Vicente, (Eds.), Global Perspectives on the Ecology of Human-Machine Systems, Hillsdale, NJ: Erlbaum.</li>
+</ul>
+
+		
+		<h2>Selected Articles in Journals</h2>
+<ul>
+<li>Kirlik, A. (2018). Automation and adaptive behavior.  Journal of Cognitive Engineering and Decision Making, Volume 12, Number 1, March 2018, pp. 70&#8211;73.  DOI: 10.1177/1555343417724963</li>
+<li>Nam, M-Y.,  Choi, J. , Kirlik, Sha, L. &amp; R. Berlin (2017). Supporting emergency medical care teams with an integrated status display providing real-time access to medical best practices, workflow tracking, and patient data.  Journal of Medical Systems, December 2017, 41:186.</li>
+<li>Lin, J-H, Kirlik, A, & Xu, X. (2017).  New technologies in human factors and ergonomics research and practice. Applied Ergonomics, 66, 179-181. Introduction to an edited (Lin, Kirlik, Xu) special journal issue with 19 peer-reviewed technical articles.  Special Issue editors: Lin, Kirlik & Xu.</li>
+<li>Ackerman, K., Talleur, D., Carbonari, R., Xargay, X., Seefeldt, B,, Kirlik, A., Hovakimyan, N, and Trujillo, A, (2017). Aviation situation awareness display for a flight envelope protection system. Journal of Guidance, Control and Dynamics (E-Version printed: DOI: 10.2514/1.G000338).</li>
+<li>Marinho, T, Widdowson, C,, Oetting, A, Lakshmananm, A., Cui, H., Hovakimyan, N., Wang, F., Kirlik, A., Laviers, A., and Stipanovic (2016). Carebots: Prolonged elderly independence using small mobile robots. Mechanical Engineering, September, 2016.
+</li>
+<li>Hettinger, L. J., Kirlik, A., Goh, Y. M. & Buckle, P. (2015). Modelling and simulation of complex sociotechnical systems: Envisioning and analysing work environments. Ergonomics, 58, (4), 600-614.</li>
+<li>Miller, S., Bailey, B. &amp; A. Kirlik (2014). Exploring the utility of Bayesian truth serum for assessing design knowledge. Human-Computer Interaction, 29(5-6), 487-515.&nbsp;</li>
+<li>Fraccone, G.C., Valenzuela-Vega, R., Siddique, S., Volovoi, V. & A. Kirlik (2013).  Nested modeling of hazards associated with off-nominal scenarios in the national airspace system. Journal of Aircraft, 50(2), March-April.</li>
+<li>Kirlik, A. (2012). Relevance versus generalization in cognitive engineering. (Invited) Cognition, Technology and Work, 14(3), 213-220.</li>
+<li>Kirlik, A. (2010). Editorial: Brunswikian theory and method as a foundation for simulation-based research on clinical judgment. (Invited). Simulation in Healthcare, 5(5). 255-259.</li>
+<li>Kirlik, A. (2009). Brunswikian resources for event perception research. Perception, Vol. 38, 376-398. </li>
+<li>Weiss, D.J., Brennan, K., Thomas, R., Kirlik, A., and Miller, S.M. (2009). Criteria for performance evaluation. Judgment and Decision Making, 4(2), 164-174).</li>
+<li>Araujo, D. & Kirlik, A. (2008). Toward an ecological approach to visual anticipation in sport. International Journal of Sport Psychology, Vol. 39(2), 122-140. </li>
+<li>Kirlik, A. & Strauss, R. (2006). Situation awareness as judgment I: Theoretical framework, modeling, and quantitative measurement. International Journal of Industrial Ergonomics. Special Issue on New Insights in Human Performance and Decision Making, 36, 463-474. </li>
+<li>Strauss, R. & Kirlik, A. (2006). Situation awareness as judgment II: Experimental evaluation and demonstration. International Journal of Industrial Ergonomics: Special Issue on New Insights in Human Performance and Decision Making. 36, 475-484. </li>
+<li>Byrne, M. & Kirlik, A. (2005). Using computational cognitive modeling to diagnose possible sources of aviation error. International Journal of Aviation Psychology, 15(2), 135-155. </li>
+<li>Kirlik, A. (2004). Stoffregen's analysis of affordances. Ecological Psychology, 16(1), 73-77. </li>
+<li>Kirlik, A. & Maruyama, S. (2004). Human-technology interaction and music perception and performance: Toward the robust design of sociotechnical systems. Proceedings of the IEEE, Vol. 92, No. 4, 616-632.</li>
+<li>Kirlik, A. (2003). Human factors distributes its workload. Review of E. Salas (Ed.), "Advances in Human Performance and Cognitive Engineering Research." Contemporary Psychology, Vol. 48, No. 6. </li>
+<li>Rothrock, L. & A. Kirlik (2003). Inferring rule-based strategies in dynamic judgment tasks. IEEE Transactions on Systems, Man, and Cybernetics: Part A: Systems and Humans, 33(1) 58-72.</li>
+<li>Kirlik, A. (2003). Charting a midcourse between neuroscience and cognitive science. Review of J.E.R. Staddon's, "Adaptive Dynamics: The Theoretical Analysis of Behavior." Contemporary Psychology, 48(3), 382-384. </li>
+<li>Cianciolo, A. & Kirlik, A. (2003). A multi-level, differential perspective on human performance. Review of "Human Performance: Cognition, Stress, and Individual Differences" by G. Matthews, R.D. Davies, S.J. Westerman, & R. B. Stammers. Contemporary Psychology, 48(2), 221-223. </li>
+<li>Kirlik, A. (2001). Life without Bayes: Judgment and decision making in Sweden (review of Juslin and Montgomery: Judgment and Decision Making: Neo-Brunswikian and Process Tracing Approaches). Applied Cognitive Psychology. </li>
+<li>Bisantz, A., and Kirlik, A., (2000). Adaptivity and rule verification: An empirical investigation. International Journal of Cognitive Ergonomics, 4(1), 1-18. </li>
+<li>Bisantz, A., Kirlik, A., Gay, P., Phipps, D., Walker, N., and Fisk, A.D., (2000). Modeling and analysis of a dynamic judgment task using a lens model approach. IEEE Transactions on Systems, Man, and Cybernetics, Vol. 30, 6, 605-616. </li>
+<li>Degani, A., Shafto, M. and Kirlik, A. (1999). Modes in human-machine systems: Review, classification, and application. International Journal of Aviation Psychology, Vol. 9, No. 2. </li>
+<li>Kirlik, A., Rediscovering Turing's brain. (1997). Commentary on Ballard. Behavioral and Brain Sciences, Vol. 20, No. 4. </li>
+<li>Kirlik, A., Walker, N. and Fisk, A.D., (1996). Supporting perception in the service of dynamic decision making. Human Factors, Vol. 38, No. 2. </li>
+<li>Kirlik, A., (1993). Modeling strategic behavior in human-automation interaction: Why an "aid" can (and should) go unused. Human Factors, Vol. 34, No. 2. </li>
+<li>Kirlik, A., Miller, R.A., and Jagacinski, R.J., (1993). Supervisory control in a dynamic uncertain environment: A process model of skilled human-environment interaction. IEEE Transactions on Systems, Man, and Cybernetics, Vol. 23(4). </li>
+<li>Kirlik, A., Jagacinski, R.J., Miller, R.A., Plamondon, IT, and Lytton, L., (1993). Supervisory control in a dynamic uncertain environment: Comparisons of one and two-person crews. IEEE Transactions on Systems, Man, and Cybernetics, Vol. 23(4), 1993. </li>
+<li>Vicente, K. and Kirlik, A., Putting the cart before the horse: Taking perception seriously in unified theories of cognition. Commentary on Newell. Behavioral and Brain Sciences, Vol. 15, No. 3, 1992. </li>
+</ul>
+
+		<h2>Articles in Conference Proceedings</h2>
+<ul>
+<li>Deloatch, R., Bailey, B., Kirlik, A. and Zilles (2017). I Need Your Encouragement! Requesting Supportive Comments on Social Media Reduces Test Anxiety. ACM CHI'17, May 6-11, 2017, Denver, CO. </li>
+<li>Deloatch, R., Bailey, B. & A. Kirlik (2016).  Measuring Effects of Modality on Perceived Test Anxiety for Computer Programming Exams. Proceedings of the 47th ACM Technical Symposium on Computing Science Education. Memphis, TN, USA.</li>
+<li>Eslami, M., Karahalios, K., Sandvig, C., Vaccaro, K., Rickman, A. & Kirlik, A. (2016). First I "like" it, then I hide it: Folk Theories of Social Feeds. ACM CHI&#8217;16, May 07 - 12, 2016, San Jose, CA, USA</li>
+<li>Kirlik, A., Ackerman, K., Seefeldt, B., Xargay, E., Talleur, D., Carbonari, R., Hovakimyan, N.  and Sha, L. (2015). Inverting the human/automation equation to support situation awareness and prevent loss of control. Proceedings of the 2015 International Symposium on Aviation Psychology. Dayton, OH. </li>
+<li>Ackerman, K. A., S. T. Pelech, R. S. Carbonari, N. Hovakimyan, and A. Kirlik (2014). Pilot-in-the-loop flight simulator for NASA&#8217;s Transport Class Model. In Proceedings of the AIAA Guidance, Navigation and Control Conference, National Harbor, MD.</li>
+<li>Chongvisal, J., N. Tekles, E. Xargay, D. A. Talleur, A. Kirlik, and N. Hovakimyan (2014).  Loss-of-control prediction and prevention for NASA&#8217;s Transport Class Model. In Proceedings of the AIAA Guidance, Navigation and Control Conference, National Harbor, MD.</li>
+<li>Deloatch, R., Marmarchi, A. & Kirlik A. (2013). Testing conditions for acquiring intuitive expertise in judgment: Evidence from a study of NCAA basketball tournament predictions. To appear in the Proceedings of the 2013 Human Factors and Ergonomics Society Annual Meeting. Santa Monica: CA.</li>
+<li>Moehlenbrink, C., Manske, P. & Kirlik, A. (2012). An analysis of a ground traffic control decision support system based on the 3-step principle of heuristic decision making. Proc. Human Factors and Ergonomics Society Europe Chapter Conference, Toulouse, France.</li>
+<li>Tsai, J. and Kirlik, A. (2012). Coherence and correspondence competence: Implications for the elicitation and aggregation of probabilistic forecasts of world events. Proceedings of the 2012 Human Factors and Ergonomics Society Annual Meeting. Santa Monica, CA.</li>
+<li>Riddle, K., Kirlik, A., Talleur, D. and Carbonari, R. (2012). A comparison of visualization and command-based decision aiding in a simulated aircraft departure sequencing and timing task. Proceedings of the 2012 Human Factors and Ergonomics Society Annual Meeting. Santa Monica, CA.</li>
+<li>Miller, S., Bailey, B.P., and Kirlik, A. (2012). Toward the development of an objective assessment technique for use in engineering design education. Proceedings of the 119th Annual American Society for Engineering Education (ASEE) Conference. San Antonio, TX.
+</li>
+<li>Tsai, J., Miller, S. and Kirlik, A. (2011). Interactive visualizations to improve Bayesian reasoning. Proceedings of the 2011 Human Factors and Ergonomics Society Annual Meeting. Santa Monica, CA.</li>
+<li>Miller, S., Kirlik, A. & Hendren, N. (2011). Applying knowledge and confidence information 
+to predict achievement in forecasting. Proceedings of the 2011 Human Factors and Ergonomics Society Annual Meeting. Santa Monica, CA.
+</li>
+<li>Tsai, J., Kirlik, A., Kosorukoff, A., Miller, S. (2008) Rule and instance based strategies in expert judgment. Proceedings of the 52nd Annual Meeting of the Human Factors and Ergonomics Society. Santa Monica, CA: Human Factors and Ergonomics Society. </li>
+<li>Miller, S., Kirlik, A., Kosorukoff, A., Tsai, J. (2008) Supporting joint human-computer judgment under uncertainty. Proceedings of the 52nd Annual Meeting of the Human Factors and Ergonomics Society. Santa Monica, CA: Human Factors and Ergonomics Society. </li>
+<li>Byrne, M. D., Kirlik, A., Allard, T., Foyle, D. C., Hooey, B. L., Gluck, K. A., Wickens, C. D., Pritchett, A. R. (2008) Issues and challenges in human performance modeling in aviation: Goals, advances, and gaps. Proceedings of the 52nd Annual Fleeting of the Human Factors and Ergonomics Society. Santa Monica, CA: Human Factors and Ergonomics Society. </li>
+<li>Kirlik, A. (2007) Lessons learned from the design of the decision support system used in the hurricane Katrina evacuation decision. Proceedings of the 51st Annual Meeting of the Human Factors and Ergonomics Society. Santa Monica, CA: Human Factors and Ergonomics Society. </li>
+<li>Kirlik, A., Bisantz, A., Burns, C., Cooke, N. J., Guerlain, S., Lee, J. D., Sarter, N., Serfaty, D. (2007) Design specifications for a cognitive engineering textbook. Proceedings of the 51st Annual Meeting of the Human Factors and Ergonomics Society. Santa Monica, CA: Human Factors and Ergonomics Society. </li>
+<li>Kirlik, A. (2007) Conceptual and technical issues in extending computational cognitive modeling to aviation. Proceedings of Human-Computer Interaction International 2007, Beijing, China. </li>
+<li>Carlson, R., Gray, W. D., Kirlik, A., Kirsh, D., Payne, S. J., Neth, H. (2007) Immediate interactive behavior: How embodied and embedded cognition uses and changes the world to achieve its goals. Proceedings of the Cognitive Science Society 2007 Annual Meeting, Nashville, TN. </li>
+<li>Miller, S. & Kirlik, A. (2006). Rational analysis and the lens model. Proceedings of the Human Factors Society 2006 Meeting, San Francisco, CA. </li>
+<li>Nunes, A., Kirlik, A. (2005) An empirical study of calibration in air traffic control expert judgment. Proceedings of the 49th Annual Meeting of the Human Factors and Ergonomics Society (pp. 422-426). Santa Monica, CA: Human Factors and Ergonomics Society. </li>
+<li>Byrne, M. D., Kirlik, A., Fleetwood, M. D., Huss, D. G., Kosorukoff, A., Lin, R. S., Fick, C.S. (2004) A closed-loop, ACT-R approach to modeling approach and landing with and without synthetic vision system (SVS) technology. Proceedings of the 48th Annual Meeting of the Human Factors and Ergonomics Society. Santa Monica, CA: Human Factors and Ergonomics Society. </li>
+<li>Rothrock, L. & A. Kirlik (2003). Explorations in modeling human decision making in dynamic contexts. Proceedings of HCI International 2003, Crete, Greece. </li>
+<li>Kirlik, A. "Conducting generalizable research in the age of the field study." IEA/HFES 2000. San Diego, CA, 2000. </li>
+<li>Strauss, R. and Kirlik, A. "Measuring the judgmental components of situation awareness." IEAI/HFES 2000. San Diego, CA, 2000. </li>
+<li>Kirlik, A. (1999). "Ecological modeling of human-machine interaction." Proceedings of the 1999 IEEE International Conference on Systems, Man, and Cybernetics, Tokyo, Japan. </li>
+<li>Bisantz, A.M. and Kirlik, A., "Investigating the effect of problem format and task-related experience on evidential reasoning. " Proceedings of the Symposium on Human Interaction with Complex Systems. Dayton, OH, 1988. </li>
+<li>Degani, A., and Kirlik, A., "Describing the design contributors to mode error. Proceedings of the Symposium on Human Interaction with Complex Systems. Dayton, OH, 1998. </li>
+<li>Kirlik, A., (1988). The ecological expert: Acting to create information to guide action. Proceedings of the Fourth Symposium on Human Interaction with Complex Systems (HICS-98). Dayton, OH: IEEE Computer Society Press.</li>
+<li>Turns, J.A and Kirlik, A. "Structural assessment to support engineering education." Proceedings of the 1998 American Society of Engineering Educators Conference, Seattle, WA, 1998.</li>
+<li>Bisantz, A.M. Gay, P., Phipps, D., Walker, N., Kirlik, A., and Fisk, A.D. "Specifying training needs in a dynamic judgment task using a Lens Model approach." Proceedings of the 1997 IEEE Conference on Systems, Man, and Cybernetics. 1997. </li>
+<li>Shafto, M., Degani, A. And Kirlik, A., "Canonical correlation analysis of data on human-automation interaction.&#8221; Proceedings of the Human Factors and Ergonomic Society Annual Meeting. Santa Monica, CA: 1997. </li>
+<li>Degani, A., and Kirlik, A. "Modeling human interaction with semi-automated control systems to identify interface design problems." Proceedings of the International Symposium on Artificial Intelligence, Robotics, and Human Activity Support for Nuclear Applications. Wako-Shi, Saitama, Japan, 1997. </li>
+<li>Gay, P., Phipps, D., Bisantz, A.M., Walker, N., Kirlik, A., and Fisk, A.D. "Operator specific modeling of identification judgments in a complex dynamic task." Proceedings of the Human Factors and Ergonomic Society Annual Meeting. Santa Monica, CA: 1997. </li>
+<li>Kirlik, A., Rothrock, L., Walker, N. And Fisk, A.D., "Simple strategies or simple tasks? Dynamic decision making in "complex" worlds." Proceedings of the Human Factors and Ergonomics Society 40th Annual Meeting. Santa Monica, CA, 1996. </li>
+<li>Walker, N., Fisk, A.D., .Phipps, D., Kirlik, A., "Training perceptual-rule-based skills." Proceedings of the Human Factors and Ergonomics Society, Santa Monica, 1995. </li>
+<li>Kirlik, A., "The design of perceptually augmented displays to support interaction with dynamic systems," Proceedings of the 1995 IFAC Conference on Man-Machine Systems, Cambridge, MA, 1995. </li>
+<li>Degani, A., Shafto, M. and Kirlik, A., "Modes in human-automation interaction," Proceedings of the 1995 IFAC Conference on Man-Machine Systems, Cambridge, MA, 1995. </li>
+<li>Degani, A., Shafto, M., and Kirlik, A., "A modeling framework for human interaction with modal systems." Proceedings of the 1995 IEEE International Conference on. Systems, Man, and Cybernetics, Vancouver, CA, 1995. </li>
+<li>Kirlik, A. "Perceptual augmentation to support skilled interaction," Proceedings of the 1993 IEEE International Conference on Systems, Man, and Cybernetics, Le Touquet, France, 1993. </li>
+<li>Kirlik, A. "Requirements for design-relevant psychological models," Proceedings of the 1992 IEEE International Conference on Systems, Man., and Cybernetics, Chicago, IL, 1992. </li>
+<li>Kirlik, A. and Rothrock, L., "Constraints on neural net modeling to support display design for skilled decision-making," Proceedings of the Second Workshop on Neural Networks: Academic/Industrial /NASA/Defense, Auburn, Alabama, 1991. </li>
+<li>Kirlik, A., Markert, W.J., and Shively, R.J. "Perceptual and contextual influences on dynamic decision-making performance," Proceedings of the 1990 IEEE International Conference on Systems, Man, and Cybernetics, Los Angeles, CA, 1990. </li>
+<li>Kirlik, A., Miller, R.A., and Jagacinski, R.J. "A process model of skilled human performance in a dynamic uncertain environment," Proceedings of the 1989 IEEE Int'l Conference on Systems, Man, and Cybernetics, Cambridge, MA, 1989. </li>
+<li>Kirlik, A., Miller, R.A. and Jagacinski, R.J. "Route Planning as a Perceptual Task," Proceedings of the Twenty-Third Annual Conference on Manual Control, Cambridge, NIA, 1988. </li>
+<li>Miller, R.A., Jagacinski, R.J., Plamondon, B.D., Lytton, L.E., and Kirlik, A., "A Comparison of One-and-Two-Person Crew Performance in a Supervisory Control Task," Proceedings of the Fourth Symposium on Aviation Psychology, Columbus, OH, 1987. </li>
+<li>Kirlik, A., Miller, R.A., and Jagacinski, R.J. "A study of the effects of display aiding in a task with random components," Proceedings of the 1986 IEEE International Conference on Systems, Man, and Cybernetics, Atlanta, GA 1986. </li>
+<li>Miller, R.A., Plamondon, B.D., Jagacinski, R.J. and Kirlik, A. "Investigation of Crew Performance in a Multi-Vehicle Supervisory Control Task," Proceedings of the Twenty-First Annual Conference on Manual Control, Columbus, OH, 1986. </li>
+</ul>
+
+		
+		<h2>Invited Lectures</h2>
+<ul>
+<li>Kirlik, A. Kenneth Hammond: Ecological Psychologist. Invited lecture in honor of the occasion of the 100th anniversary of Kenneth Hammond's birth. Twenty-fifth Annual Meeting of the Brunswik Society, Vancouver, CA, November, 2017.</li>
+<li>Kirlik, A. Effective Car Interfaces from Safety and Design Perspectives. CAR HMI Meeting, Berlin, Germany, July, 2017.</li>
+<li>KIrlik, A.  Panel Presentation: Transitioning Aviation Research into Practice. International Symposium on Aviation Psychology, Dayton, OH, May, 2017.</li>
+<li>Kirlik, A. Using Intelligent Vehicle Automation to Drive Interfaces as Well as Cars. CAR HMI Meeting, Dearborn, MI, April, 2017.</li>
+<li>Kirlik, A. Designing safe and effective cyber-physical-human systems. Coalition for National Science Funding (CNSF), Capitol Hill, Washington, DC, 2016.
+</li>
+<li>Kirlik, A. Two &#8220;NextGen&#8221; aviation research and implementation projects: A novel design for human-centered cockput automation, and novel schemes for air-ground coordination in continuous descent approach operations at LAX. TU Dresden Human Factors Group. Dresden, Germany, November, 2014.</li>
+<li>Kirlik, A. Cognitive engineering: The analysis and design of sociotechnical systems. TU Berlin Human Factors Group. Berlin, Germany, November, 2014.</li>
+<li>Kirlik, A. Two &#8220;NextGen&#8221; aviation research and implementation projects: A novel design for human-centered cockput automation, and novel schemes for air-ground coordination in continuous descent approach operations at LAX.  DLR (German Aerospace Center) Human Factors Group. Braunschweig, Germany, November, 2014.</li>
+<li>Kirlik, A. A multidisciplinary perspective on measuring safety and efficiency in human-automation interaction. NASA and University of Central Florida Workshop on Developing Best Practices for Measuring Safety and Efficiency in Human-Automation Systems. Chicago, IL, October, 2014.</li>
+<li>Kirlik, A.  The key role of perceived performance incentives in shaping strategic cognition and behavior. Georgia Tech Conference on Strategies in Human-Technical Systems. Atlanta, GA, April, 2014.</li>
+<li>Kirlik, A. Supporting situation awareness in disaster preparation and response. Transportation Research Board, Washington DC, January, 2014.</li>
+<li>Kirlik, A.  Cognitive Engineering: Human factors as human-centered system design and evaluation. Department of Industrial Engineering, Tsinghua University, Beijing, China, December, 2013.</li>
+<li>Kirlik, A. Cognitive Engineering: Human factors as human-centered system design and evaluation. China Astronaut Research and Training Center, Beijing, China, December, 2013. </li>
+<li>Kirlik, A. Cognitive Engineering: Human factors as human-centered system design and evaluation. Chinese Academy of Sciences, Beijing, China, December, 2013.</li>
+<li>Kirlik, A. Predictive visual analytics. Keynote, New England Chapter of the Human Factors and Ergonomics Society Conference, Cambridge, MA, April, 2013.</li>
+<li>Kirlik, A. A cognitive engineering approach to the design of interactive systems. Draper Laboratory, Cambridge, MA, April, 2013.</li>
+<li>Kirlik, A. Making better predictions: Especially of the future. Department of Industrial & Systems Engineering, SUNY Buffalo, March, 2013.</li>
+<li>Kirlik, A. Interactive visualizations to support prediction. Department of Cognitive Science, Renssalaer Polytechnic Institute, Troy, NY, February, 2013.</li>
+<li>Kirlik, A. Making better predictions. Charles River Analytics, Cambridge, MA, December, 2012.</li>
+<li>Kirlik, A. The emerging toolbox of cognitive engineering models. Keynote, &#8220;International Conference on Cognitive Modeling.&#8221; Berlin, Germany, March, 2012.</li>
+<li>Kirlik, A. Using interactive visualizations to support human reasoning under uncertainty. Distinguished Speaker, Faculty of Applied Science and Engineering, University of Toronto, November, 2011.</li>
+<li>Kirlik, A. Human-automation interaction in aerospace systems. P.R. China Astronaut Research and Training Center and National University of Defense Technology Aero-Astro Summer School, Changsha, China, July, 2011.</li>
+<li>Kirlik, A. Beyond usability: Ethical design. Keynote, "Mensch and Computer" Conference (Human-Computer Interaction), Humboldt University, Berlin, Germany, 2009. </li>
+<li>Kirlik, A. Acting thoughtfully, thinking reflectively: Model based cognition and expertise. Keynote, 2009 &#8220;Model-Based Cognition&#8221; Conference, Campanas, Brazil.</li>
+<li>Kirlik, A. Nudges and affordances: Can ecological psychology learn from behavioral economics? Invited Symposium on "Affordances: 25 Years Later." 15th International Conference on Perception and Action, Minneapolis, MN, 2009. </li>
+<li>Kirlik, A. Supporting joint human-computer judgment under uncertainty. Department of Mechanical & Industrial Engineering, University of Iowa, 2008. </li>
+<li>Kirlik, A. Comments on paper by Kenneth R. Hammond. Brunswik Society Meeting, Chicago, IL, 2008. </li>
+<li>Kirlik, A. The NASA human performance modeling project. The Human Factors of NextGen conference, Arlington, TX, 2008. </li>
+<li>Kirlik, A. Brunswik's cues at 50: Ecological psychology reinvents (not rediscovers) probabilistic functionalism. Brunswik Society Meeting, Chicago, IL, 2008. </li>
+<li>Kirlik, A. Vicarious functioning implies representative design. Original Brunswik Meeting, Landau, Germany, 2008. </li>
+<li>Kirlik, A. Collisions and other encounters. Conference to celebrate the 20th anniversary of the Center for the Ecological Study of Perception and Action, Department of Psychology, University of Connecticut, Storrs, CT, 2008. </li>
+<li>Kirlik, A. On MT, for M.T. A Natural-Physical Perspective on Perception-Action-Cognition, Department of Psychology, University of Connecticut, Storrs, CT, 2008. </li>
+<li>Kirlik, A. Expertise: Insights from Brunswik and Darwin. Department of Psychology, Wright State University, Dayton, OH, 2008. </li>
+<li>Kirlik, A. The hurricane Katrina evacuation decision: A case study of meta-information portrayal. 2nd Annual Workshop on Meta-Information Portrayal, Washington, DC, 2007. </li>
+<li>Kirlik, A. A multidimensional measure of expertise when a gold standard is lacking. Psychonomics and Brunswik Societies, 2006. </li>
+<li>Kirlik, A. Cognitive Engineering. IBM TJ Watson Research Center, 2006. </li>
+<li>Kirlik, A. Modeling cognition, eye, hand and technology as a Closed-Loop. College of Arts & Sciences, Illinois Wesleyan University, 2006. </li>
+<li>Kirlik, A. Generalization and representative design. Lecture in honor of the retirement of Prof. Marv Dainoff. Department of Psychology, Miami University, Oxford, OH, 2005. </li>
+<li>Kirlik, A. Keynote: Closing the loop on cognitive models. Symposium on Integrated Models of Cognitive Systems. (Wayne Gray, Org.). Saratoga Springs, NY, 2005. </li>
+<li>Kirlik, A. A University-Industry research collaboration on the human factors of Emerson's "DeltaV" digital automation for process plant control. Emerson Exchange Users Group Meeting, Dallas, TX, 2004. </li>
+<li>Kirlik, A. Timely and accurate decisions. Invited panel presentation on the topic of "Time Design" at the 2004 Meeting of the Human Factors & Ergonomics Society, September, 2004. </li>
+<li>Kirlik, A. Alphonse Chapanis, Egon Brunswik, and representative design in human factors. Invited panel presentation on the topic of "The Lens Model in Human Factors Research" at the 2004 Meeting of the Human Factors & Ergonomics Society, 2004. </li>
+<li>Kirlik, A., Cognitive tools and augmented minds: The good, the bad, and the inevitable. Keynote address given at the 2004 Paul D. Scholz Symposium on Technology and Society. College of Engineering, University of Iowa, 2004. </li>
+<li>Kirlik, A., Functional modeling of human-technology interaction. Lecture in honor of the retirement of Prof. Allen Miller, Department Chair, Industrial & Systems Engineering, the Ohio State University. 2004. </li>
+<li>Kirlik, A., Success stories in cognitive engineering: Five projects. Cognitive Systems Engineering Consortium (CSEC), Dayton Ohio, 2004. </li>
+<li>Kirlik, A. Closing the loop on models of cognitively-mediated interaction. Symposium on Psychology, Systems Dynamics Society Annual Conference, NY, 2003. </li>
+<li>Kirlik, A. & Byrne, M., Closed-loop, dynamic modeling of pilot cognition with and without synthetic vision displays. NASA Workshop on Cognitive Modeling for Aviation Safety, System-Wide Accident Prevention Program, NASA Ames Research Center, Moffett Field, CA, March 2003. </li>
+<li>Kirlik, A., The "Real world" fallacy in psychological research: Origin and alternative. Illinois State University Department of Psychology, Bloomington, IL: 2003. </li>
+<li>Kirlik, A., Ecological modeling of judgment under uncertainty. Cognitive Science Program, Illinois State University, Bloomington, IL, 2003. </li>
+<li>Kirlik, A., Modeling taxi errors in the tangled web of Chicago O'Hare. Brunswik Society Meeting, Kansas City, MO, November, 2002. </li>
+<li>Kirlik, A., The law of the excluded middle in human-automation interaction. Panel presentation on "Training challenges for automating human cognitive processes," Human Factors & Ergonomics Society 2002 Annual Meeting, 2002. </li>
+<li>Kirlik, A., Comments on Harry Heft's Ecological Psychology in Context. The 2002 North American Meeting of the International Society for Ecological Psychology, Miami, OH, 2002. </li>
+<li>Kirlik, A., The multiplicity of the fundamental in psychological science. Haskins Laboratories, Yale University, New Haven, CT, 2002. </li>
+<li>Kirlik, A., Understanding and supporting cognition in technological work environments. Industrial/Organizational Psychology Program, University of Connecticut, 2002. </li>
+<li>Kirlik, A., Meta-Adaptivity as a new challenge and opportunity for human factors. Department of Industrial Engineering, University of Buffalo, 2002. </li>
+<li>Kirlik, A., Deconstructing Fitts Law. Perception-Action Workshop, Center for the Ecological Study of Perception and Action, University of Connecticut, 2002. </li>
+<li>Kirlik, A., The designed environment: theory and application. Department of Psychology, University of Connecticut, 2002. </li>
+<li>Kirlik, A., Ecological validity, representative design, and the real world. Department of Psychology, Yale University, February, 2002. </li>
+<li>Kirlik, A., Control, Coordination, and Improvisation in Engineering and Music. Workshop on Human Supervision and Control in Engineering and Music, Kassel, Germany, September 2001. </li>
+<li>Kirlik, A., Conducting generalizable research in the age of the field study. Human Factors & Ergonomics Society Annual Meeting. Symposium on the Ecological Approach to Human Factors, San Diego, CA, Sept. 2000. </li>
+<li>Kirlik, A., Information technology and the new Taylorism. Society for Work Science Annual Meeting, Marietta, GA, October 2000. </li>
+<li>Kirlik, A., An ecological approach to modeling interactive behavior in dynamic tasks. Beckman Institute, Department of Psychology, and Institute of Aviation, University of Illinois. October, 2000. </li>
+<li>Kirlik, A., A distributed systems view of cognition: History and future prospects. Japanese Society for the Promotion of Science, Workshop on Symbiosis on Humans, Artifacts, and the Environment. Kyoto, Japan, October 1999. </li>
+<li>Kirlik, A. Ecological modeling of human-machine interaction. Invited by Organizing Committee, IEEE International Conference on Systems, Man, and Cybernetics, Tokyo, Japan, 1999. </li>
+<li>Kirlik, A., What distinguishes difficult from easy tasks? Fifteenth Annual Meeting of the Brunswik Society, University of Colorado, Boulder, CO, July, 1999. </li>
+<li>Kirlik, A. The cognition of normative behavior. Department of Cognitive Science, University of California, San Diego, and U. San Diego Law School. La Jolla, CA, February, 1998. </li>
+<li>Kirlik, A., Analytical versus intuitive cognition in decision making. National Science Foundation Workshop on Decision Based Design. Atlanta, GA, September, 1998. </li>
+<li>Kirlik, A., An ecological perspective on situated action. Department of Cognitive Science, University of California, San Diego, La Jolla, CA, April, 1997. </li>
+<li>Kirlik, A., Describing the environmental contributors to mode error. International Symposium on Artificial Intelligence, Robotics, and Human Activity Support for Nuclear Applications. Wako-Shi, Saitama, Japan. November, 1997. </li>
+<li>Kirlik, A., Modeling mode-based interactions. Japanese Atomic Energy Research Institute, Mito, Japan, 1997.</li>
+<li>Kirlik, A., Expert versus novice, ecologically speaking: From expert knowledge to expert activity. The Human-Computer Interaction Consortium. Winter Park, CO, February, 1996.</li>
+<li>Kirlik, A., Some constraints on an ecological theory of strategic action. The Eighth International Conference on Perception and Action, International Society for Ecological Psychology, Marseille, France, July, 1995. </li>
+<li>Kirlik, A., Epistemic action: Or, why the world does not look at all simple to this Brunswikian. Eleventh Annual Meeting of the Brunswik Society, Los Angeles, CA, November, 1995. </li>
+<li>Kirlik, A., Environmental Contributions to Skilled Performance in Dynamic Interaction. Invited Address Presented at the NASA Ames Workshop on Cognitive Modeling in Aviation, February, 1994. </li>
+<li>Kirlik, A., Ecological Task Analysis: Display Design to Support Skilled Interaction. Presentation to Tri-State and Central Ohio Chapters of the Human Factors and Ergonomics Society, June, 1994. </li>
+<li>Kirlik, A . & Fisk, A.D. "Training Dynamic Decision-Making Skills. Presented at the 1993 American Psychological Association Annual Meeting, Toronto, Canada, 1993. </li>
+<li>Kirlik, A., Toward a Brunskwian Theory of Action. Presented at the 1993 Annual Meeting of the Brunswik Society, Washington, DC, 1993. </li>
+<li>Kirlik, A., Decision-Making in the EMS Helicopter Environment. Helicopter International Meeting, Miami, FL, January, 1993. </li>
+<li>Kirlik, A., Decision-Making Models. Society for Technology in Anesthesia Annual Meeting, New Orleans, LA, February, 1993. </li>
+<li>Kirlik, A., Cognitive Demands in Skilled Interaction. Presented at the NASA Ames A3I Offsite Program Review Meeting, Bodega Bay, CA, January, 1993. </li>
+<li>Kirlik, A., Describing the Environment for Complex Skills: Dynamic Affordance Distributions and their Specifying Information. Presented to the Emory University Department of Psychology, February 1992. </li>
+<li>Kirlik, A., Introduction to Cognitive Engineering. Presented to the IBM SHARE Users Group, Atlanta, GA, August, 1992. </li>
+<li>Kirlik, A. Markov Decision Process Modeling of Strategic Behavior. ORSA/TIMS Meeting, Orlando, FL, 1992. </li>
+<li>Kirlik, A., Ecological Task Analysis: What Every Good Designer Already Knows. Invited presentation to University of Toronto Human Factors Chapter. October, 1992. </li>
+<li>Kirlik, A. Dynamic Affordance Distributions. Presented to the 1991 Meeting of The International Society for Ecological Psychology, Urbana, IL, June 1991. </li>
+<li>Kirlik, A., An Interactive Optimization Method for Cockpit Display Layout Analysis. Presented to the NASA Ames Research Center Army Aircraft-Aircrew Integration Program, July, 1989. </li>
+<li>Kirlik, A., A Process Model of Supervisory/ Manual Control Behavior: Toward a Perceptual View of Skilled Decision-Making. Presented to the NASA Ames Research Center Rotorcraft Human Factors Branch, July, 1989. </li>
+<li>Kirlik, A., The Acquisition and Production of Skill in Dynamic Decision-Making Tasks. Presented to the NASA-ASEE Stanford Summer Faculty Fellowship Program 1989. </li>
+</ul>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<h2>Courses Taught - Last Four Years</h2>
+<ul><li>CS 465 - User Interface Design</li>
+<li>CS 498 - Experimental Methods for HCI</li>
+<li>CS 565 - Human-Computer Interaction</li>
+<li>CS 591 - Advanced Seminar</li>
+<li>CS 591 - Human-Computer Interaction</li>
+<li>CS 598 - Cyber-Physical-Human Systems</li>
+<li>CS 598 - Experimental HCI</li>
+</ul>
+	</div>
+
+
+</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile w110 white-box   py-5 " id="tile7058" data-tileid="7058" >
+	<div class="lower     " id="lower7058">
+		<div class="row">
+			<div class="col-md column1      " >
+				<h2 class="text-center">Related News</h2>
+<div id="faculty-news" class="tile-list"><section class="tile news w25 platinum-box" id="page6012" data-pageid="6012" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=10100);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/center-autonomy-launched-develop-research-education-emerging-field">Center For Autonomy Launched To Develop Research, Education In Emerging Field</a></h2>
+				<p class="first"><a href="/news">News</a> | December 6, 2018</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile news w25 platinum-box" id="page6309" data-pageid="6309" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=10479);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/little-support-their-online-friends-calms-test-anxious-students">A little support from their online friends calms test-anxious students</a></h2>
+				<p class="first"><a href="/news">News</a> | May 8, 2017</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tile news w25 platinum-box" id="page6607" data-pageid="6607" data-type="article" data-bookid="81">
+	<div class="upper" style="background-image: url(https://cs2020.dev.engr.illinois.edu/images/siebel-sculpture.jpg?id=);"></div>
+
+	<div class="lower py-4">
+		<div class="inner">
+			<div class="flex">
+				<h2><a href="/news/cyber-physical-human-systems-making-whole-greater-sum-its-parts">Cyber-Physical-Human Systems: Making the Whole Greater Than the Sum of Its Parts</a></h2>
+				<p class="first"><a href="/news">News</a> | November 21, 2013</p>
+			</div>
+		</div>
+	</div>
+</section>
+</div>
+<p>&nbsp;</p>
+<p class="text-center"><a class="button orange loader" href="#" data-target="faculty-news" data-template="81" data-bookid="81" data-return="4" data-filter-field="netid" data-filter-value="kirlik">Load more news</a></p>
+			</div>
+		</div>
+	</div>
+</section>
+
+						</div>
+					</div>
+				</main>
+			</div>
+
+			<footer>
+							<div class="container-fluid maxwidth1140">
+				<div class="row pt-5 pb-3">
+					<div class="col-lg-5 mb-5">
+						<div class="campus_wordmark"><a href="http://illinois.edu/"><img src="https://ws.engr.illinois.edu/images/uiuc-footer-wordmark.png" alt="University of Illinois Urbana Champaign"></a></div>
+					</div>
+
+					<div class="col-lg-7 mb-4 socials">
+						<a href="https://www.facebook.com/CSatIllinois/"><i class="fab fa-facebook-f"></i><span class="sr-only">Facebook</span></a>
+						<a href="https://twitter.com/IllinoisCS"><i class="fab fa-twitter"></i><span class="sr-only">Twitter</span></a>
+						<a href="https://www.youtube.com/user/IllinoisCS"><i class="fab fa-youtube"></i><span class="sr-only">YouTube</span></a>
+						<a href="https://www.linkedin.com/school/illinoiscs"><i class="fab fa-linkedin-in"></i><span class="sr-only">LinkedIn</span></a>
+						<a href="https://www.instagram.com/illinoiscs/"><i class="fab fa-instagram"></i><span class="sr-only">Instagram</span></a>
+						<div class="w-100 d-block d-lg-none"></div>
+						<a href="/about/contact-us" class="button">Contact Us</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="container-fluid maxwidth1140">
+				<div class="row pb-5 justify-content-between">
+					<div class="col-md pr-xl-5 mb-5 college_container">
+
+						<div class="contact">
+							<p><span class="fs150x"><a href="https://cs.illinois.edu">Thomas M. Siebel Center for Computer Science</a></span><br />
+                                                       201 North Goodwin Avenue MC 258<br />
+                                                        Urbana, IL 61801-2302<br />
+                                                         ph: 217-333-3426 (general) | 217-333-4428 (advising) <br />
+                                                         fax: 217-333-3501</p>
+                                                        <p> General email: <a href="mailto:admin@cs.illinois.edu">admin@cs.illinois.edu</a><br />
+                                                         Graduate Advising: <a href="mailto:academic@cs.illinois.edu">academic@cs.illinois.edu</a><br />
+                                                         Undergraduate Advising: <a href="mailto:undergrad@cs.illinois.edu">undergrad@cs.illinois.edu</a><br />
+                                                          Webmaster: <a href="mailto:grainger-marcom@illinois.edu?subject=CS Request">grainger-marcom@illinois.edu</a></p>
+							<p><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a><br />
+							<a href="https://illinois.edu">University of Illinois</a></p>
+
+						</div>
+					</div>
+
+
+					<div class="col-md pr-xl-5 my-5 concentrations">
+                                 	
+					</div>
+				</div>
+			</div>
+
+				<div class="container-fluid" id="legal">
+					<div class="row justify-content-md-center align-items-center py-4">
+
+						<div class="col-md-auto">
+							<div><button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Preferences</button></div>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Copyright &copy; 2021 University of Illinois Board of Trustees</p>
+						</div>
+
+						<div class="col-md-auto">
+							<p><a href="https://grainger.illinois.edu/cookie-policy">Cookie Policy</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy</a></p>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Powered by <a href="https://my.engr.illinois.edu/sitemanager/editpage.asp?id=11846">SiteManager</a> | <a href="mailto:grainger-marcom@illinois.edu">Contact Webmaster</a></p>
+						</div>
+					</div>
+				</div>
+
+				<div id="gototop" class="hidden">
+					<a href="#"><i class="fa fa-chevron-up"></i><span class="sr-only">Go to top</span></a>
+				</div>
+			</footer>
+		</div>
+
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+		<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax-video.min.js"></script>
+		<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+		<script src="https://cdn.datatables.net/responsive/2.2.5/js/dataTables.responsive.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.0/circle-progress.min.js'></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/twbs-pagination/1.4.2/jquery.twbsPagination.min.js'></script>
+		<script src="https://ws.engr.illinois.edu/sitemanager/genscripts.js?v=2.660.676"></script>
+		<script src="/js/scripts.js?v=0.27"></script>
+
+		<script async="async" src="https://enroll.illinois.edu/ping"></script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-9571262-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-9571262-1');
+</script>
+
+		
+	</body>
+</html>
+
+

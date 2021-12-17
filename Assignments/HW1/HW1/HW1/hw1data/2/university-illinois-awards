@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>University of Illinois Awards | Computer Science | UIUC</title>
+		<link rel="shortcut icon" type="image/x-icon" href="//ws.engr.illinois.edu/images/favicon.ico">
+
+		<meta name="description" content="University of Illinois Awards">
+		<meta name="author" content="Grainger Engineering Office of Marketing and Communications">
+
+		<!-- meta tags for mobile devices -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">  
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+				<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="26be7d61-2017-4ea7-8a8b-8f1704889763"></script>
+		<script type="text/javascript"> function OptanonWrapper() { } </script>
+
+		<meta property="og:type" content="article" />
+<meta property="og:title" content="University of Illinois Awards" />
+<meta property="og:description" content="University of Illinois Awards" />
+<meta property="og:url" content="https://cs.illinois.edu/about/awards/faculty-awards/university-illinois-awards" />
+<meta property="og:image" content="https://ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=12050" />
+
+
+		<!-- fonts -->
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i,900,900i%7cBarlow+Condensed%7cPlayfair+Display%7cMontserrat:400,500,600,700,800%7cFjalla+One%7cLexend+Exa%7cMontserrat+Alternates:400,700">
+		<script src="https://kit.fontawesome.com/64a62210ef.js"></script>
+
+		<!-- stylesheets -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.5/css/responsive.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://ws.engr.illinois.edu/sitemanager/gensite.css?v=2.671.281">
+		<link rel="stylesheet" type="text/css" href="/css/styles.css?v=0.19">
+
+				<!-- Global site tag (gtag.js) - Google Ads: 1011414001 -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1011414001"></script>
+		<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-1011414001'); </script> 
+		<!-- Event snippet for Outbound Google Ads click conversions -->
+		<script> function gtag_report_conversion(url) {var callback = function () {if (typeof(url) != 'undefined') {window.location = url;}};gtag('event', 'conversion', {'send_to': 'AW-1011414001/YNxnCM-1kfMBEPHno-ID','event_callback': callback});return false;} </script>
+		
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	</head>
+
+	<body class="site prod about awards faculty-awards university-illinois-awards  isattop theme_dagobah" data-sidebar="" data-sidebarskip="[sidebarskip]" data-sidebarinclude="[sidebarinclude]">
+		<div id="page">
+			
+			<header>
+				<div id="skiptocontent"><a href="#content">skip to main content</a></div>
+
+				<div class="container-fluid campus">
+					<div class="row mx-auto maxwidth1140">
+						<div class="col p-0">
+							<a href="http://illinois.edu/"><span>University of Illinois Urbana-Champaign</span></a>
+						</div>
+						<div id="featurelinks" class="col p-0 text-right">
+							<ul>
+	<li><a href="/alumni">Alumni</a></li>
+	<li><a href="/corporate">Corporate</a></li>
+       <li><a href="/about/people">People</a></li>
+	<li><a href="https://my.cs.illinois.edu">My.CS</a></li>
+</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="container-fluid site">
+					<div class="row wordmark d-flex flex-nowrap align-items-center">
+						<div class="d-flex flex-fill pr-3">
+							<div class="blocki"><a href="https://illinois.edu">University of Illinois at Urbana-Champaign</a></div>
+							<div class="site_identification">
+								<div class="parent_name"><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a></div>
+								<div class="site_name"><a href="/"><span>Computer Science</span></a></div>
+							</div>
+						</div>
+
+						<div class="d-flex align-items-center">
+							<div id="header-search-container" class="d-none d-lg-block site-search">
+								<form class="form-inline" method="get" action="/search" id="search-form">
+									<div class="input-group">
+										<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="header-search-go-button">
+										<div class="input-group-append">
+											<a href="/search" onclick="$('#header-search-container form').submit(); return false;" class="input-group-text" id="header-search-go-button"><i class="far fa-search"></i><span class="sr-only">Search</span></a>
+										</div>
+									</div>
+								</form>	
+							</div>
+
+							<div id="mainnav-toggler-container">
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainnav" aria-controls="mainnav" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="icon"></span> <span class="label sr-only">Menu</span>
+								</button>
+							</div>
+						</div>
+					</div>
+					<nav class="navbar navbar-expand-lg p-0">
+<div class="collapse navbar-collapse" id="mainnav">
+<form class="d-block d-lg-none" method="get" action="/search" id="mobile-search-form">
+<div class="form-row p-3">
+<div class="col">
+<div class="input-group">
+<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="mobile-search-go-button">
+<div class="input-group-append">
+<a href="/search" onclick="$('#mobile-search-form').submit(); return false;" class="input-group-text" id="mobile-search-go-button"><i class="far fa-search" aria-hidden="true"></i><span class="sr-only">Search</span></a>
+</div>
+</div>
+</div>
+</div>
+</form>
+<ul class="navbar-nav w-100">
+<li class="dropdown mega twocol nav-item">
+<a href="/about" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>About</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-about">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/about">About</a></h2>
+<ul class="about ">
+<li><a href="/about/cs-cares">CS CARES Committee</a></li>
+<li><a href="/about/values">Values & Code of Conduct</a></li>
+<li><a href="/about/statistics">Rankings & Statistics</a></li>
+<li><a href="/about/contact-us">Contact Us & Directions</a></li>
+<li class="dropdown"><a href="/about/people">People</a><ul class="people ">
+<li><a href="/about/people/all-faculty">All Faculty</a></li>
+<li><a href="/about/people/department-faculty">Department Faculty</a></li>
+<li><a href="/about/people/affiliate-faculty">Affiliate Faculty</a></li>
+<li><a href="/about/people/adjunct-faculty">Adjunct Faculty</a></li>
+<li><a href="/about/people/postdocs">Postdocs</a></li>
+<li><a href="/about/people/emeritus-faculty">Emeritus Faculty</a></li>
+<li class="dropdown"><a href="/about/people/staff">Staff</a><ul class="staff ">
+<li><a href="/about/people/staff/office-department-head">Office of the Department Head</a></li>
+<li><a href="/about/people/staff/communications-engagement-team">Communications &amp; Engagement Team</a></li>
+<li><a href="/about/people/staff/undergraduate-advising-office">Undergraduate Advising Office</a></li>
+<li><a href="/about/people/staff/graduate-advising-office">Graduate Advising Office</a></li>
+<li><a href="/about/people/staff/instructional-development-team">Instructional Development Team</a></li>
+<li><a href="/about/people/staff/business-office">Business Office</a></li>
+<li><a href="/about/people/staff/faculty-support-contacts">Faculty Support Contacts</a></li>
+<li><a href="/about/people/staff/facilities-shipping-and-receiving">Facilities, Shipping and Receiving</a></li>
+</ul>
+</li>
+<li><a href="/about/people/graduating-phd-students">Graduating PhD Students</a></li>
+<li><a href="/about/people/recent-phd-alumni">Recent PhD Alumni</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/positions">Open Positions</a><ul class="positions ">
+<li><a href="/about/positions/faculty-positions">Faculty Positions</a></li>
+<li><a href="/about/positions/postdoctoral">Postdoctoral Positions</a></li>
+<li><a href="/about/positions/staff-positions">Staff Positions</a></li>
+<li><a href="/about/positions/choose-illinois-computer-science">Choose Illinois Computer Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/calendar">Calendar</a><ul class="calendar ">
+<li><a href="/about/calendar/all">All Events</a></li>
+<li><a href="/about/calendar/corporate">Corporate Events</a></li>
+<li><a href="/about/calendar/department">Department Events</a></li>
+<li><a href="/about/calendar/graduate">Graduate Events</a></li>
+<li><a href="/about/calendar/outreach">Outreach Events</a></li>
+<li><a href="/about/calendar/speakers">Speakers</a></li>
+<li><a href="/about/calendar/student-groups">Student Group Events</a></li>
+<li><a href="/about/calendar/undergraduate">Undergraduate Events</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards">Awards</a><ul class="awards ">
+<li><a href="/about/awards/celebration">Celebration of Excellence</a></li>
+<li class="dropdown"><a href="/about/awards/faculty-awards">Faculty Awards</a><ul class="faculty-awards ">
+<li><a href="/about/awards/faculty-awards/chairs-and-professorships">Chairs and Professorships</a></li>
+<li><a href="/about/awards/faculty-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/faculty-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards/undergraduate-scholarships-awards">Undergraduate Scholarships &amp; Awards</a><ul class="undergraduate-scholarships-awards ">
+<li><a href="/about/awards/undergraduate-scholarships-awards/shieh-li-scholarship">Ruey-Feng Shieh Li Family Scholarship</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/graduate-fellowships-awards">Graduate Fellowships &amp; Awards</a></li>
+<li class="dropdown"><a href="/about/awards/alumni-awards">Alumni Awards</a><ul class="alumni-awards ">
+<li><a href="/about/awards/alumni-awards/alumni-awards-past-recipients">Alumni Awards Past Recipients</a></li>
+<li><a href="/about/awards/alumni-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/alumni-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/staff-awards">Staff Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/history-timeline">History Timeline</a></li>
+<li><a href="/about/accreditation">Accreditation</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/admissions" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Admissions</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-admissions">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/admissions">Admissions</a></h2>
+<ul class="admissions ">
+<li class="dropdown"><a href="/admissions/undergraduate">Undergraduate Admissions</a><ul class="undergraduate ">
+<li><a href="https://admissions.illinois.edu/apply">Apply Now</a></li>
+<li><a href="/academics/undergraduate/degree-program-options">Degree & Program Options</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/dates">Application Deadlines</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/process">Applications Process & Requirements</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+<li><a href="https://www.housing.illinois.edu">Housing</a></li>
+<li><a href="/about-us/accreditation">Accreditation</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/admissions/graduate">Graduate Admissions</a><ul class="graduate ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+<li class="dropdown"><a href="/admissions/graduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/admissions/graduate/degree-program-options/professional-master-computer-science-mcs-program">Professional Master of Computer Science (MCS) Program</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-deadlines">Application Deadlines</a></li>
+<li class="dropdown"><a href="/admissions/graduate/applications-process-requirements">Applications Process &amp; Requirements</a><ul class="applications-process-requirements ">
+<li><a href="/admissions/graduate/applications-process-requirements/additional-required-application-materials">Additional Required Application Materials for International Students</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/application-fee-waivers">Application Fee Waivers</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/data-structures-proficiency-exam">Data Structures Proficiency Exam</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-checklist">Application Checklist</a></li>
+<li class="dropdown"><a href="/admissions/graduate/faqs">FAQs</a><ul class="faqs ">
+<li><a href="/admissions/graduate/faqs/ican-faqs">iCAN FAQs</a></li>
+<li><a href="/admissions/graduate/faqs/online-mcs-faqs">Online MCS FAQs</a></li>
+</ul>
+</li>
+<li><a href="https://choose.illinois.edu/apply/">Check Application Status</a></li>
+</ul>
+</li>
+<li><a href="/admissions/impact-illinois-cs-degree">Impact of an Illinois CS Degree</a></li>
+<li><a href="/admissions/financial-aid">Financial Aid</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/academics" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Academics</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-academics">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/academics">Academics</a></h2>
+<ul class="academics ">
+<li class="dropdown"><a href="/academics/undergraduate">Undergraduate Academics</a><ul class="undergraduate ">
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/academics/undergraduate/degree-program-options/bs-computer-science">B.S. in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-mathematics-computer-science">B.S. in Mathematics &amp; Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-statistics-computer-science">B.S. in Statistics &amp; Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs">CS + X Degree Programs</a><ul class="cs-x-degree-programs ">
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-advertising">Computer Science + Advertising</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-animal-sciences">Computer Science + Animal Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-anthropology">Computer Science + Anthropology</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-astronomy">Computer Science + Astronomy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-chemistry">Computer Science + Chemistry</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-crop-sciences">Computer Science + Crop Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-economics">Computer Science + Economics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-geography">Computer Science + Geography &amp; Geographic Information Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-linguistics">Computer Science + Linguistics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-music">Computer Science + Music</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-philosophy">Computer Science + Philosophy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/cs-x-degree-requirements">CS + X Degree Requirements &amp; Planning Forms</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-undergraduate-degree-options-faq">CS Undergraduate Degree Options FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/registration">Registration</a><ul class="registration ">
+<li><a href="/academics/undergraduate/registration/cs-course-restrictions-enrollment-caps">CS Course Restrictions &amp; Enrollment Caps</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/policies-and-procedures">Policies and Procedures</a></li>
+<li><a href="/academics/undergraduate/undergraduate-advising">Undergraduate Advising</a></li>
+<li><a href="/academics/undergraduate/cs-student-opportunity-series-cs-sos">CS Student Opportunity Series (CS SOS)</a></li>
+<li><a href="/academics/undergraduate/undergraduate-forms">Undergraduate Forms</a></li>
+<li><a href="/academics/undergraduate/honors">Honors</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate">Graduate Academics</a><ul class="graduate ">
+<li class="dropdown"><a href="/academics/graduate/phd-program">PhD Program</a><ul class="phd-program ">
+<li><a href="/academics/graduate/phd-program/final-exam-thesis-defense">Final Exam (Thesis Defense)</a></li>
+<li><a href="/academics/graduate/phd-program/guidelines-forming-phd-committee">Guidelines for Forming Ph.D. Committee</a></li>
+<li><a href="/academics/graduate/phd-program/phd-ms-thesis-format-review-guidelines">Ph.D. / M.S. Thesis Format Review Guidelines</a></li>
+<li><a href="/academics/graduate/phd-program/phd-program-study-process">PhD Program of Study Process</a></li>
+<li><a href="/academics/graduate/phd-program/phd-requirements">PhD Requirements</a></li>
+<li><a href="/academics/graduate/phd-program/phd-time-limits-milestones">PhD Time Limits &amp; Milestones</a></li>
+<li><a href="/academics/graduate/phd-program/preliminary-exam">Preliminary Exam</a></li>
+<li><a href="/academics/graduate/phd-program/qualifying-exam">Qualifying Exam</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/ms-program">MS Program</a></li>
+<li><a href="/academics/graduate/ms-bioinformatics-program">MS in Bioinformatics Program</a></li>
+<li class="dropdown"><a href="/academics/graduate/professional-mcs">Professional Master of Computer Science</a><ul class="professional-mcs ">
+<li><a href="/academics/graduate/professional-mcs/campus-master-computer-science">On-Campus Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science">Online Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science-data-science">Online Master of Computer Science in Data Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/fifth-year-masters-programs">Fifth Year Master's Programs</a><ul class="fifth-year-masters-programs ">
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-mcs-program">5-year BS-MCS Program</a></li>
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-ms-program">5-year BS-MS Program</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">Illinois Computing Accelerator for Non-Specialists (iCAN)</a><ul class="ican ">
+<li><a href="/academics/graduate/ican/application-process">iCAN Application Process</a></li>
+<li><a href="/academics/graduate/ican/curriculum">iCAN Curriculum</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources">Graduate Forms &amp; Advising Resources</a><ul class="graduate-forms-advising-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/epi-exam-requirements">EPI Exam Requirements</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-advising-contacts">Graduate Advising Contacts</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-student-annual-evaluation-process">Graduate Student Annual Evaluation Process</a></li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources">New Graduate Student Resources</a><ul class="new-graduate-student-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/mcs-campus">MCS On-Campus General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/ms-general">MS General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/phd-general">PhD General Advising for Registration</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/official-forms">Official Forms</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/academics/courses">Courses</a></li>
+<li><a href="/academics/honor-code">Honor Code</a></li>
+<li><a href="https://cs.illinois.edu/student-life/student-resources">Student Resources</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/student-life" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Student Life</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-student-life">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41390_8405" data-pageid="41390" data-tileid="8405" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=55621);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Salesforce's CodeT5 System Can Understand and Generate Code</h2>
+			<div class="description"></div>
+			<p><a href="/news/salesforces-codet5-system-can-understand-and-generate-code" class="button" title="Salesforce's CodeT5 System Can Understand and Generate Code">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 7, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/student-life">Student Life</a></h2>
+<ul class="student-life ">
+<li><a href="/student-life/overview-cs-student-life">Overview of CS Student Life</a></li>
+<li><a href="/student-life/student-organizations">Student Organizations</a></li>
+<li><a href="/student-life/department-college-and-campus-events">Department, College, and Campus Events</a></li>
+<li><a href="/student-life/student-resources">Student Resources</a></li>
+<li><a href="/student-life/career-services">Career Services</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/research" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Research</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-research">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Explore visionary research conducted by world-renowned faculty.</h2>
+<p><a class="orange button" href="/research/areas">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/research">Research</a></h2>
+<ul class="research ">
+<li class="dropdown"><a href="/research/areas">Research Areas</a><ul class="areas ">
+<li><a href="/research/areas/architecture-compilers-and-parallel-computing">Architecture, Compilers, and Parallel Computing</a></li>
+<li><a href="/research/areas/artificial-intelligence">Artificial Intelligence</a></li>
+<li><a href="/research/areas/bioinformatics-and-computational-biology">Bioinformatics and Computational Biology</a></li>
+<li><a href="/research/areas/computers-and-education">Computers and Education</a></li>
+<li><a href="/research/areas/data-and-information-systems">Data and Information Systems</a></li>
+<li><a href="/research/areas/interactive-computing">Interactive Computing</a></li>
+<li><a href="/research/areas/programming-languages-formal-methods-and-software-engineering">Programming Languages, Formal Methods, and Software Engineering</a></li>
+<li><a href="/research/areas/scientific-computing">Scientific Computing</a></li>
+<li><a href="/research/areas/security-and-privacy">Security and Privacy</a></li>
+<li><a href="/research/areas/systems-and-networking">Systems and Networking</a></li>
+<li><a href="/research/areas/theory-and-algorithms">Theory and Algorithms</a></li>
+</ul>
+</li>
+<li><a href="/research/technical-conferences-workshops">Technical Conferences &amp; Workshops</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+<li><a href="/corporate#research">Corporate Partners</a></li>
+<li><a href="https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=3146">Illinois CS Research Overview</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/broadening-participation-computing" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Broadening Participation</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-broadening-participation-computing">
+<section class="tile w50 white-box py-5 marketing">
+<p class="mb-0"><img src="//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=16163&s=375" class="image" alt="" width="375" /></p>
+<p style="padding: 10px 15px 0px 15px;">New certificate program for college graduates who want a deeper understanding of computers, algorithms, and programming.</p>
+<p><a class="orange button" href="/ican">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/broadening-participation-computing">Broadening Participation</a></h2>
+<ul class="broadening-participation-computing ">
+<li><a href="https://drive.google.com/file/d/12vDswb1i-mEXaXgVt7FOhtqYs7b8F_1p/view">BPC Departmental Plan</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs">BPC Programs & Activities for Students</a><ul class="programs ">
+<li><a href="/broadening-participation-computing/programs/csambassadors">CS Student Ambassador/Research Scholars (CS STARS)</a></li>
+<li><a href="/broadening-participation-computing/programs/cskickstart">Illinois CS Kickstart</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs/ai4all">AI4ALL</a><ul class="ai4all ">
+<li><a href="http://go.cs.illinois.edu/DiscoverAI">Apply Now</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">iCAN</a><ul class="ican ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+</ul>
+</li>
+<li><a href="http://cs.illinois.edu/research/summer-research-experience-undergraduates">Summer Research Experience for Undergraduates</a></li>
+</ul>
+</li>
+<li><a href="/broadening-participation-computing/resources">BPC Resources</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/cross-cutting">Cross-Cutting Educational Activities</a><ul class="cross-cutting ">
+<li><a href="/broadening-participation-computing/cross-cutting/conferences-workshops">BPC Conferences & Workshops</a></li>
+<li><a href="/broadening-participation-computing/cross-cutting/ca-training">Course Assistant Training</a></li>
+<li><a href="https://cs.illinois.edu/news/featured-lectures#equity-justice">Equity & Justice in Computing Seminar Series</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/broadening-participation-computing/k-12">K-12 Outreach & Resources</a><ul class="k-12 ">
+<li><a href="/broadening-participation-computing/k-12/k-12-outreach">K-12 Outreach Programs</a></li>
+<li><a href="/broadening-participation-computing/k-12/k-12-resources">K-12 Resources</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/student-life/student-organizations">Student Organizations</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/news" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>News</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-news">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41391_5367" data-pageid="41391" data-tileid="5367" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=51204);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging</h2>
+			<div class="description"><p>The Defense Advanced Research Projects Agency (DARPA) has awarded $5.8 million to a team, led by Illinois CS's <a href="/about/people/faculty/zaher">Tarek Abdelzaher</a>, that will work to characterize how different foreign populations respond to influence campaigns as a first step towards development of effective countermeasures.</p></div>
+			<p><a href="/news/abdelzaher-leading-DARPA-effort-understand-how-people-respond-influence-messaging" class="button" title="Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 8, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/news">News</a></h2>
+<ul class="news ">
+<li><a href="/news">Department News</a></li>
+<li><a href="/news/features">Feature Stories</a></li>
+<li><a href="/news/covid-19-projects">COVID-19 Projects</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/news/media-coverage">Media Coverage</a></li>
+<li><a href="/news/e-news">E-News</a></li>
+<li><a href="/news/impact-report-publications">Impact Report &amp; Publications</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/give" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Give</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-give">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Help ensure that Illinois continues to set a global standard for CS research and education.</h2>
+<p><a class="orange button" href="/give/give-now">Make a Gift</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/give">Give</a></h2>
+<ul class="give ">
+<li><a href="/give/give-now">Give Now</a></li>
+<li><a href="/give/ways-give">Ways to Give</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/give/computer-science-visionary-scholarship-donors">Computer Science Visionary Scholarship Donors</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+</ul>
+</div>
+</nav>
+
+				</div>
+			</header>
+
+			<div id="content">
+				<main>
+					<div  id="hero" class="container-fluid">
+						<div class="row maxwidth1140">
+							<div class="col">
+								<div>
+									<nav id="breadcrumbs"><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/about/awards">Awards</a></li><li><a href="/about/awards/faculty-awards">Faculty Awards</a></li></ul></nav>
+									<h1>University of Illinois Awards</h1>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					
+
+					<div id="content_inner" class="container-fluid">
+						<div class="tile-list">
+							<section class="tile w110 white-box   py-4 text-center" id="tile6865" data-tileid="6865" >
+	<div class="lower text-center maxwidth1140   " id="lower6865">
+		<div class="row">
+			<div class="col-12"></div>
+			<div class="col-md column1   px-md-4 py-5 mx-md-3 platinum-box" >
+				<p class="fs250x"><a href="#department"><em class="fal fa-trophy-alt" aria-hidden="true"><!--icon--></em></a></p>
+<h5 style="text-align: center;"><a href="#department">Department Awards</a></h5>
+			</div>
+			<div class="col-md column2   px-md-4 py-5 mx-md-3 platinum-box" >
+				<p class="fs250x"><a href="#college"><em class="fal fa-star" aria-hidden="true"><!--icon--></em></a></p>
+<h5 style="text-align: center;"><a href="#college">College Awards</a></h5>
+			</div>
+			<div class="col-md column3   px-md-4 py-5 mx-md-3 platinum-box" >
+				<p class="fs250x"><a href="#campus"><em class="fal fa-medal" aria-hidden="true"><!--icon--></em></a></p>
+<h5 style="text-align: center;"><a href="#campus">Campus Awards</a></h5>
+			</div>
+			<div class="col-12"></div>
+		</div>
+	</div>
+</section>
+<section class="tile w110 white-box   py-4 " id="tile4715" data-tileid="4715" >
+	<div class="lower  maxwidth1140   " id="lower4715">
+		<div class="row">
+			<div class="col-md column1      " >
+				<h3><a id="department" name="department"></a>Department of Computer Science</h3>
+<p><strong><a name="gearfaculty"></a>C.W. Gear Outstanding Junior Faculty Award</strong><br />Established by alumni, friends, and former students to recognize contributions and services of Charles W. Gear, head of the department from 1985-90. Gear was a pioneer in automatic numerical methods. He wrote the operating system for ILLIAC II, developed the first successful general program for solving stiff differential equations, and a landmark program for automatic integration of ordinary differential equations.&nbsp; The Gear Awards recognize outstanding <a href="/about/awards/undergraduate-scholarships-awards/cw-gear-outstanding-undergraduate-student">undergraduates</a>, <a href="/about/awards/graduate-fellowships-awards/cw-gear-outstanding-graduate-student">graduate students</a>, and faculty. The Faculty Award is for outstanding research and teaching.</p>
+<ul>
+<li>Jian Peng (2019)</li>
+<li><a href="/news/illinois-computer-science-honors-achievements-13-alumni-and-faculty#Kumar">Ranjitha Kumar</a> (2018)</li>
+<li><a href="/about/awards/faculty-awards/university-illinois-awards/2017-cw-gear-outstanding-junior-faculty" aria-invalid="true">Aditya Parameswaran</a> (2017)</li>
+<li><a href="/about/awards/faculty-awards/university-illinois-awards/2016-cw-gear-outstanding-junior-faculty" aria-invalid="true">Andreas Kloeckner</a> (2016)</li>
+<li>Paris Smaragdis (2015)</li>
+<li>Derek Hoiem (2014)</li>
+<li>Svetlana Lazebnik (2013)</li>
+<li>Matthew Caesar (2012)</li>
+<li>Samuel T. King (2011)</li>
+<li>Darko Marinov (2010)</li>
+<li>Karrie Karahalios (2009)</li>
+<li>Eyal Amir (2008)</li>
+<li>ChengXiang Zhai (2007)</li>
+<li>YY Zhou (2006)</li>
+<li>Grigore Rosu (2005)</li>
+<li>Sariel Har-Peled (2004)</li>
+<li>Steven M. LaValle (2003)</li>
+<li>Vikram S. Adve (2002)</li>
+<li>Jeff Erickson (2001)</li>
+<li>Dan Roth (2000)</li>
+<li>Klara Nahrstedt (1999)</li>
+<li>Josep Torrellas (1997)</li>
+<li>Andrew Chien (1995)</li>
+<li>Lenny Pitt (1992)</li>
+<li>Laxmikant Kale (1990)</li>
+</ul>
+<p><strong><a name="gearfaculty"></a>Scott H. Fisher Computer Science Teaching Award</strong><br />What makes this award unique is that it is the first departmental award to focus on recognizing the importance of, and excellence in, teaching. Established by alumni, Scott Fisher (BS Psychology &rsquo;72, MS CS &rsquo;76), this annual award was first awarded in 2017.&nbsp;Fisher made the new award possible just a year after establishing the Scott H. and Bonita J. Fisher Endowment, which honors his late wife, Bonnie. Fisher started his career with major computer manufacturer Digital Equipment Corporation, contributing to the VAX/VMS operating system, the PDP-11 minicomputer, and the DECsystem line of servers. He recently retired after several years as a program manager with the water, hygiene, and energy technologies firm Ecolab.</p>
+<ul>
+<li>Wade Fagen-Ulmschneider (2019)</li>
+<li><a href="/news/illinois-computer-science-honors-achievements-13-alumni-and-faculty#Zilles">Craig Zilles</a> (2018)</li>
+<li><a href="/news/fisher-s-gift-funds-department-s-first-teaching-excellence-award-angrave-named-inaugural">Lawrence Angrave</a> (2017)</li>
+</ul>
+<hr />
+<h3><a id="college" name="college"></a>The Grainger College of Engineering</h3>
+<p><a href="https://wiki.cites.illinois.edu/wiki/display/collegeawards/College+of+Engineering+Teaching+Excellence+Award"><strong>College of Engineering Teaching Excellence Award</strong></a><br />Established in 1995, the College of Engineering Teaching Excellence Award seeks to improve the excellence of teaching in the college by providing an annual award that will motivate teachers to increase the educational impact they make on their students.</p>
+<ul>
+<li>Lenny Pitt (2006)</li>
+</ul>
+<p><a href="https://wiki.cites.illinois.edu/wiki/display/collegeawards/Collins+Award+for+Innovative+Teaching"><strong>Collins Award for Innovative Teaching</strong></a><br />This award recognizes outstanding development or use of new and innovative teaching methods.<strong>&nbsp; </strong>W. Leighton Collins was a faculty member in the College of Engineering from 1929-65 and former executive director of the American Society for Engineering Education (ASEE).</p>
+<ul>
+<li>Wade Fagen (2017)</li>
+<li>Lawrence Angrave (2011)</li>
+</ul>
+<p><a href="https://wiki.cites.illinois.edu/wiki/display/collegeawards/Dean%27s+Award+for+Excellence+in+Research+formerly+Xerox+Awards+for+Faculty+Research" aria-invalid="true"><strong>Dean's Award for Excellence in Research (formerly the Xerox Award for Faculty Research</strong>)</a><br />Honors faculty members annually for outstanding research in two categories: to assistant professors based on one (1) year of research accomplishments; and to associate professors based on five (5) years of research accomplishments.</p>
+<div>Ranjitha Kumar (2019); Aditya Parameswaran (2018); Karrie Karahalios (2017); Paris Smaragdis (2016, 2019); Brighten Godfrey (2015); Derek Hoiem, Grigore Rosu (2014); Svetlana Lazebnik, Saurabh Sinha (2013); Chandra Chekuri, Samuel T. King (2012);Tarek Abdelzaher (2011), Jeff Erickson (2010), Karrie Karahalios (2010), Eyal Amir (2009), Indranil Gupta (2008), Dan Roth (2001, 2005), Josep Torrellas (1997, 2000), S.H. Teng (1999), Klara Nahrstedt (1998), Jean Ponce (1993, 1998), Marianne Winslett (1990, 1997), Dave C.-L. Liu (1997), Andrew Chien (1996), Wen-mei Hwu (1994), Simon Kaplan (1994), David Padua (1992), Daniel Reed (1991), Pravin Vaidya (1991), Kenneth Forbus (1990), Herbert Edelsbrunner (1989), Nachum Dershowitz (1986)<br />&nbsp;</div>
+<p><a href="https://wiki.cites.illinois.edu/wiki/display/collegeawards/Tau+Beta+Pi+Daniel+C.+Drucker+Eminent+Faculty+Award"><strong>Tau Beta Pi Daniel C. Drucker Eminent Faculty Award</strong></a><br />The Tau Beta Pi Daniel C. Drucker Eminent Faculty Award recognizes faculty in the College of Engineering who have received national or international acclaim for dedication to academic excellence through teaching and research and have made exemplary contributions to the understanding of their fields. <strong> </strong></p>
+<ul>
+<li>Klara Nahrstedt (2019)</li>
+<li>Lui Sha (2018)</li>
+<li>William Gropp (2013)</li>
+<li>Jiawei Han (2011)</li>
+<li>C.L. Dave Liu (1997)</li>
+</ul>
+<p><a href="https://wiki.cites.illinois.edu/wiki/display/collegeawards/Everitt+Award+for+Teaching+Excellence"><strong>William L. Everitt Award for Teaching Excellence</strong></a><br />In 1968, undergraduate engineering students established the Everitt Award for Teaching Excellence to honor Dean Emeritus William L. Everitt at the time of his retirement. The award, which annually recognizes one engineering faculty member for outstanding undergraduate teaching, is one of the most coveted awards available to the faculty and serves to emphasize the importance attached to good teaching in the college.</p>
+<ul>
+<li>Lawrence Angrave (2011)</li>
+<li>Craig Zilles (2008)</li>
+<li>Jeff Erickson (2001)</li>
+<li>Lenny Pitt (1999)</li>
+<li>Michael Heath (1998)</li>
+<li>C.L. Dave Liu (1983)</li>
+</ul>
+<p><a href="https://wiki.cites.illinois.edu/wiki/display/collegeawards/Stanley+H.+Pierce+Faculty+Award"><strong>Stanley H. Pierce Faculty Award</strong></a><br />These awards are given annually, one to the undergraduate student and the other to the faculty member, who are selected as having done the most to develop empathetic student-faculty cooperation.</p>
+<ul>
+<li>Sam Kamin (2001)</li>
+<li>Marianne Winslett (1999)</li>
+</ul>
+<p><strong>Outstanding Advisors</strong><br />The College of Engineering Advisors List represents the top 10 percent of engineering advisors selected by the students.</p>
+<div>Lawrence Angrave, Matthew Caesar, Mariana Silva (2019); Wade Fagen-Ulmschneider, Steve Herzog, Katrina James, Andreas Kloeckner, Mariana Silva, Heather Zike (2018); John Hart, Lenny Pitt (2010); Klara Nahrstedt (2009); Craig Zilles (2008); Brian Bailey, Gerald DeJong, Robin Kravets, Craig Zilles, ChengXiang Zhai (2007); Brian Bailey, John Hart, Craig Zilles (2006); Stephen Bond, Mahesh Viswanathan (2005)<br /><br /><a href="https://wiki.cites.illinois.edu/wiki/display/collegeawards/Rose+Award+for+Teaching+Excellence"><strong>Rose Award for Teaching Excellence</strong></a><br />The Rose Award for Teaching Excellence is intended to foster and reward excellence in undergraduate teaching in the College of Engineering. It recognizes teachers who excel at motivating freshman and sophomore students to learn and appreciate engineering.</div>
+<ul>
+<li>Margaret Fleck (2019)</li>
+<li>Cinda Heeren (2014)</li>
+<li>Viraj Kumar (2011)</li>
+<li>ChengXiang Zhai (2010)</li>
+<li>Lawrence Angrave (2009)</li>
+<li>Craig Zilles (2008)</li>
+<li>Stephen Bond (2006)</li>
+</ul>
+<p><a href="http://engineering.illinois.edu/news/article/10732"><strong>Willett Faculty Scholars</strong></a><br />The recognition is targeted for faculty members who, at a relatively early stage in their careers, are excelling in their contributions to the University. The award represents a type of &ldquo;junior professorship&rdquo; to encourage continued achievement in outstanding young faculty.&nbsp; The Willett Research Initiatives in Engineering funds term professorships, undergraduate and graduate student research, and related research activity. It honors the memory of Donald Biggar Willett (1897-1981) who attended the University of Illinois from 1916-1921.</p>
+<ul>
+<li>Julia Hockenmaier (2017)</li>
+<li>Luke Olson (2016)</li>
+<li>Saurabh Sinha (2015)</li>
+<li>Tao Xie (2015)</li>
+<li>ChengXiang Zhai (2013)</li>
+<li>Tarek Abdelzaher (2010)</li>
+<li>Jeff Erickson (2002)</li>
+<li>Sheldon Jacobson (2002)</li>
+<li>Dan Roth (2002)</li>
+<li>Josep Torrellas (2002)</li>
+</ul>
+<hr />
+<h3><a id="campus" name="campus"></a>University of Illinois</h3>
+<p><a href="http://www.provost.illinois.edu/programs/awards/campus/advisingundergraduates.html" aria-invalid="true"><strong>Campus Award for Excellence in Undergraduate Advising</strong></a><br />These awards are designed to foster and to reward excellence in undergraduate academic advising. Up to two winners will be chosen each year.</p>
+<ul>
+<li>Sam Kamin (2005)</li>
+</ul>
+<p><a href="http://www.provost.illinois.edu/programs/awards/campus/excellentundergrad.html" aria-invalid="true"><strong>Campus Award for Excellence in Undergraduate Teaching</strong></a><br />These are the principal campus awards for excellence in undergraduate teaching. Up to thirteen winners will be chosen each year (five members of the faculty, five graduate teaching assistants, and three members of the instructional staff).</p>
+<ul>
+<li>Wade Fagen-Ulmschneider (2020)</li>
+<li>Craig Zilles (2018)</li>
+<li>Lawrence Angrave (2012)</li>
+<li>Jeff Erickson (2007)</li>
+<li>Lenny Pitt (2006)</li>
+</ul>
+<p><a href="http://www.provost.illinois.edu/programs/awards/campus/grad.html" aria-invalid="true"><strong>Campus Award for Excellence in Graduate and Professional Teaching</strong></a><br />Faculty members from academic units with graduate or professional instructional programs are eligible for the Campus Award for Excellence in Graduate and Professional Teaching. Up to two winners will be selected to receive this award each year.</p>
+<ul>
+<li>Paris Smaragdis (2020)</li>
+<li>Jiawei Han (2012)</li>
+<li>Jeff Erickson (Honorable Mention, 2006)</li>
+<li>Michael T. Heath (2002)</li>
+</ul>
+<p><a href="http://www.provost.illinois.edu/programs/awards/campus/mentor.html" aria-invalid="true"><strong>Campus Award for Excellence in Graduate Student Mentoring</strong></a><br />Faculty members from academic units with graduate instructional programs are eligible for the Campus Award for Excellence in Graduate Student Mentoring. Up to two winners will be selected to receive this award each year, which was originated by the Graduate College.</p>
+<ul>
+<li>Sarita Adve (2020)</li>
+<li>Josep Torrellas (2017)</li>
+<li>ChengXiang Zhai (2016)</li>
+<li>Geneva Belford (2005)</li>
+</ul>
+<p><strong><a href="http://www.provost.illinois.edu/programs/awards/campus/guidingundergradresearch.html" aria-invalid="true">Campus Award for Excellence in Guiding Undergraduate Research</a></strong><br />This award is designed to foster and to reward excellence in involving and guiding undergraduate students in scholarly research.</p>
+<ul>
+<li>Darko Marinov (2020)</li>
+<li>Dan Roth (Honorable Mention, 2002, 2006)</li>
+</ul>
+<p><a href="http://www.provost.illinois.edu/programs/awards/campus/innovation.html" aria-invalid="true"><strong>Campus Award for Innovation in Undergraduate Instruction Using Educational Technologies</strong></a><br />This award is designed to honor faculty members who have introduced particularly successful computing and communication technologies into undergraduate instruction.</p>
+<ul>
+<li>Klara Nahrstedt (Honorable Mention, 2000)</li>
+</ul>
+<p><a href="http://cas.illinois.edu/faculty/" aria-invalid="true"><strong>Center for Advanced Study</strong></a><br />Each year, the tenured and untenured University of Illinois faculty are invited to submit scholarly or creative proposals for consideration by the Center&rsquo;s permanent Professors. Faculty members with winning proposals are appointed Associates and Fellows and awarded one semester of release time to pursue their projects in the coming academic year.</p>
+<ul>
+<li>P. Brighten Godfrey (2014-15 Fellow)</li>
+<li>Matthew Caesar (2013-14 CAS Beckman Fellow)</li>
+<li>Manoj Prabhakaran (2011-12 CAS Beckman Fellow)</li>
+<li>Darko Marinov (2010-11 CAS Beckman Fellow)</li>
+<li>Indranil Gupta (2009-10 CAS Beckman Fellow)</li>
+<li>Saurabh Sinha (2009-10 Fellow)</li>
+<li>Eyal Amir (2007-08 Fellow)</li>
+<li>Sheldon Jacobson (2002-03 Associate)</li>
+<li>Dan Roth (2001-02 Fellow)</li>
+<li>Gul Agha (1992-93 Fellow)</li>
+</ul>
+<p><strong>Dads Association Certificate of Merit</strong><br />The Dads Association recognizes one outstanding student, faculty member, and staff member each year with the Certificate of Merit.</p>
+<ul>
+<li>Sam Kamin (2006)</li>
+</ul>
+<p><a href="http://ae3.engineering.illinois.edu/education-innovation-fellows-eifs/" target="_self"><strong>Education Innovation Fellow</strong></a><br />EIF fellows interact with AE3 staff, departmental colleagues, and others across the College involved in educational innovation to share and unify educational efforts. They also have an innovating role: They identify and pursue new pathways, helping to pave the way for educational change.</p>
+<ul>
+<li>Jeff Erickson (2018)</li>
+<li>Brian Bailey (2015-2018)</li>
+<li>Cinda Heeren (2014-2017)</li>
+<li>Luke Olson (2014-2017)</li>
+</ul>
+<p><strong>Illinois Student Senate Teaching Excellence Award</strong><br />The Illinois Student Senate awards five Teaching Excellence Awards every year on behalf of the Student Body.</p>
+<ul>
+<li>Craig Zilles (2013)</li>
+<li>Lawrence Angrave (2012)</li>
+</ul>
+<p><a href="http://illinimoms.com/awards/medallion-of-honor/" aria-invalid="true"><strong>Mother's Associate Medallion of Honor</strong></a><br />The Medallion of Honor award was created in 1966 to pay tribute to those individuals who, by example and service, have used their talents to enrich the lives of others. Two men and eight women were honored between 1966 and 1976. Since 1977, this award has been given to a woman affiliated in some way with the U of I.</p>
+<ul>
+<li>Geneva Belford (2007)</li>
+</ul>
+<p><a href="https://www.vpaa.uillinois.edu/academic_affairs_programs/univscholars"><strong>University Scholars</strong></a><br />The Faculty Scholar Program aims to recognize outstanding members of the faculty and to provide each with a funding allocation to enhance their scholarly activities. Scholar awards are not made for a specific project or proposal; rather, they represent recognition of the recipient&rsquo;s excellence and the University&rsquo;s commitment to foster outstanding people and their work.</p>
+<ul>
+<li>Karrie Karahalios (2019)</li>
+<li>Saurabh Sinha (2017)</li>
+<li>Vikram Adve (2015)</li>
+<li>Steven LaValle (2012)</li>
+<li>Dan Roth (2010)</li>
+<li>Klara Nahrstedt (2008)</li>
+<li>Sarita Adve (2004)</li>
+<li>Marianne Winslett (1992)</li>
+<li>Herbert Edelsbrunner (1990)</li>
+<li>Daniel Reed (1989)</li>
+<li>C. L. Dave Liu (1985)</li>
+</ul>
+<p><a href="http://provost.illinois.edu/programs/distinguished/"><strong>University Distinguished Teacher/Scholar</strong></a><br />This is the premier campus award recognizing scholarly contributions and excellence in the areas of teaching and learning. The title of University Distinguished Teacher-Scholar is permanent throughout the recipient's appointment at Illinois.</p>
+<ul>
+<li>Lenny Pitt (2004)</li>
+</ul>
+			</div>
+		</div>
+	</div>
+</section>
+
+						</div>
+					</div>
+				</main>
+			</div>
+
+			<footer>
+							<div class="container-fluid maxwidth1140">
+				<div class="row pt-5 pb-3">
+					<div class="col-lg-5 mb-5">
+						<div class="campus_wordmark"><a href="http://illinois.edu/"><img src="https://ws.engr.illinois.edu/images/uiuc-footer-wordmark.png" alt="University of Illinois Urbana Champaign"></a></div>
+					</div>
+
+					<div class="col-lg-7 mb-4 socials">
+						<a href="https://www.facebook.com/CSatIllinois/"><i class="fab fa-facebook-f"></i><span class="sr-only">Facebook</span></a>
+						<a href="https://twitter.com/IllinoisCS"><i class="fab fa-twitter"></i><span class="sr-only">Twitter</span></a>
+						<a href="https://www.youtube.com/user/IllinoisCS"><i class="fab fa-youtube"></i><span class="sr-only">YouTube</span></a>
+						<a href="https://www.linkedin.com/school/illinoiscs"><i class="fab fa-linkedin-in"></i><span class="sr-only">LinkedIn</span></a>
+						<a href="https://www.instagram.com/illinoiscs/"><i class="fab fa-instagram"></i><span class="sr-only">Instagram</span></a>
+						<div class="w-100 d-block d-lg-none"></div>
+						<a href="/about/contact-us" class="button">Contact Us</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="container-fluid maxwidth1140">
+				<div class="row pb-5 justify-content-between">
+					<div class="col-md pr-xl-5 mb-5 college_container">
+
+						<div class="contact">
+							<p><span class="fs150x"><a href="https://cs.illinois.edu">Thomas M. Siebel Center for Computer Science</a></span><br />
+                                                       201 North Goodwin Avenue MC 258<br />
+                                                        Urbana, IL 61801-2302<br />
+                                                         ph: 217-333-3426 (general) | 217-333-4428 (advising) <br />
+                                                         fax: 217-333-3501</p>
+                                                        <p> General email: <a href="mailto:admin@cs.illinois.edu">admin@cs.illinois.edu</a><br />
+                                                         Graduate Advising: <a href="mailto:academic@cs.illinois.edu">academic@cs.illinois.edu</a><br />
+                                                         Undergraduate Advising: <a href="mailto:undergrad@cs.illinois.edu">undergrad@cs.illinois.edu</a><br />
+                                                          Webmaster: <a href="mailto:grainger-marcom@illinois.edu?subject=CS Request">grainger-marcom@illinois.edu</a></p>
+							<p><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a><br />
+							<a href="https://illinois.edu">University of Illinois</a></p>
+
+						</div>
+					</div>
+
+
+					<div class="col-md pr-xl-5 my-5 concentrations">
+                                 	
+					</div>
+				</div>
+			</div>
+
+				<div class="container-fluid" id="legal">
+					<div class="row justify-content-md-center align-items-center py-4">
+
+						<div class="col-md-auto">
+							<div><button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Preferences</button></div>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Copyright &copy; 2021 University of Illinois Board of Trustees</p>
+						</div>
+
+						<div class="col-md-auto">
+							<p><a href="https://grainger.illinois.edu/cookie-policy">Cookie Policy</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy</a></p>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Powered by <a href="https://my.engr.illinois.edu/sitemanager/editpage.asp?id=5659">SiteManager</a> | <a href="mailto:grainger-marcom@illinois.edu">Contact Webmaster</a></p>
+						</div>
+					</div>
+				</div>
+
+				<div id="gototop" class="hidden">
+					<a href="#"><i class="fa fa-chevron-up"></i><span class="sr-only">Go to top</span></a>
+				</div>
+			</footer>
+		</div>
+
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+		<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax-video.min.js"></script>
+		<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+		<script src="https://cdn.datatables.net/responsive/2.2.5/js/dataTables.responsive.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.0/circle-progress.min.js'></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/twbs-pagination/1.4.2/jquery.twbsPagination.min.js'></script>
+		<script src="https://ws.engr.illinois.edu/sitemanager/genscripts.js?v=2.660.676"></script>
+		<script src="/js/scripts.js?v=0.27"></script>
+
+		<script async="async" src="https://enroll.illinois.edu/ping"></script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-9571262-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-9571262-1');
+</script>
+
+		
+	</body>
+</html>
+
+

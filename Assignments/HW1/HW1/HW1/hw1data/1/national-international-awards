@@ -1,0 +1,1408 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>National &amp; International Awards | Computer Science | UIUC</title>
+		<link rel="shortcut icon" type="image/x-icon" href="//ws.engr.illinois.edu/images/favicon.ico">
+
+		<meta name="description" content="National &amp; International Awards">
+		<meta name="author" content="Grainger Engineering Office of Marketing and Communications">
+
+		<!-- meta tags for mobile devices -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">  
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+				<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="26be7d61-2017-4ea7-8a8b-8f1704889763"></script>
+		<script type="text/javascript"> function OptanonWrapper() { } </script>
+
+		<meta property="og:type" content="article" />
+<meta property="og:title" content="National &amp; International Awards" />
+<meta property="og:description" content="National &amp; International Awards" />
+<meta property="og:url" content="https://cs.illinois.edu/about/awards/faculty-awards/national-international-awards" />
+<meta property="og:image" content="https://ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=12050" />
+
+
+		<!-- fonts -->
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i,900,900i%7cBarlow+Condensed%7cPlayfair+Display%7cMontserrat:400,500,600,700,800%7cFjalla+One%7cLexend+Exa%7cMontserrat+Alternates:400,700">
+		<script src="https://kit.fontawesome.com/64a62210ef.js"></script>
+
+		<!-- stylesheets -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.5/css/responsive.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="https://ws.engr.illinois.edu/sitemanager/gensite.css?v=2.671.281">
+		<link rel="stylesheet" type="text/css" href="/css/styles.css?v=0.19">
+
+				<!-- Global site tag (gtag.js) - Google Ads: 1011414001 -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1011414001"></script>
+		<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-1011414001'); </script> 
+		<!-- Event snippet for Outbound Google Ads click conversions -->
+		<script> function gtag_report_conversion(url) {var callback = function () {if (typeof(url) != 'undefined') {window.location = url;}};gtag('event', 'conversion', {'send_to': 'AW-1011414001/YNxnCM-1kfMBEPHno-ID','event_callback': callback});return false;} </script>
+		
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	</head>
+
+	<body class="site prod about awards faculty-awards national-international-awards  isattop theme_dagobah" data-sidebar="" data-sidebarskip="[sidebarskip]" data-sidebarinclude="[sidebarinclude]">
+		<div id="page">
+			
+			<header>
+				<div id="skiptocontent"><a href="#content">skip to main content</a></div>
+
+				<div class="container-fluid campus">
+					<div class="row mx-auto maxwidth1140">
+						<div class="col p-0">
+							<a href="http://illinois.edu/"><span>University of Illinois Urbana-Champaign</span></a>
+						</div>
+						<div id="featurelinks" class="col p-0 text-right">
+							<ul>
+	<li><a href="/alumni">Alumni</a></li>
+	<li><a href="/corporate">Corporate</a></li>
+       <li><a href="/about/people">People</a></li>
+	<li><a href="https://my.cs.illinois.edu">My.CS</a></li>
+</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="container-fluid site">
+					<div class="row wordmark d-flex flex-nowrap align-items-center">
+						<div class="d-flex flex-fill pr-3">
+							<div class="blocki"><a href="https://illinois.edu">University of Illinois at Urbana-Champaign</a></div>
+							<div class="site_identification">
+								<div class="parent_name"><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a></div>
+								<div class="site_name"><a href="/"><span>Computer Science</span></a></div>
+							</div>
+						</div>
+
+						<div class="d-flex align-items-center">
+							<div id="header-search-container" class="d-none d-lg-block site-search">
+								<form class="form-inline" method="get" action="/search" id="search-form">
+									<div class="input-group">
+										<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="header-search-go-button">
+										<div class="input-group-append">
+											<a href="/search" onclick="$('#header-search-container form').submit(); return false;" class="input-group-text" id="header-search-go-button"><i class="far fa-search"></i><span class="sr-only">Search</span></a>
+										</div>
+									</div>
+								</form>	
+							</div>
+
+							<div id="mainnav-toggler-container">
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainnav" aria-controls="mainnav" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="icon"></span> <span class="label sr-only">Menu</span>
+								</button>
+							</div>
+						</div>
+					</div>
+					<nav class="navbar navbar-expand-lg p-0">
+<div class="collapse navbar-collapse" id="mainnav">
+<form class="d-block d-lg-none" method="get" action="/search" id="mobile-search-form">
+<div class="form-row p-3">
+<div class="col">
+<div class="input-group">
+<input type="text" class="form-control" name="q" placeholder="Search" aria-label="Search this site" aria-describedby="mobile-search-go-button">
+<div class="input-group-append">
+<a href="/search" onclick="$('#mobile-search-form').submit(); return false;" class="input-group-text" id="mobile-search-go-button"><i class="far fa-search" aria-hidden="true"></i><span class="sr-only">Search</span></a>
+</div>
+</div>
+</div>
+</div>
+</form>
+<ul class="navbar-nav w-100">
+<li class="dropdown mega twocol nav-item">
+<a href="/about" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>About</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-about">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/about">About</a></h2>
+<ul class="about ">
+<li><a href="/about/cs-cares">CS CARES Committee</a></li>
+<li><a href="/about/values">Values & Code of Conduct</a></li>
+<li><a href="/about/statistics">Rankings & Statistics</a></li>
+<li><a href="/about/contact-us">Contact Us & Directions</a></li>
+<li class="dropdown"><a href="/about/people">People</a><ul class="people ">
+<li><a href="/about/people/all-faculty">All Faculty</a></li>
+<li><a href="/about/people/department-faculty">Department Faculty</a></li>
+<li><a href="/about/people/affiliate-faculty">Affiliate Faculty</a></li>
+<li><a href="/about/people/adjunct-faculty">Adjunct Faculty</a></li>
+<li><a href="/about/people/postdocs">Postdocs</a></li>
+<li><a href="/about/people/emeritus-faculty">Emeritus Faculty</a></li>
+<li class="dropdown"><a href="/about/people/staff">Staff</a><ul class="staff ">
+<li><a href="/about/people/staff/office-department-head">Office of the Department Head</a></li>
+<li><a href="/about/people/staff/communications-engagement-team">Communications &amp; Engagement Team</a></li>
+<li><a href="/about/people/staff/undergraduate-advising-office">Undergraduate Advising Office</a></li>
+<li><a href="/about/people/staff/graduate-advising-office">Graduate Advising Office</a></li>
+<li><a href="/about/people/staff/instructional-development-team">Instructional Development Team</a></li>
+<li><a href="/about/people/staff/business-office">Business Office</a></li>
+<li><a href="/about/people/staff/faculty-support-contacts">Faculty Support Contacts</a></li>
+<li><a href="/about/people/staff/facilities-shipping-and-receiving">Facilities, Shipping and Receiving</a></li>
+</ul>
+</li>
+<li><a href="/about/people/graduating-phd-students">Graduating PhD Students</a></li>
+<li><a href="/about/people/recent-phd-alumni">Recent PhD Alumni</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/positions">Open Positions</a><ul class="positions ">
+<li><a href="/about/positions/faculty-positions">Faculty Positions</a></li>
+<li><a href="/about/positions/postdoctoral">Postdoctoral Positions</a></li>
+<li><a href="/about/positions/staff-positions">Staff Positions</a></li>
+<li><a href="/about/positions/choose-illinois-computer-science">Choose Illinois Computer Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/calendar">Calendar</a><ul class="calendar ">
+<li><a href="/about/calendar/all">All Events</a></li>
+<li><a href="/about/calendar/corporate">Corporate Events</a></li>
+<li><a href="/about/calendar/department">Department Events</a></li>
+<li><a href="/about/calendar/graduate">Graduate Events</a></li>
+<li><a href="/about/calendar/outreach">Outreach Events</a></li>
+<li><a href="/about/calendar/speakers">Speakers</a></li>
+<li><a href="/about/calendar/student-groups">Student Group Events</a></li>
+<li><a href="/about/calendar/undergraduate">Undergraduate Events</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards">Awards</a><ul class="awards ">
+<li><a href="/about/awards/celebration">Celebration of Excellence</a></li>
+<li class="dropdown"><a href="/about/awards/faculty-awards">Faculty Awards</a><ul class="faculty-awards ">
+<li><a href="/about/awards/faculty-awards/chairs-and-professorships">Chairs and Professorships</a></li>
+<li><a href="/about/awards/faculty-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/faculty-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/about/awards/undergraduate-scholarships-awards">Undergraduate Scholarships &amp; Awards</a><ul class="undergraduate-scholarships-awards ">
+<li><a href="/about/awards/undergraduate-scholarships-awards/shieh-li-scholarship">Ruey-Feng Shieh Li Family Scholarship</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/graduate-fellowships-awards">Graduate Fellowships &amp; Awards</a></li>
+<li class="dropdown"><a href="/about/awards/alumni-awards">Alumni Awards</a><ul class="alumni-awards ">
+<li><a href="/about/awards/alumni-awards/alumni-awards-past-recipients">Alumni Awards Past Recipients</a></li>
+<li><a href="/about/awards/alumni-awards/national-international-awards">National &amp; International Awards</a></li>
+<li><a href="/about/awards/alumni-awards/university-illinois-awards">University of Illinois Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/awards/staff-awards">Staff Awards</a></li>
+</ul>
+</li>
+<li><a href="/about/history-timeline">History Timeline</a></li>
+<li><a href="/about/accreditation">Accreditation</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/admissions" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Admissions</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-admissions">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/admissions">Admissions</a></h2>
+<ul class="admissions ">
+<li class="dropdown"><a href="/admissions/undergraduate">Undergraduate Admissions</a><ul class="undergraduate ">
+<li><a href="https://admissions.illinois.edu/apply">Apply Now</a></li>
+<li><a href="/academics/undergraduate/degree-program-options">Degree & Program Options</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/dates">Application Deadlines</a></li>
+<li><a href="https://admissions.illinois.edu/Apply/Freshman/process">Applications Process & Requirements</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+<li><a href="https://www.housing.illinois.edu">Housing</a></li>
+<li><a href="/about-us/accreditation">Accreditation</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/admissions/graduate">Graduate Admissions</a><ul class="graduate ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+<li class="dropdown"><a href="/admissions/graduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/admissions/graduate/degree-program-options/professional-master-computer-science-mcs-program">Professional Master of Computer Science (MCS) Program</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-deadlines">Application Deadlines</a></li>
+<li class="dropdown"><a href="/admissions/graduate/applications-process-requirements">Applications Process &amp; Requirements</a><ul class="applications-process-requirements ">
+<li><a href="/admissions/graduate/applications-process-requirements/additional-required-application-materials">Additional Required Application Materials for International Students</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/application-fee-waivers">Application Fee Waivers</a></li>
+<li><a href="/admissions/graduate/applications-process-requirements/data-structures-proficiency-exam">Data Structures Proficiency Exam</a></li>
+</ul>
+</li>
+<li><a href="/admissions/graduate/application-checklist">Application Checklist</a></li>
+<li class="dropdown"><a href="/admissions/graduate/faqs">FAQs</a><ul class="faqs ">
+<li><a href="/admissions/graduate/faqs/ican-faqs">iCAN FAQs</a></li>
+<li><a href="/admissions/graduate/faqs/online-mcs-faqs">Online MCS FAQs</a></li>
+</ul>
+</li>
+<li><a href="https://choose.illinois.edu/apply/">Check Application Status</a></li>
+</ul>
+</li>
+<li><a href="/admissions/impact-illinois-cs-degree">Impact of an Illinois CS Degree</a></li>
+<li><a href="/admissions/financial-aid">Financial Aid</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/academics" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Academics</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-academics">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Ready to apply? Your path to CS at Illinois begins here.</h2>
+<p><a class="orange button" href="https://admissions.illinois.edu/apply">Start Here</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/academics">Academics</a></h2>
+<ul class="academics ">
+<li class="dropdown"><a href="/academics/undergraduate">Undergraduate Academics</a><ul class="undergraduate ">
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options">Degree &amp; Program Options</a><ul class="degree-program-options ">
+<li><a href="/academics/undergraduate/degree-program-options/bs-computer-science">B.S. in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-mathematics-computer-science">B.S. in Mathematics &amp; Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/bs-statistics-computer-science">B.S. in Statistics &amp; Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs">CS + X Degree Programs</a><ul class="cs-x-degree-programs ">
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-advertising">Computer Science + Advertising</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-animal-sciences">Computer Science + Animal Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-anthropology">Computer Science + Anthropology</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-astronomy">Computer Science + Astronomy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-chemistry">Computer Science + Chemistry</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-crop-sciences">Computer Science + Crop Sciences</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-economics">Computer Science + Economics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-geography">Computer Science + Geography &amp; Geographic Information Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-linguistics">Computer Science + Linguistics</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-music">Computer Science + Music</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-philosophy">Computer Science + Philosophy</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-x-degree-programs/cs-x-degree-requirements">CS + X Degree Requirements &amp; Planning Forms</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li><a href="/academics/undergraduate/degree-program-options/cs-undergraduate-degree-options-faq">CS Undergraduate Degree Options FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/academics/undergraduate/degree-program-options/minor-computer-science">Minor in Computer Science</a></li>
+<li class="dropdown"><a href="/academics/undergraduate/registration">Registration</a><ul class="registration ">
+<li><a href="/academics/undergraduate/registration/cs-course-restrictions-enrollment-caps">CS Course Restrictions &amp; Enrollment Caps</a></li>
+</ul>
+</li>
+<li><a href="/academics/undergraduate/policies-and-procedures">Policies and Procedures</a></li>
+<li><a href="/academics/undergraduate/undergraduate-advising">Undergraduate Advising</a></li>
+<li><a href="/academics/undergraduate/cs-student-opportunity-series-cs-sos">CS Student Opportunity Series (CS SOS)</a></li>
+<li><a href="/academics/undergraduate/undergraduate-forms">Undergraduate Forms</a></li>
+<li><a href="/academics/undergraduate/honors">Honors</a></li>
+<li><a href="/admissions/undergraduate/transfer-students">Transfer Students</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate">Graduate Academics</a><ul class="graduate ">
+<li class="dropdown"><a href="/academics/graduate/phd-program">PhD Program</a><ul class="phd-program ">
+<li><a href="/academics/graduate/phd-program/final-exam-thesis-defense">Final Exam (Thesis Defense)</a></li>
+<li><a href="/academics/graduate/phd-program/guidelines-forming-phd-committee">Guidelines for Forming Ph.D. Committee</a></li>
+<li><a href="/academics/graduate/phd-program/phd-ms-thesis-format-review-guidelines">Ph.D. / M.S. Thesis Format Review Guidelines</a></li>
+<li><a href="/academics/graduate/phd-program/phd-program-study-process">PhD Program of Study Process</a></li>
+<li><a href="/academics/graduate/phd-program/phd-requirements">PhD Requirements</a></li>
+<li><a href="/academics/graduate/phd-program/phd-time-limits-milestones">PhD Time Limits &amp; Milestones</a></li>
+<li><a href="/academics/graduate/phd-program/preliminary-exam">Preliminary Exam</a></li>
+<li><a href="/academics/graduate/phd-program/qualifying-exam">Qualifying Exam</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/ms-program">MS Program</a></li>
+<li><a href="/academics/graduate/ms-bioinformatics-program">MS in Bioinformatics Program</a></li>
+<li class="dropdown"><a href="/academics/graduate/professional-mcs">Professional Master of Computer Science</a><ul class="professional-mcs ">
+<li><a href="/academics/graduate/professional-mcs/campus-master-computer-science">On-Campus Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science">Online Master of Computer Science</a></li>
+<li><a href="/academics/graduate/professional-mcs/online-master-computer-science-data-science">Online Master of Computer Science in Data Science</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/fifth-year-masters-programs">Fifth Year Master's Programs</a><ul class="fifth-year-masters-programs ">
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-mcs-program">5-year BS-MCS Program</a></li>
+<li><a href="/academics/graduate/fifth-year-masters-programs/5-year-bs-ms-program">5-year BS-MS Program</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">Illinois Computing Accelerator for Non-Specialists (iCAN)</a><ul class="ican ">
+<li><a href="/academics/graduate/ican/application-process">iCAN Application Process</a></li>
+<li><a href="/academics/graduate/ican/curriculum">iCAN Curriculum</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources">Graduate Forms &amp; Advising Resources</a><ul class="graduate-forms-advising-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/epi-exam-requirements">EPI Exam Requirements</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-advising-contacts">Graduate Advising Contacts</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/graduate-student-annual-evaluation-process">Graduate Student Annual Evaluation Process</a></li>
+<li class="dropdown"><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources">New Graduate Student Resources</a><ul class="new-graduate-student-resources ">
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/mcs-campus">MCS On-Campus General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/ms-general">MS General Advising for Registration</a></li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/phd-general">PhD General Advising for Registration</a></li>
+</ul>
+</li>
+<li><a href="/academics/graduate/graduate-forms-advising-resources/official-forms">Official Forms</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/academics/courses">Courses</a></li>
+<li><a href="/academics/honor-code">Honor Code</a></li>
+<li><a href="https://cs.illinois.edu/student-life/student-resources">Student Resources</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/student-life" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Student Life</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-student-life">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41390_8405" data-pageid="41390" data-tileid="8405" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=55621);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Salesforce's CodeT5 System Can Understand and Generate Code</h2>
+			<div class="description"></div>
+			<p><a href="/news/salesforces-codet5-system-can-understand-and-generate-code" class="button" title="Salesforce's CodeT5 System Can Understand and Generate Code">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 7, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/student-life">Student Life</a></h2>
+<ul class="student-life ">
+<li><a href="/student-life/overview-cs-student-life">Overview of CS Student Life</a></li>
+<li><a href="/student-life/student-organizations">Student Organizations</a></li>
+<li><a href="/student-life/department-college-and-campus-events">Department, College, and Campus Events</a></li>
+<li><a href="/student-life/student-resources">Student Resources</a></li>
+<li><a href="/student-life/career-services">Career Services</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega twocol nav-item">
+<a href="/research" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Research</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-research">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Explore visionary research conducted by world-renowned faculty.</h2>
+<p><a class="orange button" href="/research/areas">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/research">Research</a></h2>
+<ul class="research ">
+<li class="dropdown"><a href="/research/areas">Research Areas</a><ul class="areas ">
+<li><a href="/research/areas/architecture-compilers-and-parallel-computing">Architecture, Compilers, and Parallel Computing</a></li>
+<li><a href="/research/areas/artificial-intelligence">Artificial Intelligence</a></li>
+<li><a href="/research/areas/bioinformatics-and-computational-biology">Bioinformatics and Computational Biology</a></li>
+<li><a href="/research/areas/computers-and-education">Computers and Education</a></li>
+<li><a href="/research/areas/data-and-information-systems">Data and Information Systems</a></li>
+<li><a href="/research/areas/interactive-computing">Interactive Computing</a></li>
+<li><a href="/research/areas/programming-languages-formal-methods-and-software-engineering">Programming Languages, Formal Methods, and Software Engineering</a></li>
+<li><a href="/research/areas/scientific-computing">Scientific Computing</a></li>
+<li><a href="/research/areas/security-and-privacy">Security and Privacy</a></li>
+<li><a href="/research/areas/systems-and-networking">Systems and Networking</a></li>
+<li><a href="/research/areas/theory-and-algorithms">Theory and Algorithms</a></li>
+</ul>
+</li>
+<li><a href="/research/technical-conferences-workshops">Technical Conferences &amp; Workshops</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+<li><a href="/corporate#research">Corporate Partners</a></li>
+<li><a href="https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=3146">Illinois CS Research Overview</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/broadening-participation-computing" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Broadening Participation</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-broadening-participation-computing">
+<section class="tile w50 white-box py-5 marketing">
+<p class="mb-0"><img src="//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=16163&s=375" class="image" alt="" width="375" /></p>
+<p style="padding: 10px 15px 0px 15px;">New certificate program for college graduates who want a deeper understanding of computers, algorithms, and programming.</p>
+<p><a class="orange button" href="/ican">Learn More</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/broadening-participation-computing">Broadening Participation</a></h2>
+<ul class="broadening-participation-computing ">
+<li><a href="https://drive.google.com/file/d/12vDswb1i-mEXaXgVt7FOhtqYs7b8F_1p/view">BPC Departmental Plan</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs">BPC Programs & Activities for Students</a><ul class="programs ">
+<li><a href="/broadening-participation-computing/programs/csambassadors">CS Student Ambassador/Research Scholars (CS STARS)</a></li>
+<li><a href="/broadening-participation-computing/programs/cskickstart">Illinois CS Kickstart</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/programs/ai4all">AI4ALL</a><ul class="ai4all ">
+<li><a href="http://go.cs.illinois.edu/DiscoverAI">Apply Now</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/academics/graduate/ican">iCAN</a><ul class="ican ">
+<li><a href="https://grad.illinois.edu/admissions/apply">Apply Now</a></li>
+</ul>
+</li>
+<li><a href="http://cs.illinois.edu/research/summer-research-experience-undergraduates">Summer Research Experience for Undergraduates</a></li>
+</ul>
+</li>
+<li><a href="/broadening-participation-computing/resources">BPC Resources</a></li>
+<li class="dropdown"><a href="/broadening-participation-computing/cross-cutting">Cross-Cutting Educational Activities</a><ul class="cross-cutting ">
+<li><a href="/broadening-participation-computing/cross-cutting/conferences-workshops">BPC Conferences & Workshops</a></li>
+<li><a href="/broadening-participation-computing/cross-cutting/ca-training">Course Assistant Training</a></li>
+<li><a href="https://cs.illinois.edu/news/featured-lectures#equity-justice">Equity & Justice in Computing Seminar Series</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/broadening-participation-computing/k-12">K-12 Outreach & Resources</a><ul class="k-12 ">
+<li><a href="/broadening-participation-computing/k-12/k-12-outreach">K-12 Outreach Programs</a></li>
+<li><a href="/broadening-participation-computing/k-12/k-12-resources">K-12 Resources</a></li>
+</ul>
+</li>
+<li><a href="https://cs.illinois.edu/student-life/student-organizations">Student Organizations</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/news" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>News</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-news">
+<section class="tile news feature w66 royal-box darkify  text-center"  id="page41391_5367" data-pageid="41391" data-tileid="5367" data-type="article" data-bookid="81" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=51204);">
+	<div class="lower py-5 px-5 first  maxwidth800">
+		<div class="flex">
+			<h2>Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging</h2>
+			<div class="description"><p>The Defense Advanced Research Projects Agency (DARPA) has awarded $5.8 million to a team, led by Illinois CS's <a href="/about/people/faculty/zaher">Tarek Abdelzaher</a>, that will work to characterize how different foreign populations respond to influence campaigns as a first step towards development of effective countermeasures.</p></div>
+			<p><a href="/news/abdelzaher-leading-DARPA-effort-understand-how-people-respond-influence-messaging" class="button" title="Abdelzaher Leading $5.8M DARPA Effort to Understand How People Respond to Influence Messaging">Read Full Story</a></p>
+			<p class="first pb-4"><a href="/news">News</a> | September 8, 2021</p>
+		</div>
+	</div>
+</section>
+
+<section class="tile menu white-box col">
+<h2><a href="/news">News</a></h2>
+<ul class="news ">
+<li><a href="/news">Department News</a></li>
+<li><a href="/news/features">Feature Stories</a></li>
+<li><a href="/news/covid-19-projects">COVID-19 Projects</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/news/media-coverage">Media Coverage</a></li>
+<li><a href="/news/e-news">E-News</a></li>
+<li><a href="/news/impact-report-publications">Impact Report &amp; Publications</a></li>
+<li><a href="/news/featured-lectures">Featured Lectures</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+<li class="dropdown mega  nav-item">
+<a href="/give" class="nav-link dropdown-toggle" data-toggle="dropdown"><span>Give</span></a>
+<div class="dropdown-menu tile-list" id="mainnav-give">
+<section class="tile w25 white-box py-5 marketing">
+<h2>Help ensure that Illinois continues to set a global standard for CS research and education.</h2>
+<p><a class="orange button" href="/give/give-now">Make a Gift</a></p>
+</section>
+<section class="tile menu white-box col">
+<h2><a href="/give">Give</a></h2>
+<ul class="give ">
+<li><a href="/give/give-now">Give Now</a></li>
+<li><a href="/give/ways-give">Ways to Give</a></li>
+<li><a href="/give/donor-profiles">Donor Profiles</a></li>
+<li><a href="/give/computer-science-visionary-scholarship-donors">Computer Science Visionary Scholarship Donors</a></li>
+</ul>
+
+</section>
+</div>
+</li>
+</ul>
+</div>
+</nav>
+
+				</div>
+			</header>
+
+			<div id="content">
+				<main>
+					<div  id="hero" class="container-fluid">
+						<div class="row maxwidth1140">
+							<div class="col">
+								<div>
+									<nav id="breadcrumbs"><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/about/awards">Awards</a></li><li><a href="/about/awards/faculty-awards">Faculty Awards</a></li></ul></nav>
+									<h1>National &amp; International Awards</h1>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					
+
+					<div id="content_inner" class="container-fluid">
+						<div class="tile-list">
+							<section class="tile w110 white-box   py-4 text-center" id="tile6862" data-tileid="6862" >
+	<div class="lower text-center maxwidth1140   " id="lower6862">
+		<div class="row">
+			<div class="col-12"></div>
+			<div class="col-md column1   px-md-4 py-4 mx-md-3 platinum-box" >
+				<p class="fs250x"><a href="#career"><em class="far fa-medal" aria-hidden="true"><!--icon--></em></a></p>
+<h5><a href="#career">Career Achievement Awards</a></h5>
+			</div>
+			<div class="col-md column2   px-md-4 py-4 mx-md-3 platinum-box" >
+				<p class="fs250x"><a href="#fellow"><em class="far fa-file-certificate" aria-hidden="true"><!--icon--></em></a></p>
+<h5><a href="#fellow">Fellows / Member Distinctions</a></h5>
+			</div>
+			<div class="col-md column3   px-md-4 py-4 mx-md-3 platinum-box" >
+				<p class="fs250x"><a href="#early"><em class="far fa-star" aria-hidden="true"><!--icon--></em></a></p>
+<h5><a href="#early">Early Career Awards</a></h5>
+			</div>
+			<div class="col-md column4   px-md-4 py-4 mx-md-3 platinum-box" >
+				<p class="fs250x"><a href="#service"><em class="far fa-ribbon" aria-hidden="true"><!--icon--></em></a></p>
+<h5><a href="#service">Service Awards</a></h5>
+			</div>
+			<div class="col-12"></div>
+		</div>
+	</div>
+</section>
+<section class="tile w110 white-box   py-4 " id="tile4716" data-tileid="4716" >
+	<div class="lower  maxwidth1140   " id="lower4716">
+		<div class="row">
+			<div class="col-md column1      " >
+				<h3><a id="career" name="career"></a>Career Achievement</h3>
+<ul>
+<li><a href="#newton">A. Richard Newton Breakthrough Research Award</a></li>
+<li><a href="#eckert-mauchly">ACM / IEEE Computer Eckert-Mauchly Award</a></li>
+<li><a href="#kennedy">ACM / IEEE Computer Ken Kennedy Award</a></li>
+<li><a href="#wilkes">ACM SIGARCH Maurice Wilkes Award</a></li>
+<li><a href="#sigkdd">ACM SIGKDD Innovations Award</a></li>
+<li><a href="#sigplan">ACM SIGPLAN Programming Languages Achievement Award</a></li>
+<li><a href="#sigsoft">ACM SIGSOFT Outstanding Research Award</a></li>
+<li><a href="#ACM_Software_System_Award">ACM Software System Award</a></li>
+<li><a href="#adastra">Ad Astra Award</a></li>
+<li><a href="#aito">AITO Ole-Johan Dahl and Kristen Nygaard Prize</a></li>
+<li><a href="#humboldt">Alexander von Humboldt Prize</a></li>
+<li><a href="#borg">Anita Borg Institute Women of Vision Award for Innovation</a></li>
+<li><a href="#apple">Apple Award for Innovation in Science</a></li>
+<li><a href="#asee">ASEE Illinois-Indiana Section Teacher of the Year Award</a></li>
+<li><a href="#ANicoHabermann">A. Nico Habermann Award</a></li>
+<li><a href="#baker">David F. Baker Distinguished Research Award</a></li>
+<li><a href="#DOE40Years">Department of Energy - 40 Years of Research Milestones</a></li>
+<li><a href="#FUNAI">Funai Achievement Award</a></li>
+<li><a href="#bell">Gordon Bell Prize</a></li>
+<li><a href="#guggenheim">Guggenheim Fellowship</a></li>
+<li><a href="#HP_Labs_Innovation_Research_Award">HP Labs Innovation Research Award</a></li>
+<li><a href="#Honorary_PhD">Honorary Doctorate Degrees</a></li>
+<li><a href="#Humboldt_Research_Award">Humboldt Research Award</a></li>
+<li><a href="#hyperion">Hyperion Research HPC Innovation Excellence Award</a></li>
+<li><a href="#IBM_Faculty_Award">IBM Faculty Awards</a></li>
+<li><a href="#abraham">IEEE Communication Society Leonard G. Abraham Prize</a></li>
+<li><a href="#goode">IEEE Computer Harry H. Goode Memorial Award</a></li>
+<li><a href="#pioneer">IEEE Computer Pioneer Award</a></li>
+<li><a href="#fernbach">IEEE Computer Sidney Fernbach Award</a></li>
+<li><a href="#cray">IEEE Computer Seymour Cray Award</a></li>
+<li><a href="#booth">IEEE Computer Taylor L. Booth Award</a></li>
+<li><a href="#IEEE_Computer_Technical_Achievement_Award">IEEE Computer Technical Achievement Award</a></li>
+<li><a href="#mcdowell">IEEE Computer W. Wallace McDowell Award</a></li>
+<li><a href="#hprigas">IEEE Hewlett-Packard/Harriett B. Rigas Award</a></li>
+<li><a href="#tcrts">IEEE TCRTS Outstanding Technical Achievement and Leadership Award</a></li>
+<li><a href="#tcsc">IEEE TCSC Medal for Excellence in Scalable Computing</a></li>
+<li><a href="#ramo">IEEE Simon Ramo Medal</a></li>
+<li><a href="#IIE_Award_for_Technical_Innovation_in_Industrial_Engineering">IISE Award for Technical Innovation in Industrial Engineering</a></li>
+<li><a href="#IIE_Operations_Research_Teaching_Award">IISE Operations Research Teaching Award</a></li>
+<li><a href="#IIE_Outstanding_Publication_Award">IISE Outstanding Publication Award</a></li>
+<li><a href="#INFORMS_IMPACT_Prize">INFORMS IMPACT Prize</a></li>
+<li><a href="#saul_gass">INFORMS Saul Gass Expository Writing Award</a></li>
+<li><a href="#Marr_Prize">Marr Prize</a></li>
+<li><a href="#HarroldNotkin">NCWIT Harrold and Notkin Research and Graduate Mentoring Award</a></li>
+<li><a href="#Phil_Kauman_Award">Phil Kaufman Award</a></li>
+<li><a href="#rd100">R&amp;D 100 Award</a></li>
+<li><a href="#piloty">Robert Piloty Prize</a></li>
+<li><a href="#SIAGSC_Career_Prize">SIAM Activity Group on Supercomputing Career Prize</a></li>
+<li><a href="#SIAMACM_Prize_in_Computational_Science_and_Engineering">SIAM/ACM Prize in Computational Science and Engineering</a></li>
+</ul>
+<h3><a id="fellow" name="fellow"></a>Fellows / Member Distinctions</h3>
+<ul>
+<li><a href="#aaaifellow">AAAI Fellow</a></li>
+<li><a href="#ACMDistinguished">ACM Distinguished Member</a></li>
+<li><a href="#ACMFellow">ACM Fellow</a></li>
+<li><a href="#ACMSeniorMember">ACM Senior Member</a></li>
+<li><a href="#American_Academy_of_Arts_and_Sciences">American Academy of Arts and Sciences</a></li>
+<li><a href="#American_Association_for_the_Advancement_of_Science_Fellow">American Association for the Advancement of Science Fellow</a></li>
+<li><a href="#American_Institute_of_Aeronautics_and_Astronautics_Associate_Fellow">American Institute of Aeronautics and Astronautics Associate Fellow</a></li>
+<li><a href="#AIMBE">American Institute for Medical and Biological Engineering (AIMBE)</a></li>
+<li><a href="#Association_for_Computational_Linguistics_Fellow">Association for Computational Linguistics Fellow</a></li>
+<li><a href="#Leopoldina">Leopoldina National Academy of Sciences</a></li>
+<li><a href="#IEEEFellow">IEEE Fellow</a></li>
+<li><a href="#IEEESeniorMember">IEEE Senior Member</a></li>
+<li><a href="#INFORMS_Fellow">INFORMS Fellow</a></li>
+<li><a href="#Institute_of_Industrial_Engineers_Fellow">Institute of Industrial&nbsp; &amp; Systems Engineers Fellow</a></li>
+<li><a href="#ISCB_Fellow">International Society for Computational Biology (ISCB) Fellow</a></li>
+<li><a href="#National_Academy_of_Engineering_Member">National Academy of Engineering Member</a></li>
+<li><a href="#SIAM_Fellow">SIAM Fellow</a></li>
+<li><a href="#SVBJ CIO">SVBJ Bay Area CIO of the Year</a></li>
+</ul>
+<h3><a id="early" name="early"></a>Early Career</h3>
+<ul>
+<li><a href="#ACM_SIGKDD_Doctoral_Dissertation_Award">ACM SIGKDD Doctoral Dissertation Award</a></li>
+<li><a href="#ACM_SIGMOD_Jim_Gray_Doctoral_Dissertation_Award">ACM SIGMOD Jim Gray Doctoral Dissertation Award</a></li>
+<li><a href="#ACM_SIGSAC_Doctoral_Dissertation">ACM SIGSAC Doctoral Dissertation Award</a></li>
+<li><a href="#David_and_Lucile_Packard_Foundation_Fellowship">David and Lucile Packard Foundation Fellowship</a></li>
+<li><a href="#Householder">Householder Prize</a></li>
+<li><a href="#TCHPC">IEEE Computer Society Technical Consortium on High Performance Computing (TCHPC) Award for Excellence for Early Career Researchers in High Performance Computing</a></li>
+<li><a href="#tao_li_award">IEEE ICDM Tao Li Award</a></li>
+<li><a href="#IEEE_Education_Society_Mac_Van_Valenburg_Early_Career_Teaching_Award">IEEE Education Society Mac Van Valkenburg Early Career Teaching Award</a></li>
+<li><a href="#Intel_Early_Career_Faculty_Honor_Program">Intel Early Career Faculty Honor Program</a></li>
+<li><a href="#Overton">International Society for Computational Biology (ISCB) Overton Prize</a></li>
+<li><a href="#Microsoft_Research_Faculty_Fellowship">Microsoft Research Faculty Fellowship</a></li>
+<li><a href="#National_Science_Foundation_Faculty_Early_Career_Development_Award">National Science Foundation Faculty Early Career Development Award</a></li>
+<li><a href="#ONR_Young_Investigator_Award">ONR Young Investigator Award</a></li>
+<li><a href="#pami">Pattern Analysis and Machine Intelligence (PAMI) Young Researcher Award</a></li>
+<li><a href="#SIAM_SIAG/SC_Early_Career_Prize" aria-invalid="true">SIAM Activity Group on Supercomputing Early Career Prize</a></li>
+<li><a href="#Sloan_Research_Fellowship">Sloan Research Fellowship</a></li>
+</ul>
+<h3><a id="service" name="service"></a>Service</h3>
+<ul>
+<li><a href="#ACM_SIGKDD_Service_Award">ACM SIGKDD Service Award</a></li>
+<li><a href="#ACM_SIGMOD_Contributions_Award">ACM SIGMOD Contributions Award</a></li>
+<li><a href="#CRA_Distinguished_Service">CRA Distinguished Service Award</a></li>
+<li><a href="#HPC_Community_Leadership_Award">HPC Community Leadership Award</a></li>
+<li><a href="#RASLeadership">IEEE RAS George Saridis Leadership Award in Robotics and Automation</a></li>
+<li><a href="#kimball_medal">INFORMS George E. Kimball Medal</a></li>
+<li><a href="#Operations_Research_Meritorious_Service_Award">Operations Research Meritorious Service Award</a></li>
+</ul>
+<hr />
+<h3>Career Achievement</h3>
+<div>
+<h4 id="newton"><a href="http://www.microsoft.com/en-us/news/features/2008/apr08/04-02researchaward.aspx">A. Richard Newton Breakthrough Research Award</a></h4>
+<p>The award encourages breakthrough academic research to help solve some of today&rsquo;s most challenging societal problems at the intersection between computing and other disciplines.</p>
+<ul>
+<li>Karrie Karahalios (2008)</li>
+</ul>
+<h4 id="eckert-mauchly"><a href="http://www.computer.org/portal/web/awards/eckert" aria-invalid="true">ACM / IEEE Computer Eckert-Mauchly Award</a></h4>
+<p>A certificate and $5,000 are awarded jointly by the ACM and the IEEE Computer Society for outstanding contributions to the field of computer and digital systems architecture.</p>
+<ul>
+<li>David J. Kuck (1993)</li>
+</ul>
+<h4 id="kennedy"><a href="http://www.computer.org/portal/web/awards/kennedy" aria-invalid="true">ACM / IEEE Computer Ken Kennedy Award</a></h4>
+<p>Established in memory of Ken Kennedy, the founder of Rice University's nationally ranked computer science program and one of the world's foremost experts on high-performance computing. A certificate and $5,000 honorarium are awarded jointly by the ACM and the IEEE Computer Society for outstanding contributions to programmability or productivity in high-performance computing together with significant community service or mentoring contributions.</p>
+<ul>
+<li>Sarita Adve (2018)</li>
+<li>William D. Gropp (2016)</li>
+<li>David J. Kuck (2010)</li>
+</ul>
+<h4 id="wilkes"><a href="http://www.sigarch.org/awards/acm-sigarch-maurice-wilkes-award/">ACM SIGARCH Maurice Wilkes Award</a></h4>
+<p>The award of $2,500 is given annually for an outstanding contribution to computer architecture made by an individual whose computer-related professional career started no earlier than 20 years prior to the year of the award.</p>
+<ul>
+<li>Sarita Adve (2008)</li>
+</ul>
+<h4 id="sigkdd"><a href="http://kdd2012.sigkdd.org/sigkdd-awards.shtml">ACM SIGKDD Innovations Award</a></h4>
+<p>Innovation Award recognizes one individual or one group of collaborators whose outstanding technical innovations in the field of Knowledge Discovery and Data Mining have had a lasting impact in advancing the theory and practice of the field.</p>
+<ul>
+<li>Jiawei Han (2004)</li>
+</ul>
+<h4 id="sigplan"><a href="http://www.sigplan.org/awards/achievement/main" aria-invalid="true">ACM SIGPLAN Programming Languages Achievement Award</a></h4>
+<p>Given by ACM SIGPLAN to recognize an individual or individuals who has made a significant and lasting contribution to the field of programming languages. The contribution can be a single event or a life-time of achievement.</p>
+<ul>
+<li>Ralph Johnson (with Erich Gamma, Richard Helm, John Vlissides) (2005)</li>
+</ul>
+<h4 id="sigsoft"><a href="http://www.sigsoft.org/awards/outResAwd.htm">ACM SIGSOFT Outstanding Research Award</a></h4>
+<p>This award is presented to an individual or individuals who have made significant and lasting research contributions to the theory or practice of software engineering.</p>
+<ul>
+<li>Ralph Johnson (with Erich Gamma, Richard Helm, John Vlissides) (2010)</li>
+</ul>
+<h4 id="ACM_Software_System_Award"><a href="http://awards.acm.org/software_system/">ACM Software System Award</a></h4>
+<p>Awarded to an institution or individual(s) recognized for developing a software system that has had a lasting influence, reflected in contributions to concepts, in commercial acceptance, or both.</p>
+<ul>
+<li>Vikram Adve (with Chris Lattner, Evan Chang for LLVM) (2013)</li>
+</ul>
+<h4 id="adastra"><a href="http://premii.ad-astra.ro/">Ad Astra Award</a></h4>
+<p>Every two years, the <a href="http://ad-astra.ro">Ad Astra Romania Association</a> presents awards to researchers and doctoral students across six scientific fields. Awards are presented to researchers from Romanian institutions and to researchers of Romanian nationality working abroad.</p>
+<ul>
+<li>Grigore Rosu (2016)</li>
+</ul>
+<h4 id="aito"><a href="http://www.aito.org/Dahl-Nygaard/">AITO Ole-Johan Dahl and Kristen Nygaard Prize</a></h4>
+<p>In 2004, AITO established an annual prize in the name of the Ole-Johan Dahl and Kristen Nygaard to honor their pioneering work on object-orientation.</p>
+<ul>
+<li>Ralph Johnson (with Erich Gamma, Richard Helm, John Vlissides) (2006)</li>
+</ul>
+<h4 id="humboldt">Alexander von Humboldt Professorship</h4>
+<p>Five researchers from across the world are selected to receive Germany&rsquo;s most valuable international research award, the Alexander von Humboldt Professorship. Academics of all disciplines from abroad, who are internationally recognized as leaders in their field were selected for this honor.</p>
+<ul>
+<li>Marco Caccamo (2018)</li>
+</ul>
+<h4 id="borg"><a href="http://anitaborg.org/initiatives/women-of-vision/" aria-invalid="true">Anita Borg Institute Women of Vision Award for Innovation</a></h4>
+<p>The Women of Vision Awards honor women making significant contributions to technology in three categories: Innovation, Leadership, and Social Impact.&nbsp; The Award for Innovation recognizes consistent, significant contributions to technology invention and application.</p>
+<ul>
+<li>Sarita Adve (2012)</li>
+</ul>
+<h4 id="apple">Apple Award for Innovation in Science</h4>
+<p>The Apple Award for Innovation in Science recognizes a select and distinguished group of people in academia who have developed new ways to use technology that enhance education and research.</p>
+<ul>
+<li>Michael T. Heath (2007)</li>
+</ul>
+<h4 id="asee"><a href="http://www.asee.org/member-resources/awards/full-list-of-awards/section-awards#Section_Outstanding_Teaching_Award">ASEE Illinois-Indiana Section Teacher of the Year Award</a></h4>
+<p>This award is given by each ASEE section, with support, where possible, from local industry. The award, which focuses on outstanding classroom performance, recognizes teachers of engineering and engineering technology students and serves as an incentive to make further significant contributions to teaching.</p>
+<ul>
+<li>Cinda Heeren (2015)</li>
+</ul>
+<h4 id="ANicoHabermann"><a href="https://cra.org/about/awards/a-nico-habermann-award/">CRA A. Nico Habermann Award</a></h4>
+<p>This award honors the late A. Nico Habermann, who headed NSF&rsquo;s Computer and Information Science and Engineering Directorate and who was deeply committed to increasing the participation of women and underrepresented minorities in computing research.</p>
+<ul>
+<li>Nancy Amato (2014)</li>
+</ul>
+<h4 id="baker"><a href="http://www.iise.org/Details.aspx?id=601">David F. Baker Distinguished Research Award</a></h4>
+<p>This award recognizes outstanding research in the profession. It is given for a career of accomplishments that broadly benefited practitioners, organizations, or other researchers rather than for a single activity or application. The award is named for David F. Baker, Ph.D., late chairman of the industrial engineering department at The Ohio State University.</p>
+<ul>
+<li>Sheldon Jacobson (2017)</li>
+</ul>
+<h4 id="DOE40Years"><a>Department of Energy - 40 Years of Research Milestones</a></h4>
+<p>The Department of Energy celebrated its 40th Anniversary by collecting 40 major papers from the past 40 years that they&rsquo;ve supported via research. These papers are the cream-of-the-crop selection that have changed the face of Science.&nbsp;</p>
+<ul>
+<li>William Gropp (2018) -&nbsp;1997 paper &ldquo;Simplifying Speed&rdquo; and 1996 paper &ldquo;Message Passing Gets the Job Done on Supercomputers.&rdquo;</li>
+</ul>
+<h4 id="FUNAI"><a href="http://www.ipsj.or.jp/english/organization/aboutipsj/award/funai-gyoseki.html" target="_blank" rel="noopener">Funai Achievement Award</a></h4>
+<p>The Funai Achievement Award is presented to a distinguished individual engaged in research or related business activities in the field of Information Technology. The award is presented at the Forum on Information Technology (FIT), an annual event organized by the Information Processing Society of Japan (IPSJ), and the Information and Systems Society (ISS) and the Human Communication Group (HCG) of the Institute of Electronics Information and Communication Engineers (IEICE).</p>
+<ul>
+<li>Jiawei Han (2018)</li>
+</ul>
+<h4 id="bell"><a href="http://awards.acm.org/bell/">Gordon Bell Prize</a></h4>
+<p>The Gordon Bell Prize is awarded each year to recognize outstanding achievement in high-performance computing. The purpose of the award is to track the progress over time of parallel computing, with particular emphasis on rewarding innovation in applying high-performance computing to applications in science, engineering, and large-scale data analytics.</p>
+<ul>
+<li>Laxmikant ("Sanjay") Kale (2002)</li>
+<li>Paul Fischer (1999)</li>
+<li>William D. Gropp (1999)</li>
+</ul>
+<h4 id="guggenheim"><a href="http://www.gf.org/about-the-foundation/the-fellowship/">Guggenheim Fellowship</a></h4>
+<p>Often characterized as "midcareer" awards, Guggenheim Fellowships are intended for men and women who have already demonstrated exceptional capacity for productive scholarship or exceptional creative ability in the arts.</p>
+<ul>
+<li>Tandy Warnow (2011)</li>
+<li>Sheldon Jacobson (2003)</li>
+</ul>
+<h4 id="HP_Labs_Innovation_Research_Award"><a href="http://www.hpl.hp.com/open_innovation/irp/" aria-invalid="true">HP Labs Innovation Research Award</a></h4>
+<p>HP Labs' Innovation Research Program is designed to create opportunities at colleges, universities and research institutes around the world for collaborative research with HP. Awards provide one year of financial support for a graduate research assistant, renewable for up to two additional years.</p>
+<ul>
+<li>Laxmikant ("Sanjay") Kale (2012)</li>
+<li>ChengXiang Zhai (2011, 2012)</li>
+<li>Jiawei Han (2008, 2009, 2010)</li>
+</ul>
+<h4 id="Honorary_PhD">Honorary Doctorate Degrees</h4>
+<p>Some of our faculty have been recognized with honorary PhDs from other institutions across the world.</p>
+<ul>
+<li>Marc Snir (2018) - &nbsp;&Eacute;cole normale sup&eacute;rieure de Lyon - Honors his academic achievements in the field of parallel and high-performance computing; the highest French university award.</li>
+<li>David Padua (2017) -&nbsp;University of Valladolid in Spain - The degree is a doctorate conferred as a way of honoring a distinguished visitor's contributions to a specific field or to society in general.</li>
+</ul>
+<h4 id="Humboldt_Research_Award"><a href="http://www.humboldt-foundation.de/web/humboldt-award.html" aria-invalid="true">Humboldt Research Award</a></h4>
+<p>The award is granted in recognition of a researcher's entire achievements to date to academics whose fundamental discoveries, new theories, or insights have had a significant impact on their own discipline and who are expected to continue producing cutting-edge achievements in the future.</p>
+<ul>
+<li>Klara Nahrstedt (2009)</li>
+</ul>
+<h4 id="hyperion"><a href="https://www.hpcuserforum.com/innovationaward/">Hyperion Research HPC Innovation Excellence Award</a></h4>
+<p>This award recognizes noteworthy achievements by users of high performance computing (HPC). It covers HPC uses in fields like artificial intelligence, advanced analytics, simulation, quantum computing, and other methods and technologies.</p>
+<ul>
+<li>Jian Peng (2020)</li>
+</ul>
+<h4 id="IBM_Faculty_Award"><a href="http://www.research.ibm.com/university/innovation/index.shtml">IBM Faculty Awards</a></h4>
+<p>The IBM Faculty Awards is a competitive worldwide program intended to foster collaboration between researchers at leading universities worldwide and those in IBM research, development, and services organizations.</p>
+<ul>
+<li>Sarita Adve</li>
+<li>Gul Agha</li>
+<li>Kevin Chang</li>
+<li>Jiawei Han</li>
+<li>Karrie Karahalios</li>
+<li>Tao Xie</li>
+<li>ChengXiang Zhai</li>
+</ul>
+<h4 id="abraham"><a href="http://www.comsoc.org/about/memberprograms/comsoc-awards/abraham">IEEE Communication Society Leonard G. Abraham Prize</a></h4>
+<p>The prize is given annually to the best original paper published in any journal financially sponsored or co-sponsored by the Communications Society in the previous 3 calendar years.</p>
+<ul>
+<li>Klara Nahrstedt (2000)</li>
+</ul>
+<h4 id="goode"><a href="https://www.computer.org/web/awards/goode">IEEE Computer Harry H. Goode Memorial Award</a></h4>
+<p>A bronze medal and $2,000 are awarded by the Computer Society on the basis of achievements in the information processing field which are considered either a single contribution of theory, design, or technique of outstanding significance, or the accumulation of important contributions on theory or practice over an extended time period, the total of which represent an outstanding contribution.</p>
+<ul>
+<li>Josep Torrellas (2021)</li>
+<li>David Padua (2015)</li>
+</ul>
+<h4 id="pioneer"><a href="http://www.computer.org/portal/web/awards/pioneer" aria-invalid="true">IEEE Computer Pioneer Award</a></h4>
+<p>The Computer Pioneer was established in 1981 by the Board of Governors of the IEEE Computer Society to recognize and honor the vision of those people whose efforts resulted in the creation and continued vitality of the computer industry. The award is presented to outstanding individuals whose main contribution to the concepts and development of the computer field was made at least fifteen years earlier.</p>
+<ul>
+<li>David J. Kuck (2011)</li>
+</ul>
+<h4 id="fernbach"><a href="http://www.computer.org/portal/web/awards/sidney" aria-invalid="true">IEEE Computer Sidney Fernbach Award</a></h4>
+<p>Established in 1992 in memory of Sidney Fernbach, one of the pioneers in the development and application of high performance computers for the solution of large computational problems. A certificate and $2,000 are awarded for outstanding contributions in the application of high performance computers using innovative approaches.</p>
+<ul>
+<li>Laxmikant ("Sanjay") Kale (2012)</li>
+<li>William D. Gropp (2008)</li>
+</ul>
+<h4 id="cray"><a href="http://www.computer.org/portal/web/awards/seymourcray" aria-invalid="true">IEEE Computer Seymour Cray Award</a></h4>
+<p>Established in 1997. A crystal memento, illuminated certificate, and $10,000 honorarium are awarded to recognize innovative contributions to high performance computing systems that best exemplify the creative spirit demonstrated by Seymour Cray.</p>
+<ul>
+<li>Marc Snir (2013)</li>
+</ul>
+<h4 id="booth"><a href="http://www.computer.org/portal/web/awards/taylorbooth" aria-invalid="true">IEEE Computer Taylor L. Booth Award</a></h4>
+<p>A bronze medal and $5,000 honorarium are awarded for an outstanding record in computer science and engineering education.</p>
+<ul>
+<li>Michael T. Heath (2009)</li>
+<li>C.L. Dave Liu (1992)</li>
+</ul>
+<h4 id="IEEE_Computer_Technical_Achievement_Award"><a href="http://www.computer.org/portal/web/awards/technicalachievement" aria-invalid="true">IEEE Computer Technical Achievement Award</a></h4>
+<p>A certificate and $2,000 honorarium are presented for outstanding and innovative contributions to the fields of computer and information science and engineering or computer technology, usually within the past ten, and not more than fifteen years.</p>
+<ul>
+<li>Josep Torrellas (2015)</li>
+<li>Klara Nahrstedt (2012)</li>
+<li>David Forsyth (2005)</li>
+<li>Jiawei Han (2004)</li>
+</ul>
+<h4 id="mcdowell"><a href="http://www.computer.org/portal/web/awards/wallace" aria-invalid="true">IEEE Computer W. Wallace McDowell Award</a></h4>
+<p>A certificate and $2,000 honorarium are presented for outstanding recent theoretical, design, educational, practical, or other similar innovative contributions that fall within the scope of Computer Society interest.</p>
+<ul>
+<li>Jiawei Han (2009)</li>
+<li>Daniel L. Slotnick (1983)</li>
+</ul>
+<h4 id="hprigas"><a href="http://ieee-edusociety.org/awards/harriett-b-rigas-award" aria-invalid="true">IEEE Hewlett-Packard / Harriett B. Rigas Award</a></h4>
+<p>This award recognizes outstanding faculty women who have made significant contributions to electrical/computer engineering education through excellence in teaching, encouraging and supporting increased participation of women in electrical/computer engineering, demonstrated scholarship/research, development of educational technology which enhances student learning, and/or service to the engineering profession. The recipient must be a tenured or tenure-track woman faculty member in an ABET-accredited engineering program, with teaching and/or research specialization in electrical/computer engineering.</p>
+<ul>
+<li>Nancy Amato (2013)</li>
+</ul>
+<h4 id="tcrts"><a href="http://tcrts.org/awards/achievement-and-leadership-awards/">IEEE TCRTS Outstanding Technical Achievement and Leadership Award</a></h4>
+<p>This award is given for long-term technical achievement and leadership in the field of Real-Time Computing.</p>
+<ul>
+<li>Tarek Abdelzaher (2012)</li>
+<li>Jane Liu (2005)</li>
+<li>Lui Sha (2001)</li>
+<li>C.L. Dave Liu (1999)</li>
+</ul>
+<h4 id="tcsc"><a href="https://www.ieeetcsc.org/awards/award_of_excellence">IEEE TCSC Medal for Excellence in Scalable Computing</a></h4>
+<p>Awarded for significant and sustained contributions to the scalable computing community through the IEEE Technical Committee on Scalable Computing (TCSC), coupled with an outstanding record of high quality and high impact research.</p>
+<ul>
+<li>Marc Snir (2013)</li>
+<li>William D. Gropp (2010)</li>
+</ul>
+<h4 id="ramo"><a href="https://www.ieee.org/about/awards/medals/ramo.html">IEEE Simon Ramo Medal</a></h4>
+<p>Awarded for exceptional achievement in systems engineering and systems science.</p>
+<ul>
+<li>Lui Sha (2016) with John Lehoczky and Ragunathan Rajkumar</li>
+</ul>
+<h4 id="IIE_Award_for_Technical_Innovation_in_Industrial_Engineering"><a href="http://www.iienet2.org/Details.aspx?id=605">IISE Award for Technical Innovation in Industrial Engineering</a></h4>
+<p>Honors a single innovative technical contribution to the industrial engineering profession that may be recognized in any of several forms, including theory, design, application, implementation, and leadership.</p>
+<ul>
+<li>Sheldon Jacobson (2013)</li>
+<li>Sheldon Jacobson (2010)</li>
+</ul>
+<h4 id="IIE_Operations_Research_Teaching_Award"><a href="http://www.iienet2.org/Details.aspx?id=662">IISE Operations Research Teaching Award</a></h4>
+<p>The OR division of IISE presents this annual national award recognizing excellence in teaching operations research.</p>
+<ul>
+<li>Sheldon Jacobson (2011)</li>
+</ul>
+<h4 id="IIE_Outstanding_Publication_Award"><a href="http://www.iienet2.org/Details.aspx?id=662">IISE Outstanding Publication Award</a></h4>
+<p>The highest IISE honor for an outstanding original publication that has appeared in any IISE-sponsored or co-sponsored medium.</p>
+<ul>
+<li>Sheldon Jacobson (2009)</li>
+</ul>
+<h4 id="INFORMS_IMPACT_Prize"><a href="https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Impact-Prize">INFORMS IMPACT Prize</a></h4>
+<p>The Impact Prize, awarded once every two years, is intended to recognize widespread impact in the practice of operations research. The award may be given for the original research (if these ideas have been widely adopted), and/or for special efforts required to bring the research to a practical form (e.g., implementation as a software package or the communication of a body of research through writings, teaching, and consulting). The important criterion is breadth of use in practice and relevance to operations research.</p>
+<ul>
+<li>Sheldon Jacobson (2018)</li>
+</ul>
+<h4 id="saul_gass"><a href="https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Saul-Gass-Expository-Writing-Award">INFORMS Saul Gass Expository Writing Award</a></h4>
+<p>This award recognizes an author whose publications in operations research and management science have set an exemplary standard of exposition. The awardee's written work, published over a period of at least ten years, should indicate (in terms of breadth of readership) an influence and accessibility enhanced by expository excellence.</p>
+<ul>
+<li>Sheldon Jacobson (2020)</li>
+</ul>
+<h4 id="Marr_Prize"><a href="http://www.computer.org/portal/web/tcpami/ICCV-Best-Papers" aria-invalid="true">Marr Prize</a></h4>
+<p>The Marr Prize is a prestigious biennial award in computer vision given by the committee of the International Conference on Computer Vision. Named after David Marr, the Marr Prize is considered one of the top honors for a computer vision researcher.</p>
+<ul>
+<li>David Forsyth (1993)</li>
+</ul>
+<h4 id="HarroldNotkin"><a href="https://www.ncwit.org/project/ncwit-harrold-and-notkin-research-and-graduate-mentoring-award">NCWIT Harrold and Notkin Research and Graduate Mentoring Award</a></h4>
+<p>The NCWIT Harrold and Notkin Research and Graduate Mentoring Award is given in memory of Mary Jean Harrold and David Notkin, in honor of their outstanding research, graduate mentoring, and diversity contributions. The award recognizes faculty members from non-profit, U.S. institutions (excluding U.S. territories) who combine outstanding research accomplishments with excellence in graduate mentoring, as well as those who advocate for recruiting, encouraging, and promoting women and minorities in computing fields at both a local and national level.</p>
+<ul>
+<li>Nancy Amato (2014)</li>
+</ul>
+<h4 id="Phil_Kauman_Award"><a href="http://www.edac.org/initiatives/committees/Phil-Kaufman-award" aria-invalid="true">Phil Kaufman Award</a></h4>
+<p>Presented by the Electronic Design Automation Consortium and the IEEE Council on Electronic Design Automation, this award honors an individual who has had demonstrable impact on the field of electronic design through contributions in Electronic Design Automation.</p>
+<ul>
+<li>C.L. Dave Liu (2011)</li>
+</ul>
+<h4 id="rd100"><a href="http://www.rd100conference.com/awards/">R&amp;D 100 Award</a></h4>
+<p>The R&amp;D 100 Awards have a 50+ year history of recognizing excellence in innovation, earning the name: the &ldquo;Oscars of Invention&rdquo;.</p>
+<ul>
+<li>Paul Fischer (2016) with Misun Min for NekCEM/Nek5000</li>
+<li>William D. Gropp (2009) and collaborators for PETSc</li>
+<li>William D. Gropp (2005) and collaborators for MPICH2</li>
+</ul>
+<h4 id="#piloty"><a href="https://www.tu-darmstadt.de/robert-piloty-preis/robert_piloty_preis_1/index.en.jsp" target="_blank" rel="noopener" aria-invalid="true">Robert Piloty Prize</a></h4>
+<p>The Piloty Prize is conferred by the Technische Universit&auml;t Darmstadt in Germany to researchers who have demonstrated &ldquo;outstanding achievements and exceptional research and development work in the fields of computer science, electrical engineering, information technology, and mathematics.&rdquo;</p>
+<ul>
+<li>Klara Nahrstedt (2018)</li>
+</ul>
+<h4 id="SIAGSC_Career_Prize"><a href="http://www.siam.org/prizes/sponsored/sccareer.php">SIAM Activity Group on Supercomputing Career Prize</a></h4>
+<p>Established in 2009, the Prize is awarded to an outstanding senior researcher who has made broad and distinguished contributions to the field of algorithms research and development for parallel scientific and engineering computing.</p>
+<ul>
+<li>William D. Gropp (2014)</li>
+</ul>
+<h4 id="SIAMACM_Prize_in_Computational_Science_and_Engineering"><a href="http://www.siam.org/prizes/sponsored/cse.php">SIAM/ACM Prize in Computational Science and Engineering (CS&amp;E Prize)</a></h4>
+<p>Awarded by the Society for Industrial and Applied Mathematics (SIAM) and the Association for Computing Machinery (ACM) in the area of computational science, the Prize recognizes outstanding contributions to the development and use of mathematical and computational tools and methods for the solution of science and engineering problems.</p>
+<ul>
+<li>William D. Gropp (with PETSc Core Development Group) (2015)</li>
+</ul>
+</div>
+<hr />
+<h3>Fellows / Member Distinctions</h3>
+<div>
+<h4 id="aaaifellow"><a href="http://www.aaai.org/Awards/fellows.php">AAAI Fellow</a></h4>
+<p>The AAAI Fellows Program honors a small percentage of the AAAI membership. Fellows are recognized as having unusual distinction in the profession.</p>
+<ul>
+<li>Nancy Amato (2018)</li>
+<li>Dan Roth (2009)</li>
+<li>Gerald DeJong (1992)</li>
+</ul>
+<h4 id="ACMDistinguished"><a href="https://awards.acm.org/distinguished-members">ACM Distinguished Member</a></h4>
+<p>Recognizes those ACM members with at least 15 years of professional experience and 5 years of continuous Professional Membership who have achieved significant accomplishments or have made a significant impact on the computing field.</p>
+<ul>
+<li>Hanghang Tong (2020)</li>
+<li>Karrie Karahalios (2019)</li>
+<li>Hari Sundaram&nbsp;(2019)</li>
+<li>Brian Bailey (2018)</li>
+<li>Indy Gupta (2018)</li>
+<li>Lawrence Rauchwerger (2014)</li>
+<li>Nancy Amato (2012)</li>
+</ul>
+<h4 id="ACMFellow"><a href="http://awards.acm.org/fellow/">ACM Fellow</a></h4>
+<p>ACM's most prestigious member grade recognizes the top 1% of ACM members for their outstanding accomplishments in computing and information technology and/or outstanding service to ACM and the larger computing community.</p>
+<ul>
+<li>Jose Meseguer (2020)</li>
+<li>Tarek Abdelzaher (2019)</li>
+<li>Timothy M. Chan (2019)</li>
+<li>Gul Agha (2018)</li>
+<li>ChengXiang Zhai (2017)</li>
+<li>Laximkant "Sanjay" Kale (2017)</li>
+<li>Tandy Warnow (2015)</li>
+<li>Nancy Amato (2015)</li>
+<li>Vikram Adve (2014)</li>
+<li>David Forsyth (2013)</li>
+<li>Klara Nahrstedt (2012)</li>
+<li>Dan Roth (2011)</li>
+<li>Sarita Adve (2010)</li>
+<li>Josep Torrellas (2010)</li>
+<li>Rob Rutenbar (2008)</li>
+<li>David Padua (2007)</li>
+<li>William Gropp (2006)</li>
+<li>Marianne Winslett (2006)</li>
+<li>Lui Sha (2005)</li>
+<li>Daniel Reed (2003)</li>
+<li>Jiawei Han (2003)</li>
+<li>Michael Heath (2000)</li>
+<li>Marc Snir (1999)</li>
+<li>Edward Reingold (1996)</li>
+<li>Charles W. Gear (1994)</li>
+<li>David J. Kuck (1994)</li>
+<li>C.L. Dave Liu (1994)</li>
+</ul>
+<h4 id="ACMSeniorMember"><a href="http://awards.acm.org/fellow/">ACM&nbsp;</a><a href="https://awards.acm.org/senior-members">Senior Member</a></h4>
+<p>ACM members with at least 10 years of professional experience and 5 years of continuous Professional Membership who have demonstrated performance through technical leadership, and technical or professional contributions.</p>
+<ul>
+<li>Luke Olson (2019)</li>
+</ul>
+<h4 id="American_Academy_of_Arts_and_Sciences"><a href="https://www.amacad.org/">American Academy of Arts and Sciences</a></h4>
+<p>Academy members are world leaders in the arts and sciences, business, philanthropy, and public affairs. They are based across the United States and around the world. These elected members join with other experts to explore challenges facing society, identify solutions, and promote nonpartisan recommendations that advance the public good.</p>
+<ul>
+<li>Sarita Adve (2020)</li>
+<li>C.W. Gear (1996)</li>
+</ul>
+<h4 id="American_Association_for_the_Advancement_of_Science_Fellow"><a href="http://www.aaas.org/aboutaaas/fellows/">American Association for the Advancement of Science Fellow</a></h4>
+<p>AAAS Fellows have made significant contributions to the advancement of science or its applications or are scientifically or socially distinguished. Contributions to research; teaching; technology; services to professional societies; administration in academe, industry, and government; and communicating and interpreting science to the public are recognized.</p>
+<ul>
+<li>William D. Gropp (2018)</li>
+<li>Lawrence Rauchwerger (2018)</li>
+<li>Josep Torrellas (2016)</li>
+<li>Dan Roth (2014)</li>
+<li>Nancy Amato (2013)</li>
+<li>Paul Fischer (2012)</li>
+<li>Marc Snir (2006)</li>
+<li>David Kuck (1990)</li>
+</ul>
+<h4 id="American_Institute_of_Aeronautics_and_Astronautics_Associate_Fellow"><a href="https://www.aiaa.org/Secondary.aspx?id=16446" aria-invalid="true">American Institute of Aeronautics and Astronautics Associate Fellow</a></h4>
+<p>Associate Fellows are persons who have accomplished or been in charge of important engineering or scientific work, or who have done work of outstanding merit or have otherwise made outstanding contributions to the arts, sciences, or technology of aeronautics or astronautics.</p>
+<ul>
+<li>Michael T. Heath (2011)</li>
+</ul>
+<h4 id="AIMBE"><a href="https://aimbe.org/college-of-fellows/directory/" target="_blank" rel="noopener">American Institute for Medical and Biological Engineering (AIMBE)</a></h4>
+<p>Election to the AIMBE College of Fellows is among the highest professional distinctions accorded to a medical and biological engineer. The College of Fellows is comprised of the top two percent of medical and biological engineers. College membership honors those who have made outstanding contributions to "engineering and medicine research, practice, or education&rdquo; and to "the pioneering of new and developing fields of technology, making major advancements in traditional fields of medical and biological engineering, or developing/implementing innovative approaches to bioengineering education."</p>
+<ul>
+<li>Saurabh Sinha (2018)</li>
+</ul>
+<h4 id="Association_for_Computational_Linguistics_Fellow"><a href="http://aclweb.org/aclwiki/index.php?title=ACL_Fellows" aria-invalid="true">Association for Computational Linguistics Fellow</a></h4>
+<p>The Association for Computational Linguistics Fellows program recognizes ACL members whose contributions to the field have been most extraordinary.</p>
+<ul>
+<li>Dan Roth (2012)</li>
+</ul>
+<h4 id="Leopoldina"><a href="http://www.leopoldina.org" name="Leopoldina">Leopoldina National Academy of Sciences</a></h4>
+<p>Founded in 1652, the Leopoldina is one of the oldest academies of science in the world. It is dedicated to the advancement of science for the benefit of humankind and to the goal of shaping a better future. With some 1,500 members, the Leopoldina brings together outstanding scientists from Germany, Austria, Switzerland and many other countries.</p>
+<ul>
+<li>Klara Nahrstedt (2013)</li>
+</ul>
+<h4 id="IEEEFellow"><a href="http://www.ieee.org/membership_services/membership/fellows/index.html">IEEE Fellow</a></h4>
+<p>The IEEE Grade of Fellow is conferred upon a person with an extraordinary record of accomplishments in any of the IEEE fields of interest. The total number selected in any one year does not exceed one-tenth of one percent of the total voting Institute membership.</p>
+<ul>
+<li>Tarek Abdelzaher (2021)</li>
+<li>Svetlana Lazebnik (2021)</li>
+<li>Grigore Rosu (2021)</li>
+<li>Tao Xie (2018)</li>
+<li>Marco Caccamo (2018)</li>
+<li>Paris Smaragdis (2015)</li>
+<li>Lawrence Rauchwerger (2012)</li>
+<li>Sarita Adve (2012)</li>
+<li>Laxmikant ("Sanjay")&nbsp;Kale (2011)</li>
+<li>William Gropp (2010)</li>
+<li>Nancy Amato (2010)</li>
+<li>David Forsyth (2009)</li>
+<li>Jiawei Han (2009)</li>
+<li>Klara Nahrstedt (2008)</li>
+<li>Roy Campbell (2005)</li>
+<li>Josep Torrellas (2004)</li>
+<li>Gul Agha (2002)</li>
+<li>David Padua (2000)</li>
+<li>Rob Rutenbar&nbsp;(1998)</li>
+<li>Lui Sha (1998)</li>
+<li>Marc Snir (1996)</li>
+<li>Jane Liu (1995)</li>
+<li>David J. Kuck (1985)</li>
+<li>Charles W. Gear (1984)</li>
+<li>Duncan Lawrie (1984);</li>
+<li>W.J. Poppelbaum (1977)</li>
+<li>Daniel Slotnick (1977)</li>
+<li>James Snyder (1977)</li>
+</ul>
+<h4 id="IEEESeniorMember"><a href="https://www.ieee.org/membership/senior/">IEEE Senior Member</a></h4>
+<p>The IEEE Grade of Senior Member is&nbsp;the professional recognition for technical and professional excellence in the fields of Engineering, Computer sciences and information technology, Physical sciences, Biological and medical sciences, Mathematics, and Technical communications, education, management, law and policy.</p>
+<ul>
+<li>Hari Sundaram (2019)</li>
+<li>Indranil Gupta (2018)</li>
+<li>Chengxiang Zhai (2018)</li>
+<li>Svetlana Lazebnik (2016)</li>
+</ul>
+<h4 id="INFORMS_Fellow"><a href="https://www.informs.org/Recognize-Excellence/Fellows">INFORMS Fellow</a></h4>
+<p>INFORMS Fellows are examples of outstanding lifetime achievement in operations research and the management sciences. They have demonstrated exceptional accomplishments and made significant contributions to the advancement of OR/MS over a period of time.</p>
+<ul>
+<li>Sheldon Jacobson (2013)</li>
+</ul>
+<h4 id="Institute_of_Industrial_Engineers_Fellow"><a href="http://www.iienet2.org/Details.aspx?id=597">Institute of Industrial &amp; Systems Engineers Fellow</a></h4>
+<p>IISE Fellow recognizes outstanding leaders of the profession who have made significant, nationally recognized contributions to industrial engineering. A fellow is the highest classification of IISE membership.</p>
+<ul>
+<li>Sheldon Jacobson (2011)</li>
+</ul>
+<h4 id="ISCB_Fellow"><a href="https://www.iscb.org/cms_addon/fellow/iscb-fellows-program.php" target="_blank" rel="noopener">International Society for Computational Biology </a></h4>
+The ISCB Fellows Program honors members that have distinguished themselves through outstanding contributions to the fields of computational biology and bioinformatics.</div>
+<div>&nbsp;<br />
+<ul>
+<li>Tandy Warnow (2017)</li>
+</ul>
+<h4 id="National_Academy_of_Engineering_Member"><a href="http://www.nae.edu/MembersSection.aspx">National Academy of Engineering Member</a></h4>
+<p>Election to National Academy of Engineering membership is one of the highest professional honors accorded an engineer. Members have distinguished themselves in business and academic management, in technical positions, as university faculty, and as leaders in government and private engineering organizations.</p>
+<ul>
+<li>William D. Gropp (2010)</li>
+<li>Charles W. Gear (1992)</li>
+<li>David J. Kuck (1991)</li>
+</ul>
+<h4 id="SIAM_Fellow"><a href="http://www.siam.org/prizes/fellows/">SIAM Fellow</a></h4>
+<p>The Fellows program recognizes excellence in research, industrial work, educational activities that reach a broad audience, or other forms of excellence directly related to the goals of SIAM.</p>
+<ul>
+<li>Willam D. Gropp (2011)</li>
+<li>Michael T. Heath (2010)</li>
+</ul>
+<h4 id="SVBJ">SVBJ Bay Area CIO of the Year</h4>
+<p>The convergence of technology brings the IT organization to the forefront of significant business decisions and provides an enhanced platform for the CIO to influence transformation. In this environment, technology leaders must find innovative ways to pivot their business model, deliver a differentiated customer experience and harness data, all while transitioning to the cloud and ensuring it is secure. Each of the CIOs nominated understands the opportunities these complexities present and is helping their organizations become strong performers in their respective industries." - Gary Meltzer/PwC Bay Area, CIO Award Sponsor.</p>
+<ul>
+<li>Brighten Godfrey (2017)</li>
+</ul>
+</div>
+<hr />
+<h3>Early Career</h3>
+<div>
+<h4 id="ACM_SIGKDD_Doctoral_Dissertation_Award"><a href="http://www.kdd.org/blog/2014-doctoral-dissertation-award" aria-invalid="true">ACM SIGKDD Doctoral Dissertation Award</a></h4>
+<p>These awards recognize outstanding work done by graduate students in the areas of data science, machine learning and data mining.</p>
+<ul>
+<li>Aditya Parameswaran (Runner Up) (2014)</li>
+</ul>
+<h4 id="ACM_SIGMOD_Jim_Gray_Doctoral_Dissertation_Award"><a href="http://www.sigmod.org/sigmod-awards/sigmod-awards#dissertation">ACM SIGMOD Jim Gray Doctoral Dissertation Award</a></h4>
+<p>Inaugurated in 2006, this annual award recognizes excellent research by doctoral candidates in the database field. In 2008, SIGMOD, with the unanimous approval of ACM Council, decided to rename the award to honor Dr. Jim Gray.</p>
+<ul>
+<li>Aditya Parameswaran (2014)</li>
+</ul>
+<h4 id="ACM_SIGSAC_Doctoral_Dissertation">ACM SIGSAC Doctoral Dissertation Award</h4>
+<p>These awards recognize outstanding work done by graduate students in the areas of computer and information security.</p>
+<ul>
+<li>Adam Bates (Runner Up) (2018)</li>
+</ul>
+<h4 id="David_and_Lucile_Packard_Foundation_Fellowship"><a href="http://www.packard.org/what-we-fund/conservation-and-science/science/packard-fellowships-for-science-and-engineering/">David and Lucille Packard Foundation Fellowship</a></h4>
+<p>The Packard Fellowships for Science and Engineering provides the nation&rsquo;s most promising early-career scientists and engineers with flexible funding and the freedom to take risks and explore new frontiers in their fields of study. Packard Fellows must be faculty members who are eligible to serve as principal investigators engaged in research in physics, chemistry, mathematics, biology, astronomy, computer science, earth science, ocean science, and all branches of engineering.</p>
+<ul>
+<li>Tandy Warnow (1996)</li>
+</ul>
+<h4 id="Householder"><a href="http://www.math.vt.edu/HHXX/before.html#section-prize" aria-invalid="true">Householder Prize</a></h4>
+<p>The Householder Prize, honoring influential mathematician Alston Householder,&nbsp;is presented every three years at the conference and recognizes the best dissertation in numerical linear algebra.</p>
+<ul>
+<li>Edgar Solomonik (2017)</li>
+</ul>
+<h4 id="TCHPC"><a href="https://tc.computer.org/tchpc/home-page/page-of-awards/" target="_blank" rel="noopener">IEEE Computer Society Technical Consortium on High Performance Computing (TCHPC) Early Career Researchers Award for Excellence in High Performance Computing</a></h4>
+<p>This award recognizes up to 3 individuals who have made outstanding, influential, and potentially long-lasting contributions in the field of high-performance computing within 5 years of receiving their PhD degree as of January 01 of the year of the award.</p>
+<ul>
+<li>Edgar Solomonik (2018)</li>
+</ul>
+<h4 id="tao_li_award">IEEE ICDM Tao Li Award</h4>
+<p>The Tao Li Award, presented at the IEEE International Conference on Data Mining (ICDM)&nbsp;recognizes excellent early career researchers in the areas of data mining, machine learning, and artificial intelligence who have demonstrated significant impact through research contributions, leadership, and service.</p>
+<ul>
+<li>Hanghang Tong (2019)</li>
+</ul>
+<h4 id="IEEE_Education_Society_Mac_Van_Valenburg_Early_Career_Teaching_Award"><a href="http://www.ewh.ieee.org/soc/es/info-vanv.html">IEEE Education Society Mac Van Valkenburg Early Career Teaching Award</a></h4>
+<p><a href="http://www.ewh.ieee.org/soc/es/vanv-bio.html">Named for a Dean of the College of Engineering at the University of Illinois</a>, this award recognizes members of the IEEE Education Society who have made outstanding contributions to teaching unusually early in their professional careers, as evidenced by teaching performance, development of new teaching methods, and curricular innovation.&nbsp;&nbsp;</p>
+<ul>
+<li>Geoffrey Herman (2020)</li>
+<li>Craig Zilles (2010)</li>
+</ul>
+<h4 id="Intel_Early_Career_Faculty_Honor_Program"><a href="https://www.intel-university-collaboration.net/ai1ec_event/early-career-faculty-awards?instance_id=" aria-invalid="true">Intel Early Career Faculty Honor Program</a></h4>
+<p>This awards program was created to help Intel connect with the best and brightest early career faculty members at the top universities around the world.&nbsp; The award is a cash gift from $35k to $40k that is to be used by the awardee to support their academic research.</p>
+<ul>
+<li>Derek Hoiem (2012)</li>
+</ul>
+<h4 id="Overton"><a href="https://www.iscb.org/iscb-awards/overton-prize" target="_blank" rel="noopener">International Society for Computational Biology (ISCB) Overton Prize</a></h4>
+<p>This annual prize is awarded for outstanding accomplishment to a scientist in the early to mid-career stage (up to a decade post-degree), who has already made a significant contribution to the field of computational biology.</p>
+<ul>
+<li>Jian Peng (2020)</li>
+</ul>
+<h4 id="Microsoft_Research_Faculty_Fellowship"><a href="http://research.microsoft.com/en-us/collaboration/awards/msrff.aspx">Microsoft Research Faculty Fellowship</a></h4>
+<p>Each year since 2005, Microsoft Research has recognized innovative, promising new faculty members from a number of research institutions to join the ranks of Microsoft Research Faculty Fellows. The selected professors are exploring breakthrough, high-impact research that has the potential to help solve some of today&rsquo;s most challenging societal problems.</p>
+<ul>
+<li>Svetlana Lazebnik (2009)</li>
+</ul>
+<h4 id="National_Science_Foundation_Faculty_Early_Career_Development_Award"><a href="http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503214">National Science Foundation Faculty Early Career Development Award</a></h4>
+<p>The Faculty Early Career Development Program is a Foundation-wide activity that offers the National Science Foundation's most prestigious awards in support of junior faculty who exemplify the role of teacher-scholars through outstanding research, excellent education and the integration of education and research within the context of the mission of their organizations.</p>
+<ul>
+<li>Mohammed El-Kebir (2021)</li>
+<li>Michael A. Forbes (2021)</li>
+<li>Sanmi Koyejo (2021)</li>
+<li>Bo Li (2021)</li>
+<li>Christopher Fletcher (2020)</li>
+<li>Edgar Solomonik (2020)</li>
+<li>Sasa Misailovic (2019)</li>
+<li>Gang Wang (2018)</li>
+<li>Matus Telgarsky (2018)</li>
+<li>Ruta Mehta (2018)</li>
+<li>Ranjitha Kumar (2018)</li>
+<li>Adam Bates (2018)</li>
+<li>Hanghang Tong (2017)</li>
+<li>Andreas Kloeckner (2017)</li>
+<li>Aditya Parameswaran (2017)</li>
+<li>Jian Peng (2017)</li>
+<li>Alexandra Kolla (2015)</li>
+<li>Paris Smaragdis (2015)</li>
+<li>Kris Hauser (2013)</li>
+<li>P. Brighten Godfrey (2012)</li>
+<li>Matthew Caesar (2011)</li>
+<li>Julia Hockenmaier (2011)</li>
+<li>Derek Hoiem (2011)</li>
+<li>Arindam Banerjee (2010)</li>
+<li>Sam King (2010)</li>
+<li>Heng Ji (2009)</li>
+<li>Tao Xie (2009)</li>
+<li>Darko Marinov (2008)</li>
+<li>Luke Olson (2008)</li>
+<li>Madhusudan Parthasarathy (2008)</li>
+<li>Manoj Prabhakaran (2008)</li>
+<li>Saurabh Sinha (2008)</li>
+<li>Brian Bailey (2007)</li>
+<li>Anil Hirani (2007)</li>
+<li>Karrie Karahalios (2007)</li>
+<li>Eyal Amir (2006)</li>
+<li>Indranil Gupta (2005)</li>
+<li>Grigore Rosu (2005)</li>
+<li>Mahesh Viswanathan (2005)</li>
+<li>Anhai Doan (2004)</li>
+<li>Robin Kravets (2004)</li>
+<li>ChengXiang Zhai (2004)</li>
+<li>Yuanyuan Zhou (2004)</li>
+<li>Craig Zilles (2004)</li>
+<li>Marco Caccamo (2003)</li>
+<li>Kevin Chang (2002)</li>
+<li>Sariel Har-Peled (2002)</li>
+<li>Yizhou Yu (2002)</li>
+<li>Vikram Adve (2001)</li>
+<li>Jeff Erickson (2001)</li>
+<li>Dan Roth (2000)</li>
+<li>Sharad Mehrotra (1998)</li>
+<li>Lawrence Rauchwerger (1998)</li>
+<li>Shang-Hua Teng (1998)</li>
+<li>Nancy Amato (1996)</li>
+<li>Klara Nahrstedt (1996)</li>
+<li>Sarita Adve (1995)</li>
+<li>Rajesh Gupta (1995)</li>
+</ul>
+<h4 id="ONR_Young_Investigator_Award"><a href="http://www.onr.navy.mil/science-technology/directorates/office-research-discovery-invention/sponsored-research/yip.aspx" aria-invalid="true">ONR Young Investigator Award</a></h4>
+<p>The Office of Naval Research's Young Investigator Program seeks to attract early career faculty members to the Department of Navy's research programs, to support their research, and to encourage their teaching and research careers.</p>
+<ul>
+<li>Laxmikant ("Sanjay") Kale (1990)</li>
+<li>Gul Agha (1989)</li>
+</ul>
+<h4 id="pami"><a href="http://www.computer.org/portal/web/tcpami/PAMI-Young-Researcher-Award" aria-invalid="true">Pattern Analysis and Machine Intelligence (PAMI) Young Researcher Award</a></h4>
+<p>Given by the Technical Committee on Pattern Analysis and Machine Intelligence (TCPAMI) of the IEEE Computer Society at the CVPR, this award recognizes a researcher within 7 years of completing their Ph.D. for outstanding early career research contributions.</p>
+<ul>
+<li>Derek Hoiem (2014)</li>
+</ul>
+<h4 id="SIAM_SIAG/SC_Early_Career_Prize"><a href="https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-sc-early-career-prize#About-the-Award">SIAM Activity Group on Supercomputing Early Career Prize</a></h4>
+<p>The SIAM Activity Group on Supercomputing Early Career Prize (SIAG/SC Early Career Prize) is awarded every two years to one individual in their early career for outstanding research contributions in the field of algorithms research and development for parallel scientific and engineering computing in the three calendar years prior to the award year.</p>
+<ul>
+<li>Edgar Solomonik (2020)</li>
+</ul>
+<h4 id="Sloan_Research_Fellowship"><a href="http://www.sloan.org/sloan-research-fellowships/">Sloan Research Fellowship</a></h4>
+<p>The Sloan Research Fellowships seek to stimulate fundamental research by early-career scientists and scholars of outstanding promise. &nbsp;These two-year fellowships are awarded yearly to 126 researchers in recognition of distinguished performance and a unique potential to make substantial contributions to their field.</p>
+<ul>
+<li>Sanmi Koyejo (2021)</li>
+<li>Jian Peng (2016)</li>
+<li>P. Brighten Godfrey (2014)</li>
+<li>Svetlana Lazebnik (2013)</li>
+<li>Derek Hoiem (2013)</li>
+<li>Karrie Karahalios (2010)</li>
+<li>ChengXiang Zhai (2008)</li>
+<li>Yuanyuan Zhou (2007)</li>
+<li>Jeff Erickson (1999)</li>
+<li>Sarita Adve (1998)</li>
+</ul>
+</div>
+<hr />
+<h3>Service</h3>
+<div>
+<h4 id="ACM_SIGKDD_Service_Award"><a href="http://kdd2012.sigkdd.org/sigkdd-awards.shtml">ACM SIGKDD Service Award</a></h4>
+<p>The Service Award recognizes one individual or one group for their outstanding professional services contributions to the field of knowledge discovery and data mining.</p>
+<ul>
+<li>Jiawei Han (1999)</li>
+</ul>
+<h4 id="ACM_SIGMOD_Contributions_Award"><a href="http://www.sigmod.org/sigmod-awards/award-people/2012-contributions-Marianne_Winslett" aria-invalid="true">ACM SIGMOD Contributions Award</a></h4>
+<p>Recognizes significant contributions to the field of database systems through research funding, education, and professional services.</p>
+<ul>
+<li>Marianne Winslett (2012)</li>
+</ul>
+<h4 id="CRA_Distinguished_Service"><a href="https://cra.org/about/awards/distinguished-service-award/" target="_blank" rel="noopener">CRA Distinguished Service Award</a></h4>
+<p>Awarded to a person or organization that has made an outstanding service contribution to the computing research community. This award recognizes service in the areas of government affairs, professional societies, publications or conferences, and leadership that has a major impact on computing research.</p>
+<ul>
+<li>CARES Movement - Sarita Adve (2020)</li>
+</ul>
+<h4 id="HPC_Community_Leadership_Award"><a href="http://insidehpc.com/2009/11/16/inaugural-hpc-community-leadership-award-winners/">HPC Community Leadership Award</a></h4>
+<p>The award recognizes the people and organizations who have persevered through technology, budget or organizational challenges to place innovative HPC solutions in the hands of users in business, engineering, technology, and science.</p>
+<ul>
+<li>William D. Gropp (2009)</li>
+</ul>
+<h4 id="RASLeadership"><a href="https://www.ieee-ras.org/awards-recognition/society-awards/69-awards-recognition/society-awards/56-ieee-ras-george-saridis-leadership-award-in-robotics-and-automation">IEEE RAS George Saridis Leadership Award in Robotics and Automation</a></h4>
+<p>This award recognizes outstanding contributions of an individual for his/her exceptional leadership, and dedication that benefit the IEEE Robotics and Automation Society. The award is named in honor of Professor George Saridis, the Founding President of the IEEE Robotics and Automation Council, which later became the IEEE Robotics and Automation Society, who exemplified the characteristics sought in nominees for this award.&nbsp;</p>
+<ul>
+<li>Nancy Amato (2019)</li>
+</ul>
+<h4 id="kimball_medal"><a href="https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/George-E.-Kimball-Medal" target="_blank" rel="noopener">INFORMS George E. Kimball Medal</a></h4>
+<p>The George E. Kimball Medal is awarded for recognition of distinguished service to the Institute and to the profession of operations research and the management sciences. The award is a medallion and a certificate.</p>
+<ul>
+<li>Sheldon Jacobson (2020)</li>
+</ul>
+<h4 id="Operations_Research_Meritorious_Service_Award"><a href="https://www.informs.org/Pubs/OR/Meritorious-Service-Award">Operations Research Meritorious Service Award</a></h4>
+<p>Every year, the <em>Operations Research</em> Editorial Board recognizes the hard work that members of the scholarly community perform to support the journal and the profession.</p>
+<ul>
+<li>Sheldon Jacobson (2003)</li>
+</ul>
+</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+						</div>
+					</div>
+				</main>
+			</div>
+
+			<footer>
+							<div class="container-fluid maxwidth1140">
+				<div class="row pt-5 pb-3">
+					<div class="col-lg-5 mb-5">
+						<div class="campus_wordmark"><a href="http://illinois.edu/"><img src="https://ws.engr.illinois.edu/images/uiuc-footer-wordmark.png" alt="University of Illinois Urbana Champaign"></a></div>
+					</div>
+
+					<div class="col-lg-7 mb-4 socials">
+						<a href="https://www.facebook.com/CSatIllinois/"><i class="fab fa-facebook-f"></i><span class="sr-only">Facebook</span></a>
+						<a href="https://twitter.com/IllinoisCS"><i class="fab fa-twitter"></i><span class="sr-only">Twitter</span></a>
+						<a href="https://www.youtube.com/user/IllinoisCS"><i class="fab fa-youtube"></i><span class="sr-only">YouTube</span></a>
+						<a href="https://www.linkedin.com/school/illinoiscs"><i class="fab fa-linkedin-in"></i><span class="sr-only">LinkedIn</span></a>
+						<a href="https://www.instagram.com/illinoiscs/"><i class="fab fa-instagram"></i><span class="sr-only">Instagram</span></a>
+						<div class="w-100 d-block d-lg-none"></div>
+						<a href="/about/contact-us" class="button">Contact Us</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="container-fluid maxwidth1140">
+				<div class="row pb-5 justify-content-between">
+					<div class="col-md pr-xl-5 mb-5 college_container">
+
+						<div class="contact">
+							<p><span class="fs150x"><a href="https://cs.illinois.edu">Thomas M. Siebel Center for Computer Science</a></span><br />
+                                                       201 North Goodwin Avenue MC 258<br />
+                                                        Urbana, IL 61801-2302<br />
+                                                         ph: 217-333-3426 (general) | 217-333-4428 (advising) <br />
+                                                         fax: 217-333-3501</p>
+                                                        <p> General email: <a href="mailto:admin@cs.illinois.edu">admin@cs.illinois.edu</a><br />
+                                                         Graduate Advising: <a href="mailto:academic@cs.illinois.edu">academic@cs.illinois.edu</a><br />
+                                                         Undergraduate Advising: <a href="mailto:undergrad@cs.illinois.edu">undergrad@cs.illinois.edu</a><br />
+                                                          Webmaster: <a href="mailto:grainger-marcom@illinois.edu?subject=CS Request">grainger-marcom@illinois.edu</a></p>
+							<p><a href="https://grainger.illinois.edu">The Grainger College of Engineering</a><br />
+							<a href="https://illinois.edu">University of Illinois</a></p>
+
+						</div>
+					</div>
+
+
+					<div class="col-md pr-xl-5 my-5 concentrations">
+                                 	
+					</div>
+				</div>
+			</div>
+
+				<div class="container-fluid" id="legal">
+					<div class="row justify-content-md-center align-items-center py-4">
+
+						<div class="col-md-auto">
+							<div><button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Preferences</button></div>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Copyright &copy; 2021 University of Illinois Board of Trustees</p>
+						</div>
+
+						<div class="col-md-auto">
+							<p><a href="https://grainger.illinois.edu/cookie-policy">Cookie Policy</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy</a></p>
+						</div>
+
+						<div class="col-md-auto">
+							<p>Powered by <a href="https://my.engr.illinois.edu/sitemanager/editpage.asp?id=5660">SiteManager</a> | <a href="mailto:grainger-marcom@illinois.edu">Contact Webmaster</a></p>
+						</div>
+					</div>
+				</div>
+
+				<div id="gototop" class="hidden">
+					<a href="#"><i class="fa fa-chevron-up"></i><span class="sr-only">Go to top</span></a>
+				</div>
+			</footer>
+		</div>
+
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+		<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.12.4/jarallax-video.min.js"></script>
+		<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+		<script src="https://cdn.datatables.net/responsive/2.2.5/js/dataTables.responsive.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.0/circle-progress.min.js'></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/twbs-pagination/1.4.2/jquery.twbsPagination.min.js'></script>
+		<script src="https://ws.engr.illinois.edu/sitemanager/genscripts.js?v=2.660.676"></script>
+		<script src="/js/scripts.js?v=0.27"></script>
+
+		<script async="async" src="https://enroll.illinois.edu/ping"></script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-9571262-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-9571262-1');
+</script>
+
+		
+	</body>
+</html>
+
+
